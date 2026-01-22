@@ -12,6 +12,7 @@ import Learn from "./pages/Learn";
 import ChapterDetail from "./pages/ChapterDetail";
 import LessonView from "./pages/LessonView";
 import Practice from "./pages/Practice";
+import FlashcardView from "./pages/FlashcardView";
 import Chat from "./pages/Chat";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
@@ -34,6 +35,7 @@ const App = () => (
             <Route path="/chapter/:chapterId" element={<ChapterDetail />} />
             <Route path="/lesson/:lessonId" element={<LessonView />} />
             <Route path="/practice" element={<Practice />} />
+            <Route path="/flashcard" element={<FlashcardView />} />
             <Route path="/chat" element={<Chat />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="*" element={<NotFound />} />

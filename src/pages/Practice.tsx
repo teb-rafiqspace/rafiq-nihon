@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
@@ -7,10 +8,10 @@ import { Layers, Target, FileText, ChevronRight, Play, Flame } from 'lucide-reac
 type PracticeTab = 'flashcard' | 'quiz' | 'test';
 
 const flashcardDecks = [
-  { id: 1, name: 'Angka 1-100', count: 100, icon: '🔢', progress: 45 },
-  { id: 2, name: 'Salam & Sapaan', count: 20, icon: '👋', progress: 80 },
-  { id: 3, name: 'Kata Kerja Dasar', count: 50, icon: '🏃', progress: 10 },
-  { id: 4, name: 'Hiragana', count: 46, icon: 'あ', progress: 0 },
+  { id: 'review-today', name: 'Review Hari Ini', count: 15, icon: '📚', progress: 0 },
+  { id: 'im-japan-1', name: 'IM Japan Bab 1', count: 7, icon: '🏭', progress: 45 },
+  { id: 'all-vocab', name: 'Semua Kosakata', count: 15, icon: '🔢', progress: 80 },
+  { id: 'hiragana', name: 'Hiragana', count: 46, icon: 'あ', progress: 0 },
 ];
 
 const quizzes = [
@@ -25,6 +26,7 @@ const mockTests = [
 ];
 
 export default function Practice() {
+  const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState<PracticeTab>('flashcard');
   
   return (
@@ -95,6 +97,7 @@ export default function Practice() {
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: index * 0.1 }}
+                  onClick={() => navigate('/flashcard')}
                   className="w-full bg-card rounded-xl p-4 text-left shadow-card hover:shadow-elevated transition-all border border-border"
                 >
                   <div className="flex items-center gap-4">
