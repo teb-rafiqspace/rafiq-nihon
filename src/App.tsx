@@ -13,6 +13,7 @@ import ChapterDetail from "./pages/ChapterDetail";
 import LessonView from "./pages/LessonView";
 import Practice from "./pages/Practice";
 import FlashcardView from "./pages/FlashcardView";
+import MockTestView from "./pages/MockTestView";
 import Chat from "./pages/Chat";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
@@ -36,6 +37,7 @@ const App = () => (
             <Route path="/lesson/:lessonId" element={<LessonView />} />
             <Route path="/practice" element={<Practice />} />
             <Route path="/flashcard" element={<FlashcardView />} />
+            <Route path="/mock-test" element={<MockTestView />} />
             <Route path="/chat" element={<Chat />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="*" element={<NotFound />} />
