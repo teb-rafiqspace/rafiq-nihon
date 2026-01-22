@@ -94,7 +94,7 @@ export default function Learn() {
               ) : (
                 chapters?.map((chapter, index) => {
                   const isLocked = !chapter.is_free && index > 0;
-                  const progress = index === 0 ? 25 : 0;
+                  const progress: number = index === 0 ? 25 : 0;
                   
                   return (
                     <motion.button
