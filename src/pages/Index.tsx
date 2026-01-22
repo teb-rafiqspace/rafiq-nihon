@@ -105,7 +105,7 @@ export default function Index() {
             <img 
               src={poweredByLogo} 
               alt="Powered by" 
-              className="h-8 object-contain"
+              className="h-12 object-contain"
             />
           </motion.div>
         </div>
