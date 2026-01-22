@@ -710,6 +710,228 @@ export type Database = {
           },
         ]
       }
+      test_institutions: {
+        Row: {
+          address: string | null
+          city: string | null
+          country: string | null
+          created_at: string | null
+          description: string | null
+          email: string | null
+          id: string
+          institution_type: string
+          is_jft_basic: boolean | null
+          is_jlpt_official: boolean | null
+          is_nat_test: boolean | null
+          latitude: number | null
+          logo_url: string | null
+          longitude: number | null
+          name_en: string | null
+          name_id: string
+          name_ja: string
+          phone: string | null
+          province: string | null
+          website_url: string | null
+        }
+        Insert: {
+          address?: string | null
+          city?: string | null
+          country?: string | null
+          created_at?: string | null
+          description?: string | null
+          email?: string | null
+          id: string
+          institution_type: string
+          is_jft_basic?: boolean | null
+          is_jlpt_official?: boolean | null
+          is_nat_test?: boolean | null
+          latitude?: number | null
+          logo_url?: string | null
+          longitude?: number | null
+          name_en?: string | null
+          name_id: string
+          name_ja: string
+          phone?: string | null
+          province?: string | null
+          website_url?: string | null
+        }
+        Update: {
+          address?: string | null
+          city?: string | null
+          country?: string | null
+          created_at?: string | null
+          description?: string | null
+          email?: string | null
+          id?: string
+          institution_type?: string
+          is_jft_basic?: boolean | null
+          is_jlpt_official?: boolean | null
+          is_nat_test?: boolean | null
+          latitude?: number | null
+          logo_url?: string | null
+          longitude?: number | null
+          name_en?: string | null
+          name_id?: string
+          name_ja?: string
+          phone?: string | null
+          province?: string | null
+          website_url?: string | null
+        }
+        Relationships: []
+      }
+      test_schedules: {
+        Row: {
+          allow_in_app_registration: boolean | null
+          announcement_date: string | null
+          capacity_per_level: Json | null
+          created_at: string | null
+          current_registrations: Json | null
+          external_registration_url: string | null
+          fee_amount: number | null
+          fee_currency: string | null
+          id: string
+          institution_id: string | null
+          levels_available: string[] | null
+          notes: string | null
+          payment_deadline: string | null
+          payment_methods: string[] | null
+          registration_end: string
+          registration_start: string
+          requirements: string[] | null
+          status: string | null
+          test_date: string
+          test_name: string
+          test_time_end: string | null
+          test_time_start: string | null
+          test_type_id: string | null
+          updated_at: string | null
+          venue_address: string | null
+          venue_city: string | null
+          venue_name: string | null
+        }
+        Insert: {
+          allow_in_app_registration?: boolean | null
+          announcement_date?: string | null
+          capacity_per_level?: Json | null
+          created_at?: string | null
+          current_registrations?: Json | null
+          external_registration_url?: string | null
+          fee_amount?: number | null
+          fee_currency?: string | null
+          id: string
+          institution_id?: string | null
+          levels_available?: string[] | null
+          notes?: string | null
+          payment_deadline?: string | null
+          payment_methods?: string[] | null
+          registration_end: string
+          registration_start: string
+          requirements?: string[] | null
+          status?: string | null
+          test_date: string
+          test_name: string
+          test_time_end?: string | null
+          test_time_start?: string | null
+          test_type_id?: string | null
+          updated_at?: string | null
+          venue_address?: string | null
+          venue_city?: string | null
+          venue_name?: string | null
+        }
+        Update: {
+          allow_in_app_registration?: boolean | null
+          announcement_date?: string | null
+          capacity_per_level?: Json | null
+          created_at?: string | null
+          current_registrations?: Json | null
+          external_registration_url?: string | null
+          fee_amount?: number | null
+          fee_currency?: string | null
+          id?: string
+          institution_id?: string | null
+          levels_available?: string[] | null
+          notes?: string | null
+          payment_deadline?: string | null
+          payment_methods?: string[] | null
+          registration_end?: string
+          registration_start?: string
+          requirements?: string[] | null
+          status?: string | null
+          test_date?: string
+          test_name?: string
+          test_time_end?: string | null
+          test_time_start?: string | null
+          test_type_id?: string | null
+          updated_at?: string | null
+          venue_address?: string | null
+          venue_city?: string | null
+          venue_name?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "test_schedules_institution_id_fkey"
+            columns: ["institution_id"]
+            isOneToOne: false
+            referencedRelation: "test_institutions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "test_schedules_test_type_id_fkey"
+            columns: ["test_type_id"]
+            isOneToOne: false
+            referencedRelation: "test_types"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      test_types: {
+        Row: {
+          color: string | null
+          description: string | null
+          icon_name: string | null
+          id: string
+          levels: string[] | null
+          name_en: string | null
+          name_id: string
+          name_ja: string
+          official_website: string | null
+          passing_criteria: Json | null
+          recognition: string | null
+          test_sections: Json | null
+          validity_years: number | null
+        }
+        Insert: {
+          color?: string | null
+          description?: string | null
+          icon_name?: string | null
+          id: string
+          levels?: string[] | null
+          name_en?: string | null
+          name_id: string
+          name_ja: string
+          official_website?: string | null
+          passing_criteria?: Json | null
+          recognition?: string | null
+          test_sections?: Json | null
+          validity_years?: number | null
+        }
+        Update: {
+          color?: string | null
+          description?: string | null
+          icon_name?: string | null
+          id?: string
+          levels?: string[] | null
+          name_en?: string | null
+          name_id?: string
+          name_ja?: string
+          official_website?: string | null
+          passing_criteria?: Json | null
+          recognition?: string | null
+          test_sections?: Json | null
+          validity_years?: number | null
+        }
+        Relationships: []
+      }
       time_vocabulary: {
         Row: {
           created_at: string
@@ -1012,6 +1234,229 @@ export type Database = {
             columns: ["lesson_id"]
             isOneToOne: false
             referencedRelation: "lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_saved_tests: {
+        Row: {
+          created_at: string | null
+          id: string
+          notes: string | null
+          reminder_date: string | null
+          reminder_set: boolean | null
+          schedule_id: string | null
+          user_id: string
+        }
+        Insert: {
+          created_at?: string | null
+          id?: string
+          notes?: string | null
+          reminder_date?: string | null
+          reminder_set?: boolean | null
+          schedule_id?: string | null
+          user_id: string
+        }
+        Update: {
+          created_at?: string | null
+          id?: string
+          notes?: string | null
+          reminder_date?: string | null
+          reminder_set?: boolean | null
+          schedule_id?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_saved_tests_schedule_id_fkey"
+            columns: ["schedule_id"]
+            isOneToOne: false
+            referencedRelation: "test_schedules"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_test_registrations: {
+        Row: {
+          address: string | null
+          birth_date: string | null
+          city: string | null
+          confirmed_at: string | null
+          created_at: string | null
+          email: string
+          emergency_contact_name: string | null
+          emergency_contact_phone: string | null
+          exam_number: string | null
+          exam_room: string | null
+          full_name: string
+          full_name_katakana: string | null
+          gender: string | null
+          id: string
+          id_card_number: string | null
+          id_document_url: string | null
+          nationality: string | null
+          passport_number: string | null
+          payment_amount: number | null
+          payment_date: string | null
+          payment_method: string | null
+          payment_proof_url: string | null
+          payment_status: string | null
+          phone: string
+          photo_url: string | null
+          postal_code: string | null
+          registration_status: string | null
+          schedule_id: string | null
+          seat_number: string | null
+          submitted_at: string | null
+          test_level: string
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          address?: string | null
+          birth_date?: string | null
+          city?: string | null
+          confirmed_at?: string | null
+          created_at?: string | null
+          email: string
+          emergency_contact_name?: string | null
+          emergency_contact_phone?: string | null
+          exam_number?: string | null
+          exam_room?: string | null
+          full_name: string
+          full_name_katakana?: string | null
+          gender?: string | null
+          id?: string
+          id_card_number?: string | null
+          id_document_url?: string | null
+          nationality?: string | null
+          passport_number?: string | null
+          payment_amount?: number | null
+          payment_date?: string | null
+          payment_method?: string | null
+          payment_proof_url?: string | null
+          payment_status?: string | null
+          phone: string
+          photo_url?: string | null
+          postal_code?: string | null
+          registration_status?: string | null
+          schedule_id?: string | null
+          seat_number?: string | null
+          submitted_at?: string | null
+          test_level: string
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          address?: string | null
+          birth_date?: string | null
+          city?: string | null
+          confirmed_at?: string | null
+          created_at?: string | null
+          email?: string
+          emergency_contact_name?: string | null
+          emergency_contact_phone?: string | null
+          exam_number?: string | null
+          exam_room?: string | null
+          full_name?: string
+          full_name_katakana?: string | null
+          gender?: string | null
+          id?: string
+          id_card_number?: string | null
+          id_document_url?: string | null
+          nationality?: string | null
+          passport_number?: string | null
+          payment_amount?: number | null
+          payment_date?: string | null
+          payment_method?: string | null
+          payment_proof_url?: string | null
+          payment_status?: string | null
+          phone?: string
+          photo_url?: string | null
+          postal_code?: string | null
+          registration_status?: string | null
+          schedule_id?: string | null
+          seat_number?: string | null
+          submitted_at?: string | null
+          test_level?: string
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_test_registrations_schedule_id_fkey"
+            columns: ["schedule_id"]
+            isOneToOne: false
+            referencedRelation: "test_schedules"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_test_results: {
+        Row: {
+          certificate_expiry_date: string | null
+          certificate_issued_date: string | null
+          certificate_number: string | null
+          certificate_url: string | null
+          created_at: string | null
+          id: string
+          is_passed: boolean | null
+          passing_score: number | null
+          registration_id: string | null
+          section_scores: Json | null
+          test_date: string
+          test_level: string
+          test_type_id: string | null
+          total_score: number | null
+          user_id: string
+        }
+        Insert: {
+          certificate_expiry_date?: string | null
+          certificate_issued_date?: string | null
+          certificate_number?: string | null
+          certificate_url?: string | null
+          created_at?: string | null
+          id?: string
+          is_passed?: boolean | null
+          passing_score?: number | null
+          registration_id?: string | null
+          section_scores?: Json | null
+          test_date: string
+          test_level: string
+          test_type_id?: string | null
+          total_score?: number | null
+          user_id: string
+        }
+        Update: {
+          certificate_expiry_date?: string | null
+          certificate_issued_date?: string | null
+          certificate_number?: string | null
+          certificate_url?: string | null
+          created_at?: string | null
+          id?: string
+          is_passed?: boolean | null
+          passing_score?: number | null
+          registration_id?: string | null
+          section_scores?: Json | null
+          test_date?: string
+          test_level?: string
+          test_type_id?: string | null
+          total_score?: number | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_test_results_registration_id_fkey"
+            columns: ["registration_id"]
+            isOneToOne: false
+            referencedRelation: "user_test_registrations"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_test_results_test_type_id_fkey"
+            columns: ["test_type_id"]
+            isOneToOne: false
+            referencedRelation: "test_types"
             referencedColumns: ["id"]
           },
         ]
