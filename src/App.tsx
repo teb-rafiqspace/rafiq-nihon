@@ -18,6 +18,7 @@ import KanaLearn from "./pages/KanaLearn";
 import Practice from "./pages/Practice";
 import FlashcardView from "./pages/FlashcardView";
 import MockTestView from "./pages/MockTestView";
+import ExamView from "./pages/ExamView";
 import Chat from "./pages/Chat";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
@@ -46,6 +47,7 @@ const App = () => (
             <Route path="/practice" element={<Practice />} />
             <Route path="/flashcard" element={<FlashcardView />} />
             <Route path="/mock-test" element={<MockTestView />} />
+            <Route path="/exam" element={<ExamView />} />
             <Route path="/chat" element={<Chat />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="*" element={<NotFound />} />
