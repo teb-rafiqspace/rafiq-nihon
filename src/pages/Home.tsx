@@ -5,15 +5,17 @@ import { Button } from '@/components/ui/button';
 import { useProfile } from '@/hooks/useProfile';
 import { useAuth } from '@/lib/auth';
 import { LeaderboardCard } from '@/components/home/LeaderboardCard';
+import { supabase } from '@/integrations/supabase/client';
+import { useQuery } from '@tanstack/react-query';
 import { 
   Flame, 
   Zap, 
   Star, 
   Layers, 
-  Bot, 
   ChevronRight,
   Trophy,
-  Target
+  Target,
+  FileText
 } from 'lucide-react';
 
 function getGreeting() {
@@ -30,6 +32,46 @@ export default function Home() {
   const { user } = useAuth();
   
   const firstName = profile?.full_name?.split(' ')[0] || user?.email?.split('@')[0] || 'Pelajar';
+
+  // Fetch track progress
+  const { data: trackProgress } = useQuery({
+    queryKey: ['track-progress', user?.id],
+    queryFn: async () => {
+      if (!user?.id) return { kemnaker: 0, jlpt: 0 };
+      
+      // Get all chapters with their lesson counts
+      const { data: chapters } = await supabase
+        .from('chapters')
+        .select('id, track, lesson_count');
+      
+      // Get user's completed lessons
+      const { data: progress } = await supabase
+        .from('user_progress')
+        .select('lesson_id, completed, chapter_id')
+        .eq('user_id', user.id)
+        .eq('completed', true);
+      
+      if (!chapters) return { kemnaker: 0, jlpt: 0 };
+      
+      const kemnakerChapters = chapters.filter(c => c.track === 'kemnaker');
+      const jlptChapters = chapters.filter(c => c.track === 'jlpt_n5');
+      
+      const kemnakerTotal = kemnakerChapters.reduce((sum, c) => sum + (c.lesson_count || 0), 0);
+      const jlptTotal = jlptChapters.reduce((sum, c) => sum + (c.lesson_count || 0), 0);
+      
+      const kemnakerChapterIds = new Set(kemnakerChapters.map(c => c.id));
+      const jlptChapterIds = new Set(jlptChapters.map(c => c.id));
+      
+      const kemnakerCompleted = progress?.filter(p => p.chapter_id && kemnakerChapterIds.has(p.chapter_id)).length || 0;
+      const jlptCompleted = progress?.filter(p => p.chapter_id && jlptChapterIds.has(p.chapter_id)).length || 0;
+      
+      return {
+        kemnaker: kemnakerTotal > 0 ? Math.round((kemnakerCompleted / kemnakerTotal) * 100) : 0,
+        jlpt: jlptTotal > 0 ? Math.round((jlptCompleted / jlptTotal) * 100) : 0
+      };
+    },
+    enabled: !!user?.id
+  });
   
   if (isLoading) {
     return (
@@ -112,27 +154,51 @@ export default function Home() {
             transition={{ delay: 0.3 }}
             className="bg-card rounded-2xl shadow-elevated p-5 mb-4"
           >
-            <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center justify-between mb-4">
               <h2 className="font-semibold text-lg">Lanjutkan Belajar</h2>
-              <span className="text-xs text-muted-foreground px-2 py-1 bg-muted rounded-full">
-                {profile?.learning_goal === 'kemnaker' ? 'Kemnaker' : profile?.learning_goal === 'jlpt' ? 'JLPT N5' : 'Umum'}
-              </span>
             </div>
-            <div className="flex items-center gap-4">
-              <div className="w-14 h-14 bg-gradient-primary rounded-xl flex items-center justify-center text-2xl">
-                🎌
+            
+            {/* Kemnaker Track */}
+            <button 
+              onClick={() => navigate('/learn')}
+              className="w-full flex items-center gap-4 mb-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
+            >
+              <div className="w-12 h-12 bg-gradient-primary rounded-xl flex items-center justify-center text-xl">
+                🏭
               </div>
-              <div className="flex-1">
-                <p className="font-jp font-medium">はじめまして</p>
-                <p className="text-sm text-muted-foreground">Perkenalan Diri</p>
-                <div className="mt-2 h-2 bg-muted rounded-full overflow-hidden">
-                  <div className="h-full bg-gradient-primary w-1/4 rounded-full" />
+              <div className="flex-1 text-left">
+                <p className="font-medium">Kemnaker</p>
+                <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
+                  <div 
+                    className="h-full bg-gradient-primary rounded-full transition-all duration-500" 
+                    style={{ width: `${trackProgress?.kemnaker || 0}%` }}
+                  />
                 </div>
+                <p className="text-xs text-muted-foreground mt-1">{trackProgress?.kemnaker || 0}% selesai</p>
               </div>
-              <Button size="icon" onClick={() => navigate('/learn')}>
-                <ChevronRight className="h-5 w-5" />
-              </Button>
-            </div>
+              <ChevronRight className="h-5 w-5 text-muted-foreground" />
+            </button>
+            
+            {/* JLPT N5 Track */}
+            <button 
+              onClick={() => navigate('/learn')}
+              className="w-full flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
+            >
+              <div className="w-12 h-12 bg-gradient-secondary rounded-xl flex items-center justify-center text-xl">
+                📜
+              </div>
+              <div className="flex-1 text-left">
+                <p className="font-medium">JLPT N5</p>
+                <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
+                  <div 
+                    className="h-full bg-gradient-secondary rounded-full transition-all duration-500" 
+                    style={{ width: `${trackProgress?.jlpt || 0}%` }}
+                  />
+                </div>
+                <p className="text-xs text-muted-foreground mt-1">{trackProgress?.jlpt || 0}% selesai</p>
+              </div>
+              <ChevronRight className="h-5 w-5 text-muted-foreground" />
+            </button>
           </motion.div>
           
           {/* Quick Actions */}
@@ -167,12 +233,12 @@ export default function Home() {
               <Button
                 variant="action"
                 className="flex-col h-auto py-4"
-                onClick={() => navigate('/chat')}
+                onClick={() => navigate('/practice?tab=test')}
               >
                 <div className="w-10 h-10 bg-gradient-xp rounded-xl flex items-center justify-center mb-2">
-                  <Bot className="h-5 w-5 text-white" />
+                  <FileText className="h-5 w-5 text-white" />
                 </div>
-                <span className="text-xs">Chat Rafiq</span>
+                <span className="text-xs">Tes</span>
               </Button>
             </div>
           </motion.div>
@@ -209,37 +275,6 @@ export default function Home() {
             <LeaderboardCard />
           </motion.div>
           
-          {/* Explore Courses */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.7 }}
-          >
-            <div className="flex items-center justify-between mb-3">
-              <h2 className="font-semibold text-lg">Jelajahi Materi</h2>
-              <Button variant="link" onClick={() => navigate('/learn')} className="text-primary">
-                Lihat Semua
-              </Button>
-            </div>
-            <div className="grid grid-cols-2 gap-3">
-              <button
-                onClick={() => navigate('/learn')}
-                className="bg-card rounded-xl p-4 text-left shadow-card hover:shadow-elevated transition-shadow border border-border"
-              >
-                <div className="text-3xl mb-2">🏭</div>
-                <p className="font-semibold">Kemnaker</p>
-                <p className="text-xs text-muted-foreground">4 Bab</p>
-              </button>
-              <button
-                onClick={() => navigate('/learn')}
-                className="bg-card rounded-xl p-4 text-left shadow-card hover:shadow-elevated transition-shadow border border-border"
-              >
-                <div className="text-3xl mb-2">📜</div>
-                <p className="font-semibold">JLPT N5</p>
-                <p className="text-xs text-muted-foreground">4 Bab</p>
-              </button>
-            </div>
-          </motion.div>
         </div>
       </div>
     </AppLayout>
