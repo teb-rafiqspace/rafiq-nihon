@@ -1,1 +1,4 @@
 project_id = "ziswkjqnjwhcbutcglfr"
+
+[functions.rafiq-chat]
+verify_jwt = false
