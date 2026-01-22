@@ -10,6 +10,8 @@ import { useAuth } from '@/lib/auth';
 import { MockTestCard } from '@/components/mocktest/MockTestCard';
 import { TestHistory } from '@/components/mocktest/TestHistory';
 import { TestAttempt } from '@/hooks/useMockTest';
+import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
+import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 
 type PracticeTab = 'flashcard' | 'quiz' | 'test';
 
@@ -35,6 +37,10 @@ export default function Practice() {
   const navigate = useNavigate();
   const { user } = useAuth();
   const [activeTab, setActiveTab] = useState<PracticeTab>('flashcard');
+  const [showPremiumModal, setShowPremiumModal] = useState(false);
+  
+  const { data: subscription } = useSubscription();
+  const isPremium = isPremiumActive(subscription);
   
   // Fetch test history
   const { data: testHistory = [] } = useQuery({
@@ -54,12 +60,38 @@ export default function Practice() {
     enabled: !!user
   });
   
+  // Check if user can take a test today (free users: 1 attempt per test type per day)
+  const canTakeTest = (testType: string) => {
+    if (isPremium) return true;
+    
+    const today = new Date().toDateString();
+    const todayAttempts = testHistory.filter(
+      a => a.test_type === testType && new Date(a.completed_at).toDateString() === today
+    );
+    
+    return todayAttempts.length === 0;
+  };
+  
   // Calculate best scores per test type
   const getBestScore = (testType: string) => {
     const attempts = testHistory.filter(a => a.test_type === testType);
     if (attempts.length === 0) return undefined;
     const best = Math.max(...attempts.map(a => Math.round((a.score / a.total_questions) * 100)));
     return best;
+  };
+  
+  const handleStartTest = (testId: string, testIsPremium: boolean) => {
+    if (testIsPremium && !isPremium) {
+      setShowPremiumModal(true);
+      return;
+    }
+    
+    if (!canTakeTest(testId)) {
+      setShowPremiumModal(true);
+      return;
+    }
+    
+    navigate(`/mock-test?type=${testId}`);
   };
   
   return (
@@ -212,27 +244,37 @@ export default function Practice() {
               
               {/* Test Cards */}
               <div className="space-y-4">
-                {mockTests.map((test, index) => (
-                  <motion.div
-                    key={test.id}
-                    initial={{ opacity: 0, x: -20 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: index * 0.1 }}
-                  >
-                    <MockTestCard
-                      id={test.id}
-                      title={test.name}
-                      description={test.description}
-                      questionCount={test.questions}
-                      timeMinutes={test.duration}
-                      icon={test.icon}
-                      isPremium={test.isPremium}
-                      isLocked={test.isPremium} // For now, lock premium tests
-                      bestScore={getBestScore(test.id)}
-                      onStart={() => navigate(`/mock-test?type=${test.id}`)}
-                    />
-                  </motion.div>
-                ))}
+                {mockTests.map((test, index) => {
+                  const isLocked = test.isPremium && !isPremium;
+                  const canStart = canTakeTest(test.id);
+                  
+                  return (
+                    <motion.div
+                      key={test.id}
+                      initial={{ opacity: 0, x: -20 }}
+                      animate={{ opacity: 1, x: 0 }}
+                      transition={{ delay: index * 0.1 }}
+                    >
+                      <MockTestCard
+                        id={test.id}
+                        title={test.name}
+                        description={test.description}
+                        questionCount={test.questions}
+                        timeMinutes={test.duration}
+                        icon={test.icon}
+                        isPremium={test.isPremium}
+                        isLocked={isLocked || (!isPremium && !canStart)}
+                        bestScore={getBestScore(test.id)}
+                        onStart={() => handleStartTest(test.id, test.isPremium)}
+                      />
+                      {!isPremium && !canStart && !isLocked && (
+                        <p className="text-xs text-muted-foreground mt-1 text-center">
+                          ⏰ Upgrade ke Premium untuk unlimited test hari ini
+                        </p>
+                      )}
+                    </motion.div>
+                  );
+                })}
               </div>
               
               {/* Test History */}
@@ -249,6 +291,12 @@ export default function Practice() {
           )}
         </div>
       </div>
+      
+      {/* Premium Modal */}
+      <PremiumUpgradeModal 
+        isOpen={showPremiumModal} 
+        onClose={() => setShowPremiumModal(false)} 
+      />
     </AppLayout>
   );
 }

@@ -6,15 +6,21 @@ import { Button } from '@/components/ui/button';
 import { useQuery } from '@tanstack/react-query';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
-import { Lock, CheckCircle, ChevronRight, BookOpen, Clock } from 'lucide-react';
+import { Lock, CheckCircle, ChevronRight, BookOpen, Clock, Crown } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
+import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 
 type Track = 'kemnaker' | 'jlpt_n5';
 
 export default function Learn() {
   const [activeTrack, setActiveTrack] = useState<Track>('kemnaker');
+  const [showPremiumModal, setShowPremiumModal] = useState(false);
   const navigate = useNavigate();
   const { user } = useAuth();
+  
+  const { data: subscription } = useSubscription();
+  const isPremium = isPremiumActive(subscription);
   
   const { data: chapters, isLoading } = useQuery({
     queryKey: ['chapters', activeTrack],
@@ -56,6 +62,26 @@ export default function Learn() {
     ).length;
     
     return Math.round((completedLessons / lessonCount) * 100);
+  };
+  
+  // Check if chapter is locked (premium gate)
+  const isChapterLocked = (chapter: typeof chapters extends (infer T)[] ? T : never, index: number) => {
+    // First chapter is always free
+    if (index === 0) return false;
+    // If chapter is marked as free
+    if (chapter.is_free) return false;
+    // Premium users have access to all
+    if (isPremium) return false;
+    // Free users can only access free chapters
+    return true;
+  };
+  
+  const handleChapterClick = (chapter: typeof chapters extends (infer T)[] ? T : never, index: number) => {
+    if (isChapterLocked(chapter, index)) {
+      setShowPremiumModal(true);
+      return;
+    }
+    navigate(`/chapter/${chapter.id}`);
   };
   
   return (
@@ -134,7 +160,7 @@ export default function Learn() {
                 ))
               ) : (
                 chapters?.map((chapter, index) => {
-                  const isLocked = !chapter.is_free && index > 0;
+                  const isLocked = isChapterLocked(chapter, index);
                   const progress = getChapterProgress(chapter.id, chapter.lesson_count || 0);
                   const isCompleted = progress === 100;
                   const estimatedMinutes = (chapter.lesson_count || 0) * 5;
@@ -145,13 +171,12 @@ export default function Learn() {
                       initial={{ opacity: 0, y: 20 }}
                       animate={{ opacity: 1, y: 0 }}
                       transition={{ delay: index * 0.1 }}
-                      onClick={() => !isLocked && navigate(`/chapter/${chapter.id}`)}
+                      onClick={() => handleChapterClick(chapter, index)}
                       className={cn(
                         "w-full bg-card rounded-2xl p-4 text-left shadow-card hover:shadow-elevated transition-all border border-border",
                         isLocked && "opacity-60 cursor-not-allowed",
                         isCompleted && "border-success/50 bg-success/5"
                       )}
-                      disabled={isLocked}
                     >
                       <div className="flex items-start gap-4">
                         {/* Chapter Icon */}
@@ -177,6 +202,12 @@ export default function Learn() {
                             {isCompleted && (
                               <span className="text-xs bg-success/10 text-success px-2 py-0.5 rounded-full">
                                 Selesai
+                              </span>
+                            )}
+                            {isLocked && (
+                              <span className="text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full flex items-center gap-1">
+                                <Crown className="h-3 w-3" />
+                                Premium
                               </span>
                             )}
                           </div>
@@ -229,7 +260,7 @@ export default function Learn() {
           </AnimatePresence>
           
           {/* Premium Upsell */}
-          {chapters && chapters.length > 1 && (
+          {!isPremium && chapters && chapters.length > 1 && (
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -242,7 +273,7 @@ export default function Learn() {
                   <p className="font-semibold text-amber-900">Buka Semua Materi</p>
                   <p className="text-sm text-amber-700">Upgrade ke Premium untuk akses penuh</p>
                 </div>
-                <Button variant="premium" size="sm">
+                <Button variant="premium" size="sm" onClick={() => setShowPremiumModal(true)}>
                   Upgrade
                 </Button>
               </div>
@@ -250,6 +281,12 @@ export default function Learn() {
           )}
         </div>
       </div>
+      
+      {/* Premium Modal */}
+      <PremiumUpgradeModal 
+        isOpen={showPremiumModal} 
+        onClose={() => setShowPremiumModal(false)} 
+      />
     </AppLayout>
   );
 }
