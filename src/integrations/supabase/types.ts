@@ -110,6 +110,30 @@ export type Database = {
         }
         Relationships: []
       }
+      daily_challenges: {
+        Row: {
+          bonus_xp: number | null
+          challenge_date: string
+          created_at: string | null
+          id: string
+          quiz_set_ids: string[] | null
+        }
+        Insert: {
+          bonus_xp?: number | null
+          challenge_date: string
+          created_at?: string | null
+          id?: string
+          quiz_set_ids?: string[] | null
+        }
+        Update: {
+          bonus_xp?: number | null
+          challenge_date?: string
+          created_at?: string | null
+          id?: string
+          quiz_set_ids?: string[] | null
+        }
+        Relationships: []
+      }
       flashcard_cards: {
         Row: {
           audio_url: string | null
@@ -386,6 +410,125 @@ export type Database = {
         }
         Relationships: []
       }
+      practice_quiz_questions: {
+        Row: {
+          correct_answer: string
+          created_at: string | null
+          difficulty: number | null
+          explanation: string | null
+          hint: string | null
+          id: string
+          options: Json | null
+          order_index: number | null
+          question_audio_url: string | null
+          question_image_url: string | null
+          question_text: string
+          question_type: string
+          quiz_set_id: string | null
+          tags: string[] | null
+        }
+        Insert: {
+          correct_answer: string
+          created_at?: string | null
+          difficulty?: number | null
+          explanation?: string | null
+          hint?: string | null
+          id: string
+          options?: Json | null
+          order_index?: number | null
+          question_audio_url?: string | null
+          question_image_url?: string | null
+          question_text: string
+          question_type: string
+          quiz_set_id?: string | null
+          tags?: string[] | null
+        }
+        Update: {
+          correct_answer?: string
+          created_at?: string | null
+          difficulty?: number | null
+          explanation?: string | null
+          hint?: string | null
+          id?: string
+          options?: Json | null
+          order_index?: number | null
+          question_audio_url?: string | null
+          question_image_url?: string | null
+          question_text?: string
+          question_type?: string
+          quiz_set_id?: string | null
+          tags?: string[] | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "practice_quiz_questions_quiz_set_id_fkey"
+            columns: ["quiz_set_id"]
+            isOneToOne: false
+            referencedRelation: "practice_quiz_sets"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      practice_quiz_sets: {
+        Row: {
+          category: string
+          color: string | null
+          created_at: string | null
+          description: string | null
+          difficulty: string | null
+          icon_name: string | null
+          id: string
+          is_daily: boolean | null
+          is_premium: boolean | null
+          order_index: number | null
+          question_count: number | null
+          subcategory: string | null
+          time_limit_seconds: number | null
+          title_id: string
+          title_jp: string
+          track: string | null
+          xp_reward: number | null
+        }
+        Insert: {
+          category: string
+          color?: string | null
+          created_at?: string | null
+          description?: string | null
+          difficulty?: string | null
+          icon_name?: string | null
+          id: string
+          is_daily?: boolean | null
+          is_premium?: boolean | null
+          order_index?: number | null
+          question_count?: number | null
+          subcategory?: string | null
+          time_limit_seconds?: number | null
+          title_id: string
+          title_jp: string
+          track?: string | null
+          xp_reward?: number | null
+        }
+        Update: {
+          category?: string
+          color?: string | null
+          created_at?: string | null
+          description?: string | null
+          difficulty?: string | null
+          icon_name?: string | null
+          id?: string
+          is_daily?: boolean | null
+          is_premium?: boolean | null
+          order_index?: number | null
+          question_count?: number | null
+          subcategory?: string | null
+          time_limit_seconds?: number | null
+          title_id?: string
+          title_jp?: string
+          track?: string | null
+          xp_reward?: number | null
+        }
+        Relationships: []
+      }
       profiles: {
         Row: {
           avatar_url: string | null
@@ -632,6 +775,36 @@ export type Database = {
           },
         ]
       }
+      user_daily_progress: {
+        Row: {
+          challenge_date: string
+          completed: boolean | null
+          completed_at: string | null
+          id: string
+          score: number | null
+          user_id: string
+          xp_earned: number | null
+        }
+        Insert: {
+          challenge_date: string
+          completed?: boolean | null
+          completed_at?: string | null
+          id?: string
+          score?: number | null
+          user_id: string
+          xp_earned?: number | null
+        }
+        Update: {
+          challenge_date?: string
+          completed?: boolean | null
+          completed_at?: string | null
+          id?: string
+          score?: number | null
+          user_id?: string
+          xp_earned?: number | null
+        }
+        Relationships: []
+      }
       user_flashcard_progress: {
         Row: {
           card_id: string | null
@@ -741,6 +914,50 @@ export type Database = {
             columns: ["kana_id"]
             isOneToOne: false
             referencedRelation: "kana_characters"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_practice_history: {
+        Row: {
+          answers: Json | null
+          completed_at: string | null
+          id: string
+          quiz_set_id: string | null
+          score: number
+          time_spent_seconds: number | null
+          total_questions: number
+          user_id: string
+          xp_earned: number | null
+        }
+        Insert: {
+          answers?: Json | null
+          completed_at?: string | null
+          id?: string
+          quiz_set_id?: string | null
+          score: number
+          time_spent_seconds?: number | null
+          total_questions: number
+          user_id: string
+          xp_earned?: number | null
+        }
+        Update: {
+          answers?: Json | null
+          completed_at?: string | null
+          id?: string
+          quiz_set_id?: string | null
+          score?: number
+          time_spent_seconds?: number | null
+          total_questions?: number
+          user_id?: string
+          xp_earned?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_practice_history_quiz_set_id_fkey"
+            columns: ["quiz_set_id"]
+            isOneToOne: false
+            referencedRelation: "practice_quiz_sets"
             referencedColumns: ["id"]
           },
         ]
