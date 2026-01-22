@@ -72,7 +72,7 @@ export default function Index() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
-            className="grid grid-cols-3 gap-4 mb-4"
+            className="grid grid-cols-3 gap-4 mb-2"
           >
             <div className="text-center">
               <div className="w-12 h-12 bg-white/20 backdrop-blur-sm rounded-xl mx-auto mb-2 flex items-center justify-center">
@@ -99,7 +99,7 @@ export default function Index() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
-            className="flex items-center justify-center gap-2 mb-4"
+            className="flex items-center justify-center gap-2 mb-2"
           >
             <span className="text-xs text-primary-foreground/60">powered by</span>
             <img 
