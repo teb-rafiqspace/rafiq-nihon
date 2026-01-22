@@ -110,6 +110,51 @@ export type Database = {
         }
         Relationships: []
       }
+      kana_characters: {
+        Row: {
+          audio_url: string | null
+          character: string
+          created_at: string | null
+          example_words: Json | null
+          id: string
+          is_basic: boolean | null
+          memory_tip_id: string | null
+          order_index: number
+          romaji: string
+          row_name: string | null
+          stroke_order_svg: string | null
+          type: string
+        }
+        Insert: {
+          audio_url?: string | null
+          character: string
+          created_at?: string | null
+          example_words?: Json | null
+          id?: string
+          is_basic?: boolean | null
+          memory_tip_id?: string | null
+          order_index?: number
+          romaji: string
+          row_name?: string | null
+          stroke_order_svg?: string | null
+          type: string
+        }
+        Update: {
+          audio_url?: string | null
+          character?: string
+          created_at?: string | null
+          example_words?: Json | null
+          id?: string
+          is_basic?: boolean | null
+          memory_tip_id?: string | null
+          order_index?: number
+          romaji?: string
+          row_name?: string | null
+          stroke_order_svg?: string | null
+          type?: string
+        }
+        Relationships: []
+      }
       lessons: {
         Row: {
           chapter_id: string
@@ -396,6 +441,53 @@ export type Database = {
             columns: ["badge_id"]
             isOneToOne: false
             referencedRelation: "badges"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_kana_progress: {
+        Row: {
+          correct_count: number | null
+          created_at: string | null
+          id: string
+          incorrect_count: number | null
+          kana_id: string
+          last_reviewed_at: string | null
+          next_review_at: string | null
+          status: string | null
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          correct_count?: number | null
+          created_at?: string | null
+          id?: string
+          incorrect_count?: number | null
+          kana_id: string
+          last_reviewed_at?: string | null
+          next_review_at?: string | null
+          status?: string | null
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          correct_count?: number | null
+          created_at?: string | null
+          id?: string
+          incorrect_count?: number | null
+          kana_id?: string
+          last_reviewed_at?: string | null
+          next_review_at?: string | null
+          status?: string | null
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_kana_progress_kana_id_fkey"
+            columns: ["kana_id"]
+            isOneToOne: false
+            referencedRelation: "kana_characters"
             referencedColumns: ["id"]
           },
         ]
