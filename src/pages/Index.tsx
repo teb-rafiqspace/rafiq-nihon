@@ -48,10 +48,10 @@ export default function Index() {
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ type: "spring", duration: 0.6 }}
-            className="w-32 h-32 mx-auto mb-6 flex items-center justify-center"
+            className="w-40 h-40 mx-auto mb-6 flex items-center justify-center"
           >
             <img 
-              src="/placeholder.svg" 
+              src={linguaLogo} 
               alt="Lingua Logo" 
               className="w-full h-full object-contain"
             />
