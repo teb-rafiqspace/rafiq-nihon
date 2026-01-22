@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import { Volume2, VolumeX } from 'lucide-react';
-import { useState } from 'react';
+import { Volume2, VolumeX, Loader2 } from 'lucide-react';
+import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 
 interface VocabularyCardProps {
@@ -21,15 +21,83 @@ export function VocabularyCard({
   audioUrl,
 }: VocabularyCardProps) {
   const [isPlaying, setIsPlaying] = useState(false);
+  const [hasJapaneseVoice, setHasJapaneseVoice] = useState(true);
+  
+  // Check for Japanese voice availability
+  useEffect(() => {
+    const checkVoices = () => {
+      const voices = speechSynthesis.getVoices();
+      const japaneseVoice = voices.find(
+        voice => voice.lang.startsWith('ja')
+      );
+      setHasJapaneseVoice(!!japaneseVoice);
+    };
+    
+    checkVoices();
+    speechSynthesis.onvoiceschanged = checkVoices;
+    
+    return () => {
+      speechSynthesis.onvoiceschanged = null;
+    };
+  }, []);
+  
+  const speakJapanese = (text: string) => {
+    if (isPlaying) {
+      speechSynthesis.cancel();
+      setIsPlaying(false);
+      return;
+    }
+    
+    // Cancel any ongoing speech
+    speechSynthesis.cancel();
+    
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'ja-JP';
+    utterance.rate = 0.8; // Slightly slower for learning
+    utterance.pitch = 1;
+    
+    // Try to find a Japanese voice
+    const voices = speechSynthesis.getVoices();
+    const japaneseVoice = voices.find(
+      voice => voice.lang.startsWith('ja')
+    );
+    
+    if (japaneseVoice) {
+      utterance.voice = japaneseVoice;
+    }
+    
+    utterance.onstart = () => setIsPlaying(true);
+    utterance.onend = () => setIsPlaying(false);
+    utterance.onerror = () => setIsPlaying(false);
+    
+    speechSynthesis.speak(utterance);
+  };
   
   const playAudio = () => {
-    if (!audioUrl) return;
-    
-    setIsPlaying(true);
-    const audio = new Audio(audioUrl);
-    audio.onended = () => setIsPlaying(false);
-    audio.onerror = () => setIsPlaying(false);
-    audio.play().catch(() => setIsPlaying(false));
+    if (audioUrl) {
+      // Use provided audio URL
+      setIsPlaying(true);
+      const audio = new Audio(audioUrl);
+      audio.onended = () => setIsPlaying(false);
+      audio.onerror = () => {
+        setIsPlaying(false);
+        // Fallback to speech synthesis
+        speakJapanese(wordJp);
+      };
+      audio.play().catch(() => {
+        setIsPlaying(false);
+        speakJapanese(wordJp);
+      });
+    } else {
+      // Use speech synthesis
+      speakJapanese(wordJp);
+    }
+  };
+  
+  const playExample = () => {
+    if (exampleJp) {
+      speakJapanese(exampleJp);
+    }
   };
   
   return (
@@ -40,9 +108,23 @@ export function VocabularyCard({
     >
       {/* Japanese Word */}
       <div className="text-center mb-4">
-        <h2 className="font-jp text-4xl font-bold text-foreground mb-2">
-          {wordJp}
-        </h2>
+        <div className="flex items-center justify-center gap-3 mb-2">
+          <h2 className="font-jp text-4xl font-bold text-foreground">
+            {wordJp}
+          </h2>
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={playAudio}
+            className="rounded-full h-10 w-10 bg-primary/10 hover:bg-primary/20"
+          >
+            {isPlaying ? (
+              <Loader2 className="h-5 w-5 text-primary animate-spin" />
+            ) : (
+              <Volume2 className="h-5 w-5 text-primary" />
+            )}
+          </Button>
+        </div>
         {reading && (
           <p className="text-lg text-muted-foreground font-medium">
             {reading}
@@ -60,33 +142,59 @@ export function VocabularyCard({
         </p>
       </div>
       
-      {/* Audio Button */}
+      {/* Main Audio Button */}
       <div className="flex justify-center mb-4">
         <Button
           variant="outline"
           size="lg"
           onClick={playAudio}
-          disabled={!audioUrl || isPlaying}
-          className="gap-2"
+          className="gap-2 min-w-[200px]"
         >
           {isPlaying ? (
-            <VolumeX className="h-5 w-5 animate-pulse" />
+            <>
+              <Loader2 className="h-5 w-5 animate-spin" />
+              Memutar...
+            </>
           ) : (
-            <Volume2 className="h-5 w-5" />
+            <>
+              <Volume2 className="h-5 w-5" />
+              Dengarkan Pengucapan
+            </>
           )}
-          {audioUrl ? 'Putar Audio' : 'Audio tidak tersedia'}
         </Button>
       </div>
       
+      {!hasJapaneseVoice && (
+        <p className="text-xs text-center text-muted-foreground mb-4">
+          💡 Untuk audio terbaik, gunakan Chrome atau Edge
+        </p>
+      )}
+      
       {/* Example Sentence */}
       {exampleJp && (
-        <div className="bg-muted/50 rounded-xl p-4 mt-4">
-          <p className="text-xs text-muted-foreground mb-2 font-medium">Contoh:</p>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.2 }}
+          className="bg-muted/50 rounded-xl p-4 mt-4"
+        >
+          <div className="flex items-center justify-between mb-2">
+            <p className="text-xs text-muted-foreground font-medium">Contoh:</p>
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={playExample}
+              className="h-7 px-2 gap-1 text-xs"
+            >
+              <Volume2 className="h-3 w-3" />
+              Putar
+            </Button>
+          </div>
           <p className="font-jp text-lg mb-1">「{exampleJp}」</p>
           {exampleId && (
             <p className="text-sm text-muted-foreground">"{exampleId}"</p>
           )}
-        </div>
+        </motion.div>
       )}
     </motion.div>
   );
