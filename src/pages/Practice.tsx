@@ -1,9 +1,15 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
-import { Layers, Target, FileText, ChevronRight, Play, Flame } from 'lucide-react';
+import { Layers, Target, FileText, ChevronRight, Play, Flame, Clock, Trophy } from 'lucide-react';
+import { supabase } from '@/integrations/supabase/client';
+import { useAuth } from '@/lib/auth';
+import { MockTestCard } from '@/components/mocktest/MockTestCard';
+import { TestHistory } from '@/components/mocktest/TestHistory';
+import { TestAttempt } from '@/hooks/useMockTest';
 
 type PracticeTab = 'flashcard' | 'quiz' | 'test';
 
@@ -21,13 +27,40 @@ const quizzes = [
 ];
 
 const mockTests = [
-  { id: 1, name: 'Tes Kakunin', duration: 30, questions: 50, icon: '🏭', description: 'Simulasi tes Kemnaker' },
-  { id: 2, name: 'JLPT N5 Mock', duration: 45, questions: 70, icon: '📜', description: 'Simulasi ujian JLPT N5' },
+  { id: 'kakunin', name: 'IM Japan Kakunin', duration: 30, questions: 30, icon: '🏭', description: 'Simulasi tes bahasa Kemnaker', isPremium: false },
+  { id: 'jlpt_n5', name: 'JLPT N5 Mini Test', duration: 20, questions: 20, icon: '📜', description: 'Latihan format JLPT', isPremium: true },
 ];
 
 export default function Practice() {
   const navigate = useNavigate();
+  const { user } = useAuth();
   const [activeTab, setActiveTab] = useState<PracticeTab>('flashcard');
+  
+  // Fetch test history
+  const { data: testHistory = [] } = useQuery({
+    queryKey: ['test-history', user?.id],
+    queryFn: async () => {
+      if (!user) return [];
+      const { data, error } = await supabase
+        .from('test_attempts')
+        .select('*')
+        .eq('user_id', user.id)
+        .order('completed_at', { ascending: false })
+        .limit(10);
+      
+      if (error) throw error;
+      return data as TestAttempt[];
+    },
+    enabled: !!user
+  });
+  
+  // Calculate best scores per test type
+  const getBestScore = (testType: string) => {
+    const attempts = testHistory.filter(a => a.test_type === testType);
+    if (attempts.length === 0) return undefined;
+    const best = Math.max(...attempts.map(a => Math.round((a.score / a.total_questions) * 100)));
+    return best;
+  };
   
   return (
     <AppLayout>
@@ -169,40 +202,49 @@ export default function Practice() {
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              className="space-y-4"
+              className="space-y-6"
             >
-              <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-4">
+              <div className="bg-amber-50 border border-amber-200 rounded-xl p-4">
                 <p className="text-sm text-amber-800">
                   💡 Tes simulasi ini dirancang seperti ujian asli. Pastikan kamu punya waktu yang cukup sebelum memulai.
                 </p>
               </div>
               
-              {mockTests.map((test, index) => (
-                <motion.button
-                  key={test.id}
-                  initial={{ opacity: 0, x: -20 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  transition={{ delay: index * 0.1 }}
-                  className="w-full bg-card rounded-xl p-5 text-left shadow-card hover:shadow-elevated transition-all border border-border"
-                >
-                  <div className="flex items-start gap-4">
-                    <div className="w-14 h-14 bg-gradient-primary rounded-xl flex items-center justify-center text-2xl">
-                      {test.icon}
-                    </div>
-                    <div className="flex-1">
-                      <h3 className="font-bold text-lg">{test.name}</h3>
-                      <p className="text-sm text-muted-foreground mb-2">{test.description}</p>
-                      <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                        <span>⏱️ {test.duration} menit</span>
-                        <span>📝 {test.questions} soal</span>
-                      </div>
-                    </div>
-                  </div>
-                  <Button className="w-full mt-4">
-                    Mulai Tes
-                  </Button>
-                </motion.button>
-              ))}
+              {/* Test Cards */}
+              <div className="space-y-4">
+                {mockTests.map((test, index) => (
+                  <motion.div
+                    key={test.id}
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: index * 0.1 }}
+                  >
+                    <MockTestCard
+                      id={test.id}
+                      title={test.name}
+                      description={test.description}
+                      questionCount={test.questions}
+                      timeMinutes={test.duration}
+                      icon={test.icon}
+                      isPremium={test.isPremium}
+                      isLocked={test.isPremium} // For now, lock premium tests
+                      bestScore={getBestScore(test.id)}
+                      onStart={() => navigate(`/mock-test?type=${test.id}`)}
+                    />
+                  </motion.div>
+                ))}
+              </div>
+              
+              {/* Test History */}
+              {testHistory.length > 0 && (
+                <div className="space-y-3">
+                  <h3 className="font-semibold text-lg flex items-center gap-2">
+                    <Trophy className="h-5 w-5 text-amber-500" />
+                    Riwayat Tes
+                  </h3>
+                  <TestHistory attempts={testHistory} />
+                </div>
+              )}
             </motion.div>
           )}
         </div>
