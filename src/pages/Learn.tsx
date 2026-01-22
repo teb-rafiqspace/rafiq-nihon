@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
@@ -14,7 +14,9 @@ import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeMod
 type Track = 'kemnaker' | 'jlpt_n5';
 
 export default function Learn() {
-  const [activeTrack, setActiveTrack] = useState<Track>('kemnaker');
+  const [searchParams] = useSearchParams();
+  const initialTrack = (searchParams.get('track') as Track) || 'kemnaker';
+  const [activeTrack, setActiveTrack] = useState<Track>(initialTrack);
   const [showPremiumModal, setShowPremiumModal] = useState(false);
   const navigate = useNavigate();
   const { user } = useAuth();
