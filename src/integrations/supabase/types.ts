@@ -154,6 +154,42 @@ export type Database = {
           },
         ]
       }
+      mock_test_questions: {
+        Row: {
+          correct_answer: string
+          created_at: string
+          explanation: string | null
+          id: string
+          options: Json
+          question_text: string
+          section: string
+          sort_order: number
+          test_type: string
+        }
+        Insert: {
+          correct_answer: string
+          created_at?: string
+          explanation?: string | null
+          id?: string
+          options?: Json
+          question_text: string
+          section: string
+          sort_order?: number
+          test_type: string
+        }
+        Update: {
+          correct_answer?: string
+          created_at?: string
+          explanation?: string | null
+          id?: string
+          options?: Json
+          question_text?: string
+          section?: string
+          sort_order?: number
+          test_type?: string
+        }
+        Relationships: []
+      }
       profiles: {
         Row: {
           avatar_url: string | null
@@ -287,9 +323,11 @@ export type Database = {
       }
       test_attempts: {
         Row: {
+          answers: Json | null
           chapter_id: string | null
           completed_at: string
           id: string
+          passed: boolean | null
           score: number
           test_type: string
           time_spent_seconds: number | null
@@ -297,9 +335,11 @@ export type Database = {
           user_id: string
         }
         Insert: {
+          answers?: Json | null
           chapter_id?: string | null
           completed_at?: string
           id?: string
+          passed?: boolean | null
           score: number
           test_type: string
           time_spent_seconds?: number | null
@@ -307,9 +347,11 @@ export type Database = {
           user_id: string
         }
         Update: {
+          answers?: Json | null
           chapter_id?: string | null
           completed_at?: string
           id?: string
+          passed?: boolean | null
           score?: number
           test_type?: string
           time_spent_seconds?: number | null
