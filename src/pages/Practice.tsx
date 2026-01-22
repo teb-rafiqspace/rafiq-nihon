@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
-import { Layers, Target, FileText, ChevronRight, Flame, Trophy } from 'lucide-react';
+import { Layers, Target, FileText, Trophy } from 'lucide-react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
 import { MockTestCard } from '@/components/mocktest/MockTestCard';
@@ -13,14 +13,9 @@ import { TestAttempt } from '@/hooks/useMockTest';
 import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 import { FlashcardSection } from '@/components/flashcard/FlashcardSection';
+import { QuizPracticeSection } from '@/components/quiz/QuizPracticeSection';
 
 type PracticeTab = 'flashcard' | 'quiz' | 'test';
-
-const quizzes = [
-  { id: 1, name: 'Tantangan Harian', questions: 10, xp: 50, icon: '🔥', type: 'daily' },
-  { id: 2, name: 'Bab 1: Perkenalan', questions: 15, xp: 30, icon: '📝', type: 'chapter' },
-  { id: 3, name: 'Bab 2: Percakapan', questions: 20, xp: 40, icon: '📝', type: 'chapter', locked: true },
-];
 
 const mockTests = [
   { id: 'kakunin', name: 'IM Japan Kakunin', duration: 30, questions: 30, icon: '🏭', description: 'Simulasi tes bahasa Kemnaker', isPremium: false },
@@ -110,26 +105,7 @@ export default function Practice() {
         <div className="container max-w-lg mx-auto px-4 py-6">
           {activeTab === 'flashcard' && <FlashcardSection />}
           
-          {activeTab === 'quiz' && (
-            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-4">
-              {quizzes.map((quiz, index) => (
-                <motion.button key={quiz.id} initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: index * 0.1 }} disabled={quiz.locked}
-                  className={`w-full bg-card rounded-xl p-4 text-left shadow-card hover:shadow-elevated transition-all border border-border ${quiz.locked ? 'opacity-60' : ''}`}>
-                  <div className="flex items-center gap-4">
-                    <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl ${quiz.type === 'daily' ? 'bg-gradient-streak' : 'bg-gradient-success'}`}>{quiz.icon}</div>
-                    <div className="flex-1">
-                      <div className="flex items-center gap-2">
-                        <h3 className="font-semibold">{quiz.name}</h3>
-                        {quiz.type === 'daily' && <Flame className="h-4 w-4 text-streak" />}
-                      </div>
-                      <p className="text-sm text-muted-foreground">{quiz.questions} soal • +{quiz.xp} XP</p>
-                    </div>
-                    <ChevronRight className="h-5 w-5 text-muted-foreground" />
-                  </div>
-                </motion.button>
-              ))}
-            </motion.div>
-          )}
+          {activeTab === 'quiz' && <QuizPracticeSection />}
           
           {activeTab === 'test' && (
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-6">
