@@ -22,19 +22,51 @@ export function VocabularyCard({
 }: VocabularyCardProps) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [hasJapaneseVoice, setHasJapaneseVoice] = useState(true);
+  const [selectedVoice, setSelectedVoice] = useState<SpeechSynthesisVoice | null>(null);
   
-  // Check for Japanese voice availability
+  // Find the best Japanese female voice
   useEffect(() => {
-    const checkVoices = () => {
+    const findBestVoice = () => {
       const voices = speechSynthesis.getVoices();
-      const japaneseVoice = voices.find(
-        voice => voice.lang.startsWith('ja')
-      );
-      setHasJapaneseVoice(!!japaneseVoice);
+      const japaneseVoices = voices.filter(voice => voice.lang.startsWith('ja'));
+      
+      if (japaneseVoices.length === 0) {
+        setHasJapaneseVoice(false);
+        return;
+      }
+      
+      setHasJapaneseVoice(true);
+      
+      // Priority list for female Japanese voices (lively, native)
+      const femaleVoiceKeywords = [
+        'haruka',    // Windows - female, natural
+        'nanami',    // Azure - female, cheerful
+        'ayumi',     // Windows - female
+        'kyoko',     // macOS/iOS - female
+        'o-ren',     // Some systems
+        'mizuki',    // AWS Polly style
+        'female',
+        'woman',
+        '女性',       // Japanese for "female"
+      ];
+      
+      // Try to find a female voice
+      let bestVoice = japaneseVoices.find(voice => {
+        const nameLower = voice.name.toLowerCase();
+        return femaleVoiceKeywords.some(keyword => nameLower.includes(keyword));
+      });
+      
+      // If no specific female voice found, prefer Google Japanese or first available
+      if (!bestVoice) {
+        bestVoice = japaneseVoices.find(v => v.name.includes('Google')) || japaneseVoices[0];
+      }
+      
+      setSelectedVoice(bestVoice);
+      console.log('Selected Japanese voice:', bestVoice?.name);
     };
     
-    checkVoices();
-    speechSynthesis.onvoiceschanged = checkVoices;
+    findBestVoice();
+    speechSynthesis.onvoiceschanged = findBestVoice;
     
     return () => {
       speechSynthesis.onvoiceschanged = null;
@@ -53,17 +85,12 @@ export function VocabularyCard({
     
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'ja-JP';
-    utterance.rate = 0.8; // Slightly slower for learning
-    utterance.pitch = 1;
+    utterance.rate = 0.9; // Slightly faster for lively feel
+    utterance.pitch = 1.1; // Slightly higher pitch for female/lively sound
     
-    // Try to find a Japanese voice
-    const voices = speechSynthesis.getVoices();
-    const japaneseVoice = voices.find(
-      voice => voice.lang.startsWith('ja')
-    );
-    
-    if (japaneseVoice) {
-      utterance.voice = japaneseVoice;
+    // Use the selected female voice
+    if (selectedVoice) {
+      utterance.voice = selectedVoice;
     }
     
     utterance.onstart = () => setIsPlaying(true);
