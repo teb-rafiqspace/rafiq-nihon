@@ -1,4 +1,4 @@
-import { Home, BookOpen, Layers, Bot, User } from 'lucide-react';
+import { Home, BookOpen, Layers, Award, User } from 'lucide-react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { cn } from '@/lib/utils';
@@ -7,7 +7,7 @@ const navItems = [
   { icon: Home, label: 'Beranda', path: '/home' },
   { icon: BookOpen, label: 'Belajar', path: '/learn' },
   { icon: Layers, label: 'Latihan', path: '/practice' },
-  { icon: Bot, label: 'Rafiq', path: '/chat' },
+  { icon: Award, label: 'Ujian', path: '/exam' },
   { icon: User, label: 'Profil', path: '/profile' },
 ];
 
