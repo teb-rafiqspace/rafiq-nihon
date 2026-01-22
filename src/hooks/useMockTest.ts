@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
 import { useQueryClient } from '@tanstack/react-query';
@@ -43,11 +43,22 @@ export interface TestResult {
   }[];
 }
 
+export interface TestSection {
+  id: string;
+  name: string;
+  nameJp: string;
+  startIndex: number;
+  count: number;
+}
+
 interface MockTestConfig {
   testType: 'kakunin' | 'jlpt_n5';
   timeLimit: number; // in seconds
   passingScore: number; // percentage
 }
+
+const AUTO_SAVE_INTERVAL = 30000; // 30 seconds
+const STORAGE_KEY_PREFIX = 'mock_test_progress_';
 
 export function useMockTest(config: MockTestConfig) {
   const { user } = useAuth();
@@ -62,8 +73,86 @@ export function useMockTest(config: MockTestConfig) {
   const [testResult, setTestResult] = useState<TestResult | null>(null);
   const [testStartTime, setTestStartTime] = useState<number | null>(null);
   const [isReviewMode, setIsReviewMode] = useState(false);
+  const [testStarted, setTestStarted] = useState(false);
+  const [sections, setSections] = useState<TestSection[]>([]);
   
   const timerRef = useRef<NodeJS.Timeout | null>(null);
+  const autoSaveRef = useRef<NodeJS.Timeout | null>(null);
+  
+  const storageKey = `${STORAGE_KEY_PREFIX}${config.testType}`;
+  
+  // Calculate sections from questions
+  const calculateSections = useCallback((questionList: MockTestQuestion[]): TestSection[] => {
+    const sectionMap: Record<string, { count: number; startIndex: number }> = {};
+    let currentStartIndex = 0;
+    
+    questionList.forEach((q, index) => {
+      if (!sectionMap[q.section]) {
+        sectionMap[q.section] = { count: 0, startIndex: currentStartIndex };
+        currentStartIndex = index;
+        sectionMap[q.section].startIndex = index;
+      }
+      sectionMap[q.section].count++;
+    });
+    
+    const sectionInfo: Record<string, { name: string; nameJp: string }> = {
+      'kosakata': { name: 'Kosakata', nameJp: 'ごい' },
+      'grammar': { name: 'Tata Bahasa', nameJp: 'ぶんぽう' },
+      'membaca': { name: 'Pemahaman Bacaan', nameJp: 'どっかい' },
+    };
+    
+    return Object.entries(sectionMap).map(([id, data]) => ({
+      id,
+      name: sectionInfo[id]?.name || id,
+      nameJp: sectionInfo[id]?.nameJp || '',
+      startIndex: data.startIndex,
+      count: data.count
+    }));
+  }, []);
+  
+  // Load saved progress from localStorage
+  const loadSavedProgress = useCallback(() => {
+    try {
+      const saved = localStorage.getItem(storageKey);
+      if (saved) {
+        const data = JSON.parse(saved);
+        // Check if saved data is still valid (less than 2 hours old)
+        if (data.savedAt && Date.now() - data.savedAt < 2 * 60 * 60 * 1000) {
+          return data;
+        }
+      }
+    } catch (e) {
+      console.error('Error loading saved progress:', e);
+    }
+    return null;
+  }, [storageKey]);
+  
+  // Save progress to localStorage
+  const saveProgress = useCallback(() => {
+    if (!testStarted || testResult) return;
+    
+    try {
+      const data = {
+        answers,
+        currentIndex,
+        timeRemaining,
+        testStartTime,
+        savedAt: Date.now()
+      };
+      localStorage.setItem(storageKey, JSON.stringify(data));
+    } catch (e) {
+      console.error('Error saving progress:', e);
+    }
+  }, [answers, currentIndex, timeRemaining, testStartTime, testStarted, testResult, storageKey]);
+  
+  // Clear saved progress
+  const clearSavedProgress = useCallback(() => {
+    try {
+      localStorage.removeItem(storageKey);
+    } catch (e) {
+      console.error('Error clearing progress:', e);
+    }
+  }, [storageKey]);
   
   // Load questions
   useEffect(() => {
@@ -84,12 +173,16 @@ export function useMockTest(config: MockTestConfig) {
         }));
         
         setQuestions(formattedQuestions);
-        setAnswers(formattedQuestions.map(q => ({
+        setSections(calculateSections(formattedQuestions));
+        
+        // Initialize answers
+        const initialAnswers = formattedQuestions.map(q => ({
           questionId: q.id,
           answer: null,
           flagged: false
-        })));
-        setTestStartTime(Date.now());
+        }));
+        setAnswers(initialAnswers);
+        
       } catch (error) {
         console.error('Error loading questions:', error);
       } finally {
@@ -98,11 +191,27 @@ export function useMockTest(config: MockTestConfig) {
     };
     
     loadQuestions();
-  }, [config.testType]);
+  }, [config.testType, calculateSections]);
+  
+  // Start the test
+  const startTest = useCallback(() => {
+    // Check for saved progress
+    const saved = loadSavedProgress();
+    if (saved && saved.answers) {
+      setAnswers(saved.answers);
+      setCurrentIndex(saved.currentIndex || 0);
+      setTimeRemaining(saved.timeRemaining || config.timeLimit);
+      setTestStartTime(saved.testStartTime || Date.now());
+    } else {
+      setTestStartTime(Date.now());
+      setTimeRemaining(config.timeLimit);
+    }
+    setTestStarted(true);
+  }, [config.timeLimit, loadSavedProgress]);
   
   // Timer
   useEffect(() => {
-    if (isLoading || testResult || isReviewMode) return;
+    if (!testStarted || isLoading || testResult || isReviewMode) return;
     
     timerRef.current = setInterval(() => {
       setTimeRemaining(prev => {
@@ -120,10 +229,43 @@ export function useMockTest(config: MockTestConfig) {
         clearInterval(timerRef.current);
       }
     };
-  }, [isLoading, testResult, isReviewMode]);
+  }, [testStarted, isLoading, testResult, isReviewMode]);
+  
+  // Auto-save
+  useEffect(() => {
+    if (!testStarted || testResult) return;
+    
+    autoSaveRef.current = setInterval(() => {
+      saveProgress();
+    }, AUTO_SAVE_INTERVAL);
+    
+    return () => {
+      if (autoSaveRef.current) {
+        clearInterval(autoSaveRef.current);
+      }
+    };
+  }, [testStarted, testResult, saveProgress]);
+  
+  // Save on page unload
+  useEffect(() => {
+    const handleBeforeUnload = () => {
+      saveProgress();
+    };
+    
+    window.addEventListener('beforeunload', handleBeforeUnload);
+    return () => window.removeEventListener('beforeunload', handleBeforeUnload);
+  }, [saveProgress]);
   
   const currentQuestion = questions[currentIndex];
   const currentAnswer = answers[currentIndex];
+  
+  // Get current section info
+  const getCurrentSection = useCallback(() => {
+    const section = sections.find(s => 
+      currentIndex >= s.startIndex && currentIndex < s.startIndex + s.count
+    );
+    return section || { id: '', name: '', nameJp: '', startIndex: 0, count: 0 };
+  }, [sections, currentIndex]);
   
   const setAnswer = useCallback((answer: string) => {
     setAnswers(prev => prev.map((a, i) => 
@@ -163,6 +305,22 @@ export function useMockTest(config: MockTestConfig) {
     return answers.filter(a => a.flagged).length;
   }, [answers]);
   
+  const getUnansweredQuestions = useCallback(() => {
+    return answers
+      .map((a, i) => a.answer === null ? i : -1)
+      .filter(i => i !== -1);
+  }, [answers]);
+  
+  const getFlaggedQuestions = useCallback(() => {
+    return answers
+      .map((a, i) => a.flagged ? i : -1)
+      .filter(i => i !== -1);
+  }, [answers]);
+  
+  const getAnsweredCount = useCallback(() => {
+    return answers.filter(a => a.answer !== null).length;
+  }, [answers]);
+  
   const calculateResults = useCallback((): TestResult => {
     const timeSpent = testStartTime ? Math.round((Date.now() - testStartTime) / 1000) : config.timeLimit;
     
@@ -196,7 +354,7 @@ export function useMockTest(config: MockTestConfig) {
       score: correctCount,
       totalQuestions: questions.length,
       passed,
-      timeSpent,
+      timeSpent: Math.min(timeSpent, config.timeLimit),
       sectionResults
     };
   }, [questions, answers, testStartTime, config.timeLimit, config.passingScore]);
@@ -205,11 +363,17 @@ export function useMockTest(config: MockTestConfig) {
     if (timerRef.current) {
       clearInterval(timerRef.current);
     }
+    if (autoSaveRef.current) {
+      clearInterval(autoSaveRef.current);
+    }
     
     setIsSubmitting(true);
     
     const result = calculateResults();
     setTestResult(result);
+    
+    // Clear saved progress
+    clearSavedProgress();
     
     // Save to database
     if (user) {
@@ -225,20 +389,22 @@ export function useMockTest(config: MockTestConfig) {
           answers: answers.map(a => ({ questionId: a.questionId, answer: a.answer }))
         });
         
-        // Award XP based on score
-        const xpEarned = Math.round((result.score / result.totalQuestions) * 50);
-        
-        const { data: profile } = await supabase
-          .from('profiles')
-          .select('total_xp')
-          .eq('user_id', user.id)
-          .single();
-        
-        if (profile) {
-          await supabase
+        // Award XP based on score (only if passed)
+        if (result.passed) {
+          const xpEarned = config.testType === 'jlpt_n5' ? 100 : 50;
+          
+          const { data: profile } = await supabase
             .from('profiles')
-            .update({ total_xp: (profile.total_xp || 0) + xpEarned })
-            .eq('user_id', user.id);
+            .select('total_xp')
+            .eq('user_id', user.id)
+            .single();
+          
+          if (profile) {
+            await supabase
+              .from('profiles')
+              .update({ total_xp: (profile.total_xp || 0) + xpEarned })
+              .eq('user_id', user.id);
+          }
         }
         
         queryClient.invalidateQueries({ queryKey: ['profile'] });
@@ -249,11 +415,15 @@ export function useMockTest(config: MockTestConfig) {
     }
     
     setIsSubmitting(false);
-  }, [user, config.testType, answers, calculateResults, queryClient]);
+  }, [user, config.testType, answers, calculateResults, queryClient, clearSavedProgress]);
   
   const enterReviewMode = useCallback(() => {
     setIsReviewMode(true);
     setCurrentIndex(0);
+  }, []);
+  
+  const exitReviewMode = useCallback(() => {
+    setIsReviewMode(false);
   }, []);
   
   const formatTime = useCallback((seconds: number) => {
@@ -273,6 +443,8 @@ export function useMockTest(config: MockTestConfig) {
     isSubmitting,
     testResult,
     isReviewMode,
+    testStarted,
+    sections,
     setAnswer,
     toggleFlag,
     goToQuestion,
@@ -280,8 +452,15 @@ export function useMockTest(config: MockTestConfig) {
     prevQuestion,
     getUnansweredCount,
     getFlaggedCount,
+    getUnansweredQuestions,
+    getFlaggedQuestions,
+    getAnsweredCount,
     submitTest,
     enterReviewMode,
-    formatTime
+    exitReviewMode,
+    formatTime,
+    startTest,
+    getCurrentSection,
+    totalTime: config.timeLimit
   };
 }
