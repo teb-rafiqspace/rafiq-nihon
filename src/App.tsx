@@ -13,6 +13,7 @@ import ChapterDetail from "./pages/ChapterDetail";
 import LessonView from "./pages/LessonView";
 import JLPTLessonView from "./pages/JLPTLessonView";
 import TimeScheduleLesson from "./pages/TimeScheduleLesson";
+import LocationLesson from "./pages/LocationLesson";
 import KanaLearn from "./pages/KanaLearn";
 import Practice from "./pages/Practice";
 import FlashcardView from "./pages/FlashcardView";
@@ -40,6 +41,7 @@ const App = () => (
             <Route path="/lesson/:lessonId" element={<LessonView />} />
             <Route path="/jlpt-lesson/:lessonId" element={<JLPTLessonView />} />
             <Route path="/time-lesson" element={<TimeScheduleLesson />} />
+            <Route path="/location-lesson" element={<LocationLesson />} />
             <Route path="/kana" element={<KanaLearn />} />
             <Route path="/practice" element={<Practice />} />
             <Route path="/flashcard" element={<FlashcardView />} />
