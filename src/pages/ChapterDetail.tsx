@@ -181,10 +181,16 @@ export default function ChapterDetail() {
                   transition={{ delay: index * 0.1 }}
                   onClick={() => {
                     if (isLocked) return;
-                    // Route to JLPT lesson view for JLPT chapters (identified by track)
-                    const isJLPT = chapter?.track === 'jlpt_n5';
-                    const route = isJLPT ? `/jlpt-lesson/${lesson.id}` : `/lesson/${lesson.id}`;
-                    navigate(route);
+                    // Route to special lesson views based on chapter
+                    if (chapter?.chapter_number === 3 && chapter?.track === 'jlpt_n5') {
+                      navigate('/location-lesson');
+                    } else if (chapter?.chapter_number === 2 && chapter?.track === 'jlpt_n5') {
+                      navigate('/time-lesson');
+                    } else {
+                      const isJLPT = chapter?.track === 'jlpt_n5';
+                      const route = isJLPT ? `/jlpt-lesson/${lesson.id}` : `/lesson/${lesson.id}`;
+                      navigate(route);
+                    }
                   }}
                   disabled={isLocked}
                   className={cn(
