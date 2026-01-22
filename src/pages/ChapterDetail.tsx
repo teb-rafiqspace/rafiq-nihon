@@ -179,7 +179,13 @@ export default function ChapterDetail() {
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: index * 0.1 }}
-                  onClick={() => !isLocked && navigate(`/lesson/${lesson.id}`)}
+                  onClick={() => {
+                    if (isLocked) return;
+                    // Route to JLPT lesson view for JLPT chapters (identified by track)
+                    const isJLPT = chapter?.track === 'jlpt_n5';
+                    const route = isJLPT ? `/jlpt-lesson/${lesson.id}` : `/lesson/${lesson.id}`;
+                    navigate(route);
+                  }}
                   disabled={isLocked}
                   className={cn(
                     "w-full p-4 flex items-center gap-4 border-b border-border last:border-b-0 text-left transition-colors",
