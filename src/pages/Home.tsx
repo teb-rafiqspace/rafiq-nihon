@@ -4,11 +4,11 @@ import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
 import { useProfile } from '@/hooks/useProfile';
 import { useAuth } from '@/lib/auth';
+import { LeaderboardCard } from '@/components/home/LeaderboardCard';
 import { 
   Flame, 
   Zap, 
   Star, 
-  BookOpen, 
   Layers, 
   Bot, 
   ChevronRight,
@@ -199,11 +199,21 @@ export default function Home() {
             </div>
           </motion.div>
           
-          {/* Explore Courses */}
+          {/* Leaderboard */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6 }}
+            className="mb-4"
+          >
+            <LeaderboardCard />
+          </motion.div>
+          
+          {/* Explore Courses */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.7 }}
           >
             <div className="flex items-center justify-between mb-3">
               <h2 className="font-semibold text-lg">Jelajahi Materi</h2>
