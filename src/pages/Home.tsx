@@ -14,8 +14,8 @@ import {
   Layers, 
   ChevronRight,
   Trophy,
-  Target,
-  FileText
+  Award,
+  Bot
 } from 'lucide-react';
 
 function getGreeting() {
@@ -213,32 +213,32 @@ export default function Home() {
               <Button
                 variant="action"
                 className="flex-col h-auto py-4"
-                onClick={() => navigate('/practice?tab=flashcard')}
+                onClick={() => navigate('/practice')}
               >
                 <div className="w-10 h-10 bg-gradient-secondary rounded-xl flex items-center justify-center mb-2">
                   <Layers className="h-5 w-5 text-secondary-foreground" />
                 </div>
-                <span className="text-xs">Flashcard</span>
+                <span className="text-xs">Latihan</span>
               </Button>
               <Button
                 variant="action"
                 className="flex-col h-auto py-4"
-                onClick={() => navigate('/practice?tab=quiz')}
+                onClick={() => navigate('/exam')}
               >
                 <div className="w-10 h-10 bg-gradient-success rounded-xl flex items-center justify-center mb-2">
-                  <Target className="h-5 w-5 text-success-foreground" />
+                  <Award className="h-5 w-5 text-success-foreground" />
                 </div>
-                <span className="text-xs">Kuis</span>
+                <span className="text-xs">Ujian</span>
               </Button>
               <Button
                 variant="action"
                 className="flex-col h-auto py-4"
-                onClick={() => navigate('/practice?tab=test')}
+                onClick={() => navigate('/chat')}
               >
                 <div className="w-10 h-10 bg-gradient-xp rounded-xl flex items-center justify-center mb-2">
-                  <FileText className="h-5 w-5 text-white" />
+                  <Bot className="h-5 w-5 text-white" />
                 </div>
-                <span className="text-xs">Tes</span>
+                <span className="text-xs">Rafiq Chat</span>
               </Button>
             </div>
           </motion.div>
