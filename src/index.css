@@ -16,8 +16,8 @@
     --popover: 0 0% 100%;
     --popover-foreground: 220 20% 20%;
 
-    /* Primary: Warm Red (Japan flag inspired) */
-    --primary: 1 77% 55%;
+    /* Primary: Soft Coral Red (Japan flag inspired, softened) */
+    --primary: 8 65% 58%;
     --primary-foreground: 0 0% 100%;
 
     /* Secondary: Trust Blue */
@@ -52,12 +52,12 @@
     --level: 199 89% 48%;
 
     /* Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(1, 77%, 55%) 0%, hsl(15, 85%, 55%) 100%);
+    --gradient-primary: linear-gradient(135deg, hsl(8, 65%, 58%) 0%, hsl(15, 70%, 62%) 100%);
     --gradient-secondary: linear-gradient(135deg, hsl(213, 80%, 42%) 0%, hsl(220, 75%, 55%) 100%);
     --gradient-success: linear-gradient(135deg, hsl(122, 39%, 49%) 0%, hsl(150, 50%, 50%) 100%);
-    --gradient-streak: linear-gradient(135deg, hsl(25, 95%, 53%) 0%, hsl(40, 100%, 60%) 100%);
+    --gradient-streak: linear-gradient(135deg, hsl(25, 85%, 58%) 0%, hsl(40, 90%, 62%) 100%);
     --gradient-xp: linear-gradient(135deg, hsl(262, 83%, 58%) 0%, hsl(280, 70%, 65%) 100%);
-    --gradient-hero: linear-gradient(180deg, hsl(1, 77%, 55%) 0%, hsl(340, 75%, 45%) 100%);
+    --gradient-hero: linear-gradient(180deg, hsl(8, 60%, 62%) 0%, hsl(355, 55%, 55%) 100%);
     
     /* Shadows */
     --shadow-card: 0 2px 8px -2px rgba(0, 0, 0, 0.08), 0 4px 16px -4px rgba(0, 0, 0, 0.06);
