@@ -9,15 +9,19 @@ import { useRafiqChat } from '@/hooks/useRafiqChat';
 import { ChatMessage } from '@/components/chat/ChatMessage';
 import { TypingIndicator } from '@/components/chat/TypingIndicator';
 import { SuggestedPrompts } from '@/components/chat/SuggestedPrompts';
-import { ChatLimitModal } from '@/components/chat/ChatLimitModal';
 import { WelcomeMessage } from '@/components/chat/WelcomeMessage';
 import { Skeleton } from '@/components/ui/skeleton';
+import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
+import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 
 export default function Chat() {
   const [input, setInput] = useState('');
-  const [showLimitModal, setShowLimitModal] = useState(false);
+  const [showPremiumModal, setShowPremiumModal] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const { user } = useAuth();
+  
+  const { data: subscription } = useSubscription();
+  const isPremium = isPremiumActive(subscription);
   
   const {
     messages,
@@ -39,8 +43,8 @@ export default function Chat() {
   const handleSend = async () => {
     if (!input.trim()) return;
     
-    if (remainingChats <= 0) {
-      setShowLimitModal(true);
+    if (!isPremium && remainingChats <= 0) {
+      setShowPremiumModal(true);
       return;
     }
     
@@ -52,8 +56,6 @@ export default function Chat() {
   const handleSuggestedPrompt = (prompt: string) => {
     setInput(prompt);
   };
-  
-  const isPremium = remainingChats > 100;
   
   return (
     <AppLayout>
@@ -71,7 +73,12 @@ export default function Chat() {
                   <p className="text-xs text-white/80">Tanya apa saja tentang bahasa Jepang</p>
                 </div>
               </div>
-              {!isPremium && (
+              {isPremium ? (
+                <div className="bg-gradient-to-r from-amber-500 to-orange-500 rounded-full px-3 py-1.5 flex items-center gap-1.5">
+                  <Crown className="h-4 w-4 text-white" />
+                  <span className="text-sm font-medium text-white">Premium</span>
+                </div>
+              ) : (
                 <div className="bg-white/20 backdrop-blur-sm rounded-full px-3 py-1.5 flex items-center gap-1.5">
                   <Sparkles className="h-4 w-4 text-yellow-300" />
                   <span className="text-sm font-medium text-white">{remainingChats}/5 tersisa</span>
@@ -128,7 +135,7 @@ export default function Chat() {
               <p className="flex-1 text-sm text-amber-800">
                 Upgrade ke Premium untuk chat tanpa batas!
               </p>
-              <Button variant="premium" size="sm">
+              <Button variant="premium" size="sm" onClick={() => setShowPremiumModal(true)}>
                 Upgrade
               </Button>
             </div>
@@ -141,9 +148,9 @@ export default function Chat() {
             <div className="flex gap-2">
               <Input
                 value={input}
-                onChange={(e) => setInput(e.target.value.slice(0, 500))}
+                onChange={(e) => setInput(e.target.value.slice(0, isPremium ? 2000 : 500))}
                 onKeyDown={(e) => e.key === 'Enter' && !e.shiftKey && handleSend()}
-                placeholder={remainingChats > 0 ? "Tanya Rafiq Sensei..." : "Upgrade untuk chat lagi"}
+                placeholder={isPremium || remainingChats > 0 ? "Tanya Rafiq Sensei..." : "Upgrade untuk chat lagi"}
                 disabled={isLoading}
                 className="flex-1"
               />
@@ -157,17 +164,17 @@ export default function Chat() {
             </div>
             {input.length > 0 && (
               <p className="text-[10px] text-muted-foreground text-right mt-1">
-                {input.length}/500
+                {input.length}/{isPremium ? 2000 : 500}
               </p>
             )}
           </div>
         </div>
       </div>
       
-      {/* Limit Modal */}
-      <ChatLimitModal 
-        isOpen={showLimitModal} 
-        onClose={() => setShowLimitModal(false)} 
+      {/* Premium Modal */}
+      <PremiumUpgradeModal 
+        isOpen={showPremiumModal} 
+        onClose={() => setShowPremiumModal(false)} 
       />
     </AppLayout>
   );

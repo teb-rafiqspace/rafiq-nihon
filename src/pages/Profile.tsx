@@ -17,40 +17,14 @@ import {
   LogOut,
   ChevronRight,
   Crown,
-  Check,
-  X
 } from 'lucide-react';
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-} from '@/components/ui/dialog';
+import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
+import { SubscriptionSection } from '@/components/subscription/SubscriptionSection';
 
 const menuItems = [
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },
   { icon: Bell, label: 'Notifikasi', path: '/notifications' },
   { icon: HelpCircle, label: 'Bantuan', path: '/help' },
-];
-
-const freePlanFeatures = [
-  { text: 'Akses Bab 1 semua jalur', included: true },
-  { text: '5 chat AI per hari', included: true },
-  { text: 'Flashcard dasar', included: true },
-  { text: 'Akses semua bab', included: false },
-  { text: 'Chat AI tanpa batas', included: false },
-  { text: 'Tes simulasi lengkap', included: false },
-  { text: 'Tanpa iklan', included: false },
-];
-
-const premiumPlanFeatures = [
-  { text: 'Akses Bab 1 semua jalur', included: true },
-  { text: '5 chat AI per hari', included: true },
-  { text: 'Flashcard dasar', included: true },
-  { text: 'Akses semua bab', included: true },
-  { text: 'Chat AI tanpa batas', included: true },
-  { text: 'Tes simulasi lengkap', included: true },
-  { text: 'Tanpa iklan', included: true },
 ];
 
 export default function Profile() {
@@ -158,6 +132,11 @@ export default function Profile() {
           </motion.div>
         </div>
         
+        {/* Subscription Section */}
+        <div className="container max-w-lg mx-auto px-4 mt-6">
+          <SubscriptionSection onUpgrade={() => setShowPremiumModal(true)} />
+        </div>
+        
         {/* Streak Calendar */}
         <div className="container max-w-lg mx-auto px-4 mt-6">
           <motion.div
@@ -213,31 +192,12 @@ export default function Profile() {
           </motion.div>
         </div>
         
-        {/* Upgrade Button */}
-        <div className="container max-w-lg mx-auto px-4 mt-6">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-          >
-            <Button 
-              variant="premium" 
-              size="xl" 
-              className="w-full"
-              onClick={() => setShowPremiumModal(true)}
-            >
-              <Crown className="h-5 w-5 mr-2" />
-              Upgrade ke Premium
-            </Button>
-          </motion.div>
-        </div>
-        
         {/* Menu */}
         <div className="container max-w-lg mx-auto px-4 mt-6">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.4 }}
+            transition={{ delay: 0.3 }}
             className="bg-card rounded-2xl shadow-card border border-border overflow-hidden"
           >
             {menuItems.map((item, i) => {
@@ -265,93 +225,10 @@ export default function Profile() {
       </div>
       
       {/* Premium Modal */}
-      <Dialog open={showPremiumModal} onOpenChange={setShowPremiumModal}>
-        <DialogContent className="max-w-lg mx-4">
-          <DialogHeader>
-            <DialogTitle className="flex items-center gap-2">
-              <Crown className="h-5 w-5 text-amber-500" />
-              Upgrade ke Premium
-            </DialogTitle>
-          </DialogHeader>
-          
-          <div className="mt-4">
-            {/* Plan Comparison */}
-            <div className="grid grid-cols-2 gap-4 mb-6">
-              {/* Free Plan */}
-              <div className="border border-border rounded-xl p-4">
-                <h4 className="font-semibold mb-2">Gratis</h4>
-                <p className="text-2xl font-bold mb-4">Rp 0</p>
-                <ul className="space-y-2">
-                  {freePlanFeatures.map((f, i) => (
-                    <li key={i} className="flex items-center gap-2 text-xs">
-                      {f.included ? (
-                        <Check className="h-4 w-4 text-success" />
-                      ) : (
-                        <X className="h-4 w-4 text-muted-foreground" />
-                      )}
-                      <span className={f.included ? '' : 'text-muted-foreground'}>{f.text}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              
-              {/* Premium Plan */}
-              <div className="border-2 border-amber-400 rounded-xl p-4 bg-gradient-to-br from-amber-50 to-orange-50 relative">
-                <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-gradient-to-r from-amber-400 to-orange-500 text-white text-xs font-bold px-3 py-1 rounded-full">
-                  POPULER
-                </div>
-                <h4 className="font-semibold mb-2">Premium</h4>
-                <div className="mb-4">
-                  <p className="text-2xl font-bold">Rp 49.000</p>
-                  <p className="text-xs text-muted-foreground">/bulan</p>
-                </div>
-                <ul className="space-y-2">
-                  {premiumPlanFeatures.map((f, i) => (
-                    <li key={i} className="flex items-center gap-2 text-xs">
-                      <Check className="h-4 w-4 text-success" />
-                      <span>{f.text}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-            
-            {/* Pricing Options */}
-            <div className="space-y-3">
-              <button className="w-full border-2 border-amber-400 rounded-xl p-4 text-left hover:bg-amber-50 transition-colors">
-                <div className="flex items-center justify-between">
-                  <div>
-                    <p className="font-semibold">Bulanan</p>
-                    <p className="text-sm text-muted-foreground">Rp 49.000/bulan</p>
-                  </div>
-                  <div className="w-5 h-5 border-2 border-amber-400 rounded-full" />
-                </div>
-              </button>
-              <button className="w-full border-2 border-amber-400 bg-amber-50 rounded-xl p-4 text-left relative">
-                <div className="absolute -top-2 -right-2 bg-success text-white text-xs font-bold px-2 py-0.5 rounded-full">
-                  Hemat 32%
-                </div>
-                <div className="flex items-center justify-between">
-                  <div>
-                    <p className="font-semibold">Tahunan</p>
-                    <p className="text-sm text-muted-foreground">Rp 399.000/tahun</p>
-                  </div>
-                  <div className="w-5 h-5 border-2 border-amber-400 rounded-full flex items-center justify-center">
-                    <div className="w-3 h-3 bg-amber-400 rounded-full" />
-                  </div>
-                </div>
-              </button>
-            </div>
-            
-            <Button variant="premium" size="xl" className="w-full mt-6">
-              Mulai 7 Hari Gratis
-            </Button>
-            <p className="text-xs text-center text-muted-foreground mt-3">
-              Dibatalkan kapan saja. Tidak ada komitmen.
-            </p>
-          </div>
-        </DialogContent>
-      </Dialog>
+      <PremiumUpgradeModal 
+        isOpen={showPremiumModal} 
+        onClose={() => setShowPremiumModal(false)} 
+      />
     </AppLayout>
   );
 }

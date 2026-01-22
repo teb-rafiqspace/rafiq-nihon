@@ -297,6 +297,7 @@ export type Database = {
           plan_type: string
           started_at: string
           status: string
+          trial_used: boolean
           user_id: string
         }
         Insert: {
@@ -307,6 +308,7 @@ export type Database = {
           plan_type?: string
           started_at?: string
           status?: string
+          trial_used?: boolean
           user_id: string
         }
         Update: {
@@ -317,6 +319,7 @@ export type Database = {
           plan_type?: string
           started_at?: string
           status?: string
+          trial_used?: boolean
           user_id?: string
         }
         Relationships: []
