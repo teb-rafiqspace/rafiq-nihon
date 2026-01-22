@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;500;700&family=Noto+Sans+JP:wght@300;400;500;700&family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,172 +6,103 @@
 
 @layer base {
   :root {
-    /* Sakura Theme Color Palette */
-    
-    /* Primary: Sakura Pink */
-    --sakura-50: 350 100% 98%;
-    --sakura-100: 350 100% 95%;
-    --sakura-200: 350 100% 90%;
-    --sakura-300: 350 100% 85%;
-    --sakura-400: 350 90% 78%;
-    --sakura-500: 350 100% 71%;
-    --sakura-600: 345 75% 60%;
-    --sakura-700: 345 60% 51%;
-    --sakura-800: 345 55% 41%;
-    --sakura-900: 345 50% 30%;
-    
-    /* Secondary: Matcha Green */
-    --matcha-50: 142 76% 97%;
-    --matcha-100: 141 84% 93%;
-    --matcha-200: 141 79% 85%;
-    --matcha-300: 142 77% 73%;
-    --matcha-400: 142 69% 58%;
-    --matcha-500: 142 71% 45%;
-    --matcha-600: 142 76% 36%;
-    
-    /* Accent: Kiniro Gold */
-    --kiniro-50: 48 100% 96%;
-    --kiniro-100: 48 96% 89%;
-    --kiniro-200: 48 97% 77%;
-    --kiniro-300: 46 97% 65%;
-    --kiniro-400: 43 96% 56%;
-    --kiniro-500: 38 92% 50%;
-    
-    /* Neutral: Sumi (Warm Gray) */
-    --sumi-50: 30 20% 98%;
-    --sumi-100: 30 17% 96%;
-    --sumi-200: 28 13% 90%;
-    --sumi-300: 24 10% 83%;
-    --sumi-400: 20 6% 64%;
-    --sumi-500: 18 4% 46%;
-    --sumi-600: 16 5% 34%;
-    --sumi-700: 14 6% 27%;
-    --sumi-800: 12 7% 16%;
-    --sumi-900: 10 9% 10%;
-    
-    /* Semantic mappings */
-    --background: 350 50% 99%;
-    --foreground: 10 9% 10%;
+    /* Rafiq Nihon Color Palette */
+    --background: 0 0% 98%;
+    --foreground: 220 20% 20%;
 
     --card: 0 0% 100%;
-    --card-foreground: 10 9% 10%;
+    --card-foreground: 220 20% 20%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 10 9% 10%;
+    --popover-foreground: 220 20% 20%;
 
-    /* Primary: Sakura Pink */
-    --primary: 350 100% 71%;
+    /* Primary: Warm Red (Japan flag inspired) */
+    --primary: 1 77% 55%;
     --primary-foreground: 0 0% 100%;
 
-    /* Secondary: Matcha Green */
-    --secondary: 142 71% 45%;
+    /* Secondary: Trust Blue */
+    --secondary: 213 80% 42%;
     --secondary-foreground: 0 0% 100%;
 
-    --muted: 30 17% 96%;
-    --muted-foreground: 18 4% 46%;
+    --muted: 220 14% 96%;
+    --muted-foreground: 220 10% 45%;
 
-    /* Accent: Kiniro Gold */
-    --accent: 43 96% 56%;
-    --accent-foreground: 30 80% 20%;
+    /* Accent: Success Green */
+    --accent: 122 39% 49%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 350 30% 92%;
-    --input: 350 30% 92%;
-    --ring: 350 100% 71%;
+    --border: 220 13% 91%;
+    --input: 220 13% 91%;
+    --ring: 1 77% 55%;
 
     --radius: 1rem;
 
-    /* Custom semantic colors */
+    /* Custom colors */
     --warning: 43 96% 56%;
     --warning-foreground: 30 80% 20%;
     
-    --success: 142 71% 45%;
+    --success: 122 39% 49%;
     --success-foreground: 0 0% 100%;
-    
-    --info: 217 91% 60%;
-    --info-foreground: 0 0% 100%;
     
     --streak: 25 95% 53%;
     --xp: 262 83% 58%;
     --level: 199 89% 48%;
 
     /* Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(350, 100%, 71%) 0%, hsl(340, 85%, 65%) 100%);
-    --gradient-secondary: linear-gradient(135deg, hsl(142, 71%, 45%) 0%, hsl(150, 60%, 50%) 100%);
-    --gradient-success: linear-gradient(135deg, hsl(142, 71%, 45%) 0%, hsl(150, 60%, 55%) 100%);
+    --gradient-primary: linear-gradient(135deg, hsl(1, 77%, 55%) 0%, hsl(15, 85%, 55%) 100%);
+    --gradient-secondary: linear-gradient(135deg, hsl(213, 80%, 42%) 0%, hsl(220, 75%, 55%) 100%);
+    --gradient-success: linear-gradient(135deg, hsl(122, 39%, 49%) 0%, hsl(150, 50%, 50%) 100%);
     --gradient-streak: linear-gradient(135deg, hsl(25, 95%, 53%) 0%, hsl(40, 100%, 60%) 100%);
     --gradient-xp: linear-gradient(135deg, hsl(262, 83%, 58%) 0%, hsl(280, 70%, 65%) 100%);
-    --gradient-hero: linear-gradient(180deg, hsl(350, 100%, 71%) 0%, hsl(340, 75%, 60%) 100%);
-    --gradient-sakura: linear-gradient(135deg, hsl(350, 100%, 95%) 0%, hsl(350, 100%, 98%) 50%, hsl(350, 100%, 95%) 100%);
-    --gradient-kiniro: linear-gradient(135deg, hsl(43, 96%, 56%) 0%, hsl(38, 92%, 50%) 100%);
+    --gradient-hero: linear-gradient(180deg, hsl(1, 77%, 55%) 0%, hsl(340, 75%, 45%) 100%);
     
     /* Shadows */
-    --shadow-card: 0 2px 8px -2px rgba(255, 107, 138, 0.08), 0 4px 16px -4px rgba(255, 107, 138, 0.06);
-    --shadow-elevated: 0 8px 24px -8px rgba(255, 107, 138, 0.15), 0 16px 32px -16px rgba(255, 107, 138, 0.1);
-    --shadow-button: 0 4px 12px -2px rgba(255, 107, 138, 0.4);
-    --shadow-sakura: 0 4px 20px -4px rgba(255, 107, 138, 0.3);
-    --shadow-matcha: 0 4px 12px -2px rgba(34, 197, 94, 0.35);
-    --shadow-kiniro: 0 4px 12px -2px rgba(251, 191, 36, 0.35);
+    --shadow-card: 0 2px 8px -2px rgba(0, 0, 0, 0.08), 0 4px 16px -4px rgba(0, 0, 0, 0.06);
+    --shadow-elevated: 0 8px 24px -8px rgba(0, 0, 0, 0.12), 0 16px 32px -16px rgba(0, 0, 0, 0.1);
+    --shadow-button: 0 4px 12px -2px rgba(229, 57, 53, 0.35);
+    --shadow-blue: 0 4px 12px -2px rgba(21, 101, 192, 0.35);
     
-    --sidebar-background: 350 50% 99%;
-    --sidebar-foreground: 10 9% 10%;
-    --sidebar-primary: 350 100% 71%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 350 100% 95%;
-    --sidebar-accent-foreground: 10 9% 10%;
-    --sidebar-border: 350 30% 92%;
-    --sidebar-ring: 350 100% 71%;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
   }
 
   .dark {
-    --background: 10 9% 10%;
-    --foreground: 30 20% 98%;
-    
-    --card: 12 7% 16%;
-    --card-foreground: 30 20% 98%;
-    
-    --popover: 12 7% 16%;
-    --popover-foreground: 30 20% 98%;
-    
-    /* Sakura stays vibrant in dark mode */
-    --primary: 350 90% 78%;
-    --primary-foreground: 10 9% 10%;
-    
-    --secondary: 142 69% 58%;
-    --secondary-foreground: 10 9% 10%;
-    
-    --muted: 14 6% 22%;
-    --muted-foreground: 24 10% 70%;
-    
-    --accent: 46 97% 65%;
-    --accent-foreground: 10 9% 10%;
-    
+    --background: 220 20% 10%;
+    --foreground: 0 0% 95%;
+    --card: 220 18% 14%;
+    --card-foreground: 0 0% 95%;
+    --popover: 220 18% 14%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 1 77% 55%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 213 70% 50%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 220 15% 20%;
+    --muted-foreground: 220 10% 60%;
+    --accent: 122 39% 49%;
+    --accent-foreground: 0 0% 100%;
     --destructive: 0 70% 50%;
     --destructive-foreground: 0 0% 100%;
-    
-    --border: 14 6% 22%;
-    --input: 14 6% 22%;
-    --ring: 350 90% 78%;
-    
-    --gradient-primary: linear-gradient(135deg, hsl(350, 90%, 78%) 0%, hsl(340, 80%, 70%) 100%);
-    --gradient-secondary: linear-gradient(135deg, hsl(142, 69%, 58%) 0%, hsl(150, 55%, 55%) 100%);
-    --gradient-hero: linear-gradient(180deg, hsl(350, 90%, 78%) 0%, hsl(340, 70%, 65%) 100%);
-    
-    --shadow-card: 0 2px 8px -2px rgba(0, 0, 0, 0.3), 0 4px 16px -4px rgba(0, 0, 0, 0.25);
-    --shadow-elevated: 0 8px 24px -8px rgba(0, 0, 0, 0.4), 0 16px 32px -16px rgba(0, 0, 0, 0.35);
-    --shadow-button: 0 4px 12px -2px rgba(255, 143, 163, 0.3);
-    --shadow-sakura: 0 4px 20px -4px rgba(255, 143, 163, 0.25);
-    
-    --sidebar-background: 12 7% 14%;
-    --sidebar-foreground: 30 20% 98%;
-    --sidebar-primary: 350 90% 78%;
-    --sidebar-primary-foreground: 10 9% 10%;
-    --sidebar-accent: 14 6% 20%;
-    --sidebar-accent-foreground: 30 20% 98%;
-    --sidebar-border: 14 6% 22%;
-    --sidebar-ring: 350 90% 78%;
+    --border: 220 15% 22%;
+    --input: 220 15% 22%;
+    --ring: 1 77% 55%;
+    --sidebar-background: 220 20% 12%;
+    --sidebar-foreground: 0 0% 95%;
+    --sidebar-primary: 1 77% 55%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 15% 18%;
+    --sidebar-accent-foreground: 0 0% 95%;
+    --sidebar-border: 220 15% 20%;
+    --sidebar-ring: 1 77% 55%;
   }
 }
 
@@ -191,18 +122,6 @@
   /* Japanese text styling */
   .font-jp {
     font-family: 'Noto Sans JP', sans-serif;
-  }
-  
-  /* Display font for headings */
-  .font-display {
-    font-family: 'Zen Maru Gothic', 'Noto Sans JP', system-ui, sans-serif;
-  }
-  
-  /* Japanese text - larger for readability */
-  .text-japanese {
-    font-family: 'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif;
-    font-size: 1.1em;
-    line-height: 1.8;
   }
 }
 
@@ -232,14 +151,6 @@
     background: var(--gradient-hero);
   }
   
-  .bg-gradient-sakura {
-    background: var(--gradient-sakura);
-  }
-  
-  .bg-gradient-kiniro {
-    background: var(--gradient-kiniro);
-  }
-  
   /* Custom shadow classes */
   .shadow-card {
     box-shadow: var(--shadow-card);
@@ -253,16 +164,8 @@
     box-shadow: var(--shadow-button);
   }
   
-  .shadow-sakura {
-    box-shadow: var(--shadow-sakura);
-  }
-  
-  .shadow-matcha {
-    box-shadow: var(--shadow-matcha);
-  }
-  
-  .shadow-kiniro {
-    box-shadow: var(--shadow-kiniro);
+  .shadow-blue {
+    box-shadow: var(--shadow-blue);
   }
   
   /* Safe area for mobile */
@@ -287,21 +190,13 @@
 
 /* Custom animations */
 @keyframes float {
-  0%, 100% { 
-    transform: translateY(0) rotate(0deg); 
-  }
-  50% { 
-    transform: translateY(-10px) rotate(5deg); 
-  }
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
 }
 
-@keyframes pulse-sakura {
-  0%, 100% { 
-    box-shadow: 0 0 0 0 rgba(255, 107, 138, 0.4); 
-  }
-  50% { 
-    box-shadow: 0 0 0 15px rgba(255, 107, 138, 0); 
-  }
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(229, 57, 53, 0.4); }
+  50% { box-shadow: 0 0 20px 10px rgba(229, 57, 53, 0); }
 }
 
 @keyframes shimmer {
@@ -315,127 +210,20 @@
   100% { transform: scale(1); opacity: 1; }
 }
 
-@keyframes bloom {
-  0% {
-    transform: scale(0) rotate(-45deg);
-    opacity: 0;
-  }
-  50% {
-    transform: scale(1.2) rotate(0deg);
-    opacity: 1;
-  }
-  100% {
-    transform: scale(1) rotate(0deg);
-    opacity: 1;
-  }
-}
-
-@keyframes fall {
-  0% {
-    transform: translateY(-10vh) rotate(0deg) translateX(0);
-    opacity: 0;
-  }
-  10% {
-    opacity: 0.8;
-  }
-  90% {
-    opacity: 0.6;
-  }
-  100% {
-    transform: translateY(110vh) rotate(720deg) translateX(50px);
-    opacity: 0;
-  }
-}
-
-@keyframes sway {
-  0%, 100% {
-    transform: translateX(0) rotate(0deg);
-  }
-  25% {
-    transform: translateX(15px) rotate(10deg);
-  }
-  75% {
-    transform: translateX(-15px) rotate(-10deg);
-  }
-}
-
-@keyframes petal-drift {
-  0% {
-    transform: translateY(0) translateX(0) rotate(0deg);
-    opacity: 0;
-  }
-  10% {
-    opacity: 1;
-  }
-  90% {
-    opacity: 0.8;
-  }
-  100% {
-    transform: translateY(100vh) translateX(100px) rotate(360deg);
-    opacity: 0;
-  }
-}
-
 .animate-float {
   animation: float 3s ease-in-out infinite;
 }
 
-.animate-pulse-sakura {
-  animation: pulse-sakura 2s ease-in-out infinite;
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
 }
 
 .animate-shimmer {
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    rgba(255, 255, 255, 0.4) 50%,
-    transparent 100%
-  );
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
   background-size: 200% 100%;
-  animation: shimmer 2s infinite;
+  animation: shimmer 1.5s infinite;
 }
 
 .animate-bounce-in {
   animation: bounce-in 0.5s ease-out;
-}
-
-.animate-bloom {
-  animation: bloom 0.5s ease-out forwards;
-}
-
-.animate-fall {
-  animation: fall linear infinite;
-}
-
-.animate-sway {
-  animation: sway 4s ease-in-out infinite;
-}
-
-.animate-petal-drift {
-  animation: petal-drift linear infinite;
-}
-
-/* Respect reduced motion preferences */
-@media (prefers-reduced-motion: reduce) {
-  .animate-fall,
-  .animate-float,
-  .animate-bounce,
-  .animate-bounce-in,
-  .animate-bloom,
-  .animate-sway,
-  .animate-petal-drift,
-  .animate-pulse-sakura {
-    animation: none;
-  }
-}
-
-/* Focus states with sakura ring */
-.focus-sakura:focus {
-  outline: none;
-  box-shadow: 0 0 0 4px hsl(350 100% 90%);
-}
-
-.focus-sakura:focus-visible {
-  outline: none;
-  box-shadow: 0 0 0 4px hsl(350 100% 90%);
 }
