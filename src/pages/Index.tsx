@@ -6,6 +6,7 @@ import { useAuth } from '@/lib/auth';
 import { useProfile } from '@/hooks/useProfile';
 import { ArrowRight, Sparkles, BookOpen, Bot, Trophy } from 'lucide-react';
 import linguaLogo from '@/assets/lingua-logo.png';
+import poweredByLogo from '@/assets/powered-by-logo.png';
 
 export default function Index() {
   const navigate = useNavigate();
@@ -48,7 +49,7 @@ export default function Index() {
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ type: "spring", duration: 0.6 }}
-            className="w-40 h-40 mx-auto mb-6 flex items-center justify-center"
+            className="w-40 h-40 mx-auto mb-2 flex items-center justify-center"
           >
             <img 
               src={linguaLogo} 
@@ -61,7 +62,7 @@ export default function Index() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
-            className="text-center text-primary-foreground/90 text-lg mb-8"
+            className="text-center text-primary-foreground/90 text-lg mb-6"
           >
             Teman setia belajar bahasa Jepang
           </motion.p>
@@ -71,7 +72,7 @@ export default function Index() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
-            className="grid grid-cols-3 gap-4 mb-8"
+            className="grid grid-cols-3 gap-4 mb-4"
           >
             <div className="text-center">
               <div className="w-12 h-12 bg-white/20 backdrop-blur-sm rounded-xl mx-auto mb-2 flex items-center justify-center">
@@ -91,6 +92,21 @@ export default function Index() {
               </div>
               <p className="text-xs text-primary-foreground/80">Gamifikasi</p>
             </div>
+          </motion.div>
+          
+          {/* Powered by */}
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.5 }}
+            className="flex items-center justify-center gap-2 mb-4"
+          >
+            <span className="text-xs text-primary-foreground/60">powered by</span>
+            <img 
+              src={poweredByLogo} 
+              alt="Powered by" 
+              className="h-5 object-contain"
+            />
           </motion.div>
         </div>
       </div>
