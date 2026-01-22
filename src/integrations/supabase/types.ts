@@ -416,6 +416,42 @@ export type Database = {
           },
         ]
       }
+      time_vocabulary: {
+        Row: {
+          created_at: string
+          exception_note: string | null
+          id: string
+          is_exception: boolean | null
+          japanese: string
+          meaning_id: string
+          order_index: number
+          reading: string
+          type: string
+        }
+        Insert: {
+          created_at?: string
+          exception_note?: string | null
+          id: string
+          is_exception?: boolean | null
+          japanese: string
+          meaning_id: string
+          order_index?: number
+          reading: string
+          type: string
+        }
+        Update: {
+          created_at?: string
+          exception_note?: string | null
+          id?: string
+          is_exception?: boolean | null
+          japanese?: string
+          meaning_id?: string
+          order_index?: number
+          reading?: string
+          type?: string
+        }
+        Relationships: []
+      }
       user_badges: {
         Row: {
           badge_id: string
