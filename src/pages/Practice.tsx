@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
@@ -35,8 +35,10 @@ const mockTests = [
 
 export default function Practice() {
   const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
   const { user } = useAuth();
-  const [activeTab, setActiveTab] = useState<PracticeTab>('flashcard');
+  const initialTab = (searchParams.get('tab') as PracticeTab) || 'flashcard';
+  const [activeTab, setActiveTab] = useState<PracticeTab>(initialTab);
   const [showPremiumModal, setShowPremiumModal] = useState(false);
   
   const { data: subscription } = useSubscription();
