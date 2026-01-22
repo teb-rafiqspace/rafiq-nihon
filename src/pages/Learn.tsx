@@ -1,17 +1,20 @@
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
 import { useQuery } from '@tanstack/react-query';
 import { supabase } from '@/integrations/supabase/client';
-import { useProfile } from '@/hooks/useProfile';
-import { Lock, CheckCircle, ChevronRight, BookOpen } from 'lucide-react';
+import { useAuth } from '@/lib/auth';
+import { Lock, CheckCircle, ChevronRight, BookOpen, Clock } from 'lucide-react';
+import { cn } from '@/lib/utils';
 
 type Track = 'kemnaker' | 'jlpt_n5';
 
 export default function Learn() {
   const [activeTrack, setActiveTrack] = useState<Track>('kemnaker');
-  const { data: profile } = useProfile();
+  const navigate = useNavigate();
+  const { user } = useAuth();
   
   const { data: chapters, isLoading } = useQuery({
     queryKey: ['chapters', activeTrack],
@@ -26,6 +29,34 @@ export default function Learn() {
       return data;
     },
   });
+  
+  // Fetch user progress for all chapters
+  const { data: userProgress } = useQuery({
+    queryKey: ['user-chapter-progress', user?.id],
+    queryFn: async () => {
+      if (!user?.id) return [];
+      
+      const { data, error } = await supabase
+        .from('user_progress')
+        .select('chapter_id, lesson_id, completed')
+        .eq('user_id', user.id);
+      
+      if (error) throw error;
+      return data;
+    },
+    enabled: !!user?.id,
+  });
+  
+  // Calculate chapter progress
+  const getChapterProgress = (chapterId: string, lessonCount: number) => {
+    if (!userProgress || lessonCount === 0) return 0;
+    
+    const completedLessons = userProgress.filter(
+      p => p.chapter_id === chapterId && p.completed
+    ).length;
+    
+    return Math.round((completedLessons / lessonCount) * 100);
+  };
   
   return (
     <AppLayout>
@@ -49,23 +80,32 @@ export default function Learn() {
         
         {/* Track Tabs */}
         <div className="container max-w-lg mx-auto px-4 -mt-4">
-          <div className="bg-card rounded-2xl shadow-elevated p-1.5 flex gap-1">
-            <Button
-              variant="tab"
-              data-active={activeTrack === 'kemnaker'}
-              className="flex-1"
+          <div className="bg-card rounded-2xl shadow-elevated p-1 flex relative">
+            {/* Animated Indicator */}
+            <motion.div
+              className="absolute top-1 bottom-1 w-[calc(50%-4px)] bg-primary rounded-xl"
+              animate={{ x: activeTrack === 'kemnaker' ? 0 : 'calc(100% + 4px)' }}
+              transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            />
+            
+            <button
+              className={cn(
+                "flex-1 py-3 px-4 rounded-xl font-medium text-sm relative z-10 transition-colors",
+                activeTrack === 'kemnaker' ? "text-primary-foreground" : "text-muted-foreground"
+              )}
               onClick={() => setActiveTrack('kemnaker')}
             >
               🏭 Kemnaker
-            </Button>
-            <Button
-              variant="tab"
-              data-active={activeTrack === 'jlpt_n5'}
-              className="flex-1"
+            </button>
+            <button
+              className={cn(
+                "flex-1 py-3 px-4 rounded-xl font-medium text-sm relative z-10 transition-colors",
+                activeTrack === 'jlpt_n5' ? "text-primary-foreground" : "text-muted-foreground"
+              )}
               onClick={() => setActiveTrack('jlpt_n5')}
             >
               📜 JLPT N5
-            </Button>
+            </button>
           </div>
         </div>
         
@@ -81,12 +121,13 @@ export default function Learn() {
             >
               {isLoading ? (
                 Array.from({ length: 4 }).map((_, i) => (
-                  <div key={i} className="bg-card rounded-xl p-4 animate-pulse">
+                  <div key={i} className="bg-card rounded-2xl p-4 animate-pulse">
                     <div className="flex gap-4">
                       <div className="w-14 h-14 bg-muted rounded-xl" />
                       <div className="flex-1">
                         <div className="h-4 bg-muted rounded w-3/4 mb-2" />
-                        <div className="h-3 bg-muted rounded w-1/2" />
+                        <div className="h-3 bg-muted rounded w-1/2 mb-3" />
+                        <div className="h-2 bg-muted rounded w-full" />
                       </div>
                     </div>
                   </div>
@@ -94,7 +135,9 @@ export default function Learn() {
               ) : (
                 chapters?.map((chapter, index) => {
                   const isLocked = !chapter.is_free && index > 0;
-                  const progress: number = index === 0 ? 25 : 0;
+                  const progress = getChapterProgress(chapter.id, chapter.lesson_count || 0);
+                  const isCompleted = progress === 100;
+                  const estimatedMinutes = (chapter.lesson_count || 0) * 5;
                   
                   return (
                     <motion.button
@@ -102,46 +145,81 @@ export default function Learn() {
                       initial={{ opacity: 0, y: 20 }}
                       animate={{ opacity: 1, y: 0 }}
                       transition={{ delay: index * 0.1 }}
-                      className={`w-full bg-card rounded-xl p-4 text-left shadow-card hover:shadow-elevated transition-all border border-border ${
-                        isLocked ? 'opacity-60' : ''
-                      }`}
+                      onClick={() => !isLocked && navigate(`/chapter/${chapter.id}`)}
+                      className={cn(
+                        "w-full bg-card rounded-2xl p-4 text-left shadow-card hover:shadow-elevated transition-all border border-border",
+                        isLocked && "opacity-60 cursor-not-allowed",
+                        isCompleted && "border-success/50 bg-success/5"
+                      )}
                       disabled={isLocked}
                     >
-                      <div className="flex items-center gap-4">
-                        <div className={`w-14 h-14 rounded-xl flex items-center justify-center text-2xl ${
-                          isLocked ? 'bg-muted' : 'bg-gradient-primary'
-                        }`}>
+                      <div className="flex items-start gap-4">
+                        {/* Chapter Icon */}
+                        <div className={cn(
+                          "w-14 h-14 rounded-xl flex items-center justify-center text-2xl flex-shrink-0",
+                          isLocked && "bg-muted",
+                          isCompleted && "bg-success",
+                          !isLocked && !isCompleted && "bg-gradient-primary"
+                        )}>
                           {isLocked ? (
                             <Lock className="h-6 w-6 text-muted-foreground" />
+                          ) : isCompleted ? (
+                            <CheckCircle className="h-6 w-6 text-white" />
                           ) : (
                             <span className="text-primary-foreground font-bold">{chapter.chapter_number}</span>
                           )}
                         </div>
+                        
+                        {/* Chapter Info */}
                         <div className="flex-1 min-w-0">
-                          <div className="flex items-center gap-2">
-                            <h3 className="font-jp font-semibold truncate">{chapter.title_jp}</h3>
-                            {progress === 100 && (
-                              <CheckCircle className="h-4 w-4 text-success flex-shrink-0" />
+                          <div className="flex items-center gap-2 mb-0.5">
+                            <span className="text-xs text-muted-foreground">Bab {chapter.chapter_number}</span>
+                            {isCompleted && (
+                              <span className="text-xs bg-success/10 text-success px-2 py-0.5 rounded-full">
+                                Selesai
+                              </span>
                             )}
                           </div>
-                          <p className="text-sm text-muted-foreground truncate">{chapter.title_id}</p>
-                          <div className="flex items-center gap-2 mt-2">
-                            <div className="flex-1 h-1.5 bg-muted rounded-full overflow-hidden">
-                              <div 
-                                className="h-full bg-gradient-primary rounded-full transition-all"
-                                style={{ width: `${progress}%` }}
+                          <h3 className="font-jp font-semibold text-lg leading-tight mb-0.5">
+                            {chapter.title_jp}
+                          </h3>
+                          <p className="text-sm text-muted-foreground mb-3">
+                            {chapter.title_id}
+                          </p>
+                          
+                          {/* Progress Bar */}
+                          <div className="flex items-center gap-3">
+                            <div className="flex-1 h-2 bg-muted rounded-full overflow-hidden">
+                              <motion.div 
+                                className={cn(
+                                  "h-full rounded-full",
+                                  isCompleted ? "bg-success" : "bg-gradient-primary"
+                                )}
+                                initial={{ width: 0 }}
+                                animate={{ width: `${progress}%` }}
+                                transition={{ duration: 0.5, delay: index * 0.1 }}
                               />
                             </div>
-                            <span className="text-xs text-muted-foreground">{progress}%</span>
+                            <span className="text-xs font-medium text-muted-foreground w-10">
+                              {progress}%
+                            </span>
+                          </div>
+                          
+                          {/* Meta Info */}
+                          <div className="flex items-center gap-3 mt-2 text-xs text-muted-foreground">
+                            <div className="flex items-center gap-1">
+                              <BookOpen className="h-3 w-3" />
+                              <span>{chapter.lesson_count} Pelajaran</span>
+                            </div>
+                            <div className="flex items-center gap-1">
+                              <Clock className="h-3 w-3" />
+                              <span>{estimatedMinutes} menit</span>
+                            </div>
                           </div>
                         </div>
-                        <div className="flex flex-col items-end">
-                          <div className="flex items-center gap-1 text-xs text-muted-foreground mb-2">
-                            <BookOpen className="h-3 w-3" />
-                            <span>{chapter.lesson_count}</span>
-                          </div>
-                          <ChevronRight className="h-5 w-5 text-muted-foreground" />
-                        </div>
+                        
+                        {/* Arrow */}
+                        <ChevronRight className="h-5 w-5 text-muted-foreground flex-shrink-0 mt-4" />
                       </div>
                     </motion.button>
                   );
