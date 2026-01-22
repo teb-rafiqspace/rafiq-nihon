@@ -110,6 +110,157 @@ export type Database = {
         }
         Relationships: []
       }
+      flashcard_cards: {
+        Row: {
+          audio_url: string | null
+          back_example: string | null
+          back_reading: string | null
+          back_subtext: string | null
+          back_text: string
+          created_at: string | null
+          deck_id: string | null
+          difficulty: number | null
+          front_image_url: string | null
+          front_subtext: string | null
+          front_text: string
+          id: string
+          order_index: number | null
+          tags: string[] | null
+        }
+        Insert: {
+          audio_url?: string | null
+          back_example?: string | null
+          back_reading?: string | null
+          back_subtext?: string | null
+          back_text: string
+          created_at?: string | null
+          deck_id?: string | null
+          difficulty?: number | null
+          front_image_url?: string | null
+          front_subtext?: string | null
+          front_text: string
+          id: string
+          order_index?: number | null
+          tags?: string[] | null
+        }
+        Update: {
+          audio_url?: string | null
+          back_example?: string | null
+          back_reading?: string | null
+          back_subtext?: string | null
+          back_text?: string
+          created_at?: string | null
+          deck_id?: string | null
+          difficulty?: number | null
+          front_image_url?: string | null
+          front_subtext?: string | null
+          front_text?: string
+          id?: string
+          order_index?: number | null
+          tags?: string[] | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "flashcard_cards_deck_id_fkey"
+            columns: ["deck_id"]
+            isOneToOne: false
+            referencedRelation: "flashcard_decks"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      flashcard_decks: {
+        Row: {
+          card_count: number | null
+          category: string
+          color: string | null
+          created_at: string | null
+          description: string | null
+          icon_name: string | null
+          id: string
+          is_premium: boolean | null
+          order_index: number | null
+          title_id: string
+          title_jp: string
+          track: string | null
+        }
+        Insert: {
+          card_count?: number | null
+          category: string
+          color?: string | null
+          created_at?: string | null
+          description?: string | null
+          icon_name?: string | null
+          id: string
+          is_premium?: boolean | null
+          order_index?: number | null
+          title_id: string
+          title_jp: string
+          track?: string | null
+        }
+        Update: {
+          card_count?: number | null
+          category?: string
+          color?: string | null
+          created_at?: string | null
+          description?: string | null
+          icon_name?: string | null
+          id?: string
+          is_premium?: boolean | null
+          order_index?: number | null
+          title_id?: string
+          title_jp?: string
+          track?: string | null
+        }
+        Relationships: []
+      }
+      flashcard_sessions: {
+        Row: {
+          cards_correct: number | null
+          cards_incorrect: number | null
+          cards_studied: number | null
+          completed_at: string | null
+          deck_id: string | null
+          id: string
+          started_at: string | null
+          time_spent_seconds: number | null
+          user_id: string
+          xp_earned: number | null
+        }
+        Insert: {
+          cards_correct?: number | null
+          cards_incorrect?: number | null
+          cards_studied?: number | null
+          completed_at?: string | null
+          deck_id?: string | null
+          id?: string
+          started_at?: string | null
+          time_spent_seconds?: number | null
+          user_id: string
+          xp_earned?: number | null
+        }
+        Update: {
+          cards_correct?: number | null
+          cards_incorrect?: number | null
+          cards_studied?: number | null
+          completed_at?: string | null
+          deck_id?: string | null
+          id?: string
+          started_at?: string | null
+          time_spent_seconds?: number | null
+          user_id?: string
+          xp_earned?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "flashcard_sessions_deck_id_fkey"
+            columns: ["deck_id"]
+            isOneToOne: false
+            referencedRelation: "flashcard_decks"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       kana_characters: {
         Row: {
           audio_url: string | null
@@ -477,6 +628,72 @@ export type Database = {
             columns: ["badge_id"]
             isOneToOne: false
             referencedRelation: "badges"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_flashcard_progress: {
+        Row: {
+          card_id: string | null
+          correct_count: number | null
+          created_at: string | null
+          deck_id: string | null
+          ease_factor: number | null
+          id: string
+          incorrect_count: number | null
+          interval_days: number | null
+          last_reviewed_at: string | null
+          next_review_at: string | null
+          repetitions: number | null
+          status: string | null
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          card_id?: string | null
+          correct_count?: number | null
+          created_at?: string | null
+          deck_id?: string | null
+          ease_factor?: number | null
+          id?: string
+          incorrect_count?: number | null
+          interval_days?: number | null
+          last_reviewed_at?: string | null
+          next_review_at?: string | null
+          repetitions?: number | null
+          status?: string | null
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          card_id?: string | null
+          correct_count?: number | null
+          created_at?: string | null
+          deck_id?: string | null
+          ease_factor?: number | null
+          id?: string
+          incorrect_count?: number | null
+          interval_days?: number | null
+          last_reviewed_at?: string | null
+          next_review_at?: string | null
+          repetitions?: number | null
+          status?: string | null
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_flashcard_progress_card_id_fkey"
+            columns: ["card_id"]
+            isOneToOne: false
+            referencedRelation: "flashcard_cards"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_flashcard_progress_deck_id_fkey"
+            columns: ["deck_id"]
+            isOneToOne: false
+            referencedRelation: "flashcard_decks"
             referencedColumns: ["id"]
           },
         ]
