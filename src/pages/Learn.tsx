@@ -137,6 +137,50 @@ export default function Learn() {
         
         {/* Chapters List */}
         <div className="container max-w-lg mx-auto px-4 py-6">
+          {/* Kana Learning Section for JLPT N5 */}
+          {activeTrack === 'jlpt_n5' && (
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="mb-6"
+            >
+              <h2 className="font-semibold text-lg mb-3">📝 Dasar Huruf Jepang</h2>
+              <button
+                onClick={() => navigate('/kana')}
+                className="w-full bg-gradient-to-r from-pink-50 to-red-50 dark:from-pink-950/30 dark:to-red-950/30 rounded-2xl p-4 text-left border border-pink-200 dark:border-pink-800 hover:border-primary/50 transition-all"
+              >
+                <div className="flex items-start gap-4">
+                  <div className="w-14 h-14 rounded-xl bg-gradient-primary flex items-center justify-center text-2xl font-jp text-white font-bold">
+                    あ
+                  </div>
+                  <div className="flex-1">
+                    <h3 className="font-semibold text-lg">Hiragana & Katakana</h3>
+                    <p className="text-sm text-muted-foreground mb-2">
+                      Pelajari 92 karakter dasar bahasa Jepang
+                    </p>
+                    <div className="flex items-center gap-2 text-xs">
+                      <span className="bg-primary/10 text-primary px-2 py-0.5 rounded-full">
+                        Interaktif
+                      </span>
+                      <span className="bg-secondary/10 text-secondary px-2 py-0.5 rounded-full">
+                        Audio
+                      </span>
+                      <span className="bg-success/10 text-success px-2 py-0.5 rounded-full">
+                        Kuis
+                      </span>
+                    </div>
+                  </div>
+                  <ChevronRight className="h-5 w-5 text-muted-foreground mt-4" />
+                </div>
+              </button>
+            </motion.div>
+          )}
+          
+          {/* Chapter Title */}
+          {activeTrack === 'jlpt_n5' && (
+            <h2 className="font-semibold text-lg mb-3">📚 Bab Pembelajaran</h2>
+          )}
+          
           <AnimatePresence mode="wait">
             <motion.div
               key={activeTrack}

@@ -11,6 +11,7 @@ import Home from "./pages/Home";
 import Learn from "./pages/Learn";
 import ChapterDetail from "./pages/ChapterDetail";
 import LessonView from "./pages/LessonView";
+import KanaLearn from "./pages/KanaLearn";
 import Practice from "./pages/Practice";
 import FlashcardView from "./pages/FlashcardView";
 import MockTestView from "./pages/MockTestView";
@@ -35,6 +36,7 @@ const App = () => (
             <Route path="/learn" element={<Learn />} />
             <Route path="/chapter/:chapterId" element={<ChapterDetail />} />
             <Route path="/lesson/:lessonId" element={<LessonView />} />
+            <Route path="/kana" element={<KanaLearn />} />
             <Route path="/practice" element={<Practice />} />
             <Route path="/flashcard" element={<FlashcardView />} />
             <Route path="/mock-test" element={<MockTestView />} />
