@@ -17,6 +17,7 @@ import {
   Award,
   Bot
 } from 'lucide-react';
+import rafiqNihonLogo from '@/assets/rafiq-nihon-logo.png';
 
 function getGreeting() {
   const hour = new Date().getHours();
@@ -94,11 +95,18 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               className="flex items-center justify-between"
             >
-              <div>
-                <p className="text-primary-foreground/80 text-sm">{getGreeting()}</p>
-                <h1 className="text-2xl font-bold text-primary-foreground">
-                  {firstName}! 👋
-                </h1>
+              <div className="flex items-center gap-3">
+                <img 
+                  src={rafiqNihonLogo} 
+                  alt="Rafiq Nihon" 
+                  className="w-10 h-10 object-contain"
+                />
+                <div>
+                  <p className="text-primary-foreground/80 text-sm">{getGreeting()}</p>
+                  <h1 className="text-2xl font-bold text-primary-foreground">
+                    {firstName}! 👋
+                  </h1>
+                </div>
               </div>
               <motion.div
                 initial={{ scale: 0 }}
