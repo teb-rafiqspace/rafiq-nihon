@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 import { useAuth } from '@/lib/auth';
 import { useProfile } from '@/hooks/useProfile';
 import { ArrowRight, Sparkles, BookOpen, Bot, Trophy } from 'lucide-react';
-import linguaLogo from '@/assets/lingua-logo.png';
+import rafiqNihonLogo from '@/assets/rafiq-nihon-logo.png';
 import poweredByLogo from '@/assets/powered-by-logo.png';
 
 export default function Index() {
@@ -52,8 +52,8 @@ export default function Index() {
             className="w-40 h-40 mx-auto mb-2 flex items-center justify-center"
           >
             <img 
-              src={linguaLogo} 
-              alt="Lingua Logo" 
+              src={rafiqNihonLogo} 
+              alt="Rafiq Nihon Logo" 
               className="w-full h-full object-contain"
             />
           </motion.div>
