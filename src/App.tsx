@@ -16,6 +16,7 @@ import TimeScheduleLesson from "./pages/TimeScheduleLesson";
 import LocationLesson from "./pages/LocationLesson";
 import KanaLearn from "./pages/KanaLearn";
 import Practice from "./pages/Practice";
+import Speaking from "./pages/Speaking";
 import FlashcardView from "./pages/FlashcardView";
 import MockTestView from "./pages/MockTestView";
 import ExamView from "./pages/ExamView";
@@ -45,6 +46,7 @@ const App = () => (
             <Route path="/location-lesson" element={<LocationLesson />} />
             <Route path="/kana" element={<KanaLearn />} />
             <Route path="/practice" element={<Practice />} />
+            <Route path="/speaking" element={<Speaking />} />
             <Route path="/flashcard" element={<FlashcardView />} />
             <Route path="/mock-test" element={<MockTestView />} />
             <Route path="/exam" element={<ExamView />} />
