@@ -15,7 +15,9 @@ import {
   ChevronRight,
   Trophy,
   Award,
-  Bot
+  Bot,
+  BookOpen,
+  Mic
 } from 'lucide-react';
 import rafiqNihonLogo from '@/assets/rafiq-nihon-logo.png';
 
@@ -217,37 +219,52 @@ export default function Home() {
             className="mb-4"
           >
             <h2 className="font-semibold text-lg mb-3">Aksi Cepat</h2>
-            <div className="grid grid-cols-3 gap-3">
-              <Button
-                variant="action"
-                className="flex-col h-auto py-4"
+            <div className="flex justify-between">
+              <button
+                onClick={() => navigate('/learn')}
+                className="flex flex-col items-center gap-1 p-2 hover:opacity-70 transition-opacity"
+              >
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center">
+                  <BookOpen className="h-5 w-5 text-primary" />
+                </div>
+                <span className="text-xs text-muted-foreground">Belajar</span>
+              </button>
+              <button
+                onClick={() => navigate('/speaking')}
+                className="flex flex-col items-center gap-1 p-2 hover:opacity-70 transition-opacity"
+              >
+                <div className="w-10 h-10 rounded-full bg-purple-500/10 flex items-center justify-center">
+                  <Mic className="h-5 w-5 text-purple-500" />
+                </div>
+                <span className="text-xs text-muted-foreground">Bicara</span>
+              </button>
+              <button
                 onClick={() => navigate('/practice')}
+                className="flex flex-col items-center gap-1 p-2 hover:opacity-70 transition-opacity"
               >
-                <div className="w-10 h-10 bg-gradient-secondary rounded-xl flex items-center justify-center mb-2">
-                  <Layers className="h-5 w-5 text-secondary-foreground" />
+                <div className="w-10 h-10 rounded-full bg-blue-500/10 flex items-center justify-center">
+                  <Layers className="h-5 w-5 text-blue-500" />
                 </div>
-                <span className="text-xs">Latihan</span>
-              </Button>
-              <Button
-                variant="action"
-                className="flex-col h-auto py-4"
+                <span className="text-xs text-muted-foreground">Latihan</span>
+              </button>
+              <button
                 onClick={() => navigate('/exam')}
+                className="flex flex-col items-center gap-1 p-2 hover:opacity-70 transition-opacity"
               >
-                <div className="w-10 h-10 bg-gradient-success rounded-xl flex items-center justify-center mb-2">
-                  <Award className="h-5 w-5 text-success-foreground" />
+                <div className="w-10 h-10 rounded-full bg-green-500/10 flex items-center justify-center">
+                  <Award className="h-5 w-5 text-green-500" />
                 </div>
-                <span className="text-xs">Ujian</span>
-              </Button>
-              <Button
-                variant="action"
-                className="flex-col h-auto py-4"
+                <span className="text-xs text-muted-foreground">Ujian</span>
+              </button>
+              <button
                 onClick={() => navigate('/chat')}
+                className="flex flex-col items-center gap-1 p-2 hover:opacity-70 transition-opacity"
               >
-                <div className="w-10 h-10 bg-gradient-xp rounded-xl flex items-center justify-center mb-2">
-                  <Bot className="h-5 w-5 text-white" />
+                <div className="w-10 h-10 rounded-full bg-violet-500/10 flex items-center justify-center">
+                  <Bot className="h-5 w-5 text-violet-500" />
                 </div>
-                <span className="text-xs">Rafiq Chat</span>
-              </Button>
+                <span className="text-xs text-muted-foreground">Rafiq</span>
+              </button>
             </div>
           </motion.div>
           
