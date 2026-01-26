@@ -110,6 +110,112 @@ export type Database = {
         }
         Relationships: []
       }
+      conversation_lines: {
+        Row: {
+          acceptable_responses: string[] | null
+          ai_response_variations: Json | null
+          audio_url: string | null
+          created_at: string | null
+          id: string
+          is_user_turn: boolean | null
+          japanese_text: string
+          line_order: number
+          meaning_id: string
+          reading_hiragana: string | null
+          response_hints: string[] | null
+          script_id: string | null
+          speaker: string
+          speaker_role: string | null
+        }
+        Insert: {
+          acceptable_responses?: string[] | null
+          ai_response_variations?: Json | null
+          audio_url?: string | null
+          created_at?: string | null
+          id: string
+          is_user_turn?: boolean | null
+          japanese_text: string
+          line_order: number
+          meaning_id: string
+          reading_hiragana?: string | null
+          response_hints?: string[] | null
+          script_id?: string | null
+          speaker: string
+          speaker_role?: string | null
+        }
+        Update: {
+          acceptable_responses?: string[] | null
+          ai_response_variations?: Json | null
+          audio_url?: string | null
+          created_at?: string | null
+          id?: string
+          is_user_turn?: boolean | null
+          japanese_text?: string
+          line_order?: number
+          meaning_id?: string
+          reading_hiragana?: string | null
+          response_hints?: string[] | null
+          script_id?: string | null
+          speaker?: string
+          speaker_role?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "conversation_lines_script_id_fkey"
+            columns: ["script_id"]
+            isOneToOne: false
+            referencedRelation: "conversation_scripts"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      conversation_scripts: {
+        Row: {
+          created_at: string | null
+          difficulty: string | null
+          estimated_turns: number | null
+          id: string
+          lesson_id: string | null
+          location: string | null
+          participants: string[] | null
+          scenario_description: string | null
+          title_id: string
+          title_ja: string
+        }
+        Insert: {
+          created_at?: string | null
+          difficulty?: string | null
+          estimated_turns?: number | null
+          id: string
+          lesson_id?: string | null
+          location?: string | null
+          participants?: string[] | null
+          scenario_description?: string | null
+          title_id: string
+          title_ja: string
+        }
+        Update: {
+          created_at?: string | null
+          difficulty?: string | null
+          estimated_turns?: number | null
+          id?: string
+          lesson_id?: string | null
+          location?: string | null
+          participants?: string[] | null
+          scenario_description?: string | null
+          title_id?: string
+          title_ja?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "conversation_scripts_lesson_id_fkey"
+            columns: ["lesson_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       daily_challenges: {
         Row: {
           bonus_xp: number | null
@@ -623,6 +729,240 @@ export type Database = {
             columns: ["lesson_id"]
             isOneToOne: false
             referencedRelation: "lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      roleplay_scenarios: {
+        Row: {
+          ai_role: string
+          created_at: string | null
+          difficulty: string | null
+          estimated_minutes: number | null
+          id: string
+          key_phrases: string[] | null
+          lesson_id: string | null
+          location: string | null
+          objectives: string[] | null
+          scenario_description_id: string | null
+          scenario_description_ja: string | null
+          situation: string | null
+          title_id: string
+          title_ja: string
+          user_role: string
+        }
+        Insert: {
+          ai_role: string
+          created_at?: string | null
+          difficulty?: string | null
+          estimated_minutes?: number | null
+          id: string
+          key_phrases?: string[] | null
+          lesson_id?: string | null
+          location?: string | null
+          objectives?: string[] | null
+          scenario_description_id?: string | null
+          scenario_description_ja?: string | null
+          situation?: string | null
+          title_id: string
+          title_ja: string
+          user_role: string
+        }
+        Update: {
+          ai_role?: string
+          created_at?: string | null
+          difficulty?: string | null
+          estimated_minutes?: number | null
+          id?: string
+          key_phrases?: string[] | null
+          lesson_id?: string | null
+          location?: string | null
+          objectives?: string[] | null
+          scenario_description_id?: string | null
+          scenario_description_ja?: string | null
+          situation?: string | null
+          title_id?: string
+          title_ja?: string
+          user_role?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "roleplay_scenarios_lesson_id_fkey"
+            columns: ["lesson_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      speaking_items: {
+        Row: {
+          audio_duration_ms: number | null
+          audio_slow_url: string | null
+          audio_url: string | null
+          common_mistakes: string | null
+          context_situation: string | null
+          created_at: string | null
+          formality_level: string | null
+          id: string
+          japanese_text: string
+          lesson_id: string | null
+          meaning_en: string | null
+          meaning_id: string
+          order_index: number | null
+          pitch_pattern: string | null
+          pitch_visual: string | null
+          pronunciation_tips: string | null
+          reading_hiragana: string | null
+          reading_romaji: string | null
+          speaker_gender: string | null
+        }
+        Insert: {
+          audio_duration_ms?: number | null
+          audio_slow_url?: string | null
+          audio_url?: string | null
+          common_mistakes?: string | null
+          context_situation?: string | null
+          created_at?: string | null
+          formality_level?: string | null
+          id: string
+          japanese_text: string
+          lesson_id?: string | null
+          meaning_en?: string | null
+          meaning_id: string
+          order_index?: number | null
+          pitch_pattern?: string | null
+          pitch_visual?: string | null
+          pronunciation_tips?: string | null
+          reading_hiragana?: string | null
+          reading_romaji?: string | null
+          speaker_gender?: string | null
+        }
+        Update: {
+          audio_duration_ms?: number | null
+          audio_slow_url?: string | null
+          audio_url?: string | null
+          common_mistakes?: string | null
+          context_situation?: string | null
+          created_at?: string | null
+          formality_level?: string | null
+          id?: string
+          japanese_text?: string
+          lesson_id?: string | null
+          meaning_en?: string | null
+          meaning_id?: string
+          order_index?: number | null
+          pitch_pattern?: string | null
+          pitch_visual?: string | null
+          pronunciation_tips?: string | null
+          reading_hiragana?: string | null
+          reading_romaji?: string | null
+          speaker_gender?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "speaking_items_lesson_id_fkey"
+            columns: ["lesson_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      speaking_lessons: {
+        Row: {
+          category: string | null
+          created_at: string | null
+          description: string | null
+          difficulty: string | null
+          estimated_minutes: number | null
+          id: string
+          is_premium: boolean | null
+          lesson_type: string
+          order_index: number | null
+          title_id: string
+          title_ja: string
+          track: string | null
+          xp_reward: number | null
+        }
+        Insert: {
+          category?: string | null
+          created_at?: string | null
+          description?: string | null
+          difficulty?: string | null
+          estimated_minutes?: number | null
+          id: string
+          is_premium?: boolean | null
+          lesson_type: string
+          order_index?: number | null
+          title_id: string
+          title_ja: string
+          track?: string | null
+          xp_reward?: number | null
+        }
+        Update: {
+          category?: string | null
+          created_at?: string | null
+          description?: string | null
+          difficulty?: string | null
+          estimated_minutes?: number | null
+          id?: string
+          is_premium?: boolean | null
+          lesson_type?: string
+          order_index?: number | null
+          title_id?: string
+          title_ja?: string
+          track?: string | null
+          xp_reward?: number | null
+        }
+        Relationships: []
+      }
+      speaking_sessions: {
+        Row: {
+          average_score: number | null
+          completed_at: string | null
+          duration_seconds: number | null
+          id: string
+          items_practiced: number | null
+          lesson_id: string | null
+          session_type: string
+          started_at: string | null
+          total_items: number | null
+          user_id: string
+          xp_earned: number | null
+        }
+        Insert: {
+          average_score?: number | null
+          completed_at?: string | null
+          duration_seconds?: number | null
+          id?: string
+          items_practiced?: number | null
+          lesson_id?: string | null
+          session_type: string
+          started_at?: string | null
+          total_items?: number | null
+          user_id: string
+          xp_earned?: number | null
+        }
+        Update: {
+          average_score?: number | null
+          completed_at?: string | null
+          duration_seconds?: number | null
+          id?: string
+          items_practiced?: number | null
+          lesson_id?: string | null
+          session_type?: string
+          started_at?: string | null
+          total_items?: number | null
+          user_id?: string
+          xp_earned?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "speaking_sessions_lesson_id_fkey"
+            columns: ["lesson_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_lessons"
             referencedColumns: ["id"]
           },
         ]
@@ -1238,6 +1578,69 @@ export type Database = {
           },
         ]
       }
+      user_recordings: {
+        Row: {
+          accuracy_score: number | null
+          created_at: string | null
+          duration_ms: number | null
+          feedback_text: string | null
+          fluency_score: number | null
+          id: string
+          item_id: string | null
+          overall_score: number | null
+          problem_areas: Json | null
+          pronunciation_score: number | null
+          recording_url: string | null
+          session_id: string | null
+          user_id: string
+        }
+        Insert: {
+          accuracy_score?: number | null
+          created_at?: string | null
+          duration_ms?: number | null
+          feedback_text?: string | null
+          fluency_score?: number | null
+          id?: string
+          item_id?: string | null
+          overall_score?: number | null
+          problem_areas?: Json | null
+          pronunciation_score?: number | null
+          recording_url?: string | null
+          session_id?: string | null
+          user_id: string
+        }
+        Update: {
+          accuracy_score?: number | null
+          created_at?: string | null
+          duration_ms?: number | null
+          feedback_text?: string | null
+          fluency_score?: number | null
+          id?: string
+          item_id?: string | null
+          overall_score?: number | null
+          problem_areas?: Json | null
+          pronunciation_score?: number | null
+          recording_url?: string | null
+          session_id?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_recordings_item_id_fkey"
+            columns: ["item_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_items"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_recordings_session_id_fkey"
+            columns: ["session_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_sessions"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       user_saved_tests: {
         Row: {
           created_at: string | null
@@ -1272,6 +1675,56 @@ export type Database = {
             columns: ["schedule_id"]
             isOneToOne: false
             referencedRelation: "test_schedules"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_speaking_progress: {
+        Row: {
+          attempts: number | null
+          average_score: number | null
+          best_score: number | null
+          created_at: string | null
+          id: string
+          item_id: string | null
+          last_practiced_at: string | null
+          mastered: boolean | null
+          mastered_at: string | null
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          attempts?: number | null
+          average_score?: number | null
+          best_score?: number | null
+          created_at?: string | null
+          id?: string
+          item_id?: string | null
+          last_practiced_at?: string | null
+          mastered?: boolean | null
+          mastered_at?: string | null
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          attempts?: number | null
+          average_score?: number | null
+          best_score?: number | null
+          created_at?: string | null
+          id?: string
+          item_id?: string | null
+          last_practiced_at?: string | null
+          mastered?: boolean | null
+          mastered_at?: string | null
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_speaking_progress_item_id_fkey"
+            columns: ["item_id"]
+            isOneToOne: false
+            referencedRelation: "speaking_items"
             referencedColumns: ["id"]
           },
         ]
