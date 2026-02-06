@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { useProfile } from '@/hooks/useProfile';
 import { useAuth } from '@/lib/auth';
 import { LeaderboardCard } from '@/components/home/LeaderboardCard';
+import { RecommendationCard } from '@/components/home/RecommendationCard';
 import { supabase } from '@/integrations/supabase/client';
 import { useQuery } from '@tanstack/react-query';
 import { 
@@ -288,6 +289,16 @@ export default function Home() {
                 <p className="text-xs text-white/80">+50 XP</p>
               </div>
             </div>
+          </motion.div>
+          
+          {/* Personalized Recommendations */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.55 }}
+            className="mb-4"
+          >
+            <RecommendationCard />
           </motion.div>
           
           {/* Leaderboard */}
