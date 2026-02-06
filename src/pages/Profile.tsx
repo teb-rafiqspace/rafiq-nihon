@@ -21,6 +21,7 @@ import {
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 import { SubscriptionSection } from '@/components/subscription/SubscriptionSection';
 import { ReminderSettingsCard } from '@/components/notifications/ReminderSettingsCard';
+import { AchievementSection } from '@/components/achievements/AchievementSection';
 
 const menuItems = [
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },
@@ -38,15 +39,7 @@ export default function Profile() {
     await signOut();
     navigate('/');
   };
-  
-  // Mock badges
-  const badges = [
-    { icon: '⭐', name: 'Pemula', earned: true },
-    { icon: '🔥', name: 'Semangat', earned: true },
-    { icon: '📚', name: 'Rajin', earned: false },
-    { icon: '🏆', name: 'Master XP', earned: false },
-  ];
-  
+
   // Generate streak calendar (last 7 days)
   const streakDays = Array.from({ length: 7 }, (_, i) => {
     const date = new Date();
@@ -176,7 +169,7 @@ export default function Profile() {
           </motion.div>
         </div>
         
-        {/* Badges */}
+        {/* Achievements */}
         <div className="container max-w-lg mx-auto px-4 mt-6">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -184,23 +177,7 @@ export default function Profile() {
             transition={{ delay: 0.2 }}
             className="bg-card rounded-2xl shadow-card p-4 border border-border"
           >
-            <div className="flex items-center gap-2 mb-4">
-              <Medal className="h-5 w-5 text-amber-500" />
-              <h3 className="font-semibold">Lencana</h3>
-            </div>
-            <div className="flex gap-3">
-              {badges.map((badge, i) => (
-                <div 
-                  key={i} 
-                  className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl ${
-                    badge.earned ? 'bg-gradient-to-br from-amber-100 to-orange-100' : 'bg-muted opacity-40'
-                  }`}
-                  title={badge.name}
-                >
-                  {badge.icon}
-                </div>
-              ))}
-            </div>
+            <AchievementSection />
           </motion.div>
         </div>
         
