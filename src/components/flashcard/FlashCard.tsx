@@ -1,7 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Volume2 } from 'lucide-react';
+import { Volume2, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 
 interface FlashCardProps {
   wordJp: string;
@@ -22,24 +23,17 @@ export function FlashCard({
   isFlipped,
   onFlip,
 }: FlashCardProps) {
-  const speakJapanese = (text: string) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = 0.9;
-      utterance.pitch = 1.1;
-      
-      const voices = window.speechSynthesis.getVoices();
-      const japaneseVoice = voices.find(
-        (v) => v.lang.startsWith('ja') && v.name.toLowerCase().includes('female')
-      ) || voices.find((v) => v.lang.startsWith('ja'));
-      
-      if (japaneseVoice) {
-        utterance.voice = japaneseVoice;
-      }
-      
-      window.speechSynthesis.speak(utterance);
+  const { speak, isPlaying } = useJapaneseAudio();
+
+  const handleSpeak = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    speak(wordJp);
+  };
+
+  const handleSpeakExample = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (exampleJp) {
+      speak(exampleJp);
     }
   };
 
@@ -67,12 +61,14 @@ export function FlashCard({
             variant="ghost"
             size="icon"
             className="absolute top-4 right-4"
-            onClick={(e) => {
-              e.stopPropagation();
-              speakJapanese(wordJp);
-            }}
+            onClick={handleSpeak}
+            disabled={isPlaying}
           >
-            <Volume2 className="h-5 w-5 text-muted-foreground" />
+            {isPlaying ? (
+              <Loader2 className="h-5 w-5 text-muted-foreground animate-spin" />
+            ) : (
+              <Volume2 className="h-5 w-5 text-muted-foreground" />
+            )}
           </Button>
           
           <div className="mt-auto">
@@ -100,7 +96,14 @@ export function FlashCard({
             </p>
             
             {exampleJp && (
-              <div className="bg-muted rounded-xl p-4 w-full mt-4">
+              <div 
+                className="bg-muted rounded-xl p-4 w-full mt-4 cursor-pointer hover:bg-muted/80 transition-colors"
+                onClick={handleSpeakExample}
+              >
+                <div className="flex items-center justify-between mb-1">
+                  <span className="text-xs text-muted-foreground">Contoh:</span>
+                  <Volume2 className={`h-3 w-3 text-muted-foreground ${isPlaying ? 'animate-pulse' : ''}`} />
+                </div>
                 <p className="text-base font-jp text-center">{exampleJp}</p>
                 {exampleId && (
                   <p className="text-sm text-muted-foreground text-center mt-2">
@@ -115,12 +118,14 @@ export function FlashCard({
             variant="ghost"
             size="icon"
             className="absolute top-4 right-4"
-            onClick={(e) => {
-              e.stopPropagation();
-              speakJapanese(wordJp);
-            }}
+            onClick={handleSpeak}
+            disabled={isPlaying}
           >
-            <Volume2 className="h-5 w-5 text-muted-foreground" />
+            {isPlaying ? (
+              <Loader2 className="h-5 w-5 text-muted-foreground animate-spin" />
+            ) : (
+              <Volume2 className="h-5 w-5 text-muted-foreground" />
+            )}
           </Button>
         </div>
       </motion.div>

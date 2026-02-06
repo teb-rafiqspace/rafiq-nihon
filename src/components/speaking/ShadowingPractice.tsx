@@ -1,13 +1,13 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowLeft, Volume2, VolumeX, SkipForward, ChevronRight } from 'lucide-react';
+import { ArrowLeft, Volume2, SkipForward, ChevronRight, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { RecordingButton } from './RecordingButton';
 import { WaveformVisualizer } from './WaveformVisualizer';
 import { SpeakingResultCard } from './SpeakingResultCard';
 import { useAudioRecorder } from '@/hooks/useAudioRecorder';
+import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 import { SpeakingItem } from '@/hooks/useSpeaking';
 
 interface ShadowingPracticeProps {
@@ -28,25 +28,24 @@ export function ShadowingPractice({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = useState(0);
-  const [isPlayingAudio, setIsPlayingAudio] = useState(false);
   const [isPlayingRecording, setIsPlayingRecording] = useState(false);
   
   const recorder = useAudioRecorder();
+  const { speak, playAudioUrl, isPlaying: isPlayingAudio, hasJapaneseVoice } = useJapaneseAudio();
+  
   const currentItem = items[currentIndex];
   const progress = ((currentIndex + 1) / items.length) * 100;
 
-  const speakText = (text: string, slow = false) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = slow ? 0.6 : 0.9;
-      utterance.pitch = 1.1;
-      
-      utterance.onstart = () => setIsPlayingAudio(true);
-      utterance.onend = () => setIsPlayingAudio(false);
-      
-      window.speechSynthesis.speak(utterance);
+  const handlePlayAudio = (slow = false) => {
+    if (!currentItem) return;
+    
+    // Try to use audio URL from database first, fallback to TTS
+    if (slow && currentItem.audio_slow_url) {
+      playAudioUrl(currentItem.audio_slow_url, currentItem.japanese_text);
+    } else if (!slow && currentItem.audio_url) {
+      playAudioUrl(currentItem.audio_url, currentItem.japanese_text);
+    } else {
+      speak(currentItem.japanese_text, slow);
     }
   };
 
@@ -174,15 +173,15 @@ export function ShadowingPractice({
           <h3 className="text-sm font-semibold text-muted-foreground flex items-center gap-2">
             🔊 LISTEN
           </h3>
-          <div className="grid grid-cols-2 gap-3">
+        <div className="grid grid-cols-2 gap-3">
             <Button
               variant="outline"
-              onClick={() => speakText(currentItem.japanese_text)}
+              onClick={() => handlePlayAudio(false)}
               disabled={isPlayingAudio}
               className="flex items-center gap-2"
             >
               {isPlayingAudio ? (
-                <Volume2 className="h-4 w-4 animate-pulse" />
+                <Loader2 className="h-4 w-4 animate-spin" />
               ) : (
                 <Volume2 className="h-4 w-4" />
               )}
@@ -190,13 +189,19 @@ export function ShadowingPractice({
             </Button>
             <Button
               variant="outline"
-              onClick={() => speakText(currentItem.japanese_text, true)}
+              onClick={() => handlePlayAudio(true)}
               disabled={isPlayingAudio}
               className="flex items-center gap-2"
             >
               🐢 Slow Speed
             </Button>
           </div>
+          
+          {!hasJapaneseVoice && (
+            <p className="text-xs text-center text-muted-foreground mt-2">
+              💡 Untuk audio terbaik, gunakan Chrome atau Edge
+            </p>
+          )}
         </div>
 
         {/* Pronunciation Tip */}

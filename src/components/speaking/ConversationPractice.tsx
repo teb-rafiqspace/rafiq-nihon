@@ -1,10 +1,11 @@
 import { useState, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ArrowLeft, Volume2, Mic, Send } from 'lucide-react';
+import { ArrowLeft, Volume2, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { RecordingButton } from './RecordingButton';
 import { WaveformVisualizer } from './WaveformVisualizer';
 import { useAudioRecorder } from '@/hooks/useAudioRecorder';
+import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 import { ConversationLine } from '@/hooks/useSpeaking';
 
 interface Message {
@@ -40,9 +41,9 @@ export function ConversationPractice({
   const [currentLineIndex, setCurrentLineIndex] = useState(0);
   const [waitingForUserInput, setWaitingForUserInput] = useState(false);
   const [showSuggestions, setShowSuggestions] = useState(false);
-  const [isPlayingAudio, setIsPlayingAudio] = useState(false);
   
   const recorder = useAudioRecorder();
+  const { speak, playAudioUrl, isPlaying: isPlayingAudio } = useJapaneseAudio();
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const currentLine = lines[currentLineIndex];
   const totalScore = useRef(0);
@@ -88,18 +89,13 @@ export function ConversationPractice({
     setMessages(prev => [...prev, newMessage]);
   };
 
-  const speakText = (text: string) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = 0.9;
-      utterance.pitch = 1.1;
-      
-      utterance.onstart = () => setIsPlayingAudio(true);
-      utterance.onend = () => setIsPlayingAudio(false);
-      
-      window.speechSynthesis.speak(utterance);
+  const handlePlayMessage = (line: { japanese_text?: string; audio_url?: string | null; japanese?: string }) => {
+    const text = line.japanese_text || line.japanese || '';
+    
+    if (line.audio_url) {
+      playAudioUrl(line.audio_url, text);
+    } else {
+      speak(text);
     }
   };
 
@@ -214,10 +210,15 @@ export function ConversationPractice({
                 
                 {!message.isUser && (
                   <button
-                    onClick={() => speakText(message.japanese)}
-                    className="mt-2 text-indigo-500 hover:text-indigo-600"
+                    onClick={() => handlePlayMessage({ japanese: message.japanese })}
+                    className="mt-2 text-primary hover:text-primary/80 flex items-center gap-1"
+                    disabled={isPlayingAudio}
                   >
-                    <Volume2 className={`h-4 w-4 ${isPlayingAudio ? 'animate-pulse' : ''}`} />
+                    {isPlayingAudio ? (
+                      <Loader2 className="h-4 w-4 animate-spin" />
+                    ) : (
+                      <Volume2 className="h-4 w-4" />
+                    )}
                   </button>
                 )}
                 
