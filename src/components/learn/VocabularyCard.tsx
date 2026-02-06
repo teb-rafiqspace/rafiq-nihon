@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import { Volume2, VolumeX, Loader2 } from 'lucide-react';
-import { useState, useEffect } from 'react';
+import { Volume2, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 
 interface VocabularyCardProps {
   wordJp: string;
@@ -20,110 +20,19 @@ export function VocabularyCard({
   exampleId,
   audioUrl,
 }: VocabularyCardProps) {
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [hasJapaneseVoice, setHasJapaneseVoice] = useState(true);
-  const [selectedVoice, setSelectedVoice] = useState<SpeechSynthesisVoice | null>(null);
-  
-  // Find the best Japanese female voice
-  useEffect(() => {
-    const findBestVoice = () => {
-      const voices = speechSynthesis.getVoices();
-      const japaneseVoices = voices.filter(voice => voice.lang.startsWith('ja'));
-      
-      if (japaneseVoices.length === 0) {
-        setHasJapaneseVoice(false);
-        return;
-      }
-      
-      setHasJapaneseVoice(true);
-      
-      // Priority list for female Japanese voices (lively, native)
-      const femaleVoiceKeywords = [
-        'haruka',    // Windows - female, natural
-        'nanami',    // Azure - female, cheerful
-        'ayumi',     // Windows - female
-        'kyoko',     // macOS/iOS - female
-        'o-ren',     // Some systems
-        'mizuki',    // AWS Polly style
-        'female',
-        'woman',
-        '女性',       // Japanese for "female"
-      ];
-      
-      // Try to find a female voice
-      let bestVoice = japaneseVoices.find(voice => {
-        const nameLower = voice.name.toLowerCase();
-        return femaleVoiceKeywords.some(keyword => nameLower.includes(keyword));
-      });
-      
-      // If no specific female voice found, prefer Google Japanese or first available
-      if (!bestVoice) {
-        bestVoice = japaneseVoices.find(v => v.name.includes('Google')) || japaneseVoices[0];
-      }
-      
-      setSelectedVoice(bestVoice);
-      console.log('Selected Japanese voice:', bestVoice?.name);
-    };
-    
-    findBestVoice();
-    speechSynthesis.onvoiceschanged = findBestVoice;
-    
-    return () => {
-      speechSynthesis.onvoiceschanged = null;
-    };
-  }, []);
-  
-  const speakJapanese = (text: string) => {
-    if (isPlaying) {
-      speechSynthesis.cancel();
-      setIsPlaying(false);
-      return;
-    }
-    
-    // Cancel any ongoing speech
-    speechSynthesis.cancel();
-    
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'ja-JP';
-    utterance.rate = 0.9; // Slightly faster for lively feel
-    utterance.pitch = 1.1; // Slightly higher pitch for female/lively sound
-    
-    // Use the selected female voice
-    if (selectedVoice) {
-      utterance.voice = selectedVoice;
-    }
-    
-    utterance.onstart = () => setIsPlaying(true);
-    utterance.onend = () => setIsPlaying(false);
-    utterance.onerror = () => setIsPlaying(false);
-    
-    speechSynthesis.speak(utterance);
-  };
+  const { speak, playAudioUrl, isPlaying, hasJapaneseVoice } = useJapaneseAudio();
   
   const playAudio = () => {
     if (audioUrl) {
-      // Use provided audio URL
-      setIsPlaying(true);
-      const audio = new Audio(audioUrl);
-      audio.onended = () => setIsPlaying(false);
-      audio.onerror = () => {
-        setIsPlaying(false);
-        // Fallback to speech synthesis
-        speakJapanese(wordJp);
-      };
-      audio.play().catch(() => {
-        setIsPlaying(false);
-        speakJapanese(wordJp);
-      });
+      playAudioUrl(audioUrl, wordJp);
     } else {
-      // Use speech synthesis
-      speakJapanese(wordJp);
+      speak(wordJp);
     }
   };
   
   const playExample = () => {
     if (exampleJp) {
-      speakJapanese(exampleJp);
+      speak(exampleJp);
     }
   };
   
@@ -143,6 +52,7 @@ export function VocabularyCard({
             variant="ghost"
             size="icon"
             onClick={playAudio}
+            disabled={isPlaying}
             className="rounded-full h-10 w-10 bg-primary/10 hover:bg-primary/20"
           >
             {isPlaying ? (
@@ -175,6 +85,7 @@ export function VocabularyCard({
           variant="outline"
           size="lg"
           onClick={playAudio}
+          disabled={isPlaying}
           className="gap-2 min-w-[200px]"
         >
           {isPlaying ? (
@@ -211,6 +122,7 @@ export function VocabularyCard({
               variant="ghost"
               size="sm"
               onClick={playExample}
+              disabled={isPlaying}
               className="h-7 px-2 gap-1 text-xs"
             >
               <Volume2 className="h-3 w-3" />

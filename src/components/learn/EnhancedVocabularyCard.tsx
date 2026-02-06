@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion';
 import { Volume2, Loader2, Star, BookOpen, Eye, EyeOff } from 'lucide-react';
-import { useState, useEffect, useCallback } from 'react';
+import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { cn } from '@/lib/utils';
+import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 
 interface EnhancedVocabularyCardProps {
   wordJp: string;
@@ -42,96 +43,22 @@ export function EnhancedVocabularyCard({
   onAddToFlashcard,
   isFavorite = false,
 }: EnhancedVocabularyCardProps) {
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [hasJapaneseVoice, setHasJapaneseVoice] = useState(true);
-  const [selectedVoice, setSelectedVoice] = useState<SpeechSynthesisVoice | null>(null);
   const [favorite, setFavorite] = useState(isFavorite);
+  const { speak, playAudioUrl, isPlaying, hasJapaneseVoice } = useJapaneseAudio();
   
-  // Find the best Japanese female voice
-  useEffect(() => {
-    const findBestVoice = () => {
-      const voices = speechSynthesis.getVoices();
-      const japaneseVoices = voices.filter(voice => voice.lang.startsWith('ja'));
-      
-      if (japaneseVoices.length === 0) {
-        setHasJapaneseVoice(false);
-        return;
-      }
-      
-      setHasJapaneseVoice(true);
-      
-      const femaleVoiceKeywords = [
-        'haruka', 'nanami', 'ayumi', 'kyoko', 'mizuki', 'female', 'woman', '女性',
-      ];
-      
-      let bestVoice = japaneseVoices.find(voice => {
-        const nameLower = voice.name.toLowerCase();
-        return femaleVoiceKeywords.some(keyword => nameLower.includes(keyword));
-      });
-      
-      if (!bestVoice) {
-        bestVoice = japaneseVoices.find(v => v.name.includes('Google')) || japaneseVoices[0];
-      }
-      
-      setSelectedVoice(bestVoice);
-    };
-    
-    findBestVoice();
-    speechSynthesis.onvoiceschanged = findBestVoice;
-    
-    return () => {
-      speechSynthesis.onvoiceschanged = null;
-    };
-  }, []);
-  
-  const speakJapanese = useCallback((text: string) => {
-    if (isPlaying) {
-      speechSynthesis.cancel();
-      setIsPlaying(false);
-      return;
-    }
-    
-    speechSynthesis.cancel();
-    
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'ja-JP';
-    utterance.rate = 0.9;
-    utterance.pitch = 1.1;
-    
-    if (selectedVoice) {
-      utterance.voice = selectedVoice;
-    }
-    
-    utterance.onstart = () => setIsPlaying(true);
-    utterance.onend = () => setIsPlaying(false);
-    utterance.onerror = () => setIsPlaying(false);
-    
-    speechSynthesis.speak(utterance);
-  }, [isPlaying, selectedVoice]);
-  
-  const playAudio = useCallback(() => {
+  const playAudio = () => {
     if (audioUrl) {
-      setIsPlaying(true);
-      const audio = new Audio(audioUrl);
-      audio.onended = () => setIsPlaying(false);
-      audio.onerror = () => {
-        setIsPlaying(false);
-        speakJapanese(wordJp);
-      };
-      audio.play().catch(() => {
-        setIsPlaying(false);
-        speakJapanese(wordJp);
-      });
+      playAudioUrl(audioUrl, wordJp);
     } else {
-      speakJapanese(wordJp);
+      speak(wordJp);
     }
-  }, [audioUrl, wordJp, speakJapanese]);
+  };
   
-  const playExample = useCallback(() => {
+  const playExample = () => {
     if (exampleJp) {
-      speakJapanese(exampleJp);
+      speak(exampleJp);
     }
-  }, [exampleJp, speakJapanese]);
+  };
   
   const handleFavorite = () => {
     setFavorite(!favorite);
