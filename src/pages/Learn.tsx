@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
@@ -11,7 +11,21 @@ import { cn } from '@/lib/utils';
 import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 
-type Track = 'kemnaker' | 'jlpt_n5';
+type Track = 'kemnaker' | 'jlpt_n5' | 'jlpt_n4' | 'jlpt_n3';
+
+interface TrackOption {
+  id: Track;
+  label: string;
+  emoji: string;
+  description: string;
+}
+
+const TRACKS: TrackOption[] = [
+  { id: 'kemnaker', label: 'Kemnaker', emoji: '🏭', description: 'IM Japan' },
+  { id: 'jlpt_n5', label: 'N5', emoji: '📜', description: 'Pemula' },
+  { id: 'jlpt_n4', label: 'N4', emoji: '📗', description: 'Dasar' },
+  { id: 'jlpt_n3', label: 'N3', emoji: '📘', description: 'Menengah' },
+];
 
 export default function Learn() {
   const [searchParams] = useSearchParams();
@@ -20,6 +34,7 @@ export default function Learn() {
   const [showPremiumModal, setShowPremiumModal] = useState(false);
   const navigate = useNavigate();
   const { user } = useAuth();
+  const tabsRef = useRef<HTMLDivElement>(null);
   
   const { data: subscription } = useSubscription();
   const isPremium = isPremiumActive(subscription);
@@ -85,6 +100,17 @@ export default function Learn() {
     }
     navigate(`/chapter/${chapter.id}`);
   };
+
+  // Scroll active tab into view
+  useEffect(() => {
+    if (tabsRef.current) {
+      const activeTabIndex = TRACKS.findIndex(t => t.id === activeTrack);
+      const tabs = tabsRef.current.querySelectorAll('button');
+      if (tabs[activeTabIndex]) {
+        tabs[activeTabIndex].scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      }
+    }
+  }, [activeTrack]);
   
   return (
     <AppLayout>
@@ -106,41 +132,51 @@ export default function Learn() {
           </div>
         </div>
         
-        {/* Track Tabs */}
+        {/* Track Tabs - Scrollable */}
         <div className="container max-w-lg mx-auto px-4 -mt-4">
-          <div className="bg-card rounded-2xl shadow-elevated p-1 flex relative">
-            {/* Animated Indicator */}
-            <motion.div
-              className="absolute top-1 bottom-1 w-[calc(50%-4px)] bg-primary rounded-xl"
-              animate={{ x: activeTrack === 'kemnaker' ? 0 : 'calc(100% + 4px)' }}
-              transition={{ type: "spring", stiffness: 300, damping: 30 }}
-            />
-            
-            <button
-              className={cn(
-                "flex-1 py-3 px-4 rounded-xl font-medium text-sm relative z-10 transition-colors",
-                activeTrack === 'kemnaker' ? "text-primary-foreground" : "text-muted-foreground"
-              )}
-              onClick={() => setActiveTrack('kemnaker')}
-            >
-              🏭 Kemnaker
-            </button>
-            <button
-              className={cn(
-                "flex-1 py-3 px-4 rounded-xl font-medium text-sm relative z-10 transition-colors",
-                activeTrack === 'jlpt_n5' ? "text-primary-foreground" : "text-muted-foreground"
-              )}
-              onClick={() => setActiveTrack('jlpt_n5')}
-            >
-              📜 JLPT N5
-            </button>
+          <div 
+            ref={tabsRef}
+            className="bg-card rounded-2xl shadow-elevated p-1.5 flex gap-1 overflow-x-auto scrollbar-hide"
+            style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+          >
+            {TRACKS.map((track) => (
+              <button
+                key={track.id}
+                className={cn(
+                  "flex-shrink-0 py-2.5 px-4 rounded-xl font-medium text-sm transition-all",
+                  activeTrack === track.id 
+                    ? "bg-primary text-primary-foreground shadow-sm" 
+                    : "text-muted-foreground hover:bg-muted"
+                )}
+                onClick={() => setActiveTrack(track.id)}
+              >
+                <span className="mr-1.5">{track.emoji}</span>
+                {track.label}
+              </button>
+            ))}
           </div>
         </div>
         
         {/* Chapters List */}
         <div className="container max-w-lg mx-auto px-4 py-6">
-          {/* Kana Learning Section for JLPT N5 */}
-          {activeTrack === 'jlpt_n5' && (
+          {/* Track Info Banner */}
+          {activeTrack !== 'kemnaker' && (
+            <motion.div
+              key={`banner-${activeTrack}`}
+              initial={{ opacity: 0, y: -10 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="mb-4 p-3 bg-muted/50 rounded-xl border border-border"
+            >
+              <p className="text-sm text-muted-foreground">
+                {activeTrack === 'jlpt_n5' && '📌 Level pemula - cocok untuk yang baru belajar bahasa Jepang'}
+                {activeTrack === 'jlpt_n4' && '📌 Level dasar - lanjutan dari N5, fokus pada tata bahasa praktis'}
+                {activeTrack === 'jlpt_n3' && '📌 Level menengah - persiapan untuk bekerja di Jepang'}
+              </p>
+            </motion.div>
+          )}
+          
+          {/* Kana Learning Section for JLPT tracks */}
+          {(activeTrack === 'jlpt_n5') && (
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -149,7 +185,7 @@ export default function Learn() {
               <h2 className="font-semibold text-lg mb-3">📝 Dasar Huruf Jepang</h2>
               <button
                 onClick={() => navigate('/kana')}
-                className="w-full bg-gradient-to-r from-pink-50 to-red-50 dark:from-pink-950/30 dark:to-red-950/30 rounded-2xl p-4 text-left border border-pink-200 dark:border-pink-800 hover:border-primary/50 transition-all"
+                className="w-full bg-muted/30 rounded-2xl p-4 text-left border border-border hover:border-primary/50 transition-all"
               >
                 <div className="flex items-start gap-4">
                   <div className="w-14 h-14 rounded-xl bg-gradient-primary flex items-center justify-center text-2xl font-jp text-white font-bold">
@@ -179,7 +215,7 @@ export default function Learn() {
           )}
           
           {/* Chapter Title */}
-          {activeTrack === 'jlpt_n5' && (
+          {activeTrack !== 'kemnaker' && (
             <h2 className="font-semibold text-lg mb-3">📚 Bab Pembelajaran</h2>
           )}
           
