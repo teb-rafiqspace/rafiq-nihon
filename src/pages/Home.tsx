@@ -6,6 +6,7 @@ import { useProfile } from '@/hooks/useProfile';
 import { useAuth } from '@/lib/auth';
 import { LeaderboardCard } from '@/components/home/LeaderboardCard';
 import { RecommendationCard } from '@/components/home/RecommendationCard';
+import { StudyReminderBanner } from '@/components/notifications/StudyReminderBanner';
 import { supabase } from '@/integrations/supabase/client';
 import { useQuery } from '@tanstack/react-query';
 import { 
@@ -89,6 +90,9 @@ export default function Home() {
   
   return (
     <AppLayout>
+      {/* Study Reminder Banner */}
+      <StudyReminderBanner />
+      
       <div className="pt-safe">
         {/* Header */}
         <div className="bg-gradient-primary">

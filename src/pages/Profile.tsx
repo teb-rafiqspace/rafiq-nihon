@@ -20,6 +20,7 @@ import {
 } from 'lucide-react';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 import { SubscriptionSection } from '@/components/subscription/SubscriptionSection';
+import { ReminderSettingsCard } from '@/components/notifications/ReminderSettingsCard';
 
 const menuItems = [
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },
@@ -135,6 +136,17 @@ export default function Profile() {
         {/* Subscription Section */}
         <div className="container max-w-lg mx-auto px-4 mt-6">
           <SubscriptionSection onUpgrade={() => setShowPremiumModal(true)} />
+        </div>
+        
+        {/* Study Reminder Settings */}
+        <div className="container max-w-lg mx-auto px-4 mt-6">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.05 }}
+          >
+            <ReminderSettingsCard />
+          </motion.div>
         </div>
         
         {/* Streak Calendar */}
