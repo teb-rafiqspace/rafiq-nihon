@@ -22,6 +22,7 @@ import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeMod
 import { SubscriptionSection } from '@/components/subscription/SubscriptionSection';
 import { ReminderSettingsCard } from '@/components/notifications/ReminderSettingsCard';
 import { AchievementSection } from '@/components/achievements/AchievementSection';
+import { WeeklyProgressChart } from '@/components/progress/WeeklyProgressChart';
 
 const menuItems = [
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },
@@ -142,12 +143,23 @@ export default function Profile() {
           </motion.div>
         </div>
         
-        {/* Streak Calendar */}
+        {/* Weekly Progress Chart */}
         <div className="container max-w-lg mx-auto px-4 mt-6">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.1 }}
+          >
+            <WeeklyProgressChart />
+          </motion.div>
+        </div>
+        
+        {/* Streak Calendar */}
+        <div className="container max-w-lg mx-auto px-4 mt-6">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.15 }}
             className="bg-card rounded-2xl shadow-card p-4 border border-border"
           >
             <div className="flex items-center gap-2 mb-4">
