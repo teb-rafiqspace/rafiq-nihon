@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
-import { Layers, Target, FileText, Trophy } from 'lucide-react';
+import { Layers, Target, FileText, Trophy, TrendingUp } from 'lucide-react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
 import { MockTestCard } from '@/components/mocktest/MockTestCard';
@@ -14,8 +14,9 @@ import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 import { FlashcardSection } from '@/components/flashcard/FlashcardSection';
 import { QuizPracticeSection } from '@/components/quiz/QuizPracticeSection';
+import { ProgressOverview } from '@/components/progress/ProgressOverview';
 
-type PracticeTab = 'flashcard' | 'quiz' | 'test';
+type PracticeTab = 'flashcard' | 'quiz' | 'test' | 'progress';
 
 const mockTests = [
   { id: 'kakunin', name: 'IM Japan Kakunin', duration: 30, questions: 30, icon: '🏭', description: 'Simulasi tes bahasa Kemnaker', isPremium: false },
@@ -99,6 +100,9 @@ export default function Practice() {
             <Button variant="tab" data-active={activeTab === 'test'} className="flex-1" onClick={() => setActiveTab('test')}>
               <FileText className="h-4 w-4 mr-1" />Tes
             </Button>
+            <Button variant="tab" data-active={activeTab === 'progress'} className="flex-1" onClick={() => setActiveTab('progress')}>
+              <TrendingUp className="h-4 w-4 mr-1" />Progres
+            </Button>
           </div>
         </div>
         
@@ -107,10 +111,12 @@ export default function Practice() {
           
           {activeTab === 'quiz' && <QuizPracticeSection />}
           
+          {activeTab === 'progress' && <ProgressOverview />}
+          
           {activeTab === 'test' && (
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-6">
-              <div className="bg-amber-50 border border-amber-200 rounded-xl p-4">
-                <p className="text-sm text-amber-800">💡 Tes simulasi ini dirancang seperti ujian asli. Pastikan kamu punya waktu yang cukup sebelum memulai.</p>
+              <div className="bg-warning/10 border border-warning/30 rounded-xl p-4">
+                <p className="text-sm text-warning-foreground">💡 Tes simulasi ini dirancang seperti ujian asli. Pastikan kamu punya waktu yang cukup sebelum memulai.</p>
               </div>
               <div className="space-y-4">
                 {mockTests.map((test, index) => {
@@ -127,7 +133,7 @@ export default function Practice() {
               </div>
               {testHistory.length > 0 && (
                 <div className="space-y-3">
-                  <h3 className="font-semibold text-lg flex items-center gap-2"><Trophy className="h-5 w-5 text-amber-500" />Riwayat Tes</h3>
+                  <h3 className="font-semibold text-lg flex items-center gap-2"><Trophy className="h-5 w-5 text-warning" />Riwayat Tes</h3>
                   <TestHistory attempts={testHistory} />
                 </div>
               )}
