@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.1)
+> Last updated: 2026-02-07 (v2.2)
 
 ## Overview
 
@@ -19,7 +19,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Auto-create profile on signup (database trigger)
 
 ### 📚 Sistem Pembelajaran (Learn)
-- [x] Track pembelajaran: Kemnaker & JLPT N5
+- [x] Track pembelajaran: Kemnaker, JLPT N5, N4, N3
 - [x] Chapter-based curriculum dengan progress tracking
 - [x] Lesson view dengan konten vocabulary, grammar, exercises
 - [x] Kana learning (Hiragana & Katakana chart)
@@ -48,7 +48,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Quiz results dengan review jawaban
 
 ### 📖 Mock Test (Simulasi Ujian)
-- [x] Mock test JLPT N5 format
+- [x] Mock test JLPT N5, N4, N3 format (45 soal per level)
 - [x] Timer 60 menit
 - [x] Section navigation (Vocabulary, Grammar, Reading)
 - [x] Question navigation grid
@@ -180,12 +180,14 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [ ] Audio download untuk offline
 - [ ] Playback queue
 
-### 📚 Content Expansion ✅ NEW
-- [x] Kanji learning module dengan 20 kanji N5, progress tracking
+### 📚 Content Expansion ✅ UPDATED
+- [x] Kanji learning module (N5: 20, N4: 125, N3: 75 kanji)
 - [x] Reading comprehension passages dengan pertanyaan
 - [x] Listening comprehension dengan transcript dan pertanyaan
 - [x] Cultural tips section dengan do/don't dan frasa terkait
-- [ ] JLPT N4, N3, N2, N1 extended content
+- [x] JLPT N4 curriculum (5 chapters, 15+ lessons, 45 mock test questions)
+- [x] JLPT N3 curriculum (5 chapters, 18+ lessons, 45 mock test questions)
+- [ ] JLPT N2, N1 extended content (coming soon)
 
 ### 📱 Native Mobile ✅ NEW (PWA Web APIs)
 - [x] Push notifications via Web Notification API
@@ -237,7 +239,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | PWA & Offline | 7 | 2 | 78% |
 | Audio | 5 | 3 | 63% |
 | Analytics | 7 | 0 | 100% ✅ |
-| Content Expansion | 4 | 1 | 80% ✅ |
+| Content Expansion | 6 | 1 | 86% ✅ |
 | Native Mobile | 3 | 1 | 75% ✅ |
 | Localization | 3 | 0 | 100% ✅ |
 | Payment | 0 | 6 | 0% |
@@ -245,7 +247,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Sync & Backup | 0 | 4 | 0% |
 | Accessibility | 0 | 4 | 0% |
 | Admin | 0 | 4 | 0% |
-| **TOTAL** | **108** | **29** | **~79%** |
+| **TOTAL** | **112** | **27** | **~81%** |
 
 ---
 
@@ -258,7 +260,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 
 ### Medium Priority (Enhancement)
 4. Enhanced audio dengan ElevenLabs
-5. Additional JLPT levels (N4-N1)
+5. JLPT N2, N1 content expansion
 6. Accessibility improvements
 
 ### Low Priority (Nice to Have)
