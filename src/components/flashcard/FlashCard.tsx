@@ -3,8 +3,10 @@ import { motion } from 'framer-motion';
 import { Volume2, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
+import { BookmarkButton } from '@/components/learn/BookmarkButton';
 
 interface FlashCardProps {
+  id?: string;
   wordJp: string;
   reading?: string;
   meaningId: string;
@@ -12,9 +14,11 @@ interface FlashCardProps {
   exampleId?: string;
   isFlipped: boolean;
   onFlip: () => void;
+  showBookmark?: boolean;
 }
 
 export function FlashCard({
+  id,
   wordJp,
   reading,
   meaningId,
@@ -22,6 +26,7 @@ export function FlashCard({
   exampleId,
   isFlipped,
   onFlip,
+  showBookmark = true,
 }: FlashCardProps) {
   const { speak, isPlaying } = useJapaneseAudio();
 
@@ -57,19 +62,23 @@ export function FlashCard({
             </p>
           </div>
           
-          <Button
-            variant="ghost"
-            size="icon"
-            className="absolute top-4 right-4"
-            onClick={handleSpeak}
-            disabled={isPlaying}
-          >
-            {isPlaying ? (
-              <Loader2 className="h-5 w-5 text-muted-foreground animate-spin" />
-            ) : (
-              <Volume2 className="h-5 w-5 text-muted-foreground" />
+          <div className="absolute top-4 right-4 flex items-center gap-1">
+            {showBookmark && id && (
+              <BookmarkButton contentType="flashcard" contentId={id} size="icon" />
             )}
-          </Button>
+            <Button
+              variant="ghost"
+              size="icon"
+              onClick={handleSpeak}
+              disabled={isPlaying}
+            >
+              {isPlaying ? (
+                <Loader2 className="h-5 w-5 text-muted-foreground animate-spin" />
+              ) : (
+                <Volume2 className="h-5 w-5 text-muted-foreground" />
+              )}
+            </Button>
+          </div>
           
           <div className="mt-auto">
             <p className="text-sm text-muted-foreground">Ketuk untuk melihat jawaban</p>

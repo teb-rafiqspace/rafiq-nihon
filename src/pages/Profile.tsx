@@ -17,6 +17,8 @@ import {
   LogOut,
   ChevronRight,
   Crown,
+  Bookmark,
+  Download,
 } from 'lucide-react';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 import { SubscriptionSection } from '@/components/subscription/SubscriptionSection';
@@ -25,7 +27,9 @@ import { AchievementSection } from '@/components/achievements/AchievementSection
 import { WeeklyProgressChart } from '@/components/progress/WeeklyProgressChart';
 
 const menuItems = [
+  { icon: Bookmark, label: 'Bookmark Saya', path: '/bookmarks' },
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },
+  { icon: Download, label: 'Install Aplikasi', path: '/install' },
   { icon: Bell, label: 'Notifikasi', path: '/notifications' },
   { icon: HelpCircle, label: 'Bantuan', path: '/help' },
 ];
