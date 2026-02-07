@@ -16,7 +16,8 @@ import {
   Trash2,
   Target,
   Check,
-  Volume2
+  Volume2,
+  Lock
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
@@ -49,6 +50,7 @@ import { useProfile, useUpdateProfile } from '@/hooks/useProfile';
 import { useStudyReminder } from '@/hooks/useStudyReminder';
 import { AccessibilityPanel } from '@/components/accessibility/AccessibilityPanel';
 import { OfflineAudioManager } from '@/components/audio/OfflineAudioManager';
+import { ChangePasswordDialog } from '@/components/auth/ChangePasswordDialog';
 import { toast } from '@/hooks/use-toast';
 
 type ThemeOption = 'light' | 'dark' | 'system';
@@ -72,6 +74,7 @@ export default function Settings() {
   const [showLanguageSelect, setShowLanguageSelect] = useState(false);
   const [showLogoutConfirm, setShowLogoutConfirm] = useState(false);
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
+  const [showChangePassword, setShowChangePassword] = useState(false);
 
   const [editName, setEditName] = useState(profile?.full_name || '');
   const [dailyGoal, setDailyGoal] = useState(profile?.daily_goal_minutes || 15);
@@ -225,6 +228,22 @@ export default function Settings() {
                 <div className="text-left">
                   <p className="font-medium">{t('editProfile')}</p>
                   <p className="text-sm text-muted-foreground">{user?.email}</p>
+                </div>
+              </div>
+              <ChevronRight className="h-5 w-5 text-muted-foreground" />
+            </button>
+
+            <button 
+              className="w-full p-4 flex items-center justify-between hover:bg-muted/50 transition-colors"
+              onClick={() => setShowChangePassword(true)}
+            >
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center">
+                  <Lock className="h-5 w-5 text-primary" />
+                </div>
+                <div className="text-left">
+                  <p className="font-medium">Ubah Password</p>
+                  <p className="text-sm text-muted-foreground">Perbarui password akun Anda</p>
                 </div>
               </div>
               <ChevronRight className="h-5 w-5 text-muted-foreground" />
@@ -448,6 +467,12 @@ export default function Settings() {
           </AlertDialogFooter>
         </AlertDialogContent>
       </AlertDialog>
+
+      {/* Change Password Dialog */}
+      <ChangePasswordDialog 
+        open={showChangePassword} 
+        onOpenChange={setShowChangePassword} 
+      />
     </div>
   );
 }
