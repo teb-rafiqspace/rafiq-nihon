@@ -293,16 +293,25 @@ export function useLeaderboard(period: LeaderboardPeriod = 'all', limit = 50) {
     queryKey: ['leaderboard', period, limit],
     queryFn: async () => {
       // For now, we use total_xp for all periods
-      // In a real app, you'd have a separate table tracking weekly/monthly XP
+      // Use leaderboard_profiles view for secure public access to limited profile data
       const { data, error } = await supabase
-        .from('profiles')
+        .from('leaderboard_profiles' as any)
         .select('id, user_id, full_name, avatar_url, total_xp, current_streak')
-        .order('total_xp', { ascending: false })
         .limit(limit);
       
       if (error) throw error;
       
-      return (data || []).map((profile, index) => ({
+      // Type assertion for view data
+      const profiles = (data || []) as unknown as Array<{
+        id: string;
+        user_id: string;
+        full_name: string | null;
+        avatar_url: string | null;
+        total_xp: number;
+        current_streak: number;
+      }>;
+      
+      return profiles.map((profile, index) => ({
         ...profile,
         rank: index + 1,
       })) as LeaderboardUser[];
@@ -323,7 +332,7 @@ export function useLeaderboard(period: LeaderboardPeriod = 'all', limit = 50) {
       if (!profile) return null;
       
       const { count } = await supabase
-        .from('profiles')
+        .from('leaderboard_profiles' as any)
         .select('*', { count: 'exact', head: true })
         .gt('total_xp', profile.total_xp || 0);
       
@@ -349,14 +358,22 @@ export function useUserSearch(query: string) {
       if (!query || query.length < 2) return [];
       
       const { data, error } = await supabase
-        .from('profiles')
+        .from('leaderboard_profiles' as any)
         .select('id, user_id, full_name, avatar_url, total_xp')
         .neq('user_id', user?.id || '')
         .ilike('full_name', `%${query}%`)
         .limit(10);
       
       if (error) throw error;
-      return data;
+      
+      // Type assertion for view data
+      return (data || []) as unknown as Array<{
+        id: string;
+        user_id: string;
+        full_name: string | null;
+        avatar_url: string | null;
+        total_xp: number;
+      }>;
     },
     enabled: query.length >= 2,
   });

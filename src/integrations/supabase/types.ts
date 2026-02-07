@@ -2587,7 +2587,39 @@ export type Database = {
       }
     }
     Views: {
-      [_ in never]: never
+      leaderboard_profiles: {
+        Row: {
+          avatar_url: string | null
+          current_level: number | null
+          current_streak: number | null
+          full_name: string | null
+          id: string | null
+          lessons_completed: number | null
+          total_xp: number | null
+          user_id: string | null
+        }
+        Insert: {
+          avatar_url?: string | null
+          current_level?: number | null
+          current_streak?: number | null
+          full_name?: string | null
+          id?: string | null
+          lessons_completed?: number | null
+          total_xp?: number | null
+          user_id?: string | null
+        }
+        Update: {
+          avatar_url?: string | null
+          current_level?: number | null
+          current_streak?: number | null
+          full_name?: string | null
+          id?: string | null
+          lessons_completed?: number | null
+          total_xp?: number | null
+          user_id?: string | null
+        }
+        Relationships: []
+      }
     }
     Functions: {
       accept_friend_request: { Args: { request_id: string }; Returns: boolean }
