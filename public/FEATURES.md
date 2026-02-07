@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.8)
+> Last updated: 2026-02-07 (v2.9)
 
 ## Overview
 
@@ -19,6 +19,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Auto-create profile on signup (database trigger)
 - [x] Forgot password / reset password flow
 - [x] Change password in settings
+- [x] Sync & Backup (cloud sync, export/import backup, clear local data)
 
 ### 📚 Sistem Pembelajaran (Learn)
 - [x] Track pembelajaran: Kemnaker, JLPT N5, N4, N3

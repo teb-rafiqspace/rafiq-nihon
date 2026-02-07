@@ -51,6 +51,7 @@ import { useStudyReminder } from '@/hooks/useStudyReminder';
 import { AccessibilityPanel } from '@/components/accessibility/AccessibilityPanel';
 import { OfflineAudioManager } from '@/components/audio/OfflineAudioManager';
 import { ChangePasswordDialog } from '@/components/auth/ChangePasswordDialog';
+import { SyncBackupManager } from '@/components/settings/SyncBackupManager';
 import { toast } from '@/hooks/use-toast';
 
 type ThemeOption = 'light' | 'dark' | 'system';
@@ -172,6 +173,9 @@ export default function Settings() {
         >
           <OfflineAudioManager />
         </motion.section>
+
+        {/* Sync & Backup Section */}
+        <SyncBackupManager />
 
         {/* Language Section */}
         <motion.section
