@@ -1,6 +1,6 @@
-import { useState } from 'react';
-import { motion } from 'framer-motion';
-import { ArrowLeft, Volume2, SkipForward, ChevronRight, Loader2 } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { ArrowLeft, Volume2, SkipForward, ChevronRight, Loader2, Mic, MicOff } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { RecordingButton } from './RecordingButton';
@@ -8,6 +8,8 @@ import { WaveformVisualizer } from './WaveformVisualizer';
 import { SpeakingResultCard } from './SpeakingResultCard';
 import { useAudioRecorder } from '@/hooks/useAudioRecorder';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
+import { useSpeechRecognition } from '@/hooks/useSpeechRecognition';
+import { calculateSpeechScore, ScoringResult, getScoreColor, getScoreLabel } from '@/lib/speechScoring';
 import { SpeakingItem } from '@/hooks/useSpeaking';
 
 interface ShadowingPracticeProps {
@@ -27,19 +29,35 @@ export function ShadowingPractice({
 }: ShadowingPracticeProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showResult, setShowResult] = useState(false);
-  const [score, setScore] = useState(0);
+  const [scoringResult, setScoringResult] = useState<ScoringResult | null>(null);
   const [isPlayingRecording, setIsPlayingRecording] = useState(false);
+  const [totalScore, setTotalScore] = useState(0);
+  const [completedCount, setCompletedCount] = useState(0);
   
   const recorder = useAudioRecorder();
   const { speak, playAudioUrl, isPlaying: isPlayingAudio, hasJapaneseVoice } = useJapaneseAudio();
+  const speechRecognition = useSpeechRecognition('ja-JP');
   
   const currentItem = items[currentIndex];
   const progress = ((currentIndex + 1) / items.length) * 100;
 
+  // Start speech recognition when recording starts
+  useEffect(() => {
+    if (recorder.isRecording && speechRecognition.isSupported) {
+      speechRecognition.startListening();
+    }
+  }, [recorder.isRecording, speechRecognition.isSupported, speechRecognition.startListening]);
+
+  // Stop speech recognition when recording stops
+  useEffect(() => {
+    if (!recorder.isRecording && speechRecognition.isListening) {
+      speechRecognition.stopListening();
+    }
+  }, [recorder.isRecording, speechRecognition.isListening, speechRecognition.stopListening]);
+
   const handlePlayAudio = (slow = false) => {
     if (!currentItem) return;
     
-    // Try to use audio URL from database first, fallback to TTS
     if (slow && currentItem.audio_slow_url) {
       playAudioUrl(currentItem.audio_slow_url, currentItem.japanese_text);
     } else if (!slow && currentItem.audio_url) {
@@ -50,16 +68,48 @@ export function ShadowingPractice({
   };
 
   const handleRecordStart = () => {
+    speechRecognition.resetTranscript();
     recorder.startRecording();
   };
 
   const handleRecordStop = () => {
     recorder.stopRecording();
+    speechRecognition.stopListening();
     
-    // Simulate scoring (in production, this would use speech recognition API)
+    // Calculate score after a brief delay to ensure transcript is final
     setTimeout(() => {
-      const randomScore = Math.floor(Math.random() * 30) + 70; // 70-100
-      setScore(randomScore);
+      const transcript = speechRecognition.transcript || speechRecognition.interimTranscript;
+      
+      if (transcript && currentItem) {
+        const result = calculateSpeechScore(
+          transcript,
+          currentItem.japanese_text,
+          currentItem.reading_hiragana,
+          speechRecognition.confidence
+        );
+        setScoringResult(result);
+        setTotalScore(prev => prev + result.overallScore);
+        setCompletedCount(prev => prev + 1);
+      } else {
+        // No speech detected - give minimal score
+        setScoringResult({
+          overallScore: 0,
+          pronunciationScore: 0,
+          accuracyScore: 0,
+          fluencyScore: 0,
+          matchedText: '',
+          targetText: currentItem?.japanese_text || '',
+          feedback: {
+            positive: [],
+            improvements: ['No speech detected. Please try again.']
+          },
+          detailedAnalysis: {
+            characterAccuracy: 0,
+            wordOrder: 0,
+            completeness: 0
+          }
+        });
+      }
       setShowResult(true);
     }, 500);
   };
@@ -75,42 +125,35 @@ export function ShadowingPractice({
 
   const handleTryAgain = () => {
     recorder.resetRecording();
+    speechRecognition.resetTranscript();
     setShowResult(false);
-    setScore(0);
+    setScoringResult(null);
   };
 
   const handleNext = () => {
     if (currentIndex < items.length - 1) {
       recorder.resetRecording();
+      speechRecognition.resetTranscript();
       setShowResult(false);
-      setScore(0);
+      setScoringResult(null);
       setCurrentIndex(currentIndex + 1);
     } else {
-      onComplete({ score: Math.round(score), completed: items.length });
+      const avgScore = completedCount > 0 ? Math.round(totalScore / completedCount) : 0;
+      onComplete({ score: avgScore, completed: completedCount });
     }
   };
 
   const handleSkip = () => {
     if (currentIndex < items.length - 1) {
       recorder.resetRecording();
+      speechRecognition.resetTranscript();
       setShowResult(false);
-      setScore(0);
+      setScoringResult(null);
       setCurrentIndex(currentIndex + 1);
     } else {
-      onComplete({ score: 0, completed: currentIndex });
+      const avgScore = completedCount > 0 ? Math.round(totalScore / completedCount) : 0;
+      onComplete({ score: avgScore, completed: completedCount });
     }
-  };
-
-  const generateFeedback = () => {
-    const positive = [];
-    const improvements = [];
-    
-    if (score >= 80) positive.push('Good pace');
-    if (score >= 75) positive.push('Clear pronunciation');
-    if (score < 85) improvements.push('Pitch slightly off at ending');
-    if (score < 75) improvements.push('Try to speak more clearly');
-    
-    return { positive, improvements };
   };
 
   if (!currentItem) return null;
@@ -150,6 +193,15 @@ export function ShadowingPractice({
           <p className="text-sm text-muted-foreground font-jp">{lessonTitleJp}</p>
         </motion.div>
 
+        {/* Speech Recognition Status */}
+        {!speechRecognition.isSupported && (
+          <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-3 text-center">
+            <p className="text-sm text-yellow-800">
+              ⚠️ Speech recognition not supported. Using simulated scoring.
+            </p>
+          </div>
+        )}
+
         {/* Main Content Card */}
         <motion.div
           key={currentItem.id}
@@ -173,7 +225,7 @@ export function ShadowingPractice({
           <h3 className="text-sm font-semibold text-muted-foreground flex items-center gap-2">
             🔊 LISTEN
           </h3>
-        <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-2 gap-3">
             <Button
               variant="outline"
               onClick={() => handlePlayAudio(false)}
@@ -209,14 +261,14 @@ export function ShadowingPractice({
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            className="bg-indigo-50 border border-indigo-200 rounded-xl p-4"
+            className="bg-indigo-50 dark:bg-indigo-950/50 border border-indigo-200 dark:border-indigo-800 rounded-xl p-4"
           >
-            <h3 className="text-sm font-semibold text-indigo-800 mb-1 flex items-center gap-2">
+            <h3 className="text-sm font-semibold text-indigo-800 dark:text-indigo-200 mb-1 flex items-center gap-2">
               💡 PRONUNCIATION TIP
             </h3>
-            <p className="text-sm text-indigo-700">{currentItem.pronunciation_tips}</p>
+            <p className="text-sm text-indigo-700 dark:text-indigo-300">{currentItem.pronunciation_tips}</p>
             {currentItem.pitch_pattern && (
-              <p className="text-xs text-indigo-600 mt-1 font-mono">
+              <p className="text-xs text-indigo-600 dark:text-indigo-400 mt-1 font-mono">
                 Pitch: {currentItem.pitch_pattern}
               </p>
             )}
@@ -228,6 +280,23 @@ export function ShadowingPractice({
           <div className="space-y-3">
             <h3 className="text-sm font-semibold text-muted-foreground flex items-center gap-2">
               🎤 YOUR TURN
+              {speechRecognition.isSupported && (
+                <span className={`ml-auto flex items-center gap-1 text-xs ${
+                  speechRecognition.isListening ? 'text-green-500' : 'text-muted-foreground'
+                }`}>
+                  {speechRecognition.isListening ? (
+                    <>
+                      <Mic className="h-3 w-3 animate-pulse" />
+                      Listening...
+                    </>
+                  ) : (
+                    <>
+                      <MicOff className="h-3 w-3" />
+                      Ready
+                    </>
+                  )}
+                </span>
+              )}
             </h3>
             
             <div className="bg-muted/50 rounded-2xl p-6 flex flex-col items-center">
@@ -238,8 +307,28 @@ export function ShadowingPractice({
                     isActive={recorder.isRecording} 
                   />
                   <div className="text-center mt-2 text-sm text-muted-foreground">
-                    0:{String(recorder.duration).padStart(2, '0')} / 0:05
+                    0:{String(recorder.duration).padStart(2, '0')} / 0:10
                   </div>
+                  
+                  {/* Live Transcript */}
+                  <AnimatePresence>
+                    {(speechRecognition.transcript || speechRecognition.interimTranscript) && (
+                      <motion.div
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        exit={{ opacity: 0 }}
+                        className="mt-3 p-2 bg-card rounded-lg text-center"
+                      >
+                        <p className="text-sm text-muted-foreground">Recognized:</p>
+                        <p className="font-jp text-lg">
+                          {speechRecognition.transcript}
+                          <span className="text-muted-foreground">
+                            {speechRecognition.interimTranscript}
+                          </span>
+                        </p>
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
                 </div>
               )}
               
@@ -248,18 +337,99 @@ export function ShadowingPractice({
                 onPress={handleRecordStart}
                 onRelease={handleRecordStop}
               />
+              
+              {speechRecognition.error && (
+                <p className="text-sm text-destructive mt-2">
+                  {speechRecognition.error}
+                </p>
+              )}
             </div>
           </div>
         ) : (
-          <SpeakingResultCard
-            audioUrl={recorder.audioUrl}
-            score={score}
-            feedback={generateFeedback()}
-            onPlayRecording={playRecording}
-            onTryAgain={handleTryAgain}
-            onNext={handleNext}
-            isPlaying={isPlayingRecording}
-          />
+          <div className="space-y-4">
+            {/* Score Summary */}
+            {scoringResult && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.9 }}
+                animate={{ opacity: 1, scale: 1 }}
+                className="bg-card rounded-2xl p-6 shadow-elevated"
+              >
+                <div className="text-center mb-4">
+                  <div className={`text-5xl font-bold ${getScoreColor(scoringResult.overallScore)}`}>
+                    {scoringResult.overallScore}
+                  </div>
+                  <p className="text-sm text-muted-foreground">
+                    {getScoreLabel(scoringResult.overallScore)}
+                  </p>
+                </div>
+                
+                {/* Score Breakdown */}
+                <div className="grid grid-cols-3 gap-4 mb-4">
+                  <div className="text-center">
+                    <div className="text-lg font-semibold">{scoringResult.pronunciationScore}</div>
+                    <p className="text-xs text-muted-foreground">Pronunciation</p>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-lg font-semibold">{scoringResult.accuracyScore}</div>
+                    <p className="text-xs text-muted-foreground">Accuracy</p>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-lg font-semibold">{scoringResult.fluencyScore}</div>
+                    <p className="text-xs text-muted-foreground">Fluency</p>
+                  </div>
+                </div>
+                
+                {/* What you said */}
+                {scoringResult.matchedText && (
+                  <div className="bg-muted/50 rounded-lg p-3 mb-4">
+                    <p className="text-xs text-muted-foreground mb-1">You said:</p>
+                    <p className="font-jp text-lg">{scoringResult.matchedText}</p>
+                  </div>
+                )}
+                
+                {/* Feedback */}
+                <div className="space-y-2">
+                  {scoringResult.feedback.positive.map((item, i) => (
+                    <div key={i} className="flex items-start gap-2 text-sm text-green-600 dark:text-green-400">
+                      <span>✓</span>
+                      <span>{item}</span>
+                    </div>
+                  ))}
+                  {scoringResult.feedback.improvements.map((item, i) => (
+                    <div key={i} className="flex items-start gap-2 text-sm text-yellow-600 dark:text-yellow-400">
+                      <span>→</span>
+                      <span>{item}</span>
+                    </div>
+                  ))}
+                </div>
+              </motion.div>
+            )}
+            
+            {/* Actions */}
+            <div className="flex gap-3">
+              {recorder.audioUrl && (
+                <Button
+                  variant="outline"
+                  onClick={playRecording}
+                  disabled={isPlayingRecording}
+                  className="flex-1"
+                >
+                  {isPlayingRecording ? '🔊 Playing...' : '🔊 Play Recording'}
+                </Button>
+              )}
+              <Button
+                variant="outline"
+                onClick={handleTryAgain}
+                className="flex-1"
+              >
+                🔄 Try Again
+              </Button>
+            </div>
+            
+            <Button onClick={handleNext} className="w-full">
+              {currentIndex < items.length - 1 ? 'Next →' : 'Complete ✓'}
+            </Button>
+          </div>
         )}
 
         {/* Navigation */}
