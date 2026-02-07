@@ -241,7 +241,97 @@
   }
 }
 
-/* Custom animations */
+/* ============================================
+   ACCESSIBILITY STYLES
+   ============================================ */
+
+/* High Contrast Mode */
+.high-contrast {
+  --background: 0 0% 100%;
+  --foreground: 0 0% 0%;
+  --card: 0 0% 100%;
+  --card-foreground: 0 0% 0%;
+  --primary: 220 100% 30%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 0 0% 20%;
+  --secondary-foreground: 0 0% 100%;
+  --muted: 0 0% 95%;
+  --muted-foreground: 0 0% 20%;
+  --border: 0 0% 0%;
+  --input: 0 0% 0%;
+  --ring: 220 100% 30%;
+}
+
+.dark.high-contrast {
+  --background: 0 0% 0%;
+  --foreground: 0 0% 100%;
+  --card: 0 0% 5%;
+  --card-foreground: 0 0% 100%;
+  --primary: 50 100% 60%;
+  --primary-foreground: 0 0% 0%;
+  --secondary: 0 0% 80%;
+  --secondary-foreground: 0 0% 0%;
+  --muted: 0 0% 15%;
+  --muted-foreground: 0 0% 85%;
+  --border: 0 0% 100%;
+  --input: 0 0% 100%;
+  --ring: 50 100% 60%;
+}
+
+/* Additional high contrast enhancements */
+.high-contrast button,
+.high-contrast a,
+.high-contrast [role="button"] {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.high-contrast button:focus,
+.high-contrast a:focus,
+.high-contrast [role="button"]:focus {
+  outline: 3px solid currentColor;
+  outline-offset: 2px;
+}
+
+/* Reduced Motion */
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+
+/* Screen Reader Optimization */
+.sr-optimized .sr-only {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  padding: 0.5rem !important;
+  margin: 0 !important;
+  overflow: visible !important;
+  clip: auto !important;
+  white-space: normal !important;
+  background: hsl(var(--muted));
+  border: 1px solid hsl(var(--border));
+  border-radius: 0.25rem;
+}
+
+/* Focus indicators for screen reader mode */
+.sr-optimized *:focus {
+  outline: 3px solid hsl(var(--ring));
+  outline-offset: 3px;
+}
+
+.sr-optimized [aria-hidden="true"] {
+  display: none !important;
+}
+
+/* ============================================
+   CUSTOM ANIMATIONS
+   ============================================ */
+
 @keyframes float {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-10px); }
