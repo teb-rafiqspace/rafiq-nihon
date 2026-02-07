@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.4)
+> Last updated: 2026-02-07 (v2.5)
 
 ## Overview
 
@@ -206,11 +206,11 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] RTL support (CSS utilities dan dir attribute)
 - [x] Regional date/time formats (Intl.DateTimeFormat per locale)
 
-### ♿ Accessibility
-- [ ] Screen reader optimization
-- [ ] High contrast mode
-- [ ] Font size adjustment
-- [ ] Reduced motion option
+### ♿ Accessibility ✅ NEW
+- [x] Screen reader optimization (aria labels, focus management)
+- [x] High contrast mode (light & dark variants)
+- [x] Font size adjustment (small/normal/large/xlarge)
+- [x] Reduced motion option (respects prefers-reduced-motion)
 
 ### 🛠️ Admin & Content Management
 - [ ] Admin dashboard
@@ -245,9 +245,9 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Payment | 0 | 6 | 0% |
 | Social | 4 | 1 | 80% ✅ |
 | Sync & Backup | 0 | 4 | 0% |
-| Accessibility | 0 | 4 | 0% |
+| Accessibility | 4 | 0 | 100% ✅ |
 | Admin | 0 | 4 | 0% |
-| **TOTAL** | **120** | **19** | **~86%** |
+| **TOTAL** | **124** | **15** | **~89%** |
 
 ---
 
@@ -277,9 +277,10 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - **Edge Functions**: `rafiq-chat`, `kanji-ocr`, dan `speech-analysis` deployed
 - **PWA**: Production-ready dengan Workbox offline caching
 - **Analytics**: Aggregated dari 4 data sources (progress, quiz, flashcard, speaking)
-- **i18n**: Full translation system dengan 120+ keys (ID, EN, JA)
+- **i18n**: Full translation system dengan 130+ keys (ID, EN, JA)
 - **Native Features**: Haptic feedback, Camera OCR via Web APIs
 - **Enhanced Speaking**: AI-powered pronunciation analysis, pitch accent visualization, voice comparison
+- **Accessibility**: High contrast mode, font size control, reduced motion, screen reader optimized
 
 ---
 

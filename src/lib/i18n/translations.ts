@@ -211,6 +211,17 @@ export interface TranslationKeys {
   trackJlptN5: string;
   trackJlptN4: string;
   trackJlptN3: string;
+  
+  // Accessibility
+  accessibility: string;
+  highContrast: string;
+  highContrastDesc: string;
+  fontSize: string;
+  fontSizeDesc: string;
+  reducedMotion: string;
+  reducedMotionDesc: string;
+  screenReader: string;
+  screenReaderDesc: string;
 }
 
 export const translations: Record<Language, TranslationKeys> = {
@@ -425,6 +436,17 @@ export const translations: Record<Language, TranslationKeys> = {
     trackJlptN5: 'JLPT N5',
     trackJlptN4: 'JLPT N4',
     trackJlptN3: 'JLPT N3',
+    
+    // Accessibility
+    accessibility: 'Aksesibilitas',
+    highContrast: 'Kontras Tinggi',
+    highContrastDesc: 'Tingkatkan kontras warna untuk visibilitas lebih baik',
+    fontSize: 'Ukuran Font',
+    fontSizeDesc: 'Sesuaikan ukuran teks di seluruh aplikasi',
+    reducedMotion: 'Kurangi Animasi',
+    reducedMotionDesc: 'Minimalkan animasi untuk kenyamanan visual',
+    screenReader: 'Optimasi Screen Reader',
+    screenReaderDesc: 'Optimalkan untuk pembaca layar',
   },
   
   en: {
@@ -638,6 +660,17 @@ export const translations: Record<Language, TranslationKeys> = {
     trackJlptN5: 'JLPT N5',
     trackJlptN4: 'JLPT N4',
     trackJlptN3: 'JLPT N3',
+    
+    // Accessibility
+    accessibility: 'Accessibility',
+    highContrast: 'High Contrast',
+    highContrastDesc: 'Increase color contrast for better visibility',
+    fontSize: 'Font Size',
+    fontSizeDesc: 'Adjust text size across the app',
+    reducedMotion: 'Reduced Motion',
+    reducedMotionDesc: 'Minimize animations for visual comfort',
+    screenReader: 'Screen Reader Optimization',
+    screenReaderDesc: 'Optimize for screen readers',
   },
   
   ja: {
@@ -851,5 +884,16 @@ export const translations: Record<Language, TranslationKeys> = {
     trackJlptN5: 'JLPT N5',
     trackJlptN4: 'JLPT N4',
     trackJlptN3: 'JLPT N3',
+    
+    // Accessibility
+    accessibility: 'アクセシビリティ',
+    highContrast: 'ハイコントラスト',
+    highContrastDesc: '視認性を向上させるためにコントラストを上げる',
+    fontSize: 'フォントサイズ',
+    fontSizeDesc: 'アプリ全体のテキストサイズを調整',
+    reducedMotion: 'アニメーション削減',
+    reducedMotionDesc: '視覚的な快適さのためにアニメーションを最小化',
+    screenReader: 'スクリーンリーダー最適化',
+    screenReaderDesc: 'スクリーンリーダー用に最適化',
   },
 };

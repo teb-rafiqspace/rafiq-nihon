@@ -46,6 +46,7 @@ import { useI18n, LANGUAGES } from '@/lib/i18n';
 import { useAuth } from '@/lib/auth';
 import { useProfile, useUpdateProfile } from '@/hooks/useProfile';
 import { useStudyReminder } from '@/hooks/useStudyReminder';
+import { AccessibilityPanel } from '@/components/accessibility/AccessibilityPanel';
 import { toast } from '@/hooks/use-toast';
 
 type ThemeOption = 'light' | 'dark' | 'system';
@@ -155,11 +156,14 @@ export default function Settings() {
           </Card>
         </motion.section>
 
+        {/* Accessibility Section */}
+        <AccessibilityPanel />
+
         {/* Language Section */}
         <motion.section
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.1 }}
+          transition={{ delay: 0.2 }}
         >
           <h2 className="text-sm font-medium text-muted-foreground mb-3 px-1">
             {t('language')}
@@ -189,7 +193,7 @@ export default function Settings() {
         <motion.section
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.2 }}
+          transition={{ delay: 0.25 }}
         >
           <h2 className="text-sm font-medium text-muted-foreground mb-3 px-1">
             {t('account')}
@@ -264,7 +268,7 @@ export default function Settings() {
         <motion.section
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.3 }}
+          transition={{ delay: 0.35 }}
         >
           <h2 className="text-sm font-medium text-muted-foreground mb-3 px-1">
             {t('about')}
@@ -301,7 +305,7 @@ export default function Settings() {
         <motion.section
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4 }}
+          transition={{ delay: 0.45 }}
         >
           <Card className="divide-y divide-border">
             <button 
