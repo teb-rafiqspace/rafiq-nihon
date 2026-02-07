@@ -1,5 +1,6 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import { renderHook, waitFor, act } from '@testing-library/react';
+import { renderHook, act } from '@testing-library/react';
+import { waitFor } from '@testing-library/dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactNode } from 'react';
 
@@ -62,9 +63,9 @@ import { useAuth } from '@/lib/auth';
 describe('useProfile', () => {
   let queryClient: QueryClient;
   
-  const wrapper = ({ children }: { children: ReactNode }) => (
-    <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
-  );
+  function TestWrapper({ children }: { children: ReactNode }) {
+    return <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>;
+  }
 
   beforeEach(() => {
     vi.clearAllMocks();
@@ -79,7 +80,7 @@ describe('useProfile', () => {
 
   describe('useProfile hook', () => {
     it('fetches profile for logged in user', async () => {
-      const { result } = renderHook(() => useProfile(), { wrapper });
+      const { result } = renderHook(() => useProfile(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.isLoading).toBe(false);
@@ -101,7 +102,7 @@ describe('useProfile', () => {
         updatePassword: vi.fn(),
       });
       
-      const { result } = renderHook(() => useProfile(), { wrapper });
+      const { result } = renderHook(() => useProfile(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.isLoading).toBe(false);
@@ -126,7 +127,7 @@ describe('useProfile', () => {
         updatePassword: vi.fn(),
       });
       
-      const { result } = renderHook(() => useProfile(), { wrapper });
+      const { result } = renderHook(() => useProfile(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.isError).toBe(true);
@@ -150,7 +151,7 @@ describe('useProfile', () => {
     });
 
     it('provides mutate function for updating profile', () => {
-      const { result } = renderHook(() => useUpdateProfile(), { wrapper });
+      const { result } = renderHook(() => useUpdateProfile(), { wrapper: TestWrapper });
       
       expect(result.current.mutate).toBeDefined();
       expect(result.current.mutateAsync).toBeDefined();
@@ -160,7 +161,7 @@ describe('useProfile', () => {
       const updatedProfile = { ...mockProfile, full_name: 'Updated Name' };
       mockSingle.mockResolvedValue({ data: updatedProfile, error: null });
       
-      const { result } = renderHook(() => useUpdateProfile(), { wrapper });
+      const { result } = renderHook(() => useUpdateProfile(), { wrapper: TestWrapper });
       
       await act(async () => {
         await result.current.mutateAsync({ full_name: 'Updated Name' });
@@ -172,7 +173,7 @@ describe('useProfile', () => {
     it('handles update errors', async () => {
       mockSingle.mockResolvedValue({ data: null, error: new Error('Update failed') });
       
-      const { result } = renderHook(() => useUpdateProfile(), { wrapper });
+      const { result } = renderHook(() => useUpdateProfile(), { wrapper: TestWrapper });
       
       await expect(
         act(async () => {
@@ -186,7 +187,7 @@ describe('useProfile', () => {
       
       const invalidateSpy = vi.spyOn(queryClient, 'invalidateQueries');
       
-      const { result } = renderHook(() => useUpdateProfile(), { wrapper });
+      const { result } = renderHook(() => useUpdateProfile(), { wrapper: TestWrapper });
       
       await act(async () => {
         await result.current.mutateAsync({ full_name: 'New Name' });
