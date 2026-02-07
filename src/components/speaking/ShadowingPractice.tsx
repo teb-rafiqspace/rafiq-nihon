@@ -1,14 +1,18 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ArrowLeft, Volume2, SkipForward, ChevronRight, Loader2, Mic, MicOff } from 'lucide-react';
+import { ArrowLeft, Volume2, SkipForward, ChevronRight, Loader2, Mic, MicOff, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
+import { Switch } from '@/components/ui/switch';
 import { RecordingButton } from './RecordingButton';
 import { WaveformVisualizer } from './WaveformVisualizer';
-import { SpeakingResultCard } from './SpeakingResultCard';
+import { PitchAccentVisualizer } from './PitchAccentVisualizer';
+import { VoiceComparisonPlayer } from './VoiceComparisonPlayer';
+import { PronunciationProblemCard, PronunciationProblem } from './PronunciationProblemCard';
 import { useAudioRecorder } from '@/hooks/useAudioRecorder';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 import { useSpeechRecognition } from '@/hooks/useSpeechRecognition';
+import { useAISpeechAnalysis, AIAnalysisResult } from '@/hooks/useAISpeechAnalysis';
 import { calculateSpeechScore, ScoringResult, getScoreColor, getScoreLabel } from '@/lib/speechScoring';
 import { SpeakingItem } from '@/hooks/useSpeaking';
 
@@ -30,13 +34,17 @@ export function ShadowingPractice({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showResult, setShowResult] = useState(false);
   const [scoringResult, setScoringResult] = useState<ScoringResult | null>(null);
+  const [aiResult, setAiResult] = useState<AIAnalysisResult | null>(null);
   const [isPlayingRecording, setIsPlayingRecording] = useState(false);
   const [totalScore, setTotalScore] = useState(0);
   const [completedCount, setCompletedCount] = useState(0);
+  const [useAIScoring, setUseAIScoring] = useState(true);
+  const [showPitchAccent, setShowPitchAccent] = useState(true);
   
   const recorder = useAudioRecorder();
   const { speak, playAudioUrl, isPlaying: isPlayingAudio, hasJapaneseVoice } = useJapaneseAudio();
   const speechRecognition = useSpeechRecognition('ja-JP');
+  const { analyzeWithAI, isAnalyzing } = useAISpeechAnalysis();
   
   const currentItem = items[currentIndex];
   const progress = ((currentIndex + 1) / items.length) * 100;
@@ -72,15 +80,44 @@ export function ShadowingPractice({
     recorder.startRecording();
   };
 
-  const handleRecordStop = () => {
+  const handleRecordStop = async () => {
     recorder.stopRecording();
     speechRecognition.stopListening();
     
-    // Calculate score after a brief delay to ensure transcript is final
-    setTimeout(() => {
-      const transcript = speechRecognition.transcript || speechRecognition.interimTranscript;
-      
-      if (transcript && currentItem) {
+    // Wait for transcript to finalize
+    await new Promise(resolve => setTimeout(resolve, 500));
+    
+    const transcript = speechRecognition.transcript || speechRecognition.interimTranscript;
+    
+    if (transcript && currentItem) {
+      // Use AI scoring if enabled
+      if (useAIScoring) {
+        const aiAnalysis = await analyzeWithAI(
+          transcript,
+          currentItem.japanese_text,
+          currentItem.reading_hiragana,
+          currentItem.pitch_pattern
+        );
+        
+        if (aiAnalysis) {
+          setAiResult(aiAnalysis);
+          setTotalScore(prev => prev + aiAnalysis.overallScore);
+          setCompletedCount(prev => prev + 1);
+          
+          // Also create basic scoring result for compatibility
+          setScoringResult({
+            overallScore: aiAnalysis.overallScore,
+            pronunciationScore: aiAnalysis.pronunciationScore,
+            accuracyScore: aiAnalysis.accuracyScore,
+            fluencyScore: aiAnalysis.fluencyScore,
+            matchedText: transcript,
+            targetText: currentItem.japanese_text,
+            feedback: aiAnalysis.feedback,
+            detailedAnalysis: aiAnalysis.detailedAnalysis
+          });
+        }
+      } else {
+        // Use basic scoring
         const result = calculateSpeechScore(
           transcript,
           currentItem.japanese_text,
@@ -90,28 +127,29 @@ export function ShadowingPractice({
         setScoringResult(result);
         setTotalScore(prev => prev + result.overallScore);
         setCompletedCount(prev => prev + 1);
-      } else {
-        // No speech detected - give minimal score
-        setScoringResult({
-          overallScore: 0,
-          pronunciationScore: 0,
-          accuracyScore: 0,
-          fluencyScore: 0,
-          matchedText: '',
-          targetText: currentItem?.japanese_text || '',
-          feedback: {
-            positive: [],
-            improvements: ['No speech detected. Please try again.']
-          },
-          detailedAnalysis: {
-            characterAccuracy: 0,
-            wordOrder: 0,
-            completeness: 0
-          }
-        });
       }
-      setShowResult(true);
-    }, 500);
+    } else {
+      // No speech detected
+      const emptyResult: ScoringResult = {
+        overallScore: 0,
+        pronunciationScore: 0,
+        accuracyScore: 0,
+        fluencyScore: 0,
+        matchedText: '',
+        targetText: currentItem?.japanese_text || '',
+        feedback: {
+          positive: [],
+          improvements: ['No speech detected. Please try again.']
+        },
+        detailedAnalysis: {
+          characterAccuracy: 0,
+          wordOrder: 0,
+          completeness: 0
+        }
+      };
+      setScoringResult(emptyResult);
+    }
+    setShowResult(true);
   };
 
   const playRecording = () => {
@@ -128,6 +166,7 @@ export function ShadowingPractice({
     speechRecognition.resetTranscript();
     setShowResult(false);
     setScoringResult(null);
+    setAiResult(null);
   };
 
   const handleNext = () => {
@@ -136,6 +175,7 @@ export function ShadowingPractice({
       speechRecognition.resetTranscript();
       setShowResult(false);
       setScoringResult(null);
+      setAiResult(null);
       setCurrentIndex(currentIndex + 1);
     } else {
       const avgScore = completedCount > 0 ? Math.round(totalScore / completedCount) : 0;
@@ -149,6 +189,7 @@ export function ShadowingPractice({
       speechRecognition.resetTranscript();
       setShowResult(false);
       setScoringResult(null);
+      setAiResult(null);
       setCurrentIndex(currentIndex + 1);
     } else {
       const avgScore = completedCount > 0 ? Math.round(totalScore / completedCount) : 0;
@@ -180,7 +221,7 @@ export function ShadowingPractice({
         </div>
       </div>
 
-      <div className="flex-1 container max-w-lg mx-auto px-4 py-6 space-y-6">
+      <div className="flex-1 container max-w-lg mx-auto px-4 py-6 space-y-6 overflow-y-auto">
         {/* Lesson Title */}
         <motion.div
           initial={{ opacity: 0, y: -10 }}
@@ -193,10 +234,19 @@ export function ShadowingPractice({
           <p className="text-sm text-muted-foreground font-jp">{lessonTitleJp}</p>
         </motion.div>
 
+        {/* AI Scoring Toggle */}
+        <div className="flex items-center justify-between bg-card rounded-lg px-4 py-2 shadow-sm">
+          <div className="flex items-center gap-2">
+            <Sparkles className="w-4 h-4 text-amber-500" />
+            <span className="text-sm font-medium">AI Scoring</span>
+          </div>
+          <Switch checked={useAIScoring} onCheckedChange={setUseAIScoring} />
+        </div>
+
         {/* Speech Recognition Status */}
         {!speechRecognition.isSupported && (
-          <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-3 text-center">
-            <p className="text-sm text-yellow-800">
+          <div className="bg-amber-50 dark:bg-amber-950/50 border border-amber-200 dark:border-amber-800 rounded-xl p-3 text-center">
+            <p className="text-sm text-amber-800 dark:text-amber-200">
               ⚠️ Speech recognition not supported. Using simulated scoring.
             </p>
           </div>
@@ -218,6 +268,22 @@ export function ShadowingPractice({
           <p className="text-base text-foreground">
             "{currentItem.meaning_id}"
           </p>
+          
+          {/* Pitch Accent Visualization */}
+          {showPitchAccent && (currentItem.pitch_pattern || currentItem.pitch_visual) && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: 'auto' }}
+              className="mt-4 pt-4 border-t"
+            >
+              <PitchAccentVisualizer
+                text={currentItem.reading_hiragana || currentItem.japanese_text}
+                pitchPattern={currentItem.pitch_pattern}
+                pitchVisual={currentItem.pitch_visual}
+                size="md"
+              />
+            </motion.div>
+          )}
         </motion.div>
 
         {/* Listen Section */}
@@ -267,11 +333,6 @@ export function ShadowingPractice({
               💡 PRONUNCIATION TIP
             </h3>
             <p className="text-sm text-indigo-700 dark:text-indigo-300">{currentItem.pronunciation_tips}</p>
-            {currentItem.pitch_pattern && (
-              <p className="text-xs text-indigo-600 dark:text-indigo-400 mt-1 font-mono">
-                Pitch: {currentItem.pitch_pattern}
-              </p>
-            )}
           </motion.div>
         )}
 
@@ -282,7 +343,7 @@ export function ShadowingPractice({
               🎤 YOUR TURN
               {speechRecognition.isSupported && (
                 <span className={`ml-auto flex items-center gap-1 text-xs ${
-                  speechRecognition.isListening ? 'text-green-500' : 'text-muted-foreground'
+                  speechRecognition.isListening ? 'text-emerald-500' : 'text-muted-foreground'
                 }`}>
                   {speechRecognition.isListening ? (
                     <>
@@ -347,8 +408,16 @@ export function ShadowingPractice({
           </div>
         ) : (
           <div className="space-y-4">
+            {/* Loading State */}
+            {isAnalyzing && (
+              <div className="flex items-center justify-center p-8">
+                <Loader2 className="h-8 w-8 animate-spin text-primary" />
+                <span className="ml-2 text-muted-foreground">Analyzing pronunciation...</span>
+              </div>
+            )}
+
             {/* Score Summary */}
-            {scoringResult && (
+            {scoringResult && !isAnalyzing && (
               <motion.div
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
@@ -361,10 +430,16 @@ export function ShadowingPractice({
                   <p className="text-sm text-muted-foreground">
                     {getScoreLabel(scoringResult.overallScore)}
                   </p>
+                  {useAIScoring && aiResult && (
+                    <span className="inline-flex items-center gap-1 mt-1 text-xs bg-amber-100 dark:bg-amber-900 text-amber-700 dark:text-amber-300 px-2 py-0.5 rounded-full">
+                      <Sparkles className="w-3 h-3" />
+                      AI Enhanced
+                    </span>
+                  )}
                 </div>
                 
                 {/* Score Breakdown */}
-                <div className="grid grid-cols-3 gap-4 mb-4">
+                <div className="grid grid-cols-4 gap-3 mb-4">
                   <div className="text-center">
                     <div className="text-lg font-semibold">{scoringResult.pronunciationScore}</div>
                     <p className="text-xs text-muted-foreground">Pronunciation</p>
@@ -377,6 +452,12 @@ export function ShadowingPractice({
                     <div className="text-lg font-semibold">{scoringResult.fluencyScore}</div>
                     <p className="text-xs text-muted-foreground">Fluency</p>
                   </div>
+                  {aiResult && (
+                    <div className="text-center">
+                      <div className="text-lg font-semibold">{aiResult.pitchAccuracyScore}</div>
+                      <p className="text-xs text-muted-foreground">Pitch</p>
+                    </div>
+                  )}
                 </div>
                 
                 {/* What you said */}
@@ -390,13 +471,13 @@ export function ShadowingPractice({
                 {/* Feedback */}
                 <div className="space-y-2">
                   {scoringResult.feedback.positive.map((item, i) => (
-                    <div key={i} className="flex items-start gap-2 text-sm text-green-600 dark:text-green-400">
+                    <div key={i} className="flex items-start gap-2 text-sm text-emerald-600 dark:text-emerald-400">
                       <span>✓</span>
                       <span>{item}</span>
                     </div>
                   ))}
                   {scoringResult.feedback.improvements.map((item, i) => (
-                    <div key={i} className="flex items-start gap-2 text-sm text-yellow-600 dark:text-yellow-400">
+                    <div key={i} className="flex items-start gap-2 text-sm text-amber-600 dark:text-amber-400">
                       <span>→</span>
                       <span>{item}</span>
                     </div>
@@ -404,10 +485,30 @@ export function ShadowingPractice({
                 </div>
               </motion.div>
             )}
+
+            {/* Pronunciation Problems (AI Enhanced) */}
+            {aiResult && aiResult.problems.length > 0 && (
+              <PronunciationProblemCard
+                problems={aiResult.problems}
+                targetText={currentItem.japanese_text}
+                spokenText={scoringResult?.matchedText || ''}
+              />
+            )}
+
+            {/* Voice Comparison */}
+            {recorder.audioUrl && (
+              <VoiceComparisonPlayer
+                nativeAudioUrl={currentItem.audio_url}
+                nativeText={currentItem.japanese_text}
+                userAudioUrl={recorder.audioUrl}
+                onPlayNative={() => handlePlayAudio(false)}
+                isNativePlaying={isPlayingAudio}
+              />
+            )}
             
             {/* Actions */}
             <div className="flex gap-3">
-              {recorder.audioUrl && (
+              {recorder.audioUrl && !isAnalyzing && (
                 <Button
                   variant="outline"
                   onClick={playRecording}
@@ -420,13 +521,14 @@ export function ShadowingPractice({
               <Button
                 variant="outline"
                 onClick={handleTryAgain}
+                disabled={isAnalyzing}
                 className="flex-1"
               >
                 🔄 Try Again
               </Button>
             </div>
             
-            <Button onClick={handleNext} className="w-full">
+            <Button onClick={handleNext} className="w-full" disabled={isAnalyzing}>
               {currentIndex < items.length - 1 ? 'Next →' : 'Complete ✓'}
             </Button>
           </div>

@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.3)
+> Last updated: 2026-02-07 (v2.4)
 
 ## Overview
 
@@ -169,11 +169,11 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [ ] Study groups/communities (skipped)
 - [x] Challenge friends (kirim tantangan quiz ke teman)
 
-### 🎤 Enhanced Speaking
-- [ ] Real speech-to-text scoring dengan AI (beyond Web Speech API)
-- [ ] Pitch accent visualization dalam practice
-- [ ] Voice comparison (user vs native)
-- [ ] Pronunciation problem detection
+### 🎤 Enhanced Speaking ✅ NEW
+- [x] Real speech-to-text scoring dengan AI (beyond Web Speech API)
+- [x] Pitch accent visualization dalam practice
+- [x] Voice comparison (user vs native)
+- [x] Pronunciation problem detection dengan detailed feedback
 
 ### 🎵 Enhanced Audio
 - [ ] ElevenLabs TTS integration (high-quality voices)
@@ -229,7 +229,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Flashcard | 7 | 0 | 100% ✅ |
 | Quiz & Practice | 5 | 0 | 100% ✅ |
 | Mock Test | 7 | 0 | 100% ✅ |
-| Speaking | 8 | 4 | 67% |
+| Speaking | 12 | 0 | 100% ✅ |
 | AI Chat | 5 | 0 | 100% ✅ |
 | Exam Schedule | 7 | 0 | 100% ✅ |
 | Gamification | 7 | 5 | 58% |
@@ -247,7 +247,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Sync & Backup | 0 | 4 | 0% |
 | Accessibility | 0 | 4 | 0% |
 | Admin | 0 | 4 | 0% |
-| **TOTAL** | **116** | **23** | **~84%** |
+| **TOTAL** | **120** | **19** | **~86%** |
 
 ---
 
@@ -274,11 +274,12 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 
 - **Database**: Supabase PostgreSQL dengan 35+ tables
 - **Security**: RLS policies dikonfigurasi untuk semua user tables
-- **Edge Functions**: `rafiq-chat` dan `kanji-ocr` deployed
+- **Edge Functions**: `rafiq-chat`, `kanji-ocr`, dan `speech-analysis` deployed
 - **PWA**: Production-ready dengan Workbox offline caching
 - **Analytics**: Aggregated dari 4 data sources (progress, quiz, flashcard, speaking)
 - **i18n**: Full translation system dengan 120+ keys (ID, EN, JA)
 - **Native Features**: Haptic feedback, Camera OCR via Web APIs
+- **Enhanced Speaking**: AI-powered pronunciation analysis, pitch accent visualization, voice comparison
 
 ---
 
