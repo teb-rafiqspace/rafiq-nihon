@@ -6,20 +6,24 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Progress } from '@/components/ui/progress';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { ArrowLeft, BookOpen, CheckCircle2, Circle, Search } from 'lucide-react';
+import { ArrowLeft, BookOpen, CheckCircle2, Circle, Search, Camera } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { useKanji } from '@/hooks/useKanji';
 import { KanjiCard } from '@/components/kanji/KanjiCard';
 import { KanjiDetailModal } from '@/components/kanji/KanjiDetailModal';
+import { KanjiScanner } from '@/components/kanji/KanjiScanner';
 import { Skeleton } from '@/components/ui/skeleton';
+import { useHapticFeedback } from '@/hooks/useHapticFeedback';
 
 export default function KanjiLearn() {
   const navigate = useNavigate();
   const [level, setLevel] = useState('N5');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedKanji, setSelectedKanji] = useState<any>(null);
+  const [showScanner, setShowScanner] = useState(false);
   
   const { kanjiList, isLoading, stats, getKanjiStatus, updateProgress } = useKanji(level);
+  const haptic = useHapticFeedback();
 
   const filteredKanji = kanjiList.filter(k => 
     k.character.includes(searchQuery) || 
@@ -45,6 +49,17 @@ export default function KanjiLearn() {
                 Kuasai karakter Kanji JLPT
               </p>
             </div>
+            <Button 
+              variant="outline" 
+              size="icon"
+              onClick={() => {
+                haptic.light();
+                setShowScanner(true);
+              }}
+              title="Scan Kanji"
+            >
+              <Camera className="h-5 w-5" />
+            </Button>
           </div>
         </div>
 
@@ -133,7 +148,10 @@ export default function KanjiLearn() {
                   key={kanji.id}
                   kanji={kanji}
                   status={getKanjiStatus(kanji.id)}
-                  onSelect={() => setSelectedKanji(kanji)}
+                  onSelect={() => {
+                    haptic.light();
+                    setSelectedKanji(kanji);
+                  }}
                 />
               ))}
             </div>
@@ -146,12 +164,26 @@ export default function KanjiLearn() {
           isOpen={!!selectedKanji}
           onClose={() => setSelectedKanji(null)}
           onMarkKnown={() => {
+            haptic.success();
             updateProgress({ kanjiId: selectedKanji.id, correct: true });
             setSelectedKanji(null);
           }}
           onMarkUnknown={() => {
+            haptic.warning();
             updateProgress({ kanjiId: selectedKanji.id, correct: false });
             setSelectedKanji(null);
+          }}
+        />
+
+        {/* Kanji Scanner */}
+        <KanjiScanner
+          isOpen={showScanner}
+          onClose={() => setShowScanner(false)}
+          onKanjiSelected={(char) => {
+            const found = kanjiList.find(k => k.character === char);
+            if (found) {
+              setSelectedKanji(found);
+            }
           }}
         />
       </div>

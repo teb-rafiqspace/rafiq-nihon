@@ -4,6 +4,7 @@ import { Volume2, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 import { BookmarkButton } from '@/components/learn/BookmarkButton';
+import { useHapticFeedback } from '@/hooks/useHapticFeedback';
 
 interface FlashCardProps {
   id?: string;
@@ -29,6 +30,12 @@ export function FlashCard({
   showBookmark = true,
 }: FlashCardProps) {
   const { speak, isPlaying } = useJapaneseAudio();
+  const haptic = useHapticFeedback();
+
+  const handleFlip = () => {
+    haptic.light();
+    onFlip();
+  };
 
   const handleSpeak = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -46,7 +53,7 @@ export function FlashCard({
     <div className="perspective-1000 w-full max-w-sm mx-auto">
       <motion.div
         className="relative w-full aspect-[3/4] cursor-pointer"
-        onClick={onFlip}
+        onClick={handleFlip}
         animate={{ rotateY: isFlipped ? 180 : 0 }}
         transition={{ duration: 0.5, type: 'spring', stiffness: 200, damping: 25 }}
         style={{ transformStyle: 'preserve-3d' }}

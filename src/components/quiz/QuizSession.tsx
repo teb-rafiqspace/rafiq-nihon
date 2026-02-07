@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { QuizSet, QuizQuestion } from '@/hooks/useQuizPractice';
 import { QuizOptions } from './QuizDetail';
+import { useHapticFeedback } from '@/hooks/useHapticFeedback';
 
 interface QuizSessionProps {
   quiz: QuizSet;
@@ -32,6 +33,7 @@ export function QuizSession({ quiz, questions, options, onComplete, onExit }: Qu
   const [mistakes, setMistakes] = useState<{ question: QuizQuestion; userAnswer: string }[]>([]);
   const [startTime] = useState(Date.now());
   const [timeLeft, setTimeLeft] = useState(options.enableTimer ? 300 : null);
+  const haptic = useHapticFeedback();
 
   // Shuffle questions if option is enabled
   const shuffledQuestions = useMemo(() => {
@@ -74,8 +76,10 @@ export function QuizSession({ quiz, questions, options, onComplete, onExit }: Qu
 
     if (answerId === currentQuestion.correct_answer) {
       setScore(score + 1);
+      haptic.success();
     } else {
       setMistakes([...mistakes, { question: currentQuestion, userAnswer: answerId }]);
+      haptic.error();
     }
   };
 

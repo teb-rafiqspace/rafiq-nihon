@@ -187,11 +187,11 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Cultural tips section dengan do/don't dan frasa terkait
 - [ ] JLPT N4, N3, N2, N1 extended content
 
-### 📱 Native Mobile
-- [ ] Capacitor integration untuk native app
-- [ ] Push notifications (Firebase/OneSignal)
-- [ ] Camera integration untuk kanji recognition
-- [ ] Haptic feedback
+### 📱 Native Mobile ✅ NEW (PWA Web APIs)
+- [x] Push notifications via Web Notification API
+- [x] Haptic feedback via Vibration API
+- [x] Camera integration untuk kanji OCR (Lovable AI)
+- [ ] Capacitor wrapper untuk App Store/Play Store
 
 ### 🔄 Sync & Backup
 - [ ] Manual data export (JSON/CSV)
@@ -238,9 +238,10 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Audio | 5 | 3 | 63% |
 | Analytics | 7 | 0 | 100% ✅ |
 | Content Expansion | 4 | 1 | 80% ✅ |
+| Native Mobile | 3 | 1 | 75% ✅ |
 | Payment | 0 | 6 | 0% |
 | Social | 0 | 5 | 0% |
-| **TOTAL** | **102** | **34** | **~75%** |
+| **TOTAL** | **105** | **32** | **~77%** |
 
 ---
 
