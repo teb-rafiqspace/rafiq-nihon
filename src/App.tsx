@@ -35,6 +35,14 @@ import Leaderboard from "./pages/Leaderboard";
 import Friends from "./pages/Friends";
 import NotFound from "./pages/NotFound";
 
+// Admin pages
+import AdminDashboard from "./pages/admin/AdminDashboard";
+import UserManagement from "./pages/admin/UserManagement";
+import LessonManagement from "./pages/admin/LessonManagement";
+import FlashcardManagement from "./pages/admin/FlashcardManagement";
+import QuizManagement from "./pages/admin/QuizManagement";
+import AdminAnalytics from "./pages/admin/AdminAnalytics";
+
 const queryClient = new QueryClient();
 
 const App = () => (
@@ -74,6 +82,15 @@ const App = () => (
               <Route path="/analytics" element={<Analytics />} />
               <Route path="/leaderboard" element={<Leaderboard />} />
               <Route path="/friends" element={<Friends />} />
+              
+              {/* Admin Routes */}
+              <Route path="/admin" element={<AdminDashboard />} />
+              <Route path="/admin/users" element={<UserManagement />} />
+              <Route path="/admin/lessons" element={<LessonManagement />} />
+              <Route path="/admin/flashcards" element={<FlashcardManagement />} />
+              <Route path="/admin/quizzes" element={<QuizManagement />} />
+              <Route path="/admin/analytics" element={<AdminAnalytics />} />
+              
               <Route path="*" element={<NotFound />} />
             </Routes>
           </BrowserRouter>
