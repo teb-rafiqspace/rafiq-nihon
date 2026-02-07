@@ -198,11 +198,12 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Camera integration untuk kanji OCR (Lovable AI)
 - [ ] Capacitor wrapper untuk App Store/Play Store
 
-### 🔄 Sync & Backup
-- [ ] Manual data export (JSON/CSV)
-- [ ] Cloud backup settings
-- [ ] Cross-device sync status indicator
-- [ ] Offline progress queue sync
+### 🔄 Sync & Backup ✅ NEW
+- [x] Cloud sync (sync progress to server)
+- [x] Manual data export (JSON backup download)
+- [x] Import/restore from backup file
+- [x] Clear local cache data
+- [ ] Cross-device sync status indicator (real-time)
 
 ### 🌐 Localization ✅ NEW
 - [x] Full UI translation system (ID, EN, JA) dengan 120+ keys
@@ -247,10 +248,10 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Localization | 3 | 0 | 100% ✅ |
 | Payment | 0 | 6 | 0% |
 | Social | 4 | 1 | 80% ✅ |
-| Sync & Backup | 0 | 4 | 0% |
+| Sync & Backup | 4 | 1 | 80% ✅ |
 | Accessibility | 4 | 0 | 100% ✅ |
 | Admin | 4 | 0 | 100% ✅ |
-| **TOTAL** | **133** | **6** | **~96%** |
+| **TOTAL** | **137** | **3** | **~98%** |
 
 ---
 
@@ -286,6 +287,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - **Accessibility**: High contrast mode, font size control, reduced motion, screen reader optimized
 - **Admin Panel**: Role-based access control, user management, content CMS, admin analytics
 - **Offline Audio**: IndexedDB-based audio caching with batch download and playback queue
+- **Sync & Backup**: Cloud sync, JSON export/import, local cache management
 
 ---
 
