@@ -2238,6 +2238,30 @@ export type Database = {
           },
         ]
       }
+      user_roles: {
+        Row: {
+          created_at: string
+          id: string
+          role: Database["public"]["Enums"]["app_role"]
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          role?: Database["public"]["Enums"]["app_role"]
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          role?: Database["public"]["Enums"]["app_role"]
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
       user_saved_tests: {
         Row: {
           created_at: string | null
@@ -2567,9 +2591,64 @@ export type Database = {
     }
     Functions: {
       accept_friend_request: { Args: { request_id: string }; Returns: boolean }
+      assign_user_role: {
+        Args: {
+          _role: Database["public"]["Enums"]["app_role"]
+          _target_user_id: string
+        }
+        Returns: boolean
+      }
+      get_admin_stats: {
+        Args: never
+        Returns: {
+          active_users_30d: number
+          active_users_7d: number
+          avg_streak: number
+          premium_users: number
+          total_chapters: number
+          total_decks: number
+          total_flashcards: number
+          total_lessons: number
+          total_quiz_questions: number
+          total_quiz_sets: number
+          total_users: number
+          total_xp_earned: number
+        }[]
+      }
+      get_all_users_with_roles: {
+        Args: never
+        Returns: {
+          avatar_url: string
+          created_at: string
+          current_level: number
+          current_streak: number
+          email: string
+          full_name: string
+          last_active_at: string
+          lessons_completed: number
+          role: Database["public"]["Enums"]["app_role"]
+          total_xp: number
+          user_id: string
+        }[]
+      }
+      has_role: {
+        Args: {
+          _role: Database["public"]["Enums"]["app_role"]
+          _user_id: string
+        }
+        Returns: boolean
+      }
+      is_admin: { Args: never; Returns: boolean }
+      remove_user_role: {
+        Args: {
+          _role: Database["public"]["Enums"]["app_role"]
+          _target_user_id: string
+        }
+        Returns: boolean
+      }
     }
     Enums: {
-      [_ in never]: never
+      app_role: "admin" | "moderator" | "user"
     }
     CompositeTypes: {
       [_ in never]: never
@@ -2696,6 +2775,8 @@ export type CompositeTypes<
 
 export const Constants = {
   public: {
-    Enums: {},
+    Enums: {
+      app_role: ["admin", "moderator", "user"],
+    },
   },
 } as const
