@@ -243,6 +243,54 @@ export type Database = {
           },
         ]
       }
+      cultural_tips: {
+        Row: {
+          category: string
+          content_en: string | null
+          content_id: string
+          created_at: string | null
+          do_list: Json | null
+          dont_list: Json | null
+          id: string
+          image_url: string | null
+          is_premium: boolean | null
+          order_index: number | null
+          related_phrases: Json | null
+          title_id: string
+          title_jp: string
+        }
+        Insert: {
+          category?: string
+          content_en?: string | null
+          content_id: string
+          created_at?: string | null
+          do_list?: Json | null
+          dont_list?: Json | null
+          id: string
+          image_url?: string | null
+          is_premium?: boolean | null
+          order_index?: number | null
+          related_phrases?: Json | null
+          title_id: string
+          title_jp: string
+        }
+        Update: {
+          category?: string
+          content_en?: string | null
+          content_id?: string
+          created_at?: string | null
+          do_list?: Json | null
+          dont_list?: Json | null
+          id?: string
+          image_url?: string | null
+          is_premium?: boolean | null
+          order_index?: number | null
+          related_phrases?: Json | null
+          title_id?: string
+          title_jp?: string
+        }
+        Relationships: []
+      }
       daily_challenges: {
         Row: {
           bonus_xp: number | null
@@ -463,6 +511,60 @@ export type Database = {
         }
         Relationships: []
       }
+      kanji_characters: {
+        Row: {
+          character: string
+          created_at: string | null
+          example_words: Json | null
+          id: string
+          jlpt_level: string
+          kun_readings: string[] | null
+          meanings_en: string | null
+          meanings_id: string
+          mnemonic_en: string | null
+          mnemonic_id: string | null
+          on_readings: string[] | null
+          order_index: number | null
+          radicals: string[] | null
+          stroke_count: number
+          stroke_order_svg: string | null
+        }
+        Insert: {
+          character: string
+          created_at?: string | null
+          example_words?: Json | null
+          id: string
+          jlpt_level?: string
+          kun_readings?: string[] | null
+          meanings_en?: string | null
+          meanings_id: string
+          mnemonic_en?: string | null
+          mnemonic_id?: string | null
+          on_readings?: string[] | null
+          order_index?: number | null
+          radicals?: string[] | null
+          stroke_count?: number
+          stroke_order_svg?: string | null
+        }
+        Update: {
+          character?: string
+          created_at?: string | null
+          example_words?: Json | null
+          id?: string
+          jlpt_level?: string
+          kun_readings?: string[] | null
+          meanings_en?: string | null
+          meanings_id?: string
+          mnemonic_en?: string | null
+          mnemonic_id?: string | null
+          on_readings?: string[] | null
+          order_index?: number | null
+          radicals?: string[] | null
+          stroke_count?: number
+          stroke_order_svg?: string | null
+        }
+        Relationships: []
+      }
       lessons: {
         Row: {
           chapter_id: string
@@ -503,6 +605,104 @@ export type Database = {
             columns: ["chapter_id"]
             isOneToOne: false
             referencedRelation: "chapters"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      listening_items: {
+        Row: {
+          audio_url: string | null
+          category: string | null
+          created_at: string | null
+          difficulty: number | null
+          duration_seconds: number | null
+          id: string
+          is_premium: boolean | null
+          jlpt_level: string
+          order_index: number | null
+          speakers: number | null
+          title_id: string
+          title_jp: string
+          transcript_id: string | null
+          transcript_jp: string
+          transcript_reading: string | null
+        }
+        Insert: {
+          audio_url?: string | null
+          category?: string | null
+          created_at?: string | null
+          difficulty?: number | null
+          duration_seconds?: number | null
+          id: string
+          is_premium?: boolean | null
+          jlpt_level?: string
+          order_index?: number | null
+          speakers?: number | null
+          title_id: string
+          title_jp: string
+          transcript_id?: string | null
+          transcript_jp: string
+          transcript_reading?: string | null
+        }
+        Update: {
+          audio_url?: string | null
+          category?: string | null
+          created_at?: string | null
+          difficulty?: number | null
+          duration_seconds?: number | null
+          id?: string
+          is_premium?: boolean | null
+          jlpt_level?: string
+          order_index?: number | null
+          speakers?: number | null
+          title_id?: string
+          title_jp?: string
+          transcript_id?: string | null
+          transcript_jp?: string
+          transcript_reading?: string | null
+        }
+        Relationships: []
+      }
+      listening_questions: {
+        Row: {
+          correct_answer: string
+          created_at: string | null
+          explanation: string | null
+          id: string
+          listening_id: string
+          options: Json | null
+          order_index: number | null
+          question_text: string
+          question_type: string | null
+        }
+        Insert: {
+          correct_answer: string
+          created_at?: string | null
+          explanation?: string | null
+          id: string
+          listening_id: string
+          options?: Json | null
+          order_index?: number | null
+          question_text: string
+          question_type?: string | null
+        }
+        Update: {
+          correct_answer?: string
+          created_at?: string | null
+          explanation?: string | null
+          id?: string
+          listening_id?: string
+          options?: Json | null
+          order_index?: number | null
+          question_text?: string
+          question_type?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "listening_questions_listening_id_fkey"
+            columns: ["listening_id"]
+            isOneToOne: false
+            referencedRelation: "listening_items"
             referencedColumns: ["id"]
           },
         ]
@@ -756,6 +956,101 @@ export type Database = {
             columns: ["lesson_id"]
             isOneToOne: false
             referencedRelation: "lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      reading_passages: {
+        Row: {
+          category: string | null
+          content_jp: string
+          content_reading: string | null
+          created_at: string | null
+          difficulty: number | null
+          estimated_minutes: number | null
+          id: string
+          is_premium: boolean | null
+          jlpt_level: string
+          order_index: number | null
+          title_id: string
+          title_jp: string
+          vocabulary_hints: Json | null
+          word_count: number | null
+        }
+        Insert: {
+          category?: string | null
+          content_jp: string
+          content_reading?: string | null
+          created_at?: string | null
+          difficulty?: number | null
+          estimated_minutes?: number | null
+          id: string
+          is_premium?: boolean | null
+          jlpt_level?: string
+          order_index?: number | null
+          title_id: string
+          title_jp: string
+          vocabulary_hints?: Json | null
+          word_count?: number | null
+        }
+        Update: {
+          category?: string | null
+          content_jp?: string
+          content_reading?: string | null
+          created_at?: string | null
+          difficulty?: number | null
+          estimated_minutes?: number | null
+          id?: string
+          is_premium?: boolean | null
+          jlpt_level?: string
+          order_index?: number | null
+          title_id?: string
+          title_jp?: string
+          vocabulary_hints?: Json | null
+          word_count?: number | null
+        }
+        Relationships: []
+      }
+      reading_questions: {
+        Row: {
+          correct_answer: string
+          created_at: string | null
+          explanation: string | null
+          id: string
+          options: Json | null
+          order_index: number | null
+          passage_id: string
+          question_text: string
+          question_type: string | null
+        }
+        Insert: {
+          correct_answer: string
+          created_at?: string | null
+          explanation?: string | null
+          id: string
+          options?: Json | null
+          order_index?: number | null
+          passage_id: string
+          question_text: string
+          question_type?: string | null
+        }
+        Update: {
+          correct_answer?: string
+          created_at?: string | null
+          explanation?: string | null
+          id?: string
+          options?: Json | null
+          order_index?: number | null
+          passage_id?: string
+          question_text?: string
+          question_type?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "reading_questions_passage_id_fkey"
+            columns: ["passage_id"]
+            isOneToOne: false
+            referencedRelation: "reading_passages"
             referencedColumns: ["id"]
           },
         ]
@@ -1364,6 +1659,44 @@ export type Database = {
           },
         ]
       }
+      user_cultural_progress: {
+        Row: {
+          bookmarked: boolean | null
+          created_at: string | null
+          id: string
+          read: boolean | null
+          read_at: string | null
+          tip_id: string
+          user_id: string
+        }
+        Insert: {
+          bookmarked?: boolean | null
+          created_at?: string | null
+          id?: string
+          read?: boolean | null
+          read_at?: string | null
+          tip_id: string
+          user_id: string
+        }
+        Update: {
+          bookmarked?: boolean | null
+          created_at?: string | null
+          id?: string
+          read?: boolean | null
+          read_at?: string | null
+          tip_id?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_cultural_progress_tip_id_fkey"
+            columns: ["tip_id"]
+            isOneToOne: false
+            referencedRelation: "cultural_tips"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       user_daily_progress: {
         Row: {
           challenge_date: string
@@ -1507,6 +1840,97 @@ export type Database = {
           },
         ]
       }
+      user_kanji_progress: {
+        Row: {
+          correct_count: number | null
+          created_at: string | null
+          id: string
+          incorrect_count: number | null
+          kanji_id: string
+          last_reviewed_at: string | null
+          next_review_at: string | null
+          status: string | null
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          correct_count?: number | null
+          created_at?: string | null
+          id?: string
+          incorrect_count?: number | null
+          kanji_id: string
+          last_reviewed_at?: string | null
+          next_review_at?: string | null
+          status?: string | null
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          correct_count?: number | null
+          created_at?: string | null
+          id?: string
+          incorrect_count?: number | null
+          kanji_id?: string
+          last_reviewed_at?: string | null
+          next_review_at?: string | null
+          status?: string | null
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_kanji_progress_kanji_id_fkey"
+            columns: ["kanji_id"]
+            isOneToOne: false
+            referencedRelation: "kanji_characters"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_listening_progress: {
+        Row: {
+          answers: Json | null
+          completed: boolean | null
+          completed_at: string | null
+          created_at: string | null
+          id: string
+          listening_id: string
+          play_count: number | null
+          score: number | null
+          user_id: string
+        }
+        Insert: {
+          answers?: Json | null
+          completed?: boolean | null
+          completed_at?: string | null
+          created_at?: string | null
+          id?: string
+          listening_id: string
+          play_count?: number | null
+          score?: number | null
+          user_id: string
+        }
+        Update: {
+          answers?: Json | null
+          completed?: boolean | null
+          completed_at?: string | null
+          created_at?: string | null
+          id?: string
+          listening_id?: string
+          play_count?: number | null
+          score?: number | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_listening_progress_listening_id_fkey"
+            columns: ["listening_id"]
+            isOneToOne: false
+            referencedRelation: "listening_items"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       user_practice_history: {
         Row: {
           answers: Json | null
@@ -1601,6 +2025,50 @@ export type Database = {
             columns: ["lesson_id"]
             isOneToOne: false
             referencedRelation: "lessons"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_reading_progress: {
+        Row: {
+          answers: Json | null
+          completed: boolean | null
+          completed_at: string | null
+          created_at: string | null
+          id: string
+          passage_id: string
+          score: number | null
+          time_spent_seconds: number | null
+          user_id: string
+        }
+        Insert: {
+          answers?: Json | null
+          completed?: boolean | null
+          completed_at?: string | null
+          created_at?: string | null
+          id?: string
+          passage_id: string
+          score?: number | null
+          time_spent_seconds?: number | null
+          user_id: string
+        }
+        Update: {
+          answers?: Json | null
+          completed?: boolean | null
+          completed_at?: string | null
+          created_at?: string | null
+          id?: string
+          passage_id?: string
+          score?: number | null
+          time_spent_seconds?: number | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_reading_progress_passage_id_fkey"
+            columns: ["passage_id"]
+            isOneToOne: false
+            referencedRelation: "reading_passages"
             referencedColumns: ["id"]
           },
         ]
