@@ -466,6 +466,57 @@ export type Database = {
           },
         ]
       }
+      friend_requests: {
+        Row: {
+          created_at: string
+          id: string
+          message: string | null
+          receiver_id: string
+          responded_at: string | null
+          sender_id: string
+          status: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          message?: string | null
+          receiver_id: string
+          responded_at?: string | null
+          sender_id: string
+          status?: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          message?: string | null
+          receiver_id?: string
+          responded_at?: string | null
+          sender_id?: string
+          status?: string
+        }
+        Relationships: []
+      }
+      friends: {
+        Row: {
+          created_at: string
+          friend_id: string
+          id: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          friend_id: string
+          id?: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          friend_id?: string
+          id?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
       kana_characters: {
         Row: {
           audio_url: string | null
@@ -1659,6 +1710,57 @@ export type Database = {
           },
         ]
       }
+      user_challenges: {
+        Row: {
+          challenged_id: string
+          challenged_score: number | null
+          challenged_time_seconds: number | null
+          challenger_id: string
+          challenger_score: number | null
+          challenger_time_seconds: number | null
+          completed_at: string | null
+          created_at: string
+          expires_at: string | null
+          id: string
+          quiz_set_id: string | null
+          status: string
+          winner_id: string | null
+          xp_reward: number | null
+        }
+        Insert: {
+          challenged_id: string
+          challenged_score?: number | null
+          challenged_time_seconds?: number | null
+          challenger_id: string
+          challenger_score?: number | null
+          challenger_time_seconds?: number | null
+          completed_at?: string | null
+          created_at?: string
+          expires_at?: string | null
+          id?: string
+          quiz_set_id?: string | null
+          status?: string
+          winner_id?: string | null
+          xp_reward?: number | null
+        }
+        Update: {
+          challenged_id?: string
+          challenged_score?: number | null
+          challenged_time_seconds?: number | null
+          challenger_id?: string
+          challenger_score?: number | null
+          challenger_time_seconds?: number | null
+          completed_at?: string | null
+          created_at?: string
+          expires_at?: string | null
+          id?: string
+          quiz_set_id?: string | null
+          status?: string
+          winner_id?: string | null
+          xp_reward?: number | null
+        }
+        Relationships: []
+      }
       user_cultural_progress: {
         Row: {
           bookmarked: boolean | null
@@ -2464,7 +2566,7 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
-      [_ in never]: never
+      accept_friend_request: { Args: { request_id: string }; Returns: boolean }
     }
     Enums: {
       [_ in never]: never

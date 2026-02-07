@@ -175,7 +175,10 @@ export function LeaderboardCard() {
         </div>
       )}
       
-      <button className="w-full mt-4 flex items-center justify-center gap-1 text-sm text-primary font-medium hover:underline">
+      <button 
+        onClick={() => window.location.href = '/leaderboard'}
+        className="w-full mt-4 flex items-center justify-center gap-1 text-sm text-primary font-medium hover:underline"
+      >
         Lihat Semua
         <ChevronRight className="h-4 w-4" />
       </button>
