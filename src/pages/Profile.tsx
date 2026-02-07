@@ -28,6 +28,7 @@ import { WeeklyProgressChart } from '@/components/progress/WeeklyProgressChart';
 
 const menuItems = [
   { icon: Bookmark, label: 'Bookmark Saya', path: '/bookmarks' },
+  { icon: Trophy, label: 'Analytics Lengkap', path: '/analytics' },
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },
   { icon: Download, label: 'Install Aplikasi', path: '/install' },
   { icon: Bell, label: 'Notifikasi', path: '/notifications' },
