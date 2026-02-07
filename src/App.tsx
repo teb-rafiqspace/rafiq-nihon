@@ -4,6 +4,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "@/lib/auth";
+import { I18nProvider } from "@/lib/i18n";
 import Index from "./pages/Index";
 import Auth from "./pages/Auth";
 import Onboarding from "./pages/Onboarding";
@@ -37,41 +38,43 @@ const queryClient = new QueryClient();
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <AuthProvider>
-      <TooltipProvider>
-        <Toaster />
-        <Sonner />
-        <BrowserRouter>
-          <Routes>
-            <Route path="/" element={<Index />} />
-            <Route path="/auth" element={<Auth />} />
-            <Route path="/onboarding" element={<Onboarding />} />
-            <Route path="/home" element={<Home />} />
-            <Route path="/learn" element={<Learn />} />
-            <Route path="/chapter/:chapterId" element={<ChapterDetail />} />
-            <Route path="/lesson/:lessonId" element={<LessonView />} />
-            <Route path="/jlpt-lesson/:lessonId" element={<JLPTLessonView />} />
-            <Route path="/time-lesson" element={<TimeScheduleLesson />} />
-            <Route path="/location-lesson" element={<LocationLesson />} />
-            <Route path="/kana" element={<KanaLearn />} />
-            <Route path="/kanji" element={<KanjiLearn />} />
-            <Route path="/reading" element={<ReadingPractice />} />
-            <Route path="/listening" element={<ListeningPractice />} />
-            <Route path="/cultural-tips" element={<CulturalTips />} />
-            <Route path="/practice" element={<Practice />} />
-            <Route path="/speaking" element={<Speaking />} />
-            <Route path="/flashcard" element={<FlashcardView />} />
-            <Route path="/mock-test" element={<MockTestView />} />
-            <Route path="/exam" element={<ExamView />} />
-            <Route path="/chat" element={<Chat />} />
-            <Route path="/profile" element={<Profile />} />
-            <Route path="/settings" element={<Settings />} />
-            <Route path="/bookmarks" element={<Bookmarks />} />
-            <Route path="/install" element={<Install />} />
-            <Route path="/analytics" element={<Analytics />} />
-            <Route path="*" element={<NotFound />} />
-          </Routes>
-        </BrowserRouter>
-      </TooltipProvider>
+      <I18nProvider>
+        <TooltipProvider>
+          <Toaster />
+          <Sonner />
+          <BrowserRouter>
+            <Routes>
+              <Route path="/" element={<Index />} />
+              <Route path="/auth" element={<Auth />} />
+              <Route path="/onboarding" element={<Onboarding />} />
+              <Route path="/home" element={<Home />} />
+              <Route path="/learn" element={<Learn />} />
+              <Route path="/chapter/:chapterId" element={<ChapterDetail />} />
+              <Route path="/lesson/:lessonId" element={<LessonView />} />
+              <Route path="/jlpt-lesson/:lessonId" element={<JLPTLessonView />} />
+              <Route path="/time-lesson" element={<TimeScheduleLesson />} />
+              <Route path="/location-lesson" element={<LocationLesson />} />
+              <Route path="/kana" element={<KanaLearn />} />
+              <Route path="/kanji" element={<KanjiLearn />} />
+              <Route path="/reading" element={<ReadingPractice />} />
+              <Route path="/listening" element={<ListeningPractice />} />
+              <Route path="/cultural-tips" element={<CulturalTips />} />
+              <Route path="/practice" element={<Practice />} />
+              <Route path="/speaking" element={<Speaking />} />
+              <Route path="/flashcard" element={<FlashcardView />} />
+              <Route path="/mock-test" element={<MockTestView />} />
+              <Route path="/exam" element={<ExamView />} />
+              <Route path="/chat" element={<Chat />} />
+              <Route path="/profile" element={<Profile />} />
+              <Route path="/settings" element={<Settings />} />
+              <Route path="/bookmarks" element={<Bookmarks />} />
+              <Route path="/install" element={<Install />} />
+              <Route path="/analytics" element={<Analytics />} />
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </BrowserRouter>
+        </TooltipProvider>
+      </I18nProvider>
     </AuthProvider>
   </QueryClientProvider>
 );

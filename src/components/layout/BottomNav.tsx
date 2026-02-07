@@ -1,19 +1,22 @@
-import { Home, BookOpen, Layers, Mic, Award, User } from 'lucide-react';
+import { Home, BookOpen, Layers, Mic, User } from 'lucide-react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { cn } from '@/lib/utils';
+import { useI18n } from '@/lib/i18n';
+import type { TranslationKeys } from '@/lib/i18n';
 
-const navItems = [
-  { icon: Home, label: 'Beranda', path: '/home' },
-  { icon: BookOpen, label: 'Belajar', path: '/learn' },
-  { icon: Mic, label: 'Bicara', path: '/speaking' },
-  { icon: Layers, label: 'Latihan', path: '/practice' },
-  { icon: User, label: 'Profil', path: '/profile' },
+const navItems: { icon: typeof Home; labelKey: keyof TranslationKeys; path: string }[] = [
+  { icon: Home, labelKey: 'home', path: '/home' },
+  { icon: BookOpen, labelKey: 'learn', path: '/learn' },
+  { icon: Mic, labelKey: 'speaking', path: '/speaking' },
+  { icon: Layers, labelKey: 'practice', path: '/practice' },
+  { icon: User, labelKey: 'profile', path: '/profile' },
 ];
 
 export function BottomNav() {
   const location = useLocation();
   const navigate = useNavigate();
+  const { t } = useI18n();
   
   return (
     <nav className="fixed bottom-0 left-0 right-0 z-50 bg-card/95 backdrop-blur-lg border-t border-border pb-safe">
@@ -40,7 +43,7 @@ export function BottomNav() {
                   />
                 )}
                 <Icon className={cn("h-5 w-5 relative z-10", isActive && "stroke-[2.5]")} />
-                <span className="text-[10px] font-medium relative z-10">{item.label}</span>
+                <span className="text-[10px] font-medium relative z-10">{t(item.labelKey)}</span>
               </button>
             );
           })}
