@@ -1,10 +1,14 @@
 import Anthropic from "npm:@anthropic-ai/sdk@0.39.0";
+import { createClient } from "https://esm.sh/@supabase/supabase-js@2.39.7";
 
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers":
     "authorization, x-client-info, apikey, content-type, x-supabase-client-platform, x-supabase-client-platform-version, x-supabase-client-runtime, x-supabase-client-runtime-version",
 };
+
+// Maximum image size in bytes (5MB)
+const MAX_IMAGE_SIZE = 5 * 1024 * 1024;
 
 Deno.serve(async (req) => {
   // Handle CORS
@@ -13,6 +17,50 @@ Deno.serve(async (req) => {
   }
 
   try {
+    // Validate Authorization header
+    const authHeader = req.headers.get("Authorization");
+    if (!authHeader?.startsWith("Bearer ")) {
+      console.error("Missing or invalid Authorization header");
+      return new Response(
+        JSON.stringify({ error: "Unauthorized" }),
+        { status: 401, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    // Create Supabase client with user's JWT
+    const supabaseClient = createClient(
+      Deno.env.get("SUPABASE_URL") ?? "",
+      Deno.env.get("SUPABASE_ANON_KEY") ?? "",
+      {
+        global: {
+          headers: { Authorization: authHeader },
+        },
+      }
+    );
+
+    // Verify JWT and get user claims
+    const token = authHeader.replace("Bearer ", "");
+    const { data: claimsData, error: claimsError } = await supabaseClient.auth.getClaims(token);
+
+    if (claimsError || !claimsData?.claims) {
+      console.error("JWT verification failed:", claimsError?.message);
+      return new Response(
+        JSON.stringify({ error: "Invalid token" }),
+        { status: 401, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    const userId = claimsData.claims.sub;
+    if (!userId) {
+      console.error("No user ID in claims");
+      return new Response(
+        JSON.stringify({ error: "Invalid token" }),
+        { status: 401, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
+    console.log("Authenticated user for kanji OCR:", userId);
+
     const { image } = await req.json();
 
     if (!image) {
@@ -22,8 +70,17 @@ Deno.serve(async (req) => {
       );
     }
 
-    // Extract base64 data from data URL
+    // Validate image size to prevent abuse
     const base64Data = image.replace(/^data:image\/\w+;base64,/, "");
+    const imageSize = base64Data.length * 0.75; // Approximate decoded size
+    
+    if (imageSize > MAX_IMAGE_SIZE) {
+      return new Response(
+        JSON.stringify({ error: "Image too large. Maximum size is 5MB." }),
+        { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
+
     const mediaType = image.match(/^data:(image\/\w+);base64,/)?.[1] || "image/jpeg";
 
     const client = new Anthropic();

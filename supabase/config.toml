@@ -2,3 +2,9 @@ project_id = "ziswkjqnjwhcbutcglfr"
 
 [functions.rafiq-chat]
 verify_jwt = false
+
+[functions.speech-analysis]
+verify_jwt = false
+
+[functions.kanji-ocr]
+verify_jwt = false
