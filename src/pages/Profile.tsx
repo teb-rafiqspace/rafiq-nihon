@@ -206,6 +206,7 @@ export default function Profile() {
               return (
                 <button
                   key={i}
+                  onClick={() => navigate(item.path)}
                   className="w-full flex items-center gap-3 p-4 hover:bg-muted transition-colors border-b border-border last:border-b-0"
                 >
                   <Icon className="h-5 w-5 text-muted-foreground" />
