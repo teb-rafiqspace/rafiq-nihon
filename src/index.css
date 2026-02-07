@@ -195,6 +195,50 @@
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+  
+  /* RTL Support */
+  [dir="rtl"] .rtl\:space-x-reverse > :not([hidden]) ~ :not([hidden]) {
+    --tw-space-x-reverse: 1;
+  }
+  
+  [dir="rtl"] .rtl\:flip-x {
+    transform: scaleX(-1);
+  }
+  
+  [dir="rtl"] .ltr\:ml-auto {
+    margin-left: 0;
+    margin-right: auto;
+  }
+  
+  [dir="rtl"] .ltr\:mr-auto {
+    margin-right: 0;
+    margin-left: auto;
+  }
+  
+  [dir="rtl"] .ltr\:text-left {
+    text-align: right;
+  }
+  
+  [dir="rtl"] .ltr\:text-right {
+    text-align: left;
+  }
+  
+  /* Direction-aware margins and paddings */
+  .ms-auto {
+    margin-inline-start: auto;
+  }
+  
+  .me-auto {
+    margin-inline-end: auto;
+  }
+  
+  .ps-4 {
+    padding-inline-start: 1rem;
+  }
+  
+  .pe-4 {
+    padding-inline-end: 1rem;
+  }
 }
 
 /* Custom animations */

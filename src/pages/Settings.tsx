@@ -42,7 +42,7 @@ import {
   AlertDialogTitle,
 } from '@/components/ui/alert-dialog';
 import { useTheme } from '@/hooks/useTheme';
-import { useLanguage, LANGUAGES, useTranslation } from '@/hooks/useLanguage';
+import { useI18n, LANGUAGES } from '@/lib/i18n';
 import { useAuth } from '@/lib/auth';
 import { useProfile, useUpdateProfile } from '@/hooks/useProfile';
 import { useStudyReminder } from '@/hooks/useStudyReminder';
@@ -59,8 +59,7 @@ const themeOptions: { value: ThemeOption; icon: typeof Sun; labelKey: 'light' | 
 export default function Settings() {
   const navigate = useNavigate();
   const { theme, setTheme } = useTheme();
-  const { language, setLanguage, currentLanguage } = useLanguage();
-  const { t } = useTranslation();
+  const { language, setLanguage, currentLanguage, t, formatDate } = useI18n();
   const { user, signOut } = useAuth();
   const { data: profile } = useProfile();
   const updateProfileMutation = useUpdateProfile();
