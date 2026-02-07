@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07
+> Last updated: 2026-02-07 (v2.0)
 
 ## Overview
 
@@ -107,6 +107,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Bookmark untuk semua konten (vocabulary, lesson, flashcard, etc.)
 - [x] Bookmark page dengan filter dan search
 - [x] Toggle bookmark dari card/item
+- [x] Notes per bookmark
 
 ### 📱 PWA & Offline
 - [x] PWA manifest dengan icons
@@ -133,6 +134,15 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Audio URL playback dengan fallback
 - [x] Audio button components
 
+### 📊 Analytics Dashboard ✅ NEW
+- [x] Detailed learning analytics dashboard
+- [x] Summary cards (mastery rate, quiz accuracy, streak)
+- [x] Activity heatmap (90 hari calendar view)
+- [x] Study time distribution chart (donut chart)
+- [x] Weakness analysis dengan rekomendasi spesifik
+- [x] Monthly trends chart (6 bulan XP & waktu)
+- [x] HTML progress report export (printable PDF)
+
 ---
 
 ## ❌ Fitur yang Belum Diimplementasikan
@@ -158,14 +168,6 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [ ] Achievement sharing to social media
 - [ ] Study groups/communities
 - [ ] Challenge friends
-
-### 📊 Analytics (NEW - Fully Implemented ✅)
-- [x] Detailed learning analytics dashboard
-- [x] Activity heatmap (90 hari)
-- [x] Study time distribution chart
-- [x] Weakness analysis dengan rekomendasi
-- [x] Monthly trends chart (6 bulan)
-- [x] HTML progress report export (bisa dicetak sebagai PDF)
 
 ### 🎤 Enhanced Speaking
 - [ ] Real speech-to-text scoring dengan AI (beyond Web Speech API)
@@ -212,7 +214,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [ ] Admin dashboard
 - [ ] Content management system
 - [ ] User management
-- [ ] Analytics dashboard
+- [ ] Analytics dashboard (admin)
 
 ---
 
@@ -222,46 +224,54 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 |----------|-------------|---------|----------|
 | Auth & User | 6 | 5 | 55% |
 | Learning | 15 | 5 | 75% |
-| Flashcard | 7 | 0 | 100% |
-| Quiz & Practice | 5 | 0 | 100% |
-| Mock Test | 7 | 0 | 100% |
+| Flashcard | 7 | 0 | 100% ✅ |
+| Quiz & Practice | 5 | 0 | 100% ✅ |
+| Mock Test | 7 | 0 | 100% ✅ |
 | Speaking | 8 | 4 | 67% |
-| AI Chat | 5 | 0 | 100% |
-| Exam Schedule | 7 | 0 | 100% |
+| AI Chat | 5 | 0 | 100% ✅ |
+| Exam Schedule | 7 | 0 | 100% ✅ |
 | Gamification | 7 | 5 | 58% |
 | Notifications | 3 | 2 | 60% |
 | Settings | 5 | 1 | 83% |
-| Bookmark | 3 | 0 | 100% |
+| Bookmark | 4 | 0 | 100% ✅ |
 | PWA & Offline | 7 | 2 | 78% |
 | Audio | 5 | 3 | 63% |
+| Analytics | 7 | 0 | 100% ✅ |
 | Payment | 0 | 6 | 0% |
 | Social | 0 | 5 | 0% |
-| **TOTAL** | **90** | **38** | **~70%** |
+| **TOTAL** | **98** | **38** | **~72%** |
 
 ---
 
 ## 🚀 Priority Recommendations
 
 ### High Priority (Core Experience)
-1. Payment gateway integration
+1. Payment gateway integration (Stripe/Midtrans)
 2. Password reset flow
 3. Global leaderboard
 
 ### Medium Priority (Enhancement)
 4. Enhanced audio dengan ElevenLabs
 5. Native push notifications
-6. Detailed analytics dashboard
+6. Kanji learning module
 
 ### Low Priority (Nice to Have)
 7. Social features (friends, sharing)
 8. Admin dashboard
-9. Additional JLPT levels
+9. Additional JLPT levels (N4-N1)
 
 ---
 
-## 📝 Notes
+## 📝 Technical Notes
 
-- Database sudah memiliki schema lengkap untuk sebagian besar fitur
-- RLS policies sudah dikonfigurasi untuk keamanan data
-- Edge function `rafiq-chat` sudah deployed untuk AI chat
-- PWA sudah production-ready dengan offline support
+- **Database**: Supabase PostgreSQL dengan 35+ tables
+- **Security**: RLS policies dikonfigurasi untuk semua user tables
+- **Edge Functions**: `rafiq-chat` deployed untuk AI chat
+- **PWA**: Production-ready dengan Workbox offline caching
+- **Analytics**: Aggregated dari 4 data sources (progress, quiz, flashcard, speaking)
+
+---
+
+## 📥 Download
+
+File ini tersedia di: `https://[your-domain]/FEATURES.md`
