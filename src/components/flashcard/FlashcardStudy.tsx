@@ -4,6 +4,7 @@ import { ArrowLeft, Volume2, SkipForward, Lightbulb, RotateCcw } from 'lucide-re
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { CardWithProgress, DeckWithProgress } from '@/hooks/useFlashcardsDB';
+import { useHapticFeedback } from '@/hooks/useHapticFeedback';
 
 interface FlashcardStudyProps {
   deck: DeckWithProgress;
@@ -34,6 +35,7 @@ export function FlashcardStudy({ deck, cards, onBack, onRateCard, onComplete }: 
   });
   const [startTime] = useState(Date.now());
   const [elapsedTime, setElapsedTime] = useState(0);
+  const haptic = useHapticFeedback();
 
   const currentCard = cards[currentIndex];
   const progress = ((currentIndex) / cards.length) * 100;
@@ -63,6 +65,15 @@ export function FlashcardStudy({ deck, cards, onBack, onRateCard, onComplete }: 
 
     onRateCard(currentCard.id, quality);
 
+    // Haptic feedback based on rating
+    if (quality >= 2) {
+      haptic.success();
+    } else if (quality === 1) {
+      haptic.warning();
+    } else {
+      haptic.light();
+    }
+
     const resultKey = ['again', 'hard', 'good', 'easy'][quality] as keyof StudyResults;
     setResults(prev => ({
       ...prev,
@@ -82,7 +93,7 @@ export function FlashcardStudy({ deck, cards, onBack, onRateCard, onComplete }: 
         timeSpent: Math.floor((Date.now() - startTime) / 1000),
       });
     }
-  }, [currentCard, currentIndex, cards.length, onRateCard, onComplete, results, startTime]);
+  }, [currentCard, currentIndex, cards.length, onRateCard, onComplete, results, startTime, haptic]);
 
   const handleDragEnd = useCallback((_: any, info: PanInfo) => {
     if (!isFlipped) return;
@@ -153,7 +164,12 @@ export function FlashcardStudy({ deck, cards, onBack, onRateCard, onComplete }: 
             animate={{ opacity: 1, scale: 1 }}
             exit={{ opacity: 0, scale: 0.95 }}
             className="w-full max-w-sm cursor-pointer touch-none"
-            onClick={() => !isFlipped && setIsFlipped(true)}
+            onClick={() => {
+              if (!isFlipped) {
+                haptic.light();
+                setIsFlipped(true);
+              }
+            }}
           >
             <div 
               className="relative w-full aspect-[3/4]"
