@@ -1,6 +1,5 @@
 import React, { ReactElement, ReactNode } from 'react';
-import { render, RenderOptions, screen, waitFor } from '@testing-library/react';
-import userEvent from '@testing-library/user-event';
+import { render, RenderOptions } from '@testing-library/react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { MemoryRouter, Routes, Route } from 'react-router-dom';
 import { vi } from 'vitest';
@@ -128,10 +127,7 @@ function customRender(
     ...renderOptions
   } = options;
 
-  const user = userEvent.setup();
-
   return {
-    user,
     ...render(ui, {
       wrapper: ({ children }) => (
         <AllProviders
@@ -167,15 +163,6 @@ function renderWithAuth(
   });
 }
 
-// Helper to wait for loading to finish
-async function waitForLoadingToFinish() {
-  await waitFor(() => {
-    const loaders = screen.queryAllByRole('progressbar');
-    const spinners = screen.queryAllByTestId(/loading|spinner/i);
-    expect([...loaders, ...spinners]).toHaveLength(0);
-  }, { timeout: 5000 });
-}
-
 // Mock navigation helper
 const mockNavigate = vi.fn();
 vi.mock('react-router-dom', async () => {
@@ -188,4 +175,4 @@ vi.mock('react-router-dom', async () => {
 
 // Export everything
 export * from '@testing-library/react';
-export { customRender as render, renderWithAuth, waitForLoadingToFinish, mockNavigate, createTestQueryClient };
+export { customRender as render, renderWithAuth, mockNavigate, createTestQueryClient };

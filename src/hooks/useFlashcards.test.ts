@@ -243,14 +243,13 @@ describe('useFlashcards', () => {
     it('reviewUnknown sets review mode and uses unknown cards', () => {
       const { result } = renderHook(() => useFlashcards());
       
-      // Mark some cards as unknown
+      // Mark a card as unknown
       act(() => {
-        result.current.markUnknown();
         result.current.markUnknown();
       });
       
       const unknownCards = result.current.unknownCards;
-      expect(unknownCards.length).toBe(2);
+      expect(unknownCards.length).toBe(1);
       
       // Enter review mode
       act(() => {

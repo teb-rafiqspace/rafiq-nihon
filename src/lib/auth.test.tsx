@@ -1,5 +1,6 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import { renderHook, act, waitFor } from '@testing-library/react';
+import { renderHook, act } from '@testing-library/react';
+import { waitFor } from '@testing-library/dom';
 import { ReactNode } from 'react';
 import { AuthProvider, useAuth } from './auth';
 
@@ -50,15 +51,15 @@ describe('AuthProvider', () => {
     mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
   });
 
-  const wrapper = ({ children }: { children: ReactNode }) => (
-    <AuthProvider>{children}</AuthProvider>
-  );
+  function TestWrapper({ children }: { children: ReactNode }) {
+    return <AuthProvider>{children}</AuthProvider>;
+  }
 
   describe('initialization', () => {
     it('starts with loading state', () => {
       mockGetSession.mockImplementation(() => new Promise(() => {})); // Never resolves
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       expect(result.current.loading).toBe(true);
       expect(result.current.user).toBeNull();
@@ -68,7 +69,7 @@ describe('AuthProvider', () => {
     it('sets user after getSession resolves', async () => {
       mockGetSession.mockResolvedValue({ data: { session: mockSession }, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loading).toBe(false);
@@ -81,7 +82,7 @@ describe('AuthProvider', () => {
     it('handles session restoration from storage', async () => {
       mockGetSession.mockResolvedValue({ data: { session: mockSession }, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.session).toEqual(mockSession);
@@ -94,7 +95,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       mockSignUp.mockResolvedValue({ data: { user: mockUser, session: mockSession }, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -119,7 +120,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       mockSignUp.mockResolvedValue({ data: null, error: mockError });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -137,7 +138,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       mockSignInWithPassword.mockResolvedValue({ data: { user: mockUser, session: mockSession }, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -156,7 +157,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       mockSignInWithPassword.mockResolvedValue({ data: null, error: mockError });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -174,7 +175,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       mockSignInWithOAuth.mockResolvedValue({ data: {}, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -203,7 +204,7 @@ describe('AuthProvider', () => {
         return { data: { subscription: { unsubscribe: vi.fn() } } };
       });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.session).toEqual(mockSession));
       
@@ -222,7 +223,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       mockResetPasswordForEmail.mockResolvedValue({ data: {}, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -241,7 +242,7 @@ describe('AuthProvider', () => {
       mockGetSession.mockResolvedValue({ data: { session: mockSession }, error: null });
       mockUpdateUser.mockResolvedValue({ data: { user: mockUser }, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       
@@ -264,7 +265,7 @@ describe('AuthProvider', () => {
       });
       mockGetSession.mockResolvedValue({ data: { session: null }, error: null });
       
-      const { result } = renderHook(() => useAuth(), { wrapper });
+      const { result } = renderHook(() => useAuth(), { wrapper: TestWrapper });
       
       await waitFor(() => expect(result.current.loading).toBe(false));
       

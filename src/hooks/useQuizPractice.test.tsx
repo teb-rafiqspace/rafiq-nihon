@@ -1,5 +1,6 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import { renderHook, waitFor } from '@testing-library/react';
+import { renderHook } from '@testing-library/react';
+import { waitFor } from '@testing-library/dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactNode } from 'react';
 
@@ -90,7 +91,7 @@ describe('useQuizPractice', () => {
 
   describe('data fetching', () => {
     it('fetches quiz sets from database', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingQuizSets).toBe(false);
@@ -100,7 +101,7 @@ describe('useQuizPractice', () => {
     });
 
     it('separates daily from regular sets', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingQuizSets).toBe(false);
@@ -111,7 +112,7 @@ describe('useQuizPractice', () => {
     });
 
     it('fetches user quiz history', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingHistory).toBe(false);
@@ -123,7 +124,7 @@ describe('useQuizPractice', () => {
 
   describe('quiz stats', () => {
     it('calculates quiz stats correctly', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingHistory).toBe(false);
@@ -137,7 +138,7 @@ describe('useQuizPractice', () => {
     });
 
     it('getBestPercentage returns highest score', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingHistory).toBe(false);
@@ -149,7 +150,7 @@ describe('useQuizPractice', () => {
     });
 
     it('getBestPercentage returns null for unattempted quiz', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingHistory).toBe(false);
@@ -161,7 +162,7 @@ describe('useQuizPractice', () => {
     });
 
     it('calculates average correctly', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingHistory).toBe(false);
@@ -177,7 +178,7 @@ describe('useQuizPractice', () => {
 
   describe('fetchQuestions', () => {
     it('loads quiz questions', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingQuizSets).toBe(false);
@@ -192,7 +193,7 @@ describe('useQuizPractice', () => {
 
   describe('saveResult', () => {
     it('provides mutation function', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingQuizSets).toBe(false);
@@ -205,7 +206,7 @@ describe('useQuizPractice', () => {
 
   describe('getTimeUntilReset', () => {
     it('calculates time until midnight correctly', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       const timeUntilReset = result.current.getTimeUntilReset();
       
@@ -227,7 +228,7 @@ describe('useQuizPractice', () => {
 
   describe('streak', () => {
     it('returns streak count', async () => {
-      const { result } = renderHook(() => useQuizPractice(), { wrapper });
+      const { result } = renderHook(() => useQuizPractice(), { wrapper: TestWrapper });
       
       await waitFor(() => {
         expect(result.current.loadingQuizSets).toBe(false);
