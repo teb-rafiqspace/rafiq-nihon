@@ -44,6 +44,33 @@ export type Database = {
         }
         Relationships: []
       }
+      bookmarks: {
+        Row: {
+          content_id: string
+          content_type: string
+          created_at: string
+          id: string
+          notes: string | null
+          user_id: string
+        }
+        Insert: {
+          content_id: string
+          content_type: string
+          created_at?: string
+          id?: string
+          notes?: string | null
+          user_id: string
+        }
+        Update: {
+          content_id?: string
+          content_type?: string
+          created_at?: string
+          id?: string
+          notes?: string | null
+          user_id?: string
+        }
+        Relationships: []
+      }
       chapters: {
         Row: {
           chapter_number: number
