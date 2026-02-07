@@ -180,12 +180,12 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [ ] Audio download untuk offline
 - [ ] Playback queue
 
-### 📚 Content Expansion
-- [ ] JLPT N4, N3, N2, N1 content
-- [ ] Reading comprehension passages
-- [ ] Listening comprehension dengan audio files
-- [ ] Kanji learning module
-- [ ] Cultural tips section
+### 📚 Content Expansion ✅ NEW
+- [x] Kanji learning module dengan 20 kanji N5, progress tracking
+- [x] Reading comprehension passages dengan pertanyaan
+- [x] Listening comprehension dengan transcript dan pertanyaan
+- [x] Cultural tips section dengan do/don't dan frasa terkait
+- [ ] JLPT N4, N3, N2, N1 extended content
 
 ### 📱 Native Mobile
 - [ ] Capacitor integration untuk native app
@@ -237,9 +237,10 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | PWA & Offline | 7 | 2 | 78% |
 | Audio | 5 | 3 | 63% |
 | Analytics | 7 | 0 | 100% ✅ |
+| Content Expansion | 4 | 1 | 80% ✅ |
 | Payment | 0 | 6 | 0% |
 | Social | 0 | 5 | 0% |
-| **TOTAL** | **98** | **38** | **~72%** |
+| **TOTAL** | **102** | **34** | **~75%** |
 
 ---
 

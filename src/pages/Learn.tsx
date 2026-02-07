@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { useQuery } from '@tanstack/react-query';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
-import { Lock, CheckCircle, ChevronRight, BookOpen, Clock, Crown } from 'lucide-react';
+import { Lock, CheckCircle, ChevronRight, BookOpen, Clock, Crown, Languages, Headphones, Landmark } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
@@ -214,6 +214,63 @@ export default function Learn() {
             </motion.div>
           )}
           
+          {/* Additional Content Modules for JLPT N5 */}
+          {(activeTrack === 'jlpt_n5') && (
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.1 }}
+              className="mb-6 grid grid-cols-2 gap-3"
+            >
+              {/* Kanji */}
+              <button
+                onClick={() => navigate('/kanji')}
+                className="bg-card rounded-xl p-4 text-left border border-border hover:border-primary/50 transition-all shadow-card"
+              >
+                <div className="w-10 h-10 rounded-lg bg-gradient-indigo flex items-center justify-center text-white font-jp text-xl font-bold mb-2">
+                  漢
+                </div>
+                <h4 className="font-semibold text-sm">Kanji</h4>
+                <p className="text-xs text-muted-foreground">103 karakter N5</p>
+              </button>
+              
+              {/* Reading */}
+              <button
+                onClick={() => navigate('/reading')}
+                className="bg-card rounded-xl p-4 text-left border border-border hover:border-secondary/50 transition-all shadow-card"
+              >
+                <div className="w-10 h-10 rounded-lg bg-gradient-secondary flex items-center justify-center text-white mb-2">
+                  <BookOpen className="h-5 w-5" />
+                </div>
+                <h4 className="font-semibold text-sm">Membaca</h4>
+                <p className="text-xs text-muted-foreground">Latihan dokkai</p>
+              </button>
+              
+              {/* Listening */}
+              <button
+                onClick={() => navigate('/listening')}
+                className="bg-card rounded-xl p-4 text-left border border-border hover:border-accent/50 transition-all shadow-card"
+              >
+                <div className="w-10 h-10 rounded-lg bg-gradient-success flex items-center justify-center text-white mb-2">
+                  <Headphones className="h-5 w-5" />
+                </div>
+                <h4 className="font-semibold text-sm">Mendengar</h4>
+                <p className="text-xs text-muted-foreground">Latihan choukai</p>
+              </button>
+              
+              {/* Cultural Tips */}
+              <button
+                onClick={() => navigate('/cultural-tips')}
+                className="bg-card rounded-xl p-4 text-left border border-border hover:border-primary/50 transition-all shadow-card"
+              >
+                <div className="w-10 h-10 rounded-lg bg-gradient-streak flex items-center justify-center text-white mb-2">
+                  <Landmark className="h-5 w-5" />
+                </div>
+                <h4 className="font-semibold text-sm">Budaya</h4>
+                <p className="text-xs text-muted-foreground">Tips & etika</p>
+              </button>
+            </motion.div>
+          )}
           {/* Chapter Title */}
           {activeTrack !== 'kemnaker' && (
             <h2 className="font-semibold text-lg mb-3">📚 Bab Pembelajaran</h2>

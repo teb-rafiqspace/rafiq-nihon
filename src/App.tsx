@@ -15,6 +15,10 @@ import JLPTLessonView from "./pages/JLPTLessonView";
 import TimeScheduleLesson from "./pages/TimeScheduleLesson";
 import LocationLesson from "./pages/LocationLesson";
 import KanaLearn from "./pages/KanaLearn";
+import KanjiLearn from "./pages/KanjiLearn";
+import ReadingPractice from "./pages/ReadingPractice";
+import ListeningPractice from "./pages/ListeningPractice";
+import CulturalTips from "./pages/CulturalTips";
 import Practice from "./pages/Practice";
 import Speaking from "./pages/Speaking";
 import FlashcardView from "./pages/FlashcardView";
@@ -49,6 +53,10 @@ const App = () => (
             <Route path="/time-lesson" element={<TimeScheduleLesson />} />
             <Route path="/location-lesson" element={<LocationLesson />} />
             <Route path="/kana" element={<KanaLearn />} />
+            <Route path="/kanji" element={<KanjiLearn />} />
+            <Route path="/reading" element={<ReadingPractice />} />
+            <Route path="/listening" element={<ListeningPractice />} />
+            <Route path="/cultural-tips" element={<CulturalTips />} />
             <Route path="/practice" element={<Practice />} />
             <Route path="/speaking" element={<Speaking />} />
             <Route path="/flashcard" element={<FlashcardView />} />
