@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.2)
+> Last updated: 2026-02-07 (v2.3)
 
 ## Overview
 
@@ -162,12 +162,12 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [ ] Subscription auto-renewal
 - [ ] Cancel subscription
 
-### 🏅 Social & Leaderboard
-- [ ] Global leaderboard (weekly/monthly XP ranking)
-- [ ] Friends system
-- [ ] Achievement sharing to social media
-- [ ] Study groups/communities
-- [ ] Challenge friends
+### 🏅 Social & Leaderboard ✅ NEW
+- [x] Global leaderboard (semua waktu/mingguan/bulanan dengan filter)
+- [x] Friends system (tambah teman, daftar teman, aktivitas)
+- [x] Achievement sharing to social media (WhatsApp, Twitter, Copy)
+- [ ] Study groups/communities (skipped)
+- [x] Challenge friends (kirim tantangan quiz ke teman)
 
 ### 🎤 Enhanced Speaking
 - [ ] Real speech-to-text scoring dengan AI (beyond Web Speech API)
@@ -243,11 +243,11 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Native Mobile | 3 | 1 | 75% ✅ |
 | Localization | 3 | 0 | 100% ✅ |
 | Payment | 0 | 6 | 0% |
-| Social | 0 | 5 | 0% |
+| Social | 4 | 1 | 80% ✅ |
 | Sync & Backup | 0 | 4 | 0% |
 | Accessibility | 0 | 4 | 0% |
 | Admin | 0 | 4 | 0% |
-| **TOTAL** | **112** | **27** | **~81%** |
+| **TOTAL** | **116** | **23** | **~84%** |
 
 ---
 

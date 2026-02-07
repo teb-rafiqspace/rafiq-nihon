@@ -2,6 +2,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { X, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Badge, BADGE_ICONS } from '@/hooks/useAchievements';
+import { ShareAchievementButton } from '@/components/social/ShareAchievementButton';
 import confetti from 'canvas-confetti';
 import { useEffect } from 'react';
 
@@ -120,13 +121,19 @@ export function BadgeUnlockedModal({ badge, onClose }: BadgeUnlockedModalProps) 
               {badge.description}
             </motion.p>
 
-            {/* Continue button */}
+            {/* Action buttons */}
             <motion.div
               initial={{ y: 20, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.7 }}
+              className="flex gap-2"
             >
-              <Button onClick={onClose} className="w-full">
+              <ShareAchievementButton
+                badgeName={badge.name}
+                badgeDescription={badge.description}
+                className="flex-1"
+              />
+              <Button onClick={onClose} className="flex-1">
                 Lanjutkan
               </Button>
             </motion.div>

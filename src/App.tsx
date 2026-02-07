@@ -31,6 +31,8 @@ import Settings from "./pages/Settings";
 import Bookmarks from "./pages/Bookmarks";
 import Install from "./pages/Install";
 import Analytics from "./pages/Analytics";
+import Leaderboard from "./pages/Leaderboard";
+import Friends from "./pages/Friends";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -70,6 +72,8 @@ const App = () => (
               <Route path="/bookmarks" element={<Bookmarks />} />
               <Route path="/install" element={<Install />} />
               <Route path="/analytics" element={<Analytics />} />
+              <Route path="/leaderboard" element={<Leaderboard />} />
+              <Route path="/friends" element={<Friends />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </BrowserRouter>
