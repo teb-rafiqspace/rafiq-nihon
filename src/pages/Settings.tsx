@@ -15,7 +15,8 @@ import {
   ChevronRight,
   Trash2,
   Target,
-  Check
+  Check,
+  Volume2
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
@@ -47,6 +48,7 @@ import { useAuth } from '@/lib/auth';
 import { useProfile, useUpdateProfile } from '@/hooks/useProfile';
 import { useStudyReminder } from '@/hooks/useStudyReminder';
 import { AccessibilityPanel } from '@/components/accessibility/AccessibilityPanel';
+import { OfflineAudioManager } from '@/components/audio/OfflineAudioManager';
 import { toast } from '@/hooks/use-toast';
 
 type ThemeOption = 'light' | 'dark' | 'system';
@@ -158,6 +160,15 @@ export default function Settings() {
 
         {/* Accessibility Section */}
         <AccessibilityPanel />
+
+        {/* Audio Offline Section */}
+        <motion.section
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.15 }}
+        >
+          <OfflineAudioManager />
+        </motion.section>
 
         {/* Language Section */}
         <motion.section

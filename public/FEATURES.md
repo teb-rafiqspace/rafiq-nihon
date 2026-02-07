@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.6)
+> Last updated: 2026-02-07 (v2.7)
 
 ## Overview
 
@@ -133,6 +133,8 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Playback speed control (normal/slow)
 - [x] Audio URL playback dengan fallback
 - [x] Audio button components
+- [x] Audio download untuk offline (IndexedDB caching)
+- [x] Playback queue dengan controls
 
 ### 📊 Analytics Dashboard ✅ NEW
 - [x] Detailed learning analytics dashboard
@@ -175,10 +177,10 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Voice comparison (user vs native)
 - [x] Pronunciation problem detection dengan detailed feedback
 
-### 🎵 Enhanced Audio
+### 🎵 Enhanced Audio ✅ NEW
 - [ ] ElevenLabs TTS integration (high-quality voices)
-- [ ] Audio download untuk offline
-- [ ] Playback queue
+- [x] Audio download untuk offline (IndexedDB caching)
+- [x] Playback queue dengan controls (play/pause, skip, repeat, speed)
 
 ### 📚 Content Expansion ✅ UPDATED
 - [x] Kanji learning module (N5: 20, N4: 125, N3: 75 kanji)
@@ -237,7 +239,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Settings | 5 | 1 | 83% |
 | Bookmark | 4 | 0 | 100% ✅ |
 | PWA & Offline | 7 | 2 | 78% |
-| Audio | 5 | 3 | 63% |
+| Audio | 7 | 1 | 88% ✅ |
 | Analytics | 7 | 0 | 100% ✅ |
 | Content Expansion | 6 | 1 | 86% ✅ |
 | Native Mobile | 3 | 1 | 75% ✅ |
@@ -247,7 +249,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Sync & Backup | 0 | 4 | 0% |
 | Accessibility | 4 | 0 | 100% ✅ |
 | Admin | 4 | 0 | 100% ✅ |
-| **TOTAL** | **128** | **11** | **~92%** |
+| **TOTAL** | **130** | **9** | **~93%** |
 
 ---
 
@@ -282,6 +284,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - **Enhanced Speaking**: AI-powered pronunciation analysis, pitch accent visualization, voice comparison
 - **Accessibility**: High contrast mode, font size control, reduced motion, screen reader optimized
 - **Admin Panel**: Role-based access control, user management, content CMS, admin analytics
+- **Offline Audio**: IndexedDB-based audio caching with batch download and playback queue
 
 ---
 
