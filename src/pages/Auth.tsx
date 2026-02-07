@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useAuth } from '@/lib/auth';
 import { Button } from '@/components/ui/button';
@@ -232,6 +232,17 @@ export default function Auth() {
               </div>
               {errors.password && (
                 <p className="text-xs text-destructive">{errors.password}</p>
+              )}
+              
+              {isLogin && (
+                <div className="text-right">
+                  <Link 
+                    to="/forgot-password" 
+                    className="text-xs text-primary hover:underline"
+                  >
+                    Lupa password?
+                  </Link>
+                </div>
               )}
             </div>
             
