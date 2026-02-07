@@ -1,6 +1,6 @@
 # Rafiq Nihon - Feature Checklist
 
-> Last updated: 2026-02-07 (v2.0)
+> Last updated: 2026-02-07 (v2.1)
 
 ## Overview
 
@@ -258,13 +258,13 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 
 ### Medium Priority (Enhancement)
 4. Enhanced audio dengan ElevenLabs
-5. Native push notifications
-6. Kanji learning module
+5. Additional JLPT levels (N4-N1)
+6. Accessibility improvements
 
 ### Low Priority (Nice to Have)
 7. Social features (friends, sharing)
 8. Admin dashboard
-9. Additional JLPT levels (N4-N1)
+9. Data export & backup features
 
 ---
 
@@ -272,9 +272,11 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 
 - **Database**: Supabase PostgreSQL dengan 35+ tables
 - **Security**: RLS policies dikonfigurasi untuk semua user tables
-- **Edge Functions**: `rafiq-chat` deployed untuk AI chat
+- **Edge Functions**: `rafiq-chat` dan `kanji-ocr` deployed
 - **PWA**: Production-ready dengan Workbox offline caching
 - **Analytics**: Aggregated dari 4 data sources (progress, quiz, flashcard, speaking)
+- **i18n**: Full translation system dengan 120+ keys (ID, EN, JA)
+- **Native Features**: Haptic feedback, Camera OCR via Web APIs
 
 ---
 
