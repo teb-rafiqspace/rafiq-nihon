@@ -19,16 +19,14 @@ export function LeaderboardCard() {
   const { data: topUsers, isLoading } = useQuery({
     queryKey: ['leaderboard-preview'],
     queryFn: async () => {
-      // Note: This requires a public read policy for leaderboard
-      // For now, we'll show mock data and the user's own rank
+      // Use leaderboard_profiles view for secure public access to limited profile data
       const { data, error } = await supabase
-        .from('profiles')
+        .from('leaderboard_profiles' as any)
         .select('id, user_id, full_name, avatar_url, total_xp')
-        .order('total_xp', { ascending: false })
         .limit(5);
       
       if (error) throw error;
-      return data as LeaderboardUser[];
+      return (data || []) as unknown as LeaderboardUser[];
     },
   });
   
@@ -47,7 +45,7 @@ export function LeaderboardCard() {
       if (!profile) return null;
       
       const { count } = await supabase
-        .from('profiles')
+        .from('leaderboard_profiles' as any)
         .select('*', { count: 'exact', head: true })
         .gt('total_xp', profile.total_xp || 0);
       
