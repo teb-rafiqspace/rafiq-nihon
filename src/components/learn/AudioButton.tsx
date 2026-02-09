@@ -24,7 +24,7 @@ export function AudioButton({
   showLabel = false,
   label,
 }: AudioButtonProps) {
-  const { speak, playAudioUrl, stop, isPlaying, hasJapaneseVoice } = useJapaneseAudio();
+  const { speak, playAudioUrl, stop, isPlaying, isLoading, hasJapaneseVoice } = useJapaneseAudio();
   
   const handleClick = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -62,21 +62,24 @@ export function AudioButton({
       variant={variant}
       size={size}
       onClick={handleClick}
+      disabled={isLoading}
       className={cn(
         'transition-all duration-200',
         isPlaying && 'text-primary animate-pulse',
         className
       )}
-      aria-label={isPlaying ? 'Berhenti' : (slow ? 'Putar lambat' : 'Putar audio')}
+      aria-label={isLoading ? 'Memuat...' : isPlaying ? 'Berhenti' : (slow ? 'Putar lambat' : 'Putar audio')}
     >
-      {isPlaying ? (
+      {isLoading ? (
         <Loader2 className="h-4 w-4 animate-spin" />
+      ) : isPlaying ? (
+        <Volume2 className="h-4 w-4 animate-pulse" />
       ) : (
         <Volume2 className="h-4 w-4" />
       )}
       {showLabel && (
         <span className="ml-2">
-          {label || (slow ? 'Lambat' : 'Dengar')}
+          {isLoading ? 'Memuat...' : label || (slow ? 'Lambat' : 'Dengar')}
         </span>
       )}
     </Button>

@@ -178,10 +178,13 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 - [x] Voice comparison (user vs native)
 - [x] Pronunciation problem detection dengan detailed feedback
 
-### 🎵 Enhanced Audio ✅ NEW
-- [ ] ElevenLabs TTS integration (high-quality voices)
+### 🎵 Enhanced Audio ✅ COMPLETED
+- [x] Google Cloud TTS integration (high-quality Neural2 voices)
 - [x] Audio download untuk offline (IndexedDB caching)
+- [x] TTS response caching (IndexedDB)
 - [x] Playback queue dengan controls (play/pause, skip, repeat, speed)
+- [x] Voice selection (3 Japanese Neural2 voices)
+- [x] Fallback chain: Audio URL → Google TTS → Web Speech API
 
 ### 📚 Content Expansion ✅ UPDATED
 - [x] Kanji learning module (N5: 20, N4: 125, N3: 75 kanji)
@@ -241,7 +244,7 @@ Rafiq Nihon adalah aplikasi belajar bahasa Jepang untuk pekerja Indonesia yang i
 | Settings | 5 | 1 | 83% |
 | Bookmark | 4 | 0 | 100% ✅ |
 | PWA & Offline | 7 | 2 | 78% |
-| Audio | 7 | 1 | 88% ✅ |
+| Audio | 10 | 0 | 100% ✅ |
 | Analytics | 7 | 0 | 100% ✅ |
 | Content Expansion | 6 | 1 | 86% ✅ |
 | Native Mobile | 3 | 1 | 75% ✅ |
