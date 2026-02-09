@@ -6,12 +6,14 @@ interface AuthContextType {
   user: User | null;
   session: Session | null;
   loading: boolean;
+  isEmailVerified: boolean;
   signUp: (email: string, password: string, fullName: string) => Promise<{ error: Error | null }>;
   signIn: (email: string, password: string) => Promise<{ error: Error | null }>;
   signInWithGoogle: () => Promise<{ error: Error | null }>;
   signOut: () => Promise<void>;
   resetPassword: (email: string) => Promise<{ error: Error | null }>;
   updatePassword: (newPassword: string) => Promise<{ error: Error | null }>;
+  resendVerificationEmail: (email: string) => Promise<{ error: Error | null }>;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -96,17 +98,34 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     return { error: error as Error | null };
   };
 
+  const resendVerificationEmail = async (email: string) => {
+    const { error } = await supabase.auth.resend({
+      type: 'signup',
+      email,
+      options: {
+        emailRedirectTo: `${window.location.origin}/`,
+      },
+    });
+    
+    return { error: error as Error | null };
+  };
+
+  // Check if email is verified
+  const isEmailVerified = user?.email_confirmed_at != null;
+
   return (
     <AuthContext.Provider value={{ 
       user, 
       session, 
       loading, 
+      isEmailVerified,
       signUp, 
       signIn, 
       signInWithGoogle, 
       signOut,
       resetPassword,
       updatePassword,
+      resendVerificationEmail,
     }}>
       {children}
     </AuthContext.Provider>

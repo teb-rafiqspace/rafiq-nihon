@@ -94,12 +94,14 @@ describe('useProfile', () => {
         user: null,
         session: null,
         loading: false,
+        isEmailVerified: false,
         signUp: vi.fn(),
         signIn: vi.fn(),
         signInWithGoogle: vi.fn(),
         signOut: vi.fn(),
         resetPassword: vi.fn(),
         updatePassword: vi.fn(),
+        resendVerificationEmail: vi.fn(),
       });
       
       const { result } = renderHook(() => useProfile(), { wrapper: TestWrapper });
@@ -119,12 +121,14 @@ describe('useProfile', () => {
         user: { id: 'test-user-id' } as any,
         session: null,
         loading: false,
+        isEmailVerified: true,
         signUp: vi.fn(),
         signIn: vi.fn(),
         signInWithGoogle: vi.fn(),
         signOut: vi.fn(),
         resetPassword: vi.fn(),
         updatePassword: vi.fn(),
+        resendVerificationEmail: vi.fn(),
       });
       
       const { result } = renderHook(() => useProfile(), { wrapper: TestWrapper });
@@ -141,12 +145,14 @@ describe('useProfile', () => {
         user: { id: 'test-user-id' } as any,
         session: null,
         loading: false,
+        isEmailVerified: true,
         signUp: vi.fn(),
         signIn: vi.fn(),
         signInWithGoogle: vi.fn(),
         signOut: vi.fn(),
         resetPassword: vi.fn(),
         updatePassword: vi.fn(),
+        resendVerificationEmail: vi.fn(),
       });
     });
 
