@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { useToast } from '@/hooks/use-toast';
-import { Eye, EyeOff, Mail, Lock, User, ArrowRight, Loader2 } from 'lucide-react';
+import { Eye, EyeOff, Mail, Lock, User, ArrowRight, Loader2, CheckCircle, RefreshCw } from 'lucide-react';
 import { z } from 'zod';
 
 const loginSchema = z.object({
@@ -22,6 +22,9 @@ export default function Auth() {
   const [isLogin, setIsLogin] = useState(true);
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [emailVerificationPending, setEmailVerificationPending] = useState(false);
+  const [pendingEmail, setPendingEmail] = useState('');
+  const [isResending, setIsResending] = useState(false);
   const [formData, setFormData] = useState({
     email: '',
     password: '',
@@ -29,7 +32,7 @@ export default function Auth() {
   });
   const [errors, setErrors] = useState<Record<string, string>>({});
   
-  const { signIn, signUp, signInWithGoogle } = useAuth();
+  const { signIn, signUp, signInWithGoogle, resendVerificationEmail } = useAuth();
   const navigate = useNavigate();
   const { toast } = useToast();
   
@@ -80,11 +83,34 @@ export default function Auth() {
             variant: 'destructive',
           });
         } else {
-          navigate('/onboarding');
+          // Show email verification pending screen
+          setPendingEmail(formData.email);
+          setEmailVerificationPending(true);
         }
       }
     } finally {
       setLoading(false);
+    }
+  };
+
+  const handleResendEmail = async () => {
+    setIsResending(true);
+    try {
+      const { error } = await resendVerificationEmail(pendingEmail);
+      if (error) {
+        toast({
+          title: 'Gagal mengirim email',
+          description: error.message,
+          variant: 'destructive',
+        });
+      } else {
+        toast({
+          title: 'Email terkirim!',
+          description: 'Silakan cek inbox email Anda',
+        });
+      }
+    } finally {
+      setIsResending(false);
     }
   };
   
@@ -99,6 +125,92 @@ export default function Auth() {
     }
   };
   
+  // Email verification pending screen
+  if (emailVerificationPending) {
+    return (
+      <div className="min-h-screen bg-background flex flex-col">
+        <div className="bg-gradient-primary pt-safe">
+          <div className="container max-w-lg mx-auto px-4 pt-12 pb-16 text-center">
+            <motion.div
+              initial={{ scale: 0 }}
+              animate={{ scale: 1 }}
+              transition={{ type: "spring", duration: 0.6 }}
+              className="w-20 h-20 bg-card rounded-2xl mx-auto mb-4 flex items-center justify-center shadow-elevated"
+            >
+              <Mail className="h-10 w-10 text-primary" />
+            </motion.div>
+            <motion.h1
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.2 }}
+              className="text-2xl font-bold text-primary-foreground"
+            >
+              Cek Email Anda
+            </motion.h1>
+          </div>
+        </div>
+        
+        <div className="flex-1 container max-w-lg mx-auto px-4 -mt-8">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3 }}
+            className="bg-card rounded-2xl shadow-elevated p-6 text-center"
+          >
+            <div className="w-16 h-16 bg-success/10 rounded-full mx-auto mb-4 flex items-center justify-center">
+              <CheckCircle className="h-8 w-8 text-success" />
+            </div>
+            
+            <h2 className="text-xl font-bold mb-2">Pendaftaran Berhasil!</h2>
+            <p className="text-muted-foreground mb-4">
+              Kami telah mengirim link verifikasi ke:
+            </p>
+            <p className="font-medium text-primary mb-6">{pendingEmail}</p>
+            
+            <div className="bg-muted/50 rounded-lg p-4 mb-6">
+              <p className="text-sm text-muted-foreground">
+                Silakan buka email Anda dan klik link verifikasi untuk mengaktifkan akun.
+                Setelah diverifikasi, Anda dapat langsung login.
+              </p>
+            </div>
+            
+            <div className="space-y-3">
+              <Button
+                variant="outline"
+                className="w-full"
+                onClick={handleResendEmail}
+                disabled={isResending}
+              >
+                {isResending ? (
+                  <>
+                    <Loader2 className="h-4 w-4 mr-2 animate-spin" />
+                    Mengirim...
+                  </>
+                ) : (
+                  <>
+                    <RefreshCw className="h-4 w-4 mr-2" />
+                    Kirim Ulang Email
+                  </>
+                )}
+              </Button>
+              
+              <Button
+                variant="ghost"
+                className="w-full"
+                onClick={() => {
+                  setEmailVerificationPending(false);
+                  setIsLogin(true);
+                }}
+              >
+                Kembali ke Login
+              </Button>
+            </div>
+          </motion.div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-background flex flex-col">
       {/* Header */}

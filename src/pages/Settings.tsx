@@ -51,6 +51,8 @@ import { useStudyReminder } from '@/hooks/useStudyReminder';
 import { AccessibilityPanel } from '@/components/accessibility/AccessibilityPanel';
 import { OfflineAudioManager } from '@/components/audio/OfflineAudioManager';
 import { ChangePasswordDialog } from '@/components/auth/ChangePasswordDialog';
+import { DeleteAccountDialog } from '@/components/auth/DeleteAccountDialog';
+import { ActiveSessionsCard } from '@/components/auth/ActiveSessionsCard';
 import { SyncBackupManager } from '@/components/settings/SyncBackupManager';
 import { toast } from '@/hooks/use-toast';
 
@@ -298,6 +300,9 @@ export default function Settings() {
           </Card>
         </motion.section>
 
+        {/* Session Management Section */}
+        <ActiveSessionsCard />
+
         {/* About Section */}
         <motion.section
           initial={{ opacity: 0, y: 20 }}
@@ -454,23 +459,11 @@ export default function Settings() {
         </AlertDialogContent>
       </AlertDialog>
 
-      {/* Delete Account Confirmation */}
-      <AlertDialog open={showDeleteConfirm} onOpenChange={setShowDeleteConfirm}>
-        <AlertDialogContent>
-          <AlertDialogHeader>
-            <AlertDialogTitle>Hapus Akun?</AlertDialogTitle>
-            <AlertDialogDescription>
-              Tindakan ini tidak dapat dibatalkan. Semua data Anda akan dihapus secara permanen.
-            </AlertDialogDescription>
-          </AlertDialogHeader>
-          <AlertDialogFooter>
-            <AlertDialogCancel>Batal</AlertDialogCancel>
-            <AlertDialogAction className="bg-destructive hover:bg-destructive/90">
-              Hapus Akun
-            </AlertDialogAction>
-          </AlertDialogFooter>
-        </AlertDialogContent>
-      </AlertDialog>
+      {/* Delete Account Dialog */}
+      <DeleteAccountDialog
+        open={showDeleteConfirm}
+        onOpenChange={setShowDeleteConfirm}
+      />
 
       {/* Change Password Dialog */}
       <ChangePasswordDialog 
