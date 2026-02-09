@@ -1,9 +1,12 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
+import { useGoogleTTS, GoogleTTSVoice } from './useGoogleTTS';
 
 interface UseJapaneseAudioOptions {
   rate?: number;
   pitch?: number;
   preferFemaleVoice?: boolean;
+  preferGoogleTTS?: boolean; // New: prefer Google Cloud TTS over Web Speech
+  googleVoice?: GoogleTTSVoice;
 }
 
 interface UseJapaneseAudioReturn {
@@ -12,41 +15,55 @@ interface UseJapaneseAudioReturn {
   playAudioUrl: (url: string, fallbackText?: string) => void;
   isSpeaking: boolean;
   isPlaying: boolean;
+  isLoading: boolean;
   hasJapaneseVoice: boolean;
   selectedVoice: SpeechSynthesisVoice | null;
+  ttsSource: 'google' | 'web-speech' | 'audio-url' | null;
+  googleVoice: GoogleTTSVoice;
+  setGoogleVoice: (voice: GoogleTTSVoice) => void;
+  availableGoogleVoices: GoogleTTSVoice[];
 }
 
 const FEMALE_VOICE_KEYWORDS = [
-  'haruka',    // Windows - female, natural
-  'nanami',    // Azure - female, cheerful
-  'ayumi',     // Windows - female
-  'kyoko',     // macOS/iOS - female
-  'o-ren',     // Some systems
-  'mizuki',    // AWS Polly style
+  'haruka',
+  'nanami',
+  'ayumi',
+  'kyoko',
+  'o-ren',
+  'mizuki',
   'female',
   'woman',
-  '女性',       // Japanese for "female"
+  '女性',
 ];
 
 /**
- * A reusable hook for Japanese audio playback using Web Speech API.
- * Prioritizes female Japanese voices for a lively learning companion experience.
+ * Enhanced hook for Japanese audio playback.
+ * Prioritizes: 1) Audio URL 2) Google Cloud TTS 3) Web Speech API
  */
 export function useJapaneseAudio(options: UseJapaneseAudioOptions = {}): UseJapaneseAudioReturn {
   const { 
     rate = 0.9, 
     pitch = 1.1, 
-    preferFemaleVoice = true 
+    preferFemaleVoice = true,
+    preferGoogleTTS = true,
+    googleVoice: initialGoogleVoice = 'ja-JP-Neural2-C',
   } = options;
 
   const [isSpeaking, setIsSpeaking] = useState(false);
-  const [isPlaying, setIsPlaying] = useState(false);
+  const [isAudioPlaying, setIsAudioPlaying] = useState(false);
   const [hasJapaneseVoice, setHasJapaneseVoice] = useState(true);
   const [selectedVoice, setSelectedVoice] = useState<SpeechSynthesisVoice | null>(null);
+  const [ttsSource, setTtsSource] = useState<'google' | 'web-speech' | 'audio-url' | null>(null);
   
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  // Find the best Japanese voice on mount
+  // Google TTS hook
+  const googleTTS = useGoogleTTS({
+    defaultVoice: initialGoogleVoice,
+    enableCache: true,
+  });
+
+  // Find the best Web Speech API voice on mount
   useEffect(() => {
     const findBestVoice = () => {
       if (!('speechSynthesis' in window)) {
@@ -67,25 +84,21 @@ export function useJapaneseAudio(options: UseJapaneseAudioOptions = {}): UseJapa
       let bestVoice: SpeechSynthesisVoice | undefined;
       
       if (preferFemaleVoice) {
-        // Try to find a female voice
         bestVoice = japaneseVoices.find(voice => {
           const nameLower = voice.name.toLowerCase();
           return FEMALE_VOICE_KEYWORDS.some(keyword => nameLower.includes(keyword));
         });
       }
       
-      // If no specific female voice found, prefer Google Japanese or first available
       if (!bestVoice) {
         bestVoice = japaneseVoices.find(v => v.name.includes('Google')) || japaneseVoices[0];
       }
       
       setSelectedVoice(bestVoice || null);
-      console.log('Selected Japanese voice:', bestVoice?.name);
     };
     
     findBestVoice();
     
-    // Chrome loads voices asynchronously
     if ('speechSynthesis' in window) {
       speechSynthesis.onvoiceschanged = findBestVoice;
     }
@@ -97,7 +110,7 @@ export function useJapaneseAudio(options: UseJapaneseAudioOptions = {}): UseJapa
     };
   }, [preferFemaleVoice]);
 
-  // Cleanup audio on unmount
+  // Cleanup on unmount
   useEffect(() => {
     return () => {
       if (audioRef.current) {
@@ -107,73 +120,103 @@ export function useJapaneseAudio(options: UseJapaneseAudioOptions = {}): UseJapa
       if ('speechSynthesis' in window) {
         speechSynthesis.cancel();
       }
+      googleTTS.stop();
     };
   }, []);
 
   const stop = useCallback(() => {
-    // Stop audio element if playing
+    // Stop audio element
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
       audioRef.current = null;
     }
     
-    // Stop speech synthesis
+    // Stop Web Speech API
     if ('speechSynthesis' in window) {
       speechSynthesis.cancel();
     }
     
+    // Stop Google TTS
+    googleTTS.stop();
+    
     setIsSpeaking(false);
-    setIsPlaying(false);
-  }, []);
+    setIsAudioPlaying(false);
+    setTtsSource(null);
+  }, [googleTTS]);
 
-  const speak = useCallback((text: string, slow = false) => {
+  // Web Speech API fallback
+  const speakWithWebSpeech = useCallback((text: string, slow = false) => {
     if (!('speechSynthesis' in window)) {
       console.warn('Speech synthesis not supported');
       return;
     }
 
-    // Cancel any ongoing speech
-    stop();
-    
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'ja-JP';
-    utterance.rate = slow ? rate * 0.65 : rate; // Slower rate for slow mode
+    utterance.rate = slow ? rate * 0.65 : rate;
     utterance.pitch = pitch;
     
     if (selectedVoice) {
       utterance.voice = selectedVoice;
     }
     
-    utterance.onstart = () => setIsSpeaking(true);
-    utterance.onend = () => setIsSpeaking(false);
+    utterance.onstart = () => {
+      setIsSpeaking(true);
+      setTtsSource('web-speech');
+    };
+    utterance.onend = () => {
+      setIsSpeaking(false);
+      setTtsSource(null);
+    };
     utterance.onerror = (e) => {
       console.error('Speech synthesis error:', e);
       setIsSpeaking(false);
+      setTtsSource(null);
     };
     
     speechSynthesis.speak(utterance);
-  }, [rate, pitch, selectedVoice, stop]);
+  }, [rate, pitch, selectedVoice]);
 
-  const playAudioUrl = useCallback((url: string, fallbackText?: string) => {
-    // Stop any current playback
+  const speak = useCallback((text: string, slow = false) => {
+    // Cancel any ongoing playback
     stop();
     
-    setIsPlaying(true);
+    if (preferGoogleTTS) {
+      // Try Google TTS first
+      setTtsSource('google');
+      googleTTS.speak(text, { slow }).catch((error) => {
+        console.warn('Google TTS failed, falling back to Web Speech:', error.message);
+        // Fallback to Web Speech API
+        speakWithWebSpeech(text, slow);
+      });
+    } else {
+      // Use Web Speech API directly
+      speakWithWebSpeech(text, slow);
+    }
+  }, [preferGoogleTTS, googleTTS, speakWithWebSpeech, stop]);
+
+  const playAudioUrl = useCallback((url: string, fallbackText?: string) => {
+    stop();
+    
+    setIsAudioPlaying(true);
+    setTtsSource('audio-url');
     
     const audio = new Audio(url);
     audioRef.current = audio;
     
     audio.onended = () => {
-      setIsPlaying(false);
+      setIsAudioPlaying(false);
+      setTtsSource(null);
       audioRef.current = null;
     };
     
     audio.onerror = () => {
-      setIsPlaying(false);
+      setIsAudioPlaying(false);
+      setTtsSource(null);
       audioRef.current = null;
       
-      // Fallback to speech synthesis if audio URL fails
+      // Fallback chain: Audio URL -> Google TTS -> Web Speech
       if (fallbackText) {
         speak(fallbackText);
       }
@@ -181,30 +224,38 @@ export function useJapaneseAudio(options: UseJapaneseAudioOptions = {}): UseJapa
     
     audio.play().catch((error) => {
       console.error('Audio playback error:', error);
-      setIsPlaying(false);
+      setIsAudioPlaying(false);
+      setTtsSource(null);
       audioRef.current = null;
       
-      // Fallback to speech synthesis
       if (fallbackText) {
         speak(fallbackText);
       }
     });
   }, [speak, stop]);
 
+  // Combined isPlaying state
+  const isPlaying = isSpeaking || isAudioPlaying || googleTTS.isPlaying;
+  const isLoading = googleTTS.isLoading;
+
   return {
     speak,
     stop,
     playAudioUrl,
     isSpeaking,
-    isPlaying: isSpeaking || isPlaying,
-    hasJapaneseVoice,
+    isPlaying,
+    isLoading,
+    hasJapaneseVoice: hasJapaneseVoice || preferGoogleTTS, // Google TTS always available
     selectedVoice,
+    ttsSource,
+    googleVoice: googleTTS.currentVoice,
+    setGoogleVoice: googleTTS.setVoice,
+    availableGoogleVoices: googleTTS.availableVoices,
   };
 }
 
 /**
  * Simple utility to speak Japanese text without hook lifecycle
- * Useful for one-off pronunciations outside of components
  */
 export function speakJapanese(text: string, options: { slow?: boolean; rate?: number; pitch?: number } = {}) {
   const { slow = false, rate = 0.9, pitch = 1.1 } = options;
