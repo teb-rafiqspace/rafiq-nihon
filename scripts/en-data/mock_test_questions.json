@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "e4010001-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What is the woman's reason for calling the housing agency?",
+    "options": [
+      "A) To report a maintenance issue",
+      "B) To inquire about available apartments",
+      "C) To cancel her lease agreement",
+      "D) To request a rent reduction"
+    ],
+    "correct_answer": "B) To inquire about available apartments",
+    "explanation": "The woman opens the conversation by asking whether there are any two-bedroom apartments available near the university, indicating she is looking for a new place to live.",
+    "sort_order": 1
+  },
+  {
+    "id": "e4010002-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "How much is the monthly rent for the apartment on Baker Street?",
+    "options": [
+      "A) $750",
+      "B) $850",
+      "C) $950",
+      "D) $1,050"
+    ],
+    "correct_answer": "C) $950",
+    "explanation": "The agent clearly states that the Baker Street apartment is $950 per month, which includes water but not electricity.",
+    "sort_order": 2
+  },
+  {
+    "id": "e4010003-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the man need to bring to complete the registration form?",
+    "options": [
+      "A) A passport and bank statement",
+      "B) A driver's licence and utility bill",
+      "C) A passport and proof of address",
+      "D) An employment letter and photo ID"
+    ],
+    "correct_answer": "C) A passport and proof of address",
+    "explanation": "The receptionist specifies that a valid passport and a recent proof of address, such as a utility bill or bank statement, are required for registration.",
+    "sort_order": 3
+  },
+  {
+    "id": "e4010004-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "Which day has the doctor's appointment been rescheduled to?",
+    "options": [
+      "A) Monday the 14th",
+      "B) Wednesday the 16th",
+      "C) Thursday the 17th",
+      "D) Friday the 18th"
+    ],
+    "correct_answer": "D) Friday the 18th",
+    "explanation": "The receptionist apologises for the change and confirms the new appointment is on Friday the 18th at 2:30 p.m.",
+    "sort_order": 4
+  },
+  {
+    "id": "e4010005-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What is the maximum number of items a library member can borrow at one time?",
+    "options": [
+      "A) 4 items",
+      "B) 6 items",
+      "C) 8 items",
+      "D) 10 items"
+    ],
+    "correct_answer": "C) 8 items",
+    "explanation": "The librarian explains that standard members can borrow up to eight items at a time, including books, DVDs, and magazines.",
+    "sort_order": 5
+  },
+  {
+    "id": "e4010006-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "Match the following: Which floor is the children's section located on?",
+    "options": [
+      "A) Ground floor",
+      "B) First floor",
+      "C) Second floor",
+      "D) Basement level"
+    ],
+    "correct_answer": "B) First floor",
+    "explanation": "The guide mentions that the children's section, including the reading corner and activity area, is on the first floor next to the study rooms.",
+    "sort_order": 6
+  },
+  {
+    "id": "e4010007-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What form of transport does the speaker recommend for getting to the conference venue?",
+    "options": [
+      "A) Taxi from the airport",
+      "B) Hotel shuttle bus",
+      "C) Underground train to Central Station",
+      "D) Rental car from the airport"
+    ],
+    "correct_answer": "C) Underground train to Central Station",
+    "explanation": "The speaker advises delegates to take the underground train to Central Station as it is the fastest and most affordable option during peak hours.",
+    "sort_order": 7
+  },
+  {
+    "id": "e4010008-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What time does the gym close on weekdays?",
+    "options": [
+      "A) 8:00 p.m.",
+      "B) 9:00 p.m.",
+      "C) 10:00 p.m.",
+      "D) 11:00 p.m."
+    ],
+    "correct_answer": "C) 10:00 p.m.",
+    "explanation": "The staff member states that on weekdays the gym is open from 6 a.m. to 10 p.m., though weekend hours are shorter.",
+    "sort_order": 8
+  },
+  {
+    "id": "e4010009-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "On the campus map, where is the new Science Building located?",
+    "options": [
+      "A) North of the library",
+      "B) East of the main gate",
+      "C) South of the sports centre",
+      "D) West of the student union"
+    ],
+    "correct_answer": "D) West of the student union",
+    "explanation": "The tour guide points out that the new Science Building is directly west of the student union, across the courtyard.",
+    "sort_order": 9
+  },
+  {
+    "id": "e4010010-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the woman say about the parking situation at the shopping centre?",
+    "options": [
+      "A) Parking is free for the first two hours",
+      "B) There is no parking available on weekends",
+      "C) Underground parking costs $5 per hour",
+      "D) Parking is available only for members"
+    ],
+    "correct_answer": "A) Parking is free for the first two hours",
+    "explanation": "The woman mentions that parking at the shopping centre is free for the first two hours, after which a fee of $3 per hour applies.",
+    "sort_order": 10
+  },
+  {
+    "id": "e4010011-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "According to the lecturer, what was the primary cause of the decline in bee populations during the 2010s?",
+    "options": [
+      "A) Climate change alone",
+      "B) A combination of pesticide use and habitat loss",
+      "C) Introduction of invasive species",
+      "D) Increased urbanisation of rural areas"
+    ],
+    "correct_answer": "B) A combination of pesticide use and habitat loss",
+    "explanation": "The lecturer explains that research consistently pointed to the dual impact of neonicotinoid pesticides and shrinking natural habitats as the main drivers of bee population decline.",
+    "sort_order": 11
+  },
+  {
+    "id": "e4010012-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the student need to submit by the end of the week?",
+    "options": [
+      "A) A research proposal outline",
+      "B) The final dissertation draft",
+      "C) A list of references",
+      "D) An ethics approval form"
+    ],
+    "correct_answer": "A) A research proposal outline",
+    "explanation": "The tutor reminds the student that the research proposal outline is due by Friday so that feedback can be given before the full draft stage.",
+    "sort_order": 12
+  },
+  {
+    "id": "e4010013-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "Match the activity to the correct day: When is the guided nature walk scheduled?",
+    "options": [
+      "A) Tuesday morning",
+      "B) Wednesday afternoon",
+      "C) Thursday morning",
+      "D) Saturday afternoon"
+    ],
+    "correct_answer": "C) Thursday morning",
+    "explanation": "The camp coordinator lists Thursday morning for the guided nature walk, noting that it starts at 9 a.m. and lasts approximately two hours.",
+    "sort_order": 13
+  },
+  {
+    "id": "e4010014-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What improvement does the professor say has been made to the university's online learning platform?",
+    "options": [
+      "A) A new video conferencing feature",
+      "B) An automated essay-grading tool",
+      "C) Integration with the library catalogue",
+      "D) A mobile-friendly interface redesign"
+    ],
+    "correct_answer": "D) A mobile-friendly interface redesign",
+    "explanation": "The professor highlights that the biggest change is the mobile-friendly redesign, which allows students to access all course materials more easily on phones and tablets.",
+    "sort_order": 14
+  },
+  {
+    "id": "e4010015-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "How many participants took part in the psychology experiment discussed in the lecture?",
+    "options": [
+      "A) 60",
+      "B) 120",
+      "C) 200",
+      "D) 350"
+    ],
+    "correct_answer": "B) 120",
+    "explanation": "The lecturer states that 120 volunteers were recruited for the experiment, divided equally into a control group and an experimental group.",
+    "sort_order": 15
+  },
+  {
+    "id": "e4010016-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "On the map of the botanical garden, which area is labelled 'F'?",
+    "options": [
+      "A) The rose garden",
+      "B) The tropical greenhouse",
+      "C) The herb garden",
+      "D) The water lily pond"
+    ],
+    "correct_answer": "B) The tropical greenhouse",
+    "explanation": "The guide identifies area F as the tropical greenhouse, located at the far end of the main path past the visitor centre.",
+    "sort_order": 16
+  },
+  {
+    "id": "e4010017-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the speaker say is the main advantage of the new recycling programme?",
+    "options": [
+      "A) It reduces costs for local businesses",
+      "B) It accepts a wider range of materials than the old programme",
+      "C) It provides employment to the local community",
+      "D) It uses solar-powered collection vehicles"
+    ],
+    "correct_answer": "B) It accepts a wider range of materials than the old programme",
+    "explanation": "The speaker emphasises that the new programme's key benefit is its expanded list of accepted materials, including soft plastics and electronic waste.",
+    "sort_order": 17
+  },
+  {
+    "id": "e4010018-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "Which student will be responsible for conducting the interviews for the group project?",
+    "options": [
+      "A) Sarah",
+      "B) David",
+      "C) Priya",
+      "D) Tom"
+    ],
+    "correct_answer": "C) Priya",
+    "explanation": "During the group discussion, it is agreed that Priya will handle the interviews because she has prior experience with qualitative research methods.",
+    "sort_order": 18
+  },
+  {
+    "id": "e4010019-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the tour guide say about photography inside the museum?",
+    "options": [
+      "A) Photography is allowed everywhere without flash",
+      "B) Photography is not permitted in any area",
+      "C) Photography is allowed only in the main hall",
+      "D) Photography requires a special permit"
+    ],
+    "correct_answer": "A) Photography is allowed everywhere without flash",
+    "explanation": "The guide states that visitors may take photographs throughout the museum provided they do not use flash, as it can damage the artwork.",
+    "sort_order": 19
+  },
+  {
+    "id": "e4010020-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "According to the discussion, what is the deadline for the scholarship application?",
+    "options": [
+      "A) March 1st",
+      "B) March 15th",
+      "C) April 1st",
+      "D) April 30th"
+    ],
+    "correct_answer": "B) March 15th",
+    "explanation": "The academic advisor confirms that all scholarship applications must be submitted by March 15th, and late submissions will not be considered.",
+    "sort_order": 20
+  },
+  {
+    "id": "e4010021-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What problem does the lecturer identify with early carbon dating techniques?",
+    "options": [
+      "A) They could only date organic material less than 1,000 years old",
+      "B) They often gave results with a margin of error of several hundred years",
+      "C) They required extremely large sample sizes",
+      "D) They could not distinguish between different types of organic matter"
+    ],
+    "correct_answer": "B) They often gave results with a margin of error of several hundred years",
+    "explanation": "The lecturer notes that early carbon dating was limited by significant margins of error, sometimes off by several centuries, which made precise dating difficult.",
+    "sort_order": 21
+  },
+  {
+    "id": "e4010022-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "Complete the form: The caller's membership number is ___.",
+    "options": [
+      "A) TM-4478",
+      "B) TM-4487",
+      "C) TM-4748",
+      "D) TM-4784"
+    ],
+    "correct_answer": "B) TM-4487",
+    "explanation": "The caller spells out the membership number as T-M-4-4-8-7 and the receptionist repeats it back to confirm.",
+    "sort_order": 22
+  },
+  {
+    "id": "e4010023-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the researcher say was surprising about the study's findings on sleep and memory?",
+    "options": [
+      "A) Participants who slept less performed equally well",
+      "B) Short naps were more effective than long sleep periods",
+      "C) Memory consolidation occurred mainly during light sleep, not deep sleep",
+      "D) Older participants showed better memory retention than younger ones"
+    ],
+    "correct_answer": "C) Memory consolidation occurred mainly during light sleep, not deep sleep",
+    "explanation": "The researcher expresses surprise that the data showed light sleep stages, rather than deep sleep, were most strongly correlated with improved memory consolidation.",
+    "sort_order": 23
+  },
+  {
+    "id": "e4010024-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "Match the speaker to their field: What is Dr. Harrison's area of expertise?",
+    "options": [
+      "A) Marine biology",
+      "B) Urban planning",
+      "C) Environmental economics",
+      "D) Agricultural science"
+    ],
+    "correct_answer": "C) Environmental economics",
+    "explanation": "The moderator introduces Dr. Harrison as a specialist in environmental economics who has published extensively on the cost-benefit analysis of renewable energy policies.",
+    "sort_order": 24
+  },
+  {
+    "id": "e4010025-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "listening",
+    "question_text": "What does the speaker recommend for students who want to improve their academic writing?",
+    "options": [
+      "A) Attend the weekly writing workshop on Tuesdays",
+      "B) Use the online grammar checking tool",
+      "C) Read published journal articles in their field",
+      "D) Hire a private tutor for one-on-one sessions"
+    ],
+    "correct_answer": "A) Attend the weekly writing workshop on Tuesdays",
+    "explanation": "The speaker specifically recommends the Tuesday writing workshop run by the Learning Centre, saying it covers structure, referencing, and critical analysis skills.",
+    "sort_order": 25
+  },
+  {
+    "id": "e4010026-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The passage states that the invention of the printing press led to an immediate increase in literacy rates across Europe. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "B) False",
+    "explanation": "The passage clarifies that while the printing press made books more accessible, widespread literacy took several more centuries to develop due to economic and social barriers.",
+    "sort_order": 26
+  },
+  {
+    "id": "e4010027-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "According to the passage, what is the primary function of coral reefs in marine ecosystems?",
+    "options": [
+      "A) They regulate ocean temperatures globally",
+      "B) They provide habitat and breeding grounds for a vast number of marine species",
+      "C) They prevent coastal erosion by absorbing wave energy",
+      "D) They filter pollutants from seawater"
+    ],
+    "correct_answer": "B) They provide habitat and breeding grounds for a vast number of marine species",
+    "explanation": "The passage identifies the primary role of coral reefs as providing essential habitat for roughly 25% of all marine species, serving as nurseries and feeding grounds.",
+    "sort_order": 27
+  },
+  {
+    "id": "e4010028-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The author mentions that the Roman aqueduct system was primarily funded by private citizens. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "C) Not Given",
+    "explanation": "The passage discusses the engineering achievements of Roman aqueducts but does not mention how they were funded, making this Not Given.",
+    "sort_order": 28
+  },
+  {
+    "id": "e4010029-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Which heading best fits the paragraph about the discovery of penicillin and its impact on modern medicine?",
+    "options": [
+      "A) The Limitations of Early Antibiotics",
+      "B) An Accidental Discovery That Changed Healthcare",
+      "C) The Chemistry Behind Antibiotic Resistance",
+      "D) Fleming's Academic Career"
+    ],
+    "correct_answer": "B) An Accidental Discovery That Changed Healthcare",
+    "explanation": "The paragraph focuses on how Fleming's chance observation of mould killing bacteria led to penicillin, which revolutionised the treatment of bacterial infections worldwide.",
+    "sort_order": 29
+  },
+  {
+    "id": "e4010030-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Complete the summary: The process of photosynthesis converts sunlight into ___ which plants use for growth.",
+    "options": [
+      "A) carbon dioxide",
+      "B) chemical energy",
+      "C) oxygen",
+      "D) water vapour"
+    ],
+    "correct_answer": "B) chemical energy",
+    "explanation": "The passage explains that photosynthesis transforms light energy into chemical energy stored in glucose molecules, which the plant then uses for cellular processes and growth.",
+    "sort_order": 30
+  },
+  {
+    "id": "e4010031-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The passage suggests that early humans in Mesopotamia developed writing primarily for religious purposes. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that the earliest forms of writing in Mesopotamia were developed for record-keeping and trade, not religious purposes.",
+    "sort_order": 31
+  },
+  {
+    "id": "e4010032-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "What does the author argue is the most significant consequence of deforestation in the Amazon?",
+    "options": [
+      "A) Loss of potential pharmaceutical compounds",
+      "B) Disruption of global rainfall patterns",
+      "C) Extinction of indigenous languages",
+      "D) Reduction in timber exports"
+    ],
+    "correct_answer": "B) Disruption of global rainfall patterns",
+    "explanation": "The author presents evidence that Amazon deforestation disrupts the water cycle on a continental scale, altering rainfall patterns in regions thousands of kilometres away.",
+    "sort_order": 32
+  },
+  {
+    "id": "e4010033-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Which heading best describes the passage about the evolution of democratic governance in ancient Athens?",
+    "options": [
+      "A) Military Power in the Ancient World",
+      "B) The Birth and Development of Direct Democracy",
+      "C) Trade Routes of the Mediterranean",
+      "D) Philosophical Thought in Classical Greece"
+    ],
+    "correct_answer": "B) The Birth and Development of Direct Democracy",
+    "explanation": "The passage traces how Athenian political reforms led to a system where citizens could directly vote on legislation, making it a discussion of direct democracy's origins.",
+    "sort_order": 33
+  },
+  {
+    "id": "e4010034-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "According to the passage, what distinguishes Type 1 diabetes from Type 2 diabetes?",
+    "options": [
+      "A) Type 1 is caused by excessive sugar consumption",
+      "B) Type 1 results from the immune system attacking insulin-producing cells",
+      "C) Type 2 only affects children under the age of 12",
+      "D) Type 2 is always inherited genetically"
+    ],
+    "correct_answer": "B) Type 1 results from the immune system attacking insulin-producing cells",
+    "explanation": "The passage explains that Type 1 diabetes is an autoimmune condition in which the body's immune system destroys the beta cells in the pancreas that produce insulin.",
+    "sort_order": 34
+  },
+  {
+    "id": "e4010035-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Complete the summary: The Industrial Revolution began in ___ before spreading to continental Europe and North America.",
+    "options": [
+      "A) France",
+      "B) Germany",
+      "C) Britain",
+      "D) The Netherlands"
+    ],
+    "correct_answer": "C) Britain",
+    "explanation": "The passage clearly states that the Industrial Revolution originated in Britain in the late 18th century, driven by innovations in textile manufacturing and steam power.",
+    "sort_order": 35
+  },
+  {
+    "id": "e4010036-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The passage claims that Einstein developed the theory of general relativity while working at a university. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "C) Not Given",
+    "explanation": "While the passage discusses the significance of general relativity, it does not specify Einstein's employment situation at the time he developed the theory.",
+    "sort_order": 36
+  },
+  {
+    "id": "e4010037-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "What reason does the author give for the decline of the Mayan civilisation?",
+    "options": [
+      "A) Invasion by Spanish conquistadors",
+      "B) A prolonged series of severe droughts",
+      "C) Widespread volcanic eruptions",
+      "D) Internal conflict over religious doctrines"
+    ],
+    "correct_answer": "B) A prolonged series of severe droughts",
+    "explanation": "The author cites paleoclimate data showing that extended droughts between the 9th and 10th centuries severely undermined Mayan agriculture and water supplies, leading to societal collapse.",
+    "sort_order": 37
+  },
+  {
+    "id": "e4010038-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Match the scientist to their contribution: Who is credited in the passage with discovering the structure of DNA?",
+    "options": [
+      "A) Gregor Mendel",
+      "B) Watson and Crick",
+      "C) Charles Darwin",
+      "D) Louis Pasteur"
+    ],
+    "correct_answer": "B) Watson and Crick",
+    "explanation": "The passage attributes the discovery of the double-helix structure of DNA to James Watson and Francis Crick, noting their landmark 1953 publication.",
+    "sort_order": 38
+  },
+  {
+    "id": "e4010039-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The passage states that renewable energy sources currently provide more than 50% of global electricity. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "B) False",
+    "explanation": "The passage notes that while renewable energy has grown significantly, it still accounts for approximately 30% of global electricity generation, with fossil fuels remaining dominant.",
+    "sort_order": 39
+  },
+  {
+    "id": "e4010040-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Which heading best fits the paragraph about how ocean currents distribute heat around the planet?",
+    "options": [
+      "A) Marine Biodiversity Hotspots",
+      "B) The Ocean as a Global Climate Regulator",
+      "C) Threats to Deep-Sea Ecosystems",
+      "D) The History of Oceanographic Research"
+    ],
+    "correct_answer": "B) The Ocean as a Global Climate Regulator",
+    "explanation": "The paragraph explains how thermohaline circulation and surface currents transport warm water from the tropics toward the poles, regulating global temperatures.",
+    "sort_order": 40
+  },
+  {
+    "id": "e4010041-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "According to the passage, what was the main purpose of the Great Wall of China?",
+    "options": [
+      "A) To serve as a trade route between provinces",
+      "B) To defend against invasions from northern nomadic groups",
+      "C) To mark the boundary between rival Chinese kingdoms",
+      "D) To demonstrate the emperor's wealth and power"
+    ],
+    "correct_answer": "B) To defend against invasions from northern nomadic groups",
+    "explanation": "The passage explains that the Great Wall was constructed primarily as a defensive fortification to protect Chinese states and empires from raids by nomadic groups from the northern steppes.",
+    "sort_order": 41
+  },
+  {
+    "id": "e4010042-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Complete the summary: Plate tectonics theory explains that the Earth's surface is divided into large ___ that slowly move over the mantle.",
+    "options": [
+      "A) volcanic zones",
+      "B) magnetic fields",
+      "C) tectonic plates",
+      "D) sedimentary layers"
+    ],
+    "correct_answer": "C) tectonic plates",
+    "explanation": "The passage describes how the Earth's lithosphere is broken into tectonic plates that float on the semi-fluid asthenosphere and move due to convection currents in the mantle.",
+    "sort_order": 42
+  },
+  {
+    "id": "e4010043-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The author claims that the human brain uses approximately 20% of the body's total energy. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "A) True",
+    "explanation": "The passage explicitly states that despite comprising only about 2% of body weight, the brain consumes roughly 20% of the body's energy, primarily for neural signalling.",
+    "sort_order": 43
+  },
+  {
+    "id": "e4010044-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "What does the passage identify as the key factor in the success of the Green Revolution?",
+    "options": [
+      "A) The redistribution of agricultural land",
+      "B) The development of high-yielding crop varieties",
+      "C) The elimination of chemical fertilisers",
+      "D) The introduction of organic farming practices"
+    ],
+    "correct_answer": "B) The development of high-yielding crop varieties",
+    "explanation": "The passage credits the Green Revolution's success primarily to the breeding of high-yielding varieties of wheat and rice that dramatically increased food production in developing countries.",
+    "sort_order": 44
+  },
+  {
+    "id": "e4010045-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Match the period to the characteristic: Which feature does the passage associate with the Renaissance?",
+    "options": [
+      "A) A focus on feudal military structures",
+      "B) A revival of interest in classical Greek and Roman art and philosophy",
+      "C) The widespread adoption of monotheistic religion",
+      "D) The development of the first democratic constitutions"
+    ],
+    "correct_answer": "B) A revival of interest in classical Greek and Roman art and philosophy",
+    "explanation": "The passage characterises the Renaissance as a cultural movement marked by renewed interest in the art, literature, and philosophy of ancient Greece and Rome.",
+    "sort_order": 45
+  },
+  {
+    "id": "e4010046-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The passage mentions that Nikola Tesla received the Nobel Prize for his work on alternating current. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "B) False",
+    "explanation": "The passage notes that despite his groundbreaking contributions to electrical engineering, Tesla never received the Nobel Prize, though he was reportedly nominated.",
+    "sort_order": 46
+  },
+  {
+    "id": "e4010047-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "According to the passage, how do vaccines work to protect the body against disease?",
+    "options": [
+      "A) They kill all bacteria and viruses in the bloodstream",
+      "B) They stimulate the immune system to produce antibodies without causing the disease",
+      "C) They strengthen the body's physical barriers like skin and mucous membranes",
+      "D) They increase the body's temperature to destroy pathogens"
+    ],
+    "correct_answer": "B) They stimulate the immune system to produce antibodies without causing the disease",
+    "explanation": "The passage explains that vaccines introduce a weakened or inactive form of a pathogen, prompting the immune system to generate antibodies and memory cells for future protection.",
+    "sort_order": 47
+  },
+  {
+    "id": "e4010048-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Complete the summary: The passage explains that glaciers form when accumulated snow compresses into ___ over many years.",
+    "options": [
+      "A) permafrost",
+      "B) dense ice",
+      "C) mineral deposits",
+      "D) volcanic rock"
+    ],
+    "correct_answer": "B) dense ice",
+    "explanation": "The passage describes the glacier formation process in which layers of snow accumulate, compress under their own weight, and gradually transform into dense glacial ice over decades or centuries.",
+    "sort_order": 48
+  },
+  {
+    "id": "e4010049-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "Which heading best suits the paragraph discussing how artificial intelligence is transforming medical diagnostics?",
+    "options": [
+      "A) Ethical Dilemmas in Modern Healthcare",
+      "B) AI-Powered Tools: A New Era in Disease Detection",
+      "C) The Rising Cost of Medical Technology",
+      "D) Patient Privacy in the Digital Age"
+    ],
+    "correct_answer": "B) AI-Powered Tools: A New Era in Disease Detection",
+    "explanation": "The paragraph focuses on how machine learning algorithms are now capable of detecting cancers and other diseases in medical imaging with accuracy comparable to experienced physicians.",
+    "sort_order": 49
+  },
+  {
+    "id": "e4010050-0000-4000-a000-000000000001",
+    "test_type": "ielts_mock",
+    "section": "reading",
+    "question_text": "The passage states that the construction of the Panama Canal was completed without any significant loss of life. Is this True, False, or Not Given?",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) Not Given",
+      "D) Partially True"
+    ],
+    "correct_answer": "B) False",
+    "explanation": "The passage mentions that thousands of workers died during the construction of the Panama Canal, primarily from malaria and yellow fever, making this statement clearly false.",
+    "sort_order": 50
+  },
+  {
+    "id": "e4020001-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "What is the main idea of the passage about the migration patterns of monarch butterflies?",
+    "options": [
+      "A) Monarch butterflies are the only insect species that migrates",
+      "B) The multi-generational migration of monarchs is a remarkable biological phenomenon",
+      "C) Climate change has completely halted monarch migration",
+      "D) Monarch butterflies migrate primarily to find mates"
+    ],
+    "correct_answer": "B) The multi-generational migration of monarchs is a remarkable biological phenomenon",
+    "explanation": "The passage centres on the extraordinary nature of monarch butterfly migration, which spans multiple generations and covers thousands of miles between Canada and Mexico.",
+    "sort_order": 1
+  },
+  {
+    "id": "e4020002-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "The word 'ubiquitous' in paragraph 2 is closest in meaning to:",
+    "options": [
+      "A) rare",
+      "B) dangerous",
+      "C) found everywhere",
+      "D) invisible"
+    ],
+    "correct_answer": "C) found everywhere",
+    "explanation": "In the context of describing bacteria in soil ecosystems, 'ubiquitous' means present or found everywhere, emphasising their widespread distribution.",
+    "sort_order": 2
+  },
+  {
+    "id": "e4020003-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "It can be inferred from the passage that early astronomers who observed sunspots were:",
+    "options": [
+      "A) aware of the solar cycle's effect on Earth's climate",
+      "B) unable to explain the phenomena they were recording",
+      "C) primarily motivated by navigational needs",
+      "D) working collaboratively across continents"
+    ],
+    "correct_answer": "B) unable to explain the phenomena they were recording",
+    "explanation": "The passage implies that while early astronomers carefully documented sunspots, they lacked the scientific framework to understand what caused them or their significance.",
+    "sort_order": 3
+  },
+  {
+    "id": "e4020004-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Why does the author mention the example of the dodo bird in the passage about island biogeography?",
+    "options": [
+      "A) To illustrate how island species are particularly vulnerable to extinction",
+      "B) To argue that conservation efforts are always unsuccessful",
+      "C) To compare island and mainland biodiversity levels",
+      "D) To demonstrate the success of captive breeding programmes"
+    ],
+    "correct_answer": "A) To illustrate how island species are particularly vulnerable to extinction",
+    "explanation": "The author uses the dodo as a rhetorical example to demonstrate how island species, having evolved without predators, are especially susceptible to extinction when new threats are introduced.",
+    "sort_order": 4
+  },
+  {
+    "id": "e4020005-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Where would the following sentence best fit in the passage? 'This discovery fundamentally altered our understanding of geological time scales.'",
+    "options": [
+      "A) At the beginning of paragraph 1",
+      "B) At the end of paragraph 2, after the discussion of radiometric dating",
+      "C) At the beginning of paragraph 4, before the section on fossils",
+      "D) At the end of the final paragraph"
+    ],
+    "correct_answer": "B) At the end of paragraph 2, after the discussion of radiometric dating",
+    "explanation": "The sentence refers to a discovery that changed geological understanding, and it logically follows the paragraph about radiometric dating, which was indeed such a transformative discovery.",
+    "sort_order": 5
+  },
+  {
+    "id": "e4020006-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "According to the passage, what role did the printing press play in the Protestant Reformation?",
+    "options": [
+      "A) It had no significant impact on religious movements",
+      "B) It allowed reformers to spread their ideas rapidly to a wide audience",
+      "C) It was used exclusively by the Catholic Church",
+      "D) It made Latin the dominant language of Europe"
+    ],
+    "correct_answer": "B) It allowed reformers to spread their ideas rapidly to a wide audience",
+    "explanation": "The passage explains that the printing press enabled Martin Luther and other reformers to mass-produce pamphlets and translations of scripture, reaching audiences far beyond their local communities.",
+    "sort_order": 6
+  },
+  {
+    "id": "e4020007-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "The word 'dormant' in paragraph 3 is closest in meaning to:",
+    "options": [
+      "A) active",
+      "B) extinct",
+      "C) temporarily inactive",
+      "D) permanently sealed"
+    ],
+    "correct_answer": "C) temporarily inactive",
+    "explanation": "In the context of describing volcanic activity, 'dormant' refers to a volcano that is currently inactive but could potentially erupt again in the future.",
+    "sort_order": 7
+  },
+  {
+    "id": "e4020008-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "What is the main idea of the passage about the cognitive development theories of Jean Piaget?",
+    "options": [
+      "A) Piaget believed children learn only through formal instruction",
+      "B) Piaget proposed that cognitive development occurs in distinct sequential stages",
+      "C) Piaget's theories have been completely disproved by modern research",
+      "D) Piaget focused exclusively on adult cognitive abilities"
+    ],
+    "correct_answer": "B) Piaget proposed that cognitive development occurs in distinct sequential stages",
+    "explanation": "The passage presents Piaget's central theory that children progress through four stages of cognitive development, each characterised by qualitatively different ways of thinking.",
+    "sort_order": 8
+  },
+  {
+    "id": "e4020009-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "It can be inferred from the passage that the development of perspective in Renaissance painting:",
+    "options": [
+      "A) was immediately adopted by all European artists",
+      "B) represented a significant shift in how artists depicted three-dimensional space",
+      "C) was borrowed directly from Chinese artistic traditions",
+      "D) made painting less realistic than medieval art"
+    ],
+    "correct_answer": "B) represented a significant shift in how artists depicted three-dimensional space",
+    "explanation": "The passage discusses how linear perspective, developed during the Renaissance, allowed artists to create the illusion of depth on a flat surface, marking a revolutionary change in visual representation.",
+    "sort_order": 9
+  },
+  {
+    "id": "e4020010-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Why does the author discuss the Coriolis effect in the passage about atmospheric circulation?",
+    "options": [
+      "A) To explain why winds do not blow in straight lines from high to low pressure areas",
+      "B) To argue that weather prediction is impossible",
+      "C) To describe the formation of hurricanes exclusively",
+      "D) To contrast atmospheric and oceanic movements"
+    ],
+    "correct_answer": "A) To explain why winds do not blow in straight lines from high to low pressure areas",
+    "explanation": "The author introduces the Coriolis effect to explain how Earth's rotation deflects moving air, causing wind patterns to curve rather than travel directly between pressure zones.",
+    "sort_order": 10
+  },
+  {
+    "id": "e4020011-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "The word 'paradox' in paragraph 1 is closest in meaning to:",
+    "options": [
+      "A) a simple explanation",
+      "B) a seemingly contradictory situation that may be true",
+      "C) a mathematical equation",
+      "D) a historical document"
+    ],
+    "correct_answer": "B) a seemingly contradictory situation that may be true",
+    "explanation": "In the passage's discussion of the Fermi paradox, the term describes the apparent contradiction between the high probability of extraterrestrial civilisations and the lack of evidence for them.",
+    "sort_order": 11
+  },
+  {
+    "id": "e4020012-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Where would the following sentence best fit? 'However, not all scholars agree with this interpretation of the archaeological evidence.'",
+    "options": [
+      "A) After the claim that Stonehenge was used as an astronomical observatory",
+      "B) At the beginning of the passage",
+      "C) After the description of the construction methods",
+      "D) In the conclusion about tourism at Stonehenge"
+    ],
+    "correct_answer": "A) After the claim that Stonehenge was used as an astronomical observatory",
+    "explanation": "The sentence introduces a counterpoint to a specific claim, and it fits best after the assertion about Stonehenge's astronomical purpose, where scholarly debate is most relevant.",
+    "sort_order": 12
+  },
+  {
+    "id": "e4020013-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "According to the passage on symbiotic relationships, which type of symbiosis benefits one organism while harming another?",
+    "options": [
+      "A) Mutualism",
+      "B) Commensalism",
+      "C) Parasitism",
+      "D) Amensalism"
+    ],
+    "correct_answer": "C) Parasitism",
+    "explanation": "The passage defines parasitism as a symbiotic relationship in which one organism, the parasite, benefits at the expense of the host organism, which is harmed.",
+    "sort_order": 13
+  },
+  {
+    "id": "e4020014-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "It can be inferred from the passage that the Impressionist movement was initially:",
+    "options": [
+      "A) enthusiastically supported by the French art establishment",
+      "B) met with criticism and rejection from traditional art critics",
+      "C) primarily a literary movement that later influenced painting",
+      "D) popular only outside of France"
+    ],
+    "correct_answer": "B) met with criticism and rejection from traditional art critics",
+    "explanation": "The passage implies that Impressionist painters faced significant resistance from the established art world, as their techniques departed radically from accepted academic standards.",
+    "sort_order": 14
+  },
+  {
+    "id": "e4020015-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "What is the main purpose of the passage about the water cycle?",
+    "options": [
+      "A) To warn about water pollution in rivers",
+      "B) To describe the continuous movement of water through Earth's systems",
+      "C) To compare freshwater and saltwater ecosystems",
+      "D) To argue for increased dam construction"
+    ],
+    "correct_answer": "B) To describe the continuous movement of water through Earth's systems",
+    "explanation": "The passage provides a comprehensive overview of how water circulates through evaporation, condensation, precipitation, and collection in a continuous global cycle.",
+    "sort_order": 15
+  },
+  {
+    "id": "e4020016-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "The word 'ephemeral' in paragraph 4 is closest in meaning to:",
+    "options": [
+      "A) lasting forever",
+      "B) short-lived",
+      "C) extremely beautiful",
+      "D) artificially created"
+    ],
+    "correct_answer": "B) short-lived",
+    "explanation": "In the context of describing desert wildflower blooms, 'ephemeral' means lasting for only a brief period, as the flowers quickly wilt once the rare rainfall stops.",
+    "sort_order": 16
+  },
+  {
+    "id": "e4020017-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Why does the author mention the example of identical twins raised apart in the discussion of nature versus nurture?",
+    "options": [
+      "A) To prove that environment has no effect on personality",
+      "B) To provide evidence that genetic factors play a significant role in behaviour",
+      "C) To argue that twin studies are unreliable",
+      "D) To show that nurture completely overrides nature"
+    ],
+    "correct_answer": "B) To provide evidence that genetic factors play a significant role in behaviour",
+    "explanation": "The author cites twin studies to demonstrate that even when raised in different environments, identical twins often display remarkably similar traits, supporting the influence of genetics.",
+    "sort_order": 17
+  },
+  {
+    "id": "e4020018-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "According to the passage, what distinguishes igneous rocks from sedimentary rocks?",
+    "options": [
+      "A) Igneous rocks are always found near the ocean",
+      "B) Igneous rocks form from the cooling and solidification of magma or lava",
+      "C) Sedimentary rocks are harder than igneous rocks",
+      "D) Sedimentary rocks form only in volcanic regions"
+    ],
+    "correct_answer": "B) Igneous rocks form from the cooling and solidification of magma or lava",
+    "explanation": "The passage explains that igneous rocks are created when molten rock cools and hardens, while sedimentary rocks form from the accumulation and compression of mineral and organic particles.",
+    "sort_order": 18
+  },
+  {
+    "id": "e4020019-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "It can be inferred that the author views the behaviorist approach to psychology as:",
+    "options": [
+      "A) the most comprehensive theory of human behaviour",
+      "B) useful but limited in its ability to explain complex mental processes",
+      "C) completely irrelevant to modern psychology",
+      "D) superior to all other psychological approaches"
+    ],
+    "correct_answer": "B) useful but limited in its ability to explain complex mental processes",
+    "explanation": "The passage acknowledges behaviourism's contributions to understanding learning through conditioning but notes its inability to account for internal cognitive processes like reasoning and creativity.",
+    "sort_order": 19
+  },
+  {
+    "id": "e4020020-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Where would the following sentence best fit? 'This process, known as eutrophication, can lead to the death of aquatic organisms.'",
+    "options": [
+      "A) After the description of excessive nutrient runoff into lakes",
+      "B) In the introduction about freshwater ecosystems",
+      "C) After the discussion of water filtration methods",
+      "D) At the end of the passage about marine conservation"
+    ],
+    "correct_answer": "A) After the description of excessive nutrient runoff into lakes",
+    "explanation": "Eutrophication is directly caused by nutrient runoff, so the sentence logically follows the paragraph discussing how fertilisers and pollutants enter waterways and cause algal blooms.",
+    "sort_order": 20
+  },
+  {
+    "id": "e4020021-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "What is the main idea of the passage about the Silk Road?",
+    "options": [
+      "A) The Silk Road was primarily a military route",
+      "B) The Silk Road facilitated cultural and commercial exchange between East and West",
+      "C) The Silk Road was used exclusively for transporting silk",
+      "D) The Silk Road existed only during the Roman Empire"
+    ],
+    "correct_answer": "B) The Silk Road facilitated cultural and commercial exchange between East and West",
+    "explanation": "The passage presents the Silk Road as a vast network of trade routes that enabled the exchange of goods, ideas, technologies, and cultural practices between civilisations across Eurasia.",
+    "sort_order": 21
+  },
+  {
+    "id": "e4020022-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "The word 'assimilate' in paragraph 2 is closest in meaning to:",
+    "options": [
+      "A) reject",
+      "B) absorb and integrate",
+      "C) destroy",
+      "D) separate"
+    ],
+    "correct_answer": "B) absorb and integrate",
+    "explanation": "In the passage about how organisms process nutrients, 'assimilate' means to absorb and incorporate substances into the body's cells and tissues for use in biological processes.",
+    "sort_order": 22
+  },
+  {
+    "id": "e4020023-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "Why does the author describe the collapse of the Bronze Age civilisations in the eastern Mediterranean?",
+    "options": [
+      "A) To show that technological advancement always prevents societal collapse",
+      "B) To illustrate how interconnected trade networks made multiple civilisations vulnerable to cascading failures",
+      "C) To argue that the Bronze Age was unimportant historically",
+      "D) To compare ancient and modern military strategies"
+    ],
+    "correct_answer": "B) To illustrate how interconnected trade networks made multiple civilisations vulnerable to cascading failures",
+    "explanation": "The author uses the Bronze Age collapse to demonstrate that when highly interconnected societies face disruption, the failure of one can trigger a chain reaction affecting all of them.",
+    "sort_order": 23
+  },
+  {
+    "id": "e4020024-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "According to the passage, what advantage do deciduous trees have over evergreen trees in temperate climates?",
+    "options": [
+      "A) They grow taller than evergreen trees",
+      "B) They conserve energy by shedding leaves during harsh winter conditions",
+      "C) They produce more oxygen than evergreen trees",
+      "D) They are resistant to all types of disease"
+    ],
+    "correct_answer": "B) They conserve energy by shedding leaves during harsh winter conditions",
+    "explanation": "The passage explains that by dropping their leaves in autumn, deciduous trees avoid the energy cost of maintaining foliage when photosynthesis is limited by cold temperatures and reduced sunlight.",
+    "sort_order": 24
+  },
+  {
+    "id": "e4020025-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "reading",
+    "question_text": "It can be inferred from the passage that the discovery of antibiotics:",
+    "options": [
+      "A) immediately solved all problems related to infectious disease",
+      "B) created a false sense of security that contributed to the misuse of these drugs",
+      "C) was predicted by scientists decades before it occurred",
+      "D) had no impact on life expectancy in developed countries"
+    ],
+    "correct_answer": "B) created a false sense of security that contributed to the misuse of these drugs",
+    "explanation": "The passage suggests that the remarkable success of early antibiotics led to widespread overuse and overprescription, which in turn accelerated the development of antibiotic-resistant bacteria.",
+    "sort_order": 25
+  },
+  {
+    "id": "e4020026-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the lecture mainly about?",
+    "options": [
+      "A) The economic impact of volcanic eruptions",
+      "B) How different types of volcanoes form and behave",
+      "C) The history of volcanology as a scientific discipline",
+      "D) Safety procedures during volcanic emergencies"
+    ],
+    "correct_answer": "B) How different types of volcanoes form and behave",
+    "explanation": "The professor spends the lecture explaining the characteristics of shield, composite, and cinder cone volcanoes, focusing on their formation processes and eruption patterns.",
+    "sort_order": 26
+  },
+  {
+    "id": "e4020027-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "According to the professor, why is the Cambrian Explosion significant in the study of evolution?",
+    "options": [
+      "A) It was the first time life appeared on Earth",
+      "B) It represents a rapid diversification of complex animal life forms",
+      "C) It caused the extinction of all previous life forms",
+      "D) It occurred at the same time as a major ice age"
+    ],
+    "correct_answer": "B) It represents a rapid diversification of complex animal life forms",
+    "explanation": "The professor explains that the Cambrian Explosion, roughly 540 million years ago, saw the sudden appearance of most major animal phyla in the fossil record within a geologically brief period.",
+    "sort_order": 27
+  },
+  {
+    "id": "e4020028-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What can be inferred about the student's attitude when she says 'I'm not sure that's going to work for my schedule'?",
+    "options": [
+      "A) She is enthusiastic about the proposed plan",
+      "B) She is politely expressing doubt about the feasibility of the suggestion",
+      "C) She is angry at the professor for the requirement",
+      "D) She does not care about the assignment"
+    ],
+    "correct_answer": "B) She is politely expressing doubt about the feasibility of the suggestion",
+    "explanation": "The student's tone and phrasing indicate she is diplomatically expressing concern that the professor's proposed timeline conflicts with her other commitments.",
+    "sort_order": 28
+  },
+  {
+    "id": "e4020029-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What does the professor say about the formation of stalactites in limestone caves?",
+    "options": [
+      "A) They form from volcanic minerals deposited by hot springs",
+      "B) They grow as mineral-rich water drips from cave ceilings and deposits calcium carbonate",
+      "C) They are created by underground rivers eroding the rock",
+      "D) They form only in caves located near the ocean"
+    ],
+    "correct_answer": "B) They grow as mineral-rich water drips from cave ceilings and deposits calcium carbonate",
+    "explanation": "The professor describes how water carrying dissolved calcium carbonate seeps through cracks in limestone, and as it drips from the ceiling, the mineral is left behind, slowly building stalactites.",
+    "sort_order": 29
+  },
+  {
+    "id": "e4020030-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "Why does the student visit the professor's office?",
+    "options": [
+      "A) To dispute a grade on a recent exam",
+      "B) To ask for an extension on the research paper",
+      "C) To discuss possible topics for his senior thesis",
+      "D) To withdraw from the course"
+    ],
+    "correct_answer": "C) To discuss possible topics for his senior thesis",
+    "explanation": "At the beginning of the conversation, the student explains that he has been thinking about thesis topics and would like the professor's advice on narrowing down his focus area.",
+    "sort_order": 30
+  },
+  {
+    "id": "e4020031-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the main topic of the lecture on social psychology?",
+    "options": [
+      "A) How childhood trauma affects adult behaviour",
+      "B) How group dynamics influence individual decision-making",
+      "C) The biological basis of personality disorders",
+      "D) The history of psychological testing"
+    ],
+    "correct_answer": "B) How group dynamics influence individual decision-making",
+    "explanation": "The lecture focuses on experiments and theories showing how the presence of others and group pressure can significantly alter an individual's choices and judgements.",
+    "sort_order": 31
+  },
+  {
+    "id": "e4020032-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "According to the professor, what was the primary motivation behind the construction of the Erie Canal?",
+    "options": [
+      "A) To provide irrigation for farmland in New York State",
+      "B) To create a navigable waterway connecting the Great Lakes to the Atlantic Ocean",
+      "C) To generate hydroelectric power",
+      "D) To serve as a defensive fortification"
+    ],
+    "correct_answer": "B) To create a navigable waterway connecting the Great Lakes to the Atlantic Ocean",
+    "explanation": "The professor explains that the Erie Canal was built to provide an efficient transportation route between the Great Lakes and the Atlantic via the Hudson River, dramatically reducing shipping costs.",
+    "sort_order": 32
+  },
+  {
+    "id": "e4020033-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What does the professor imply when she says 'Well, that's one way to look at it'?",
+    "options": [
+      "A) She completely agrees with the student's interpretation",
+      "B) She thinks the student's perspective is valid but incomplete",
+      "C) She is dismissing the student's comment as irrelevant",
+      "D) She wants the student to repeat the answer"
+    ],
+    "correct_answer": "B) She thinks the student's perspective is valid but incomplete",
+    "explanation": "The professor's phrase acknowledges the student's point while suggesting that there are other important perspectives or factors that should also be considered.",
+    "sort_order": 33
+  },
+  {
+    "id": "e4020034-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What key detail does the professor mention about the function of mitochondria?",
+    "options": [
+      "A) They store genetic information for cell reproduction",
+      "B) They produce adenosine triphosphate (ATP), the cell's main energy source",
+      "C) They protect cells from viral infections",
+      "D) They control the movement of substances in and out of the cell"
+    ],
+    "correct_answer": "B) They produce adenosine triphosphate (ATP), the cell's main energy source",
+    "explanation": "The professor describes mitochondria as the 'powerhouses of the cell' because they generate ATP through cellular respiration, providing the energy needed for cellular functions.",
+    "sort_order": 34
+  },
+  {
+    "id": "e4020035-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What problem does the student describe to the academic advisor?",
+    "options": [
+      "A) She cannot afford the textbooks for her courses",
+      "B) Two of her required courses are scheduled at the same time",
+      "C) She failed a prerequisite for her major",
+      "D) Her financial aid application was rejected"
+    ],
+    "correct_answer": "B) Two of her required courses are scheduled at the same time",
+    "explanation": "The student explains her frustration that two courses she must take this semester have overlapping schedules, and she needs help finding a solution.",
+    "sort_order": 35
+  },
+  {
+    "id": "e4020036-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the lecture mainly about?",
+    "options": [
+      "A) The extinction of dinosaurs",
+      "B) How archaeologists use stratigraphy to date ancient sites",
+      "C) The composition of Earth's inner core",
+      "D) Modern techniques for oil extraction"
+    ],
+    "correct_answer": "B) How archaeologists use stratigraphy to date ancient sites",
+    "explanation": "The lecture explains the principles of stratigraphy, where deeper layers of soil and rock are generally older, and how archaeologists apply this to determine the relative ages of artifacts.",
+    "sort_order": 36
+  },
+  {
+    "id": "e4020037-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "According to the lecture, why did many Baroque composers write music for the church?",
+    "options": [
+      "A) Church music was the only legal form of music at the time",
+      "B) The church was a major patron that provided financial support to composers",
+      "C) Secular music had not yet been invented",
+      "D) Composers were required by law to work for religious institutions"
+    ],
+    "correct_answer": "B) The church was a major patron that provided financial support to composers",
+    "explanation": "The professor explains that during the Baroque period, the Catholic and Protestant churches were among the most important sources of income for composers, commissioning works for services and ceremonies.",
+    "sort_order": 37
+  },
+  {
+    "id": "e4020038-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What can be inferred about the professor's opinion of using GDP as the sole measure of a country's well-being?",
+    "options": [
+      "A) He considers it a perfect indicator",
+      "B) He believes it is a useful but insufficient measure",
+      "C) He thinks it should be replaced entirely by a happiness index",
+      "D) He has no opinion on economic indicators"
+    ],
+    "correct_answer": "B) He believes it is a useful but insufficient measure",
+    "explanation": "The professor acknowledges that GDP captures economic output but argues that it fails to account for income inequality, environmental degradation, and quality of life, making it incomplete.",
+    "sort_order": 38
+  },
+  {
+    "id": "e4020039-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What does the professor say about the relationship between language and thought in the Sapir-Whorf hypothesis?",
+    "options": [
+      "A) Language has no influence on thought whatsoever",
+      "B) The structure of a language can influence how its speakers perceive and think about the world",
+      "C) All languages express ideas in exactly the same way",
+      "D) Only written language affects cognitive processes"
+    ],
+    "correct_answer": "B) The structure of a language can influence how its speakers perceive and think about the world",
+    "explanation": "The professor presents the Sapir-Whorf hypothesis as the idea that linguistic categories and structures shape cognitive processes and worldview, though the strong version remains debated.",
+    "sort_order": 39
+  },
+  {
+    "id": "e4020040-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "Why does the student go to the registrar's office?",
+    "options": [
+      "A) To update her mailing address",
+      "B) To request an official transcript for a graduate school application",
+      "C) To report a lost student ID card",
+      "D) To change her declared major"
+    ],
+    "correct_answer": "B) To request an official transcript for a graduate school application",
+    "explanation": "The student tells the staff member that she needs an official sealed transcript sent to three graduate programmes she is applying to for the upcoming fall semester.",
+    "sort_order": 40
+  },
+  {
+    "id": "e4020041-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the main point of the lecture about operant conditioning?",
+    "options": [
+      "A) Punishment is always more effective than reward",
+      "B) Behaviour can be shaped through reinforcement and consequences",
+      "C) Animals cannot learn through conditioning",
+      "D) Classical conditioning and operant conditioning are identical"
+    ],
+    "correct_answer": "B) Behaviour can be shaped through reinforcement and consequences",
+    "explanation": "The professor explains B.F. Skinner's concept of operant conditioning, in which behaviours followed by positive outcomes are strengthened while those followed by negative outcomes are weakened.",
+    "sort_order": 41
+  },
+  {
+    "id": "e4020042-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "According to the lecture, what characteristic of mangrove forests makes them ecologically important?",
+    "options": [
+      "A) They produce the majority of the world's oxygen",
+      "B) They serve as nurseries for many commercially important fish species and protect coastlines",
+      "C) They are the oldest type of forest on Earth",
+      "D) They grow only in freshwater environments"
+    ],
+    "correct_answer": "B) They serve as nurseries for many commercially important fish species and protect coastlines",
+    "explanation": "The professor highlights that mangrove forests are critical both as breeding grounds for fish and shrimp and as natural barriers that reduce the impact of storm surges and coastal erosion.",
+    "sort_order": 42
+  },
+  {
+    "id": "e4020043-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What does the professor mean when he says 'Let's not put the cart before the horse'?",
+    "options": [
+      "A) The class should study animal behaviour before human behaviour",
+      "B) Students should understand the foundational concepts before moving to advanced topics",
+      "C) The lecture will focus on transportation history",
+      "D) He is making a joke unrelated to the lesson"
+    ],
+    "correct_answer": "B) Students should understand the foundational concepts before moving to advanced topics",
+    "explanation": "The professor uses the idiom to tell students they need to master the basic principles first before attempting to analyse more complex applications of the theory.",
+    "sort_order": 43
+  },
+  {
+    "id": "e4020044-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What detail does the professor provide about the function of the ozone layer?",
+    "options": [
+      "A) It traps heat to keep the Earth warm",
+      "B) It absorbs most of the Sun's harmful ultraviolet radiation",
+      "C) It produces the oxygen we breathe",
+      "D) It reflects visible light back into space"
+    ],
+    "correct_answer": "B) It absorbs most of the Sun's harmful ultraviolet radiation",
+    "explanation": "The professor explains that the ozone layer in the stratosphere acts as a shield, absorbing approximately 97-99% of the Sun's UV radiation, which would otherwise damage living organisms.",
+    "sort_order": 44
+  },
+  {
+    "id": "e4020045-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the purpose of the conversation between the student and the librarian?",
+    "options": [
+      "A) The student wants to check out a reserved book",
+      "B) The student needs help accessing the online journal database for a research assignment",
+      "C) The student is complaining about library noise",
+      "D) The student wants to apply for a job at the library"
+    ],
+    "correct_answer": "B) The student needs help accessing the online journal database for a research assignment",
+    "explanation": "The student explains that he has been unable to access certain journal articles through the library's database and asks the librarian for assistance with his login and search techniques.",
+    "sort_order": 45
+  },
+  {
+    "id": "e4020046-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the lecture mainly about?",
+    "options": [
+      "A) The political structure of ancient Egyptian society",
+      "B) How ancient Egyptians used geometry and engineering to construct the pyramids",
+      "C) The religious beliefs of ancient Egypt",
+      "D) The discovery of King Tutankhamun's tomb"
+    ],
+    "correct_answer": "B) How ancient Egyptians used geometry and engineering to construct the pyramids",
+    "explanation": "The professor devotes the lecture to explaining the mathematical precision and engineering techniques that enabled the construction of the Great Pyramids, including ramp theories and labour organisation.",
+    "sort_order": 46
+  },
+  {
+    "id": "e4020047-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What can be inferred about the professor's view on the blank slate theory of human development?",
+    "options": [
+      "A) She fully supports the idea that humans are born as blank slates",
+      "B) She considers it an oversimplification that ignores biological influences",
+      "C) She believes it applies only to cognitive development",
+      "D) She has never encountered the theory before"
+    ],
+    "correct_answer": "B) She considers it an oversimplification that ignores biological influences",
+    "explanation": "The professor presents research showing that infants display innate preferences and abilities from birth, suggesting that the blank slate view fails to account for the role of biology in development.",
+    "sort_order": 47
+  },
+  {
+    "id": "e4020048-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "According to the professor, how did the development of the telescope change astronomy?",
+    "options": [
+      "A) It made astronomy less popular as a field of study",
+      "B) It allowed astronomers to observe celestial objects in far greater detail, challenging existing models",
+      "C) It had no significant impact until the 20th century",
+      "D) It was used only for navigation, not scientific observation"
+    ],
+    "correct_answer": "B) It allowed astronomers to observe celestial objects in far greater detail, challenging existing models",
+    "explanation": "The professor describes how Galileo's use of the telescope revealed features like Jupiter's moons and the phases of Venus, which contradicted the geocentric model and supported heliocentrism.",
+    "sort_order": 48
+  },
+  {
+    "id": "e4020049-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What does the advisor suggest the student do about the internship opportunity?",
+    "options": [
+      "A) Decline the internship and focus on coursework",
+      "B) Apply for academic credit so the internship counts toward graduation requirements",
+      "C) Postpone the internship until after graduation",
+      "D) Transfer to a different university that allows internships"
+    ],
+    "correct_answer": "B) Apply for academic credit so the internship counts toward graduation requirements",
+    "explanation": "The advisor recommends that the student fill out the experiential learning form so the internship hours can be counted as elective credits toward the degree.",
+    "sort_order": 49
+  },
+  {
+    "id": "e4020050-0000-4000-a000-000000000001",
+    "test_type": "toefl_mock",
+    "section": "listening",
+    "question_text": "What is the main topic of the lecture about plate boundaries?",
+    "options": [
+      "A) How earthquakes are predicted using modern technology",
+      "B) The three types of plate boundaries and the geological features they produce",
+      "C) The history of continental drift theory",
+      "D) How tsunamis form in the open ocean"
+    ],
+    "correct_answer": "B) The three types of plate boundaries and the geological features they produce",
+    "explanation": "The lecture systematically covers convergent, divergent, and transform plate boundaries, explaining how each type produces distinct geological features such as mountains, rift valleys, and fault lines.",
+    "sort_order": 50
+  }
+]

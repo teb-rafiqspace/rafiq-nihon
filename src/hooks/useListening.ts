@@ -42,15 +42,24 @@ export function useListening(level: string = 'N5') {
   const { user } = useAuth();
   const queryClient = useQueryClient();
 
+  const isEnglishTrack = level === 'ielts' || level === 'toefl';
+
   const { data: listeningItems, isLoading: itemsLoading } = useQuery({
     queryKey: ['listening-items', level],
     queryFn: async () => {
-      const { data, error } = await supabase
+      let query = supabase
         .from('listening_items')
         .select('*')
-        .eq('jlpt_level', level)
         .order('order_index');
-      
+
+      if (isEnglishTrack) {
+        query = query.eq('track', level);
+      } else {
+        query = query.eq('jlpt_level', level);
+      }
+
+      const { data, error } = await query;
+
       if (error) throw error;
       return (data || []) as ListeningItem[];
     }

@@ -45,15 +45,24 @@ export function useReading(level: string = 'N5') {
   const { user } = useAuth();
   const queryClient = useQueryClient();
 
+  const isEnglishTrack = level === 'ielts' || level === 'toefl';
+
   const { data: passages, isLoading: passagesLoading } = useQuery({
     queryKey: ['reading-passages', level],
     queryFn: async () => {
-      const { data, error } = await supabase
+      let query = supabase
         .from('reading_passages')
         .select('*')
-        .eq('jlpt_level', level)
         .order('order_index');
-      
+
+      if (isEnglishTrack) {
+        query = query.eq('track', level);
+      } else {
+        query = query.eq('jlpt_level', level);
+      }
+
+      const { data, error } = await query;
+
       if (error) throw error;
       return (data || []) as unknown as ReadingPassage[];
     }

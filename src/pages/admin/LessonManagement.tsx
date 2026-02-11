@@ -31,6 +31,7 @@ const trackColors: Record<string, string> = {
   jlpt_n5: 'bg-green-500',
   jlpt_n4: 'bg-yellow-500',
   jlpt_n3: 'bg-orange-500',
+  jlpt_n2: 'bg-red-500',
 };
 
 const trackLabels: Record<string, string> = {
@@ -38,6 +39,7 @@ const trackLabels: Record<string, string> = {
   jlpt_n5: 'JLPT N5',
   jlpt_n4: 'JLPT N4',
   jlpt_n3: 'JLPT N3',
+  jlpt_n2: 'JLPT N2',
 };
 
 export default function LessonManagement() {
@@ -90,6 +92,7 @@ export default function LessonManagement() {
               <SelectItem value="jlpt_n5">JLPT N5</SelectItem>
               <SelectItem value="jlpt_n4">JLPT N4</SelectItem>
               <SelectItem value="jlpt_n3">JLPT N3</SelectItem>
+              <SelectItem value="jlpt_n2">JLPT N2</SelectItem>
             </SelectContent>
           </Select>
         </div>

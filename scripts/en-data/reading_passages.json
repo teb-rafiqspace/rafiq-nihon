@@ -1,0 +1,262 @@
+[
+  {
+    "id": "reading-ielts-001",
+    "title_jp": "The Rise of Renewable Energy",
+    "title_id": "Kebangkitan Energi Terbarukan",
+    "content_jp": "The global energy landscape is undergoing a profound transformation as renewable energy sources increasingly replace traditional fossil fuels. Solar, wind, hydroelectric, and geothermal power have emerged as viable alternatives that promise to reshape how societies generate and consume electricity. This shift is driven by a convergence of environmental concerns, technological advancements, and economic incentives that have made clean energy more accessible than ever before.\n\nSolar energy has experienced remarkable growth over the past two decades. The cost of photovoltaic panels has declined by approximately 90 percent since 2010, making solar installations economically competitive with coal and natural gas in many regions. Countries such as China, India, and the United States have invested heavily in solar infrastructure, with large-scale solar farms now capable of powering entire cities. Rooftop solar panels have also become increasingly popular among homeowners, enabling individuals to generate their own electricity and even sell surplus power back to the grid.\n\nWind energy has similarly expanded at an impressive rate. Onshore wind farms have become a common feature of landscapes across Europe, North America, and parts of Asia. More recently, offshore wind technology has opened up new possibilities for energy generation. Offshore turbines benefit from stronger and more consistent wind patterns, allowing them to produce electricity more efficiently than their onshore counterparts. Denmark, for example, now generates more than 50 percent of its electricity from wind power alone.\n\nDespite these advances, the transition to renewable energy faces significant challenges. Energy storage remains a critical issue, as solar and wind power are inherently intermittent. Battery technology has improved considerably, but storing large quantities of energy for extended periods is still costly and technically demanding. Additionally, the infrastructure required to transmit renewable energy from remote generation sites to urban centers requires substantial investment in grid modernization.\n\nNevertheless, the momentum behind renewable energy appears unstoppable. Governments worldwide have set ambitious targets for carbon neutrality, and private investment in clean energy continues to accelerate. The International Energy Agency projects that renewables will account for nearly 90 percent of global electricity generation by 2050, signaling a fundamental shift in the world's energy paradigm.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "science",
+    "difficulty": 2,
+    "word_count": 310,
+    "estimated_minutes": 4,
+    "vocabulary_hints": [
+      {"word": "photovoltaic", "reading": "/ˌfoʊ.toʊ.vɒlˈteɪ.ɪk/", "meaning": "berkaitan dengan konversi cahaya menjadi listrik"},
+      {"word": "intermittent", "reading": "/ˌɪn.tərˈmɪt.ənt/", "meaning": "tidak terus-menerus; terputus-putus"},
+      {"word": "infrastructure", "reading": "/ˈɪn.frəˌstrʌk.tʃər/", "meaning": "infrastruktur; struktur dasar"},
+      {"word": "convergence", "reading": "/kənˈvɜːr.dʒəns/", "meaning": "pertemuan; penggabungan dari berbagai arah"}
+    ],
+    "is_premium": false,
+    "order_index": 1,
+    "track": "ielts"
+  },
+  {
+    "id": "reading-ielts-002",
+    "title_jp": "Urban Planning in Modern Cities",
+    "title_id": "Perencanaan Kota di Kota-Kota Modern",
+    "content_jp": "Urban planning has evolved considerably since the mid-twentieth century, reflecting changing priorities in how cities accommodate growing populations while maintaining quality of life. Modern urban planners must balance competing demands for residential space, commercial development, transportation networks, green areas, and cultural amenities. The decisions they make shape the daily experiences of millions of people and determine whether a city thrives or struggles.\n\nOne of the most influential concepts in contemporary urban planning is the idea of mixed-use development. Rather than separating residential, commercial, and industrial zones as was common in the twentieth century, planners now advocate for neighborhoods where people can live, work, and shop within walking distance. This approach reduces dependence on automobiles, lowers carbon emissions, and fosters a greater sense of community. Cities like Copenhagen, Barcelona, and Melbourne have embraced mixed-use planning with notable success.\n\nPublic transportation is another cornerstone of effective urban design. Cities that invest in reliable metro systems, bus networks, and cycling infrastructure tend to experience less traffic congestion and air pollution. Singapore, for instance, has developed one of the world's most efficient public transit systems, integrating buses, trains, and ride-sharing services into a seamless network. The city-state's approach demonstrates that thoughtful planning can make personal car ownership largely unnecessary.\n\nGreen spaces have also gained recognition as essential components of urban environments. Parks, gardens, and tree-lined boulevards provide residents with recreational opportunities, improve air quality, and help manage stormwater runoff. Research has consistently shown that access to green spaces is associated with better mental health outcomes, reduced stress levels, and stronger social connections among neighbors.\n\nHowever, urban planning faces persistent challenges. Gentrification often accompanies urban renewal projects, displacing long-term residents who can no longer afford rising housing costs. Planners must develop strategies to ensure that improvements benefit all members of a community, not just affluent newcomers. Affordable housing initiatives, rent control measures, and community engagement programs are among the tools available to address this issue.\n\nAs the global population continues to urbanize, the importance of thoughtful city planning will only increase. The cities that succeed in the coming decades will be those that prioritize sustainability, inclusivity, and adaptability in their approach to urban development.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "society",
+    "difficulty": 2,
+    "word_count": 340,
+    "estimated_minutes": 5,
+    "vocabulary_hints": [
+      {"word": "gentrification", "reading": "/ˌdʒen.trɪ.fɪˈkeɪ.ʃən/", "meaning": "gentrifikasi; perubahan lingkungan menjadi area kelas menengah atas"},
+      {"word": "amenities", "reading": "/əˈmen.ɪ.tiz/", "meaning": "fasilitas; kemudahan"},
+      {"word": "congestion", "reading": "/kənˈdʒes.tʃən/", "meaning": "kemacetan; kepadatan"},
+      {"word": "sustainability", "reading": "/səˌsteɪ.nəˈbɪl.ɪ.ti/", "meaning": "keberlanjutan"}
+    ],
+    "is_premium": false,
+    "order_index": 2,
+    "track": "ielts"
+  },
+  {
+    "id": "reading-ielts-003",
+    "title_jp": "The Psychology of Decision Making",
+    "title_id": "Psikologi Pengambilan Keputusan",
+    "content_jp": "Human beings make thousands of decisions every day, ranging from trivial choices about what to eat for breakfast to consequential determinations about career paths and relationships. For decades, psychologists and economists assumed that people make decisions rationally, carefully weighing costs and benefits before selecting the optimal course of action. However, research over the past fifty years has revealed that human decision making is far more complex and frequently irrational than previously believed.\n\nDaniel Kahneman and Amos Tversky pioneered the study of cognitive biases in the 1970s, demonstrating that people rely on mental shortcuts known as heuristics when making judgments. While these shortcuts are often useful for processing information quickly, they can lead to systematic errors. The availability heuristic, for example, causes people to overestimate the likelihood of events that are easily recalled, such as plane crashes or shark attacks, while underestimating more common but less memorable risks like heart disease or car accidents.\n\nAnother well-documented phenomenon is loss aversion, the tendency for people to feel the pain of losing something more intensely than the pleasure of gaining something of equivalent value. Kahneman and Tversky found that most people would refuse a bet offering a 50 percent chance of winning 150 dollars and a 50 percent chance of losing 100 dollars, even though the expected value is positive. This asymmetry in how gains and losses are perceived has profound implications for financial markets, insurance decisions, and public policy.\n\nThe concept of anchoring also plays a significant role in decision making. When people are exposed to a particular number or piece of information before making a judgment, that initial reference point disproportionately influences their subsequent estimate. Real estate agents, for instance, can influence buyers' perceptions of a property's value simply by manipulating the listed asking price, regardless of the home's actual market worth.\n\nUnderstanding these cognitive biases has practical applications beyond academic research. Governments and organizations have begun using insights from behavioral psychology to design policies and environments that nudge people toward better decisions. Default enrollment in retirement savings plans, simplified tax forms, and strategic placement of healthy food options in cafeterias are all examples of how knowledge about decision-making biases can be applied to improve outcomes for individuals and society.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "psychology",
+    "difficulty": 3,
+    "word_count": 350,
+    "estimated_minutes": 5,
+    "vocabulary_hints": [
+      {"word": "heuristics", "reading": "/hjʊˈrɪs.tɪks/", "meaning": "heuristik; jalan pintas mental untuk pengambilan keputusan"},
+      {"word": "cognitive bias", "reading": "/ˈkɒɡ.nɪ.tɪv ˈbaɪ.əs/", "meaning": "bias kognitif; kesalahan berpikir sistematis"},
+      {"word": "asymmetry", "reading": "/eɪˈsɪm.ə.tri/", "meaning": "asimetri; ketidakseimbangan"},
+      {"word": "anchoring", "reading": "/ˈæŋ.kər.ɪŋ/", "meaning": "penahan; kecenderungan bergantung pada informasi awal"},
+      {"word": "consequential", "reading": "/ˌkɒn.sɪˈkwen.ʃəl/", "meaning": "penting; berdampak besar"}
+    ],
+    "is_premium": false,
+    "order_index": 3,
+    "track": "ielts"
+  },
+  {
+    "id": "reading-ielts-004",
+    "title_jp": "Marine Biodiversity Under Threat",
+    "title_id": "Keanekaragaman Hayati Laut Terancam",
+    "content_jp": "The world's oceans harbor an extraordinary diversity of life, from microscopic plankton that form the base of marine food chains to massive blue whales that traverse entire ocean basins. Marine ecosystems support an estimated 250,000 known species, with scientists believing that millions more remain undiscovered in the deep sea. However, this remarkable biodiversity is facing unprecedented threats from human activities that are altering ocean environments at an alarming rate.\n\nOverfishing represents one of the most immediate dangers to marine life. Industrial fishing fleets equipped with advanced sonar technology and enormous nets can harvest vast quantities of fish in a single expedition. The Food and Agriculture Organization estimates that approximately one-third of global fish stocks are currently overexploited, meaning they are being harvested faster than they can reproduce. This depletion affects not only the targeted species but also disrupts entire food webs, as predators lose their prey and ecosystems become destabilized.\n\nOcean acidification poses another serious challenge to marine biodiversity. As atmospheric carbon dioxide levels rise, the oceans absorb a significant portion of this gas, leading to chemical changes that lower the pH of seawater. More acidic conditions make it difficult for calcifying organisms such as corals, mollusks, and certain types of plankton to build and maintain their shells and skeletons. Coral reefs, which support roughly 25 percent of all marine species despite covering less than one percent of the ocean floor, are particularly vulnerable to acidification combined with rising water temperatures.\n\nPlastic pollution has emerged as a pervasive threat to ocean life in recent decades. An estimated eight million metric tons of plastic waste enters the oceans annually, breaking down into microplastics that are ingested by organisms at every level of the food chain. Sea turtles mistake plastic bags for jellyfish, seabirds inadvertently feed plastic fragments to their chicks, and filter-feeding whales consume thousands of microplastic particles daily. The long-term effects of microplastic ingestion on marine organisms and, ultimately, on human health through seafood consumption remain subjects of active research.\n\nConservation efforts offer some hope for protecting marine biodiversity. Marine protected areas, sustainable fishing practices, and international agreements to reduce pollution are all contributing to the preservation of ocean ecosystems. However, the scale and pace of these initiatives must increase dramatically if they are to counteract the accelerating pressures on marine life.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "environment",
+    "difficulty": 3,
+    "word_count": 360,
+    "estimated_minutes": 5,
+    "vocabulary_hints": [
+      {"word": "acidification", "reading": "/əˌsɪd.ɪ.fɪˈkeɪ.ʃən/", "meaning": "pengasaman; proses menjadi lebih asam"},
+      {"word": "calcifying", "reading": "/ˈkæl.sɪ.faɪ.ɪŋ/", "meaning": "mengapur; membentuk kalsium"},
+      {"word": "overexploited", "reading": "/ˌoʊ.vər.ɪkˈsplɔɪ.tɪd/", "meaning": "dieksploitasi berlebihan"},
+      {"word": "pervasive", "reading": "/pərˈveɪ.sɪv/", "meaning": "meresap; menyebar luas"},
+      {"word": "microplastics", "reading": "/ˌmaɪ.kroʊˈplæs.tɪks/", "meaning": "mikroplastik; partikel plastik sangat kecil"}
+    ],
+    "is_premium": true,
+    "order_index": 4,
+    "track": "ielts"
+  },
+  {
+    "id": "reading-ielts-005",
+    "title_jp": "The Evolution of Communication Technology",
+    "title_id": "Evolusi Teknologi Komunikasi",
+    "content_jp": "The history of human communication is a story of progressively faster and more efficient methods of transmitting information across distances. From ancient smoke signals and drum beats to the electromagnetic waves that carry modern digital data, each technological leap has fundamentally altered the fabric of human society. Understanding this evolution reveals not only how technology develops but also how communication shapes culture, commerce, and political structures.\n\nThe invention of the printing press by Johannes Gutenberg around 1440 marked perhaps the most transformative moment in communication history prior to the digital age. Before movable type, books were laboriously copied by hand, making them rare and expensive commodities accessible only to the wealthy and the clergy. The printing press democratized knowledge by enabling the mass production of written material, catalyzing the Protestant Reformation, the Scientific Revolution, and the spread of literacy across Europe. Within fifty years of its invention, an estimated twenty million volumes had been printed, fundamentally altering the intellectual landscape of Western civilization.\n\nThe nineteenth century brought a series of innovations that collapsed the barriers of distance. The telegraph, commercialized in the 1840s, enabled near-instantaneous communication across continents for the first time in human history. Messages that previously took weeks to deliver by horseback or sailing ship could now be transmitted in minutes. The telephone, patented by Alexander Graham Bell in 1876, added the dimension of voice to long-distance communication, making exchanges more personal and immediate. These technologies laid the groundwork for the interconnected world that would emerge in the following century.\n\nThe twentieth century witnessed the rise of broadcast media, beginning with radio in the 1920s and television in the 1950s. These technologies transformed communication from a primarily one-to-one activity into a one-to-many phenomenon, creating shared cultural experiences on an unprecedented scale. Political leaders could address entire nations simultaneously, advertisers could reach millions of consumers, and entertainment became a global industry. The cultural homogenization that accompanied broadcast media remains a subject of scholarly debate.\n\nThe advent of the internet in the 1990s and the subsequent proliferation of smartphones have initiated yet another revolution in human communication. Social media platforms, messaging applications, and video conferencing tools have created a world in which virtually anyone can communicate with virtually anyone else, regardless of geographic location. The implications of this hyper-connectivity for privacy, mental health, democratic processes, and social cohesion continue to unfold in ways that even the most prescient observers could not have fully anticipated.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "technology",
+    "difficulty": 4,
+    "word_count": 380,
+    "estimated_minutes": 6,
+    "vocabulary_hints": [
+      {"word": "democratized", "reading": "/dɪˈmɒk.rə.taɪzd/", "meaning": "didemokratisasi; dibuat dapat diakses semua orang"},
+      {"word": "catalyzing", "reading": "/ˈkæt.əl.aɪ.zɪŋ/", "meaning": "mempercepat; memicu perubahan"},
+      {"word": "proliferation", "reading": "/prəˌlɪf.ərˈeɪ.ʃən/", "meaning": "perkembangbiakan; penyebaran cepat"},
+      {"word": "homogenization", "reading": "/həˌmɒdʒ.ɪ.naɪˈzeɪ.ʃən/", "meaning": "homogenisasi; proses menjadi seragam"},
+      {"word": "prescient", "reading": "/ˈpreʃ.i.ənt/", "meaning": "berpandangan jauh; mampu meramalkan masa depan"}
+    ],
+    "is_premium": true,
+    "order_index": 5,
+    "track": "ielts"
+  },
+  {
+    "id": "reading-ielts-006",
+    "title_jp": "Indigenous Knowledge Systems",
+    "title_id": "Sistem Pengetahuan Masyarakat Adat",
+    "content_jp": "Indigenous knowledge systems represent centuries of accumulated wisdom developed by native peoples through intimate and sustained interaction with their local environments. These systems encompass a vast array of understanding about ecology, medicine, agriculture, navigation, and resource management that has been transmitted orally across generations. In recent decades, scientists and policymakers have begun to recognize the immense value of indigenous knowledge, not merely as cultural heritage but as a practical complement to Western scientific methods.\n\nOne of the most well-documented areas of indigenous expertise is ecological management. Aboriginal Australians, for example, have practiced controlled burning of landscapes for tens of thousands of years, a technique known as fire-stick farming. These carefully managed, low-intensity fires reduce the accumulation of combustible material, promote the growth of certain plant species, and create mosaic patterns of vegetation that support diverse animal populations. Modern ecologists have increasingly endorsed this approach as a means of preventing the catastrophic wildfires that have devastated large areas of Australia in recent years.\n\nIndigenous medical knowledge has also yielded significant contributions to global health. Many pharmaceuticals in use today were originally derived from plants identified by indigenous healers. Quinine, used to treat malaria, was first extracted from the bark of the cinchona tree by Quechua people in South America. Similarly, the rosy periwinkle, traditionally used in Madagascan folk medicine, became the source of vincristine and vinblastine, two drugs that revolutionized the treatment of childhood leukemia. Ethnobotanists estimate that indigenous communities worldwide possess knowledge of approximately 50,000 medicinal plant species, the vast majority of which have not yet been scientifically investigated.\n\nThe integration of indigenous knowledge into contemporary scientific practice raises important ethical considerations. Historically, indigenous peoples have frequently seen their knowledge appropriated without consent, credit, or compensation. The concept of biopiracy describes instances in which corporations or researchers patent products or processes derived from traditional knowledge without sharing benefits with the originating communities. International frameworks such as the Nagoya Protocol on Access and Benefit Sharing seek to address these injustices by establishing guidelines for the equitable use of genetic resources and associated traditional knowledge.\n\nPreserving indigenous knowledge systems is increasingly urgent as globalization, urbanization, and climate change threaten the communities that maintain them. When an indigenous language disappears, it often takes with it irreplaceable ecological and medicinal knowledge encoded in vocabulary and oral traditions that have no written record. Efforts to document and revitalize indigenous languages and cultural practices are therefore not only matters of human rights but also of scientific and environmental importance.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "culture",
+    "difficulty": 4,
+    "word_count": 390,
+    "estimated_minutes": 6,
+    "vocabulary_hints": [
+      {"word": "ethnobotanists", "reading": "/ˌeθ.noʊˈbɒt.ən.ɪsts/", "meaning": "etnobotanis; ilmuwan yang mempelajari hubungan manusia dan tumbuhan"},
+      {"word": "biopiracy", "reading": "/ˌbaɪ.oʊˈpaɪ.rə.si/", "meaning": "biopembajakan; pengambilan sumber daya alam tanpa izin"},
+      {"word": "appropriated", "reading": "/əˈproʊ.pri.eɪ.tɪd/", "meaning": "diambil alih; dirampas"},
+      {"word": "combustible", "reading": "/kəmˈbʌs.tɪ.bəl/", "meaning": "mudah terbakar"},
+      {"word": "pharmaceuticals", "reading": "/ˌfɑːr.məˈsuː.tɪ.kəlz/", "meaning": "obat-obatan; produk farmasi"}
+    ],
+    "is_premium": true,
+    "order_index": 6,
+    "track": "ielts"
+  },
+  {
+    "id": "reading-toefl-001",
+    "title_jp": "Photosynthesis and Plant Adaptation",
+    "title_id": "Fotosintesis dan Adaptasi Tumbuhan",
+    "content_jp": "Photosynthesis is the fundamental biological process by which green plants, algae, and certain bacteria convert light energy into chemical energy stored in glucose molecules. This process, which occurs primarily in the chloroplasts of plant cells, is responsible for producing the oxygen that sustains nearly all aerobic life on Earth and forms the foundation of virtually every food chain in the biosphere.\n\nThe basic chemistry of photosynthesis involves two interconnected stages. In the light-dependent reactions, which take place in the thylakoid membranes of the chloroplasts, chlorophyll molecules absorb photons of light and use this energy to split water molecules into hydrogen and oxygen. The oxygen is released as a byproduct, while the hydrogen ions and electrons generated in this process are used to produce ATP and NADPH, two energy-carrying molecules essential for the next stage. In the light-independent reactions, commonly known as the Calvin cycle, these energy carriers drive the fixation of atmospheric carbon dioxide into organic sugar molecules.\n\nPlants have evolved remarkable adaptations to optimize photosynthesis under varying environmental conditions. Most plants use the standard C3 photosynthetic pathway, in which carbon dioxide is directly fixed by the enzyme RuBisCO. However, in hot and arid environments, C3 plants face a dilemma: opening their stomata to admit carbon dioxide also allows precious water to escape through transpiration. To address this challenge, some plants have evolved the C4 pathway, which concentrates carbon dioxide around RuBisCO, allowing the stomata to remain partially closed while maintaining efficient photosynthesis. Corn, sugarcane, and many tropical grasses employ this adaptation.\n\nAn even more extreme adaptation is found in CAM plants, which include cacti, pineapples, and many succulents. These plants open their stomata only at night, when temperatures are lower and humidity is higher, to absorb carbon dioxide. The captured carbon dioxide is stored as an organic acid and then released internally during the day for use in the Calvin cycle. This strategy minimizes water loss dramatically and enables CAM plants to thrive in some of the driest habitats on Earth.\n\nUnderstanding the mechanisms of photosynthesis has significant practical implications. Agricultural scientists are working to engineer crops with enhanced photosynthetic efficiency, potentially increasing food production to meet the demands of a growing global population. Additionally, artificial photosynthesis research aims to develop technologies that mimic natural processes to generate clean fuel from sunlight and water.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "biology",
+    "difficulty": 2,
+    "word_count": 350,
+    "estimated_minutes": 5,
+    "vocabulary_hints": [
+      {"word": "chloroplasts", "reading": "/ˈklɔːr.əˌplæsts/", "meaning": "kloroplas; organel sel tempat fotosintesis"},
+      {"word": "stomata", "reading": "/ˈstoʊ.mə.tə/", "meaning": "stomata; pori-pori pada daun"},
+      {"word": "transpiration", "reading": "/ˌtræn.spɪˈreɪ.ʃən/", "meaning": "transpirasi; penguapan air dari tumbuhan"},
+      {"word": "aerobic", "reading": "/eˈroʊ.bɪk/", "meaning": "aerobik; membutuhkan oksigen"}
+    ],
+    "is_premium": false,
+    "order_index": 7,
+    "track": "toefl"
+  },
+  {
+    "id": "reading-toefl-002",
+    "title_jp": "The Industrial Revolution's Impact",
+    "title_id": "Dampak Revolusi Industri",
+    "content_jp": "The Industrial Revolution, which began in Britain in the late eighteenth century and spread across Europe and North America during the nineteenth century, represents one of the most consequential transformations in human history. Prior to industrialization, the vast majority of people lived in rural areas and worked in agriculture using methods that had remained largely unchanged for centuries. The introduction of mechanized manufacturing, powered first by water and then by steam, fundamentally altered patterns of work, urbanization, social organization, and economic development.\n\nThe textile industry was among the first sectors to undergo mechanization. Inventions such as the spinning jenny, the water frame, and the power loom dramatically increased the speed and efficiency of cloth production. Factories employing hundreds of workers replaced small workshops and domestic spinning operations, concentrating production in centralized locations near sources of water power or coal. This shift gave rise to a new class of industrial workers who sold their labor for wages rather than producing goods independently.\n\nThe development of the steam engine by James Watt in the 1760s and 1770s provided a versatile and powerful energy source that accelerated industrialization across multiple sectors. Steam power was applied to mining, manufacturing, and transportation, enabling the construction of railways and steamships that revolutionized the movement of goods and people. The railway network, in particular, shrank distances and connected previously isolated communities to national and international markets.\n\nIndustrialization brought enormous material benefits but also exacted a heavy social cost. Factory conditions were often dangerous, with workers enduring long hours, low wages, and exposure to hazardous materials. Child labor was widespread, with children as young as five working in mines and mills. Urban centers grew rapidly as people migrated from rural areas in search of employment, leading to overcrowded housing, inadequate sanitation, and frequent outbreaks of disease. These conditions eventually prompted reform movements that advocated for labor rights, public health measures, and educational opportunities for the working class.\n\nThe environmental consequences of industrialization have proven equally significant. The burning of fossil fuels that powered the Industrial Revolution initiated the rise in atmospheric carbon dioxide concentrations that continues to drive climate change today. The patterns of resource extraction, mass production, and consumption established during this period laid the foundation for the environmental challenges that modern societies now confront.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "history",
+    "difficulty": 2,
+    "word_count": 360,
+    "estimated_minutes": 5,
+    "vocabulary_hints": [
+      {"word": "mechanization", "reading": "/ˌmek.ən.aɪˈzeɪ.ʃən/", "meaning": "mekanisasi; penggunaan mesin menggantikan tenaga manusia"},
+      {"word": "industrialization", "reading": "/ɪnˌdʌs.tri.əl.aɪˈzeɪ.ʃən/", "meaning": "industrialisasi; proses pembangunan industri"},
+      {"word": "sanitation", "reading": "/ˌsæn.ɪˈteɪ.ʃən/", "meaning": "sanitasi; kebersihan lingkungan"},
+      {"word": "versatile", "reading": "/ˈvɜːr.sə.taɪl/", "meaning": "serbaguna; dapat digunakan untuk berbagai tujuan"}
+    ],
+    "is_premium": false,
+    "order_index": 8,
+    "track": "toefl"
+  },
+  {
+    "id": "reading-toefl-003",
+    "title_jp": "Cognitive Development in Children",
+    "title_id": "Perkembangan Kognitif pada Anak",
+    "content_jp": "The study of cognitive development in children has been one of the most active and influential areas of psychological research since the early twentieth century. Cognitive development refers to the progressive acquisition of mental abilities such as thinking, reasoning, memory, language, and problem-solving that occurs from infancy through adolescence. Understanding how these capacities emerge and mature has profound implications for education, parenting, and clinical interventions for developmental disorders.\n\nJean Piaget, the Swiss developmental psychologist, proposed the most widely known theory of cognitive development in the 1920s and 1930s. Piaget argued that children pass through four distinct stages of intellectual growth. During the sensorimotor stage, from birth to approximately age two, infants learn about the world primarily through physical interaction and develop object permanence, the understanding that objects continue to exist even when they cannot be seen. The preoperational stage, lasting from roughly age two to seven, is characterized by the development of language and symbolic thinking, though children at this stage struggle with logical reasoning and tend to view the world from their own perspective, a limitation Piaget termed egocentrism.\n\nThe concrete operational stage, spanning ages seven to eleven, marks the emergence of logical thought applied to concrete objects and events. Children become capable of understanding conservation, recognizing that the quantity of a substance remains the same despite changes in its shape or appearance. Finally, during the formal operational stage beginning around age twelve, adolescents develop the ability to think abstractly, formulate hypotheses, and reason about possibilities rather than merely concrete realities.\n\nWhile Piaget's framework remains influential, subsequent research has challenged several of its assumptions. Lev Vygotsky, a Russian psychologist working contemporaneously with Piaget, emphasized the role of social interaction and cultural context in cognitive development. Vygotsky introduced the concept of the zone of proximal development, which describes the gap between what a child can accomplish independently and what they can achieve with guidance from a more knowledgeable individual. This idea has had a lasting impact on educational practice, informing strategies such as scaffolding, in which teachers provide structured support that is gradually withdrawn as a child's competence increases.\n\nMore recent research in developmental neuroscience has revealed that the brain undergoes significant structural changes throughout childhood and adolescence. Synaptic pruning, the process by which unused neural connections are eliminated while frequently used pathways are strengthened, continues well into the twenties. This finding has important implications for understanding learning, behavior, and the development of mental health conditions during adolescence.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "psychology",
+    "difficulty": 3,
+    "word_count": 380,
+    "estimated_minutes": 6,
+    "vocabulary_hints": [
+      {"word": "egocentrism", "reading": "/ˌiː.ɡoʊˈsen.trɪ.zəm/", "meaning": "egosentrisme; ketidakmampuan melihat dari sudut pandang orang lain"},
+      {"word": "scaffolding", "reading": "/ˈskæf.əl.dɪŋ/", "meaning": "scaffolding; dukungan terstruktur dalam pembelajaran"},
+      {"word": "synaptic pruning", "reading": "/sɪˈnæp.tɪk ˈpruː.nɪŋ/", "meaning": "pemangkasan sinaptik; penghapusan koneksi saraf yang tidak digunakan"},
+      {"word": "conservation", "reading": "/ˌkɒn.sərˈveɪ.ʃən/", "meaning": "konservasi; pemahaman bahwa kuantitas tidak berubah meski bentuk berubah"},
+      {"word": "adolescence", "reading": "/ˌæd.əˈles.əns/", "meaning": "masa remaja"}
+    ],
+    "is_premium": false,
+    "order_index": 9,
+    "track": "toefl"
+  },
+  {
+    "id": "reading-toefl-004",
+    "title_jp": "Plate Tectonics and Continental Drift",
+    "title_id": "Tektonik Lempeng dan Pergeseran Benua",
+    "content_jp": "The theory of plate tectonics, which describes the large-scale movement of Earth's lithosphere, stands as one of the unifying frameworks of modern geology. This theory explains a remarkable range of geological phenomena, including the distribution of earthquakes and volcanoes, the formation of mountain ranges, the opening and closing of ocean basins, and the geographical distribution of fossils and rock formations across continents.\n\nThe concept of continental drift was first proposed by German meteorologist Alfred Wegener in 1912. Wegener observed that the coastlines of South America and Africa appeared to fit together like pieces of a jigsaw puzzle and noted striking similarities in fossil species found on continents now separated by vast oceans. He hypothesized that all of Earth's landmasses had once been joined in a supercontinent he called Pangaea, which began breaking apart approximately 200 million years ago. Despite compelling evidence, Wegener's theory was rejected by most geologists of his time because he could not explain the mechanism by which continents moved through the rigid ocean floor.\n\nThe answer to this question came in the 1960s with the discovery of seafloor spreading. Oceanographic surveys revealed that the ocean floor was not ancient and featureless, as previously assumed, but contained a global system of underwater mountain ranges called mid-ocean ridges. At these ridges, molten rock rises from Earth's mantle to create new oceanic crust, which then moves away from the ridge in both directions like a conveyor belt. This process provided the driving mechanism that Wegener had lacked.\n\nThe modern theory of plate tectonics synthesizes continental drift and seafloor spreading into a comprehensive model. Earth's outer shell is divided into approximately fifteen major tectonic plates that float on the semi-fluid asthenosphere below. These plates interact at three types of boundaries: divergent boundaries, where plates move apart and new crust is formed; convergent boundaries, where plates collide and one may be forced beneath the other in a process called subduction; and transform boundaries, where plates slide horizontally past each other.\n\nThe consequences of plate interactions are visible across the globe. The Himalayan mountain range was formed by the ongoing collision between the Indian and Eurasian plates. The Pacific Ring of Fire, a zone of intense seismic and volcanic activity encircling the Pacific Ocean, marks the boundaries of several converging plates. Understanding plate tectonics has practical importance for assessing earthquake and volcanic hazards, locating mineral and energy resources, and interpreting the geological history of our planet.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "geology",
+    "difficulty": 3,
+    "word_count": 380,
+    "estimated_minutes": 6,
+    "vocabulary_hints": [
+      {"word": "lithosphere", "reading": "/ˈlɪθ.əˌsfɪr/", "meaning": "litosfer; lapisan terluar Bumi yang keras"},
+      {"word": "subduction", "reading": "/səbˈdʌk.ʃən/", "meaning": "subduksi; penunjaman lempeng ke bawah lempeng lain"},
+      {"word": "asthenosphere", "reading": "/æsˈθen.əˌsfɪr/", "meaning": "astenosfer; lapisan semi-cair di bawah litosfer"},
+      {"word": "Pangaea", "reading": "/pænˈdʒiː.ə/", "meaning": "Pangaea; benua raksasa purba"},
+      {"word": "divergent", "reading": "/daɪˈvɜːr.dʒənt/", "meaning": "divergen; bergerak menjauh satu sama lain"}
+    ],
+    "is_premium": true,
+    "order_index": 10,
+    "track": "toefl"
+  },
+  {
+    "id": "reading-toefl-005",
+    "title_jp": "The Impressionist Movement in Art",
+    "title_id": "Gerakan Impresionisme dalam Seni",
+    "content_jp": "The Impressionist movement, which emerged in France during the 1860s and 1870s, represented a radical departure from the conventions that had dominated European painting for centuries. Characterized by visible brushstrokes, an emphasis on the accurate depiction of natural light, and a preference for everyday subject matter, Impressionism challenged the rigid standards of the French Academy and ultimately transformed the trajectory of Western art.\n\nThe origins of Impressionism can be traced to a group of young artists who were dissatisfied with the academic tradition that prized historical and mythological subjects rendered in smooth, polished techniques. Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Edgar Degas, and Berthe Morisot, among others, sought to capture the fleeting qualities of visual perception rather than creating idealized representations of their subjects. They painted outdoors, a practice known as plein air painting, using rapid brushstrokes to record the changing effects of sunlight on landscapes, water, and urban scenes.\n\nThe movement received its name, somewhat derisively, from a critic reviewing the first independent exhibition organized by these artists in 1874. Monet's painting \"Impression, Sunrise,\" depicting the port of Le Havre in hazy morning light, prompted the critic Louis Leroy to mockingly label the entire group as \"Impressionists.\" The artists, however, embraced the term, and it has since become one of the most recognized designations in art history.\n\nTechnically, the Impressionists pioneered several innovations that would influence subsequent generations of artists. They abandoned the practice of mixing colors on a palette, instead placing complementary colors side by side on the canvas so that they would blend optically when viewed from a distance. This technique produced more vibrant and luminous effects than traditional methods of color mixing. The Impressionists also rejected the use of black for shadows, instead employing combinations of blues, purples, and greens to represent areas of darkness, reflecting their observation that shadows in natural light contain subtle colors.\n\nThe Impressionists' emphasis on personal perception and momentary visual experience opened the door to the diverse array of modern art movements that followed. Post-Impressionism, Fauvism, and Expressionism all built upon the foundation that the Impressionists had established, moving progressively further from representational accuracy toward subjective interpretation. The Impressionist legacy extends beyond aesthetics, however, as these artists also challenged the institutional structures of the art world by organizing independent exhibitions and selling work directly to collectors, bypassing the traditional gallery and salon system that had controlled artistic careers for generations.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "art",
+    "difficulty": 4,
+    "word_count": 380,
+    "estimated_minutes": 6,
+    "vocabulary_hints": [
+      {"word": "plein air", "reading": "/ˌpleɪn ˈɛr/", "meaning": "plein air; melukis di luar ruangan"},
+      {"word": "derisively", "reading": "/dɪˈraɪ.sɪv.li/", "meaning": "dengan ejekan; secara mengolok-olok"},
+      {"word": "luminous", "reading": "/ˈluː.mɪ.nəs/", "meaning": "bercahaya; terang benderang"},
+      {"word": "complementary colors", "reading": "/ˌkɒm.plɪˈmen.tər.i ˈkʌl.ərz/", "meaning": "warna komplementer; warna yang berlawanan di roda warna"},
+      {"word": "aesthetics", "reading": "/esˈθet.ɪks/", "meaning": "estetika; ilmu keindahan"}
+    ],
+    "is_premium": true,
+    "order_index": 11,
+    "track": "toefl"
+  },
+  {
+    "id": "reading-toefl-006",
+    "title_jp": "Behavioral Economics",
+    "title_id": "Ekonomi Perilaku",
+    "content_jp": "Behavioral economics is a field of study that combines insights from psychology and economics to understand how people actually make financial and economic decisions, as opposed to how traditional economic models assume they should. Classical economics rests on the assumption that individuals are rational agents who consistently make choices that maximize their utility or satisfaction. Behavioral economists, by contrast, have demonstrated through extensive experimental research that human decision-making is systematically influenced by cognitive limitations, emotional responses, and social factors that deviate from the predictions of rational choice theory.\n\nOne of the foundational concepts in behavioral economics is bounded rationality, a term coined by Herbert Simon in the 1950s. Simon argued that while people intend to make rational decisions, their ability to do so is constrained by limited information, limited cognitive processing capacity, and limited time. Rather than optimizing every decision by evaluating all possible alternatives, people typically satisfice, choosing an option that meets a minimum threshold of acceptability rather than the theoretically best option.\n\nProspect theory, developed by Daniel Kahneman and Amos Tversky in 1979, provided a more detailed account of how people evaluate outcomes involving risk and uncertainty. The theory demonstrates that people evaluate potential gains and losses relative to a reference point rather than in terms of absolute outcomes, and that losses loom larger than equivalent gains. This asymmetric valuation explains numerous observed behaviors, such as why investors hold losing stocks too long while selling winning stocks too quickly, and why consumers are more responsive to price increases than to equivalent price decreases.\n\nThe concept of mental accounting, introduced by Richard Thaler, reveals another way in which people deviate from rational economic behavior. Mental accounting refers to the tendency to categorize and treat money differently depending on its source, intended use, or the account in which it is held. For example, people often treat a tax refund as a windfall to be spent on luxuries, even though it represents money they earned and overpaid to the government throughout the year. Similarly, people may simultaneously maintain a savings account earning low interest while carrying credit card debt at much higher rates, a pattern that makes no sense from a purely rational financial perspective.\n\nBehavioral economics has had a substantial impact on public policy. Governments in numerous countries have established behavioral insights teams that apply findings from the field to improve policy outcomes. Automatic enrollment in pension plans, simplified application processes for government benefits, and strategically designed default options are all examples of behaviorally informed interventions that have demonstrably improved outcomes without restricting individual choice, an approach that Thaler and Cass Sunstein have termed libertarian paternalism.",
+    "content_reading": null,
+    "jlpt_level": null,
+    "category": "economics",
+    "difficulty": 4,
+    "word_count": 400,
+    "estimated_minutes": 6,
+    "vocabulary_hints": [
+      {"word": "bounded rationality", "reading": "/ˌbaʊn.dɪd ˌræʃ.ənˈæl.ɪ.ti/", "meaning": "rasionalitas terbatas; keterbatasan dalam membuat keputusan rasional"},
+      {"word": "satisfice", "reading": "/ˈsæt.ɪs.faɪs/", "meaning": "satisfis; memilih yang cukup baik daripada yang terbaik"},
+      {"word": "prospect theory", "reading": "/ˈprɒs.pekt ˈθɪə.ri/", "meaning": "teori prospek; teori tentang pengambilan keputusan berisiko"},
+      {"word": "mental accounting", "reading": "/ˈmen.təl əˈkaʊn.tɪŋ/", "meaning": "akuntansi mental; kecenderungan mengkategorikan uang secara berbeda"},
+      {"word": "libertarian paternalism", "reading": "/ˌlɪb.ərˈtɛr.i.ən pəˈtɜːr.nəl.ɪ.zəm/", "meaning": "paternalisme libertarian; membimbing pilihan tanpa membatasi kebebasan"}
+    ],
+    "is_premium": true,
+    "order_index": 12,
+    "track": "toefl"
+  }
+]

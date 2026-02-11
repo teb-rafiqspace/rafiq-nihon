@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
@@ -15,6 +16,8 @@ import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
 
 export default function Chat() {
+  const [searchParams] = useSearchParams();
+  const isEnglish = searchParams.get('lang') === 'english';
   const [input, setInput] = useState('');
   const [showPremiumModal, setShowPremiumModal] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
@@ -101,7 +104,7 @@ export default function Chat() {
                 ))}
               </div>
             ) : messages.length === 0 ? (
-              <WelcomeMessage />
+              <WelcomeMessage isEnglish={isEnglish} />
             ) : (
               <AnimatePresence>
                 {messages.map((message) => (

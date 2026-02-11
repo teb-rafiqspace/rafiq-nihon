@@ -42,37 +42,35 @@ export default function Home() {
   const { data: trackProgress } = useQuery({
     queryKey: ['track-progress', user?.id],
     queryFn: async () => {
-      if (!user?.id) return { kemnaker: 0, jlpt: 0 };
-      
+      if (!user?.id) return { kemnaker: 0, jlpt: 0, ielts: 0, toefl: 0 };
+
       // Get all chapters with their lesson counts
       const { data: chapters } = await supabase
         .from('chapters')
         .select('id, track, lesson_count');
-      
+
       // Get user's completed lessons
       const { data: progress } = await supabase
         .from('user_progress')
         .select('lesson_id, completed, chapter_id')
         .eq('user_id', user.id)
         .eq('completed', true);
-      
-      if (!chapters) return { kemnaker: 0, jlpt: 0 };
-      
-      const kemnakerChapters = chapters.filter(c => c.track === 'kemnaker');
-      const jlptChapters = chapters.filter(c => c.track === 'jlpt_n5');
-      
-      const kemnakerTotal = kemnakerChapters.reduce((sum, c) => sum + (c.lesson_count || 0), 0);
-      const jlptTotal = jlptChapters.reduce((sum, c) => sum + (c.lesson_count || 0), 0);
-      
-      const kemnakerChapterIds = new Set(kemnakerChapters.map(c => c.id));
-      const jlptChapterIds = new Set(jlptChapters.map(c => c.id));
-      
-      const kemnakerCompleted = progress?.filter(p => p.chapter_id && kemnakerChapterIds.has(p.chapter_id)).length || 0;
-      const jlptCompleted = progress?.filter(p => p.chapter_id && jlptChapterIds.has(p.chapter_id)).length || 0;
-      
+
+      if (!chapters) return { kemnaker: 0, jlpt: 0, ielts: 0, toefl: 0 };
+
+      const getTrackProgress = (trackName: string) => {
+        const trackChapters = chapters.filter(c => c.track === trackName);
+        const total = trackChapters.reduce((sum, c) => sum + (c.lesson_count || 0), 0);
+        const chapterIds = new Set(trackChapters.map(c => c.id));
+        const completed = progress?.filter(p => p.chapter_id && chapterIds.has(p.chapter_id)).length || 0;
+        return total > 0 ? Math.round((completed / total) * 100) : 0;
+      };
+
       return {
-        kemnaker: kemnakerTotal > 0 ? Math.round((kemnakerCompleted / kemnakerTotal) * 100) : 0,
-        jlpt: jlptTotal > 0 ? Math.round((jlptCompleted / jlptTotal) * 100) : 0
+        kemnaker: getTrackProgress('kemnaker'),
+        jlpt: getTrackProgress('jlpt_n5'),
+        ielts: getTrackProgress('ielts'),
+        toefl: getTrackProgress('toefl')
       };
     },
     enabled: !!user?.id
@@ -195,7 +193,7 @@ export default function Home() {
             </button>
             
             {/* JLPT N5 Track */}
-            <button 
+            <button
               onClick={() => navigate('/learn?track=jlpt_n5')}
               className="w-full flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
             >
@@ -205,12 +203,54 @@ export default function Home() {
               <div className="flex-1 text-left">
                 <p className="font-medium">JLPT N5</p>
                 <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
-                  <div 
-                    className="h-full bg-gradient-secondary rounded-full transition-all duration-500" 
+                  <div
+                    className="h-full bg-gradient-secondary rounded-full transition-all duration-500"
                     style={{ width: `${trackProgress?.jlpt || 0}%` }}
                   />
                 </div>
                 <p className="text-xs text-muted-foreground mt-1">{trackProgress?.jlpt || 0}% selesai</p>
+              </div>
+              <ChevronRight className="h-5 w-5 text-muted-foreground" />
+            </button>
+
+            {/* IELTS Track */}
+            <button
+              onClick={() => navigate('/learn?lang=english&track=ielts')}
+              className="w-full flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
+            >
+              <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center text-xl">
+                🎓
+              </div>
+              <div className="flex-1 text-left">
+                <p className="font-medium">IELTS</p>
+                <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
+                  <div
+                    className="h-full bg-gradient-to-r from-blue-500 to-indigo-600 rounded-full transition-all duration-500"
+                    style={{ width: `${trackProgress?.ielts || 0}%` }}
+                  />
+                </div>
+                <p className="text-xs text-muted-foreground mt-1">{trackProgress?.ielts || 0}% selesai</p>
+              </div>
+              <ChevronRight className="h-5 w-5 text-muted-foreground" />
+            </button>
+
+            {/* TOEFL Track */}
+            <button
+              onClick={() => navigate('/learn?lang=english&track=toefl')}
+              className="w-full flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
+            >
+              <div className="w-12 h-12 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-xl flex items-center justify-center text-xl">
+                📝
+              </div>
+              <div className="flex-1 text-left">
+                <p className="font-medium">TOEFL</p>
+                <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
+                  <div
+                    className="h-full bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full transition-all duration-500"
+                    style={{ width: `${trackProgress?.toefl || 0}%` }}
+                  />
+                </div>
+                <p className="text-xs text-muted-foreground mt-1">{trackProgress?.toefl || 0}% selesai</p>
               </div>
               <ChevronRight className="h-5 w-5 text-muted-foreground" />
             </button>

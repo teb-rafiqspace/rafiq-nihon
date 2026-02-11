@@ -1,0 +1,362 @@
+[
+  {
+    "id": "rq-ielts-001-01",
+    "passage_id": "reading-ielts-001",
+    "question_text": "According to the passage, the cost of photovoltaic panels has declined by approximately what percentage since 2010?",
+    "question_type": "multiple_choice",
+    "options": ["A) 70 percent", "B) 80 percent", "C) 90 percent", "D) 95 percent"],
+    "correct_answer": "C) 90 percent",
+    "explanation": "The passage states 'The cost of photovoltaic panels has declined by approximately 90 percent since 2010.'",
+    "order_index": 1
+  },
+  {
+    "id": "rq-ielts-001-02",
+    "passage_id": "reading-ielts-001",
+    "question_text": "Denmark generates more than 50 percent of its electricity from solar power.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that Denmark generates more than 50 percent of its electricity from wind power, not solar power.",
+    "order_index": 2
+  },
+  {
+    "id": "rq-ielts-001-03",
+    "passage_id": "reading-ielts-001",
+    "question_text": "What does the International Energy Agency project about renewables by 2050?",
+    "question_type": "multiple_choice",
+    "options": ["A) They will account for 50 percent of global electricity", "B) They will completely replace fossil fuels", "C) They will account for nearly 90 percent of global electricity generation", "D) They will be the cheapest energy source in all countries"],
+    "correct_answer": "C) They will account for nearly 90 percent of global electricity generation",
+    "explanation": "The passage states 'The International Energy Agency projects that renewables will account for nearly 90 percent of global electricity generation by 2050.'",
+    "order_index": 3
+  },
+  {
+    "id": "rq-ielts-002-01",
+    "passage_id": "reading-ielts-002",
+    "question_text": "What is mixed-use development?",
+    "question_type": "multiple_choice",
+    "options": ["A) Separating residential and commercial zones", "B) Building neighborhoods where people can live, work, and shop within walking distance", "C) Developing only commercial areas in city centers", "D) Creating industrial zones outside cities"],
+    "correct_answer": "B) Building neighborhoods where people can live, work, and shop within walking distance",
+    "explanation": "The passage describes mixed-use development as neighborhoods 'where people can live, work, and shop within walking distance' rather than separating different zones.",
+    "order_index": 4
+  },
+  {
+    "id": "rq-ielts-002-02",
+    "passage_id": "reading-ielts-002",
+    "question_text": "Singapore's public transit system has eliminated the need for personal car ownership entirely.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage says Singapore's approach 'can make personal car ownership largely unnecessary,' not that it has been eliminated entirely.",
+    "order_index": 5
+  },
+  {
+    "id": "rq-ielts-002-03",
+    "passage_id": "reading-ielts-002",
+    "question_text": "According to the passage, what is a persistent challenge associated with urban renewal projects?",
+    "question_type": "multiple_choice",
+    "options": ["A) Lack of public interest", "B) Gentrification displacing long-term residents", "C) Shortage of construction workers", "D) Insufficient government funding"],
+    "correct_answer": "B) Gentrification displacing long-term residents",
+    "explanation": "The passage states that 'Gentrification often accompanies urban renewal projects, displacing long-term residents who can no longer afford rising housing costs.'",
+    "order_index": 6
+  },
+  {
+    "id": "rq-ielts-003-01",
+    "passage_id": "reading-ielts-003",
+    "question_text": "The availability heuristic causes people to overestimate the likelihood of events that are easily recalled.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "A) True",
+    "explanation": "The passage explicitly states that 'The availability heuristic causes people to overestimate the likelihood of events that are easily recalled, such as plane crashes or shark attacks.'",
+    "order_index": 7
+  },
+  {
+    "id": "rq-ielts-003-02",
+    "passage_id": "reading-ielts-003",
+    "question_text": "What is 'loss aversion' as described in the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) The tendency to avoid making any decisions", "B) The preference for certain gains over uncertain gains", "C) The tendency to feel losses more intensely than equivalent gains", "D) The fear of investing in financial markets"],
+    "correct_answer": "C) The tendency to feel losses more intensely than equivalent gains",
+    "explanation": "The passage defines loss aversion as 'the tendency for people to feel the pain of losing something more intensely than the pleasure of gaining something of equivalent value.'",
+    "order_index": 8
+  },
+  {
+    "id": "rq-ielts-003-03",
+    "passage_id": "reading-ielts-003",
+    "question_text": "Kahneman and Tversky's research on cognitive biases began in the 1980s.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that Kahneman and Tversky 'pioneered the study of cognitive biases in the 1970s,' not the 1980s.",
+    "order_index": 9
+  },
+  {
+    "id": "rq-ielts-004-01",
+    "passage_id": "reading-ielts-004",
+    "question_text": "According to the passage, what percentage of global fish stocks are currently overexploited?",
+    "question_type": "multiple_choice",
+    "options": ["A) One-quarter", "B) One-third", "C) One-half", "D) Two-thirds"],
+    "correct_answer": "B) One-third",
+    "explanation": "The passage states that 'approximately one-third of global fish stocks are currently overexploited.'",
+    "order_index": 10
+  },
+  {
+    "id": "rq-ielts-004-02",
+    "passage_id": "reading-ielts-004",
+    "question_text": "Coral reefs cover approximately 25 percent of the ocean floor.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that coral reefs 'support roughly 25 percent of all marine species despite covering less than one percent of the ocean floor.' They cover less than 1%, not 25%.",
+    "order_index": 11
+  },
+  {
+    "id": "rq-ielts-004-03",
+    "passage_id": "reading-ielts-004",
+    "question_text": "How much plastic waste enters the oceans annually according to the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) One million metric tons", "B) Five million metric tons", "C) Eight million metric tons", "D) Twelve million metric tons"],
+    "correct_answer": "C) Eight million metric tons",
+    "explanation": "The passage states that 'An estimated eight million metric tons of plastic waste enters the oceans annually.'",
+    "order_index": 12
+  },
+  {
+    "id": "rq-ielts-005-01",
+    "passage_id": "reading-ielts-005",
+    "question_text": "What was the most transformative moment in communication history before the digital age, according to the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) The invention of the telegraph", "B) The invention of the telephone", "C) The invention of the printing press", "D) The development of radio"],
+    "correct_answer": "C) The invention of the printing press",
+    "explanation": "The passage states that 'The invention of the printing press by Johannes Gutenberg around 1440 marked perhaps the most transformative moment in communication history prior to the digital age.'",
+    "order_index": 13
+  },
+  {
+    "id": "rq-ielts-005-02",
+    "passage_id": "reading-ielts-005",
+    "question_text": "The telephone was patented by Alexander Graham Bell in 1876.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "A) True",
+    "explanation": "The passage explicitly states that 'The telephone, patented by Alexander Graham Bell in 1876, added the dimension of voice to long-distance communication.'",
+    "order_index": 14
+  },
+  {
+    "id": "rq-ielts-005-03",
+    "passage_id": "reading-ielts-005",
+    "question_text": "According to the passage, within how many years of the printing press's invention had an estimated twenty million volumes been printed?",
+    "question_type": "multiple_choice",
+    "options": ["A) Twenty years", "B) Thirty years", "C) Fifty years", "D) One hundred years"],
+    "correct_answer": "C) Fifty years",
+    "explanation": "The passage states 'Within fifty years of its invention, an estimated twenty million volumes had been printed.'",
+    "order_index": 15
+  },
+  {
+    "id": "rq-ielts-006-01",
+    "passage_id": "reading-ielts-006",
+    "question_text": "What is 'fire-stick farming' as described in the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) Growing crops using traditional stick-based tools", "B) A controlled burning technique practiced by Aboriginal Australians", "C) A modern method of preventing wildfires using chemicals", "D) An ancient agricultural practice from South America"],
+    "correct_answer": "B) A controlled burning technique practiced by Aboriginal Australians",
+    "explanation": "The passage describes fire-stick farming as a technique where 'Aboriginal Australians have practiced controlled burning of landscapes for tens of thousands of years.'",
+    "order_index": 16
+  },
+  {
+    "id": "rq-ielts-006-02",
+    "passage_id": "reading-ielts-006",
+    "question_text": "Quinine was first extracted from plants by European scientists.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that quinine 'was first extracted from the bark of the cinchona tree by Quechua people in South America,' not by European scientists.",
+    "order_index": 17
+  },
+  {
+    "id": "rq-ielts-006-03",
+    "passage_id": "reading-ielts-006",
+    "question_text": "What does the term 'biopiracy' describe according to the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) The illegal trade of endangered species", "B) Corporations patenting products from traditional knowledge without sharing benefits", "C) The theft of biological research data", "D) Unauthorized collection of plant samples from protected areas"],
+    "correct_answer": "B) Corporations patenting products from traditional knowledge without sharing benefits",
+    "explanation": "The passage defines biopiracy as 'instances in which corporations or researchers patent products or processes derived from traditional knowledge without sharing benefits with the originating communities.'",
+    "order_index": 18
+  },
+  {
+    "id": "rq-toefl-001-01",
+    "passage_id": "reading-toefl-001",
+    "question_text": "What is the primary function of the light-dependent reactions in photosynthesis?",
+    "question_type": "multiple_choice",
+    "options": ["A) To fix carbon dioxide into sugar molecules", "B) To absorb light energy and produce ATP and NADPH", "C) To release carbon dioxide into the atmosphere", "D) To store glucose in the roots of plants"],
+    "correct_answer": "B) To absorb light energy and produce ATP and NADPH",
+    "explanation": "The passage explains that in light-dependent reactions, 'chlorophyll molecules absorb photons of light' and the energy is used to produce 'ATP and NADPH, two energy-carrying molecules.'",
+    "order_index": 19
+  },
+  {
+    "id": "rq-toefl-001-02",
+    "passage_id": "reading-toefl-001",
+    "question_text": "How do CAM plants minimize water loss?",
+    "question_type": "multiple_choice",
+    "options": ["A) They have no stomata", "B) They photosynthesize only at night", "C) They open their stomata only at night to absorb CO2", "D) They store water in their roots"],
+    "correct_answer": "C) They open their stomata only at night to absorb CO2",
+    "explanation": "The passage states that CAM plants 'open their stomata only at night, when temperatures are lower and humidity is higher, to absorb carbon dioxide.'",
+    "order_index": 20
+  },
+  {
+    "id": "rq-toefl-001-03",
+    "passage_id": "reading-toefl-001",
+    "question_text": "C4 plants are more common in cold, wet environments than in hot, arid ones.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that 'in hot and arid environments' some plants evolved the C4 pathway. C4 plants are adapted for hot conditions, not cold, wet ones.",
+    "order_index": 21
+  },
+  {
+    "id": "rq-toefl-002-01",
+    "passage_id": "reading-toefl-002",
+    "question_text": "Which industry was among the first to undergo mechanization during the Industrial Revolution?",
+    "question_type": "multiple_choice",
+    "options": ["A) Mining", "B) Agriculture", "C) Textile", "D) Transportation"],
+    "correct_answer": "C) Textile",
+    "explanation": "The passage states that 'The textile industry was among the first sectors to undergo mechanization.'",
+    "order_index": 22
+  },
+  {
+    "id": "rq-toefl-002-02",
+    "passage_id": "reading-toefl-002",
+    "question_text": "James Watt invented the first steam engine.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "C) Not Given",
+    "explanation": "The passage says 'the development of the steam engine by James Watt in the 1760s and 1770s,' referring to his development and improvement of it, but does not state he invented the first one.",
+    "order_index": 23
+  },
+  {
+    "id": "rq-toefl-002-03",
+    "passage_id": "reading-toefl-002",
+    "question_text": "According to the passage, what was a social consequence of rapid urban growth during industrialization?",
+    "question_type": "multiple_choice",
+    "options": ["A) Increased rural population", "B) Overcrowded housing and inadequate sanitation", "C) Decline in factory employment", "D) Reduction in child labor"],
+    "correct_answer": "B) Overcrowded housing and inadequate sanitation",
+    "explanation": "The passage states that rapid urban growth led to 'overcrowded housing, inadequate sanitation, and frequent outbreaks of disease.'",
+    "order_index": 24
+  },
+  {
+    "id": "rq-toefl-003-01",
+    "passage_id": "reading-toefl-003",
+    "question_text": "During which of Piaget's stages do children develop object permanence?",
+    "question_type": "multiple_choice",
+    "options": ["A) Preoperational stage", "B) Concrete operational stage", "C) Sensorimotor stage", "D) Formal operational stage"],
+    "correct_answer": "C) Sensorimotor stage",
+    "explanation": "The passage states that 'During the sensorimotor stage, from birth to approximately age two, infants learn about the world primarily through physical interaction and develop object permanence.'",
+    "order_index": 25
+  },
+  {
+    "id": "rq-toefl-003-02",
+    "passage_id": "reading-toefl-003",
+    "question_text": "Vygotsky agreed with all of Piaget's assumptions about cognitive development.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that 'subsequent research has challenged several of its assumptions' and describes how Vygotsky 'emphasized the role of social interaction and cultural context,' a different emphasis from Piaget.",
+    "order_index": 26
+  },
+  {
+    "id": "rq-toefl-003-03",
+    "passage_id": "reading-toefl-003",
+    "question_text": "What is the 'zone of proximal development'?",
+    "question_type": "multiple_choice",
+    "options": ["A) The age at which children begin formal education", "B) The gap between what a child can do alone and what they can achieve with guidance", "C) The brain region responsible for cognitive growth", "D) The period between concrete and formal operational stages"],
+    "correct_answer": "B) The gap between what a child can do alone and what they can achieve with guidance",
+    "explanation": "The passage defines it as 'the gap between what a child can accomplish independently and what they can achieve with guidance from a more knowledgeable individual.'",
+    "order_index": 27
+  },
+  {
+    "id": "rq-toefl-004-01",
+    "passage_id": "reading-toefl-004",
+    "question_text": "Why was Wegener's continental drift theory initially rejected by most geologists?",
+    "question_type": "multiple_choice",
+    "options": ["A) There was no fossil evidence to support it", "B) He could not explain how continents moved through the ocean floor", "C) The coastlines of continents did not appear to match", "D) He proposed that continents moved too quickly"],
+    "correct_answer": "B) He could not explain how continents moved through the ocean floor",
+    "explanation": "The passage states his theory 'was rejected by most geologists of his time because he could not explain the mechanism by which continents moved through the rigid ocean floor.'",
+    "order_index": 28
+  },
+  {
+    "id": "rq-toefl-004-02",
+    "passage_id": "reading-toefl-004",
+    "question_text": "Pangaea began breaking apart approximately 200 million years ago.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "A) True",
+    "explanation": "The passage explicitly states that Pangaea 'began breaking apart approximately 200 million years ago.'",
+    "order_index": 29
+  },
+  {
+    "id": "rq-toefl-004-03",
+    "passage_id": "reading-toefl-004",
+    "question_text": "What happens at convergent plate boundaries?",
+    "question_type": "multiple_choice",
+    "options": ["A) Plates move apart and new crust is formed", "B) Plates slide horizontally past each other", "C) Plates collide and one may be forced beneath the other", "D) Plates remain stationary relative to each other"],
+    "correct_answer": "C) Plates collide and one may be forced beneath the other",
+    "explanation": "The passage describes convergent boundaries as places 'where plates collide and one may be forced beneath the other in a process called subduction.'",
+    "order_index": 30
+  },
+  {
+    "id": "rq-toefl-005-01",
+    "passage_id": "reading-toefl-005",
+    "question_text": "How did the Impressionist movement get its name?",
+    "question_type": "multiple_choice",
+    "options": ["A) The artists chose it to describe their style", "B) It was named after a famous art gallery", "C) A critic mockingly used the term based on Monet's painting", "D) The French Academy officially designated the movement"],
+    "correct_answer": "C) A critic mockingly used the term based on Monet's painting",
+    "explanation": "The passage explains that the critic Louis Leroy mockingly labeled the group 'Impressionists' after reviewing Monet's painting 'Impression, Sunrise.'",
+    "order_index": 31
+  },
+  {
+    "id": "rq-toefl-005-02",
+    "passage_id": "reading-toefl-005",
+    "question_text": "The Impressionists used black paint extensively for shadows in their works.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that 'The Impressionists also rejected the use of black for shadows, instead employing combinations of blues, purples, and greens.'",
+    "order_index": 32
+  },
+  {
+    "id": "rq-toefl-005-03",
+    "passage_id": "reading-toefl-005",
+    "question_text": "Which of the following is mentioned as an innovation pioneered by the Impressionists?",
+    "question_type": "multiple_choice",
+    "options": ["A) Painting exclusively in studios", "B) Placing complementary colors side by side on the canvas", "C) Using only primary colors", "D) Painting on metal surfaces instead of canvas"],
+    "correct_answer": "B) Placing complementary colors side by side on the canvas",
+    "explanation": "The passage states the Impressionists 'abandoned the practice of mixing colors on a palette, instead placing complementary colors side by side on the canvas so that they would blend optically.'",
+    "order_index": 33
+  },
+  {
+    "id": "rq-toefl-006-01",
+    "passage_id": "reading-toefl-006",
+    "question_text": "What does 'bounded rationality' mean according to the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) People are completely irrational in their decisions", "B) People's rational decision-making is constrained by limited information, cognition, and time", "C) People always make the best possible decisions", "D) Rationality only applies to financial decisions"],
+    "correct_answer": "B) People's rational decision-making is constrained by limited information, cognition, and time",
+    "explanation": "The passage defines bounded rationality as the idea that 'people intend to make rational decisions' but 'their ability to do so is constrained by limited information, limited cognitive processing capacity, and limited time.'",
+    "order_index": 34
+  },
+  {
+    "id": "rq-toefl-006-02",
+    "passage_id": "reading-toefl-006",
+    "question_text": "Prospect theory was developed by Herbert Simon in the 1950s.",
+    "question_type": "true_false_ng",
+    "options": ["A) True", "B) False", "C) Not Given"],
+    "correct_answer": "B) False",
+    "explanation": "The passage states that prospect theory was 'developed by Daniel Kahneman and Amos Tversky in 1979,' not by Herbert Simon. Simon coined the term 'bounded rationality.'",
+    "order_index": 35
+  },
+  {
+    "id": "rq-toefl-006-03",
+    "passage_id": "reading-toefl-006",
+    "question_text": "What is 'mental accounting' as described in the passage?",
+    "question_type": "multiple_choice",
+    "options": ["A) A professional accounting method used by banks", "B) The tendency to categorize and treat money differently based on its source or intended use", "C) A technique for improving personal budgeting", "D) The process of calculating taxes mentally"],
+    "correct_answer": "B) The tendency to categorize and treat money differently based on its source or intended use",
+    "explanation": "The passage defines mental accounting as 'the tendency to categorize and treat money differently depending on its source, intended use, or the account in which it is held.'",
+    "order_index": 36
+  }
+]

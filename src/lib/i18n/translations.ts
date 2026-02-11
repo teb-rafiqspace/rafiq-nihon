@@ -211,6 +211,16 @@ export interface TranslationKeys {
   trackJlptN5: string;
   trackJlptN4: string;
   trackJlptN3: string;
+  trackJlptN2: string;
+  trackIelts: string;
+  trackToefl: string;
+
+  // Writing practice
+  writingPractice: string;
+  writingPrompts: string;
+  modelAnswer: string;
+  submitEssay: string;
+  wordCount: string;
   
   // Accessibility
   accessibility: string;
@@ -436,7 +446,17 @@ export const translations: Record<Language, TranslationKeys> = {
     trackJlptN5: 'JLPT N5',
     trackJlptN4: 'JLPT N4',
     trackJlptN3: 'JLPT N3',
-    
+    trackJlptN2: 'JLPT N2',
+    trackIelts: 'IELTS',
+    trackToefl: 'TOEFL',
+
+    // Writing practice
+    writingPractice: 'Latihan Menulis',
+    writingPrompts: 'Daftar Prompt',
+    modelAnswer: 'Contoh Jawaban',
+    submitEssay: 'Kirim Esai',
+    wordCount: 'Jumlah Kata',
+
     // Accessibility
     accessibility: 'Aksesibilitas',
     highContrast: 'Kontras Tinggi',
@@ -660,7 +680,17 @@ export const translations: Record<Language, TranslationKeys> = {
     trackJlptN5: 'JLPT N5',
     trackJlptN4: 'JLPT N4',
     trackJlptN3: 'JLPT N3',
-    
+    trackJlptN2: 'JLPT N2',
+    trackIelts: 'IELTS',
+    trackToefl: 'TOEFL',
+
+    // Writing practice
+    writingPractice: 'Writing Practice',
+    writingPrompts: 'Prompts',
+    modelAnswer: 'Model Answer',
+    submitEssay: 'Submit Essay',
+    wordCount: 'Word Count',
+
     // Accessibility
     accessibility: 'Accessibility',
     highContrast: 'High Contrast',
@@ -884,7 +914,17 @@ export const translations: Record<Language, TranslationKeys> = {
     trackJlptN5: 'JLPT N5',
     trackJlptN4: 'JLPT N4',
     trackJlptN3: 'JLPT N3',
-    
+    trackJlptN2: 'JLPT N2',
+    trackIelts: 'IELTS',
+    trackToefl: 'TOEFL',
+
+    // Writing practice
+    writingPractice: 'ライティング練習',
+    writingPrompts: 'プロンプト一覧',
+    modelAnswer: '模範解答',
+    submitEssay: 'エッセイ提出',
+    wordCount: '語数',
+
     // Accessibility
     accessibility: 'アクセシビリティ',
     highContrast: 'ハイコントラスト',

@@ -2,8 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/button';
 import { 
-  Target, Clock, FileText, Star, AlertTriangle, 
-  CheckCircle, BookOpen, Languages, MessageSquare, FileSearch
+  Target, Clock, FileText, Star, AlertTriangle,
+  CheckCircle, BookOpen, Languages, MessageSquare, FileSearch, Headphones
 } from 'lucide-react';
 
 interface TestSection {
@@ -215,6 +215,14 @@ export function TestStartScreen({
     </div>
   );
 }
+
+// Sections for JLPT N2
+export const JLPT_N2_SECTIONS: TestSection[] = [
+  { id: 'vocabulary', name: 'Kosakata', nameJp: '語彙', questions: 15, icon: <BookOpen className="h-4 w-4" /> },
+  { id: 'grammar', name: 'Tata Bahasa', nameJp: '文法', questions: 15, icon: <MessageSquare className="h-4 w-4" /> },
+  { id: 'reading', name: 'Pemahaman Bacaan', nameJp: '読解', questions: 10, icon: <FileSearch className="h-4 w-4" /> },
+  { id: 'listening', name: 'Pemahaman Mendengar', nameJp: '聴解', questions: 10, icon: <Headphones className="h-4 w-4" /> },
+];
 
 // Default sections for JLPT N5
 export const JLPT_N5_SECTIONS: TestSection[] = [

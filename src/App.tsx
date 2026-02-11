@@ -35,6 +35,8 @@ import Install from "./pages/Install";
 import Analytics from "./pages/Analytics";
 import Leaderboard from "./pages/Leaderboard";
 import Friends from "./pages/Friends";
+import EnglishLessonView from "./pages/EnglishLessonView";
+import WritingPractice from "./pages/WritingPractice";
 import NotFound from "./pages/NotFound";
 
 // Admin pages
@@ -66,6 +68,8 @@ const App = () => (
               <Route path="/chapter/:chapterId" element={<ChapterDetail />} />
               <Route path="/lesson/:lessonId" element={<LessonView />} />
               <Route path="/jlpt-lesson/:lessonId" element={<JLPTLessonView />} />
+              <Route path="/english-lesson/:lessonId" element={<EnglishLessonView />} />
+              <Route path="/writing" element={<WritingPractice />} />
               <Route path="/time-lesson" element={<TimeScheduleLesson />} />
               <Route path="/location-lesson" element={<LocationLesson />} />
               <Route path="/kana" element={<KanaLearn />} />

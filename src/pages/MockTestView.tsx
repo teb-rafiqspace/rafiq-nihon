@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { ArrowLeft, Grid3X3, ChevronLeft, ChevronRight, Languages, BookOpen, MessageSquare, FileSearch } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useMockTest } from '@/hooks/useMockTest';
-import { TestStartScreen, JLPT_N5_SECTIONS } from '@/components/mocktest/TestStartScreen';
+import { TestStartScreen, JLPT_N5_SECTIONS, JLPT_N2_SECTIONS } from '@/components/mocktest/TestStartScreen';
 import { EnhancedTimer } from '@/components/mocktest/EnhancedTimer';
 import { EnhancedTestQuestion } from '@/components/mocktest/EnhancedTestQuestion';
 import { EnhancedTestResults } from '@/components/mocktest/EnhancedTestResults';
@@ -12,6 +12,16 @@ import { SectionNavGrid } from '@/components/mocktest/SectionNavGrid';
 import { EnhancedSubmitDialog } from '@/components/mocktest/EnhancedSubmitDialog';
 import { ExitConfirmDialog } from '@/components/mocktest/ExitConfirmDialog';
 import { cn } from '@/lib/utils';
+
+const IELTS_SECTIONS = [
+  { id: 'listening', name: 'Listening', nameJp: '', questions: 40, icon: <BookOpen className="h-4 w-4" /> },
+  { id: 'reading', name: 'Reading', nameJp: '', questions: 40, icon: <FileSearch className="h-4 w-4" /> },
+];
+
+const TOEFL_SECTIONS = [
+  { id: 'reading', name: 'Reading', nameJp: '', questions: 30, icon: <FileSearch className="h-4 w-4" /> },
+  { id: 'listening', name: 'Listening', nameJp: '', questions: 28, icon: <BookOpen className="h-4 w-4" /> },
+];
 
 const TEST_CONFIGS = {
   kakunin: {
@@ -37,13 +47,43 @@ const TEST_CONFIGS = {
     description: 'Tes latihan lengkap untuk persiapan JLPT N5',
     xpReward: 100,
     sections: JLPT_N5_SECTIONS
+  },
+  jlpt_n2: {
+    testType: 'jlpt_n2' as const,
+    timeLimit: 105 * 60, // 105 minutes
+    passingScore: 60,
+    name: 'JLPT N2 Mock Test',
+    nameJp: '模擬試験 N2',
+    description: 'Tes latihan lengkap untuk persiapan JLPT N2',
+    xpReward: 200,
+    sections: JLPT_N2_SECTIONS
+  },
+  ielts_mock: {
+    testType: 'ielts_mock' as const,
+    timeLimit: 170 * 60, // 170 minutes
+    passingScore: 0,
+    name: 'IELTS Practice Test',
+    nameJp: '',
+    description: 'Simulasi IELTS Academic (Listening & Reading)',
+    xpReward: 200,
+    sections: IELTS_SECTIONS
+  },
+  toefl_mock: {
+    testType: 'toefl_mock' as const,
+    timeLimit: 120 * 60, // 120 minutes
+    passingScore: 0,
+    name: 'TOEFL iBT Practice Test',
+    nameJp: '',
+    description: 'Simulasi TOEFL iBT (Reading & Listening)',
+    xpReward: 200,
+    sections: TOEFL_SECTIONS
   }
 };
 
 export default function MockTestView() {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
-  const testType = (searchParams.get('type') as 'kakunin' | 'jlpt_n5') || 'kakunin';
+  const testType = (searchParams.get('type') as keyof typeof TEST_CONFIGS) || 'kakunin';
   
   const config = TEST_CONFIGS[testType];
   

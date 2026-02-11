@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
-import { Layers, Target, FileText, Trophy, TrendingUp } from 'lucide-react';
+import { Layers, Target, FileText, Trophy, TrendingUp, PenTool } from 'lucide-react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
 import { MockTestCard } from '@/components/mocktest/MockTestCard';
@@ -16,11 +16,13 @@ import { FlashcardSection } from '@/components/flashcard/FlashcardSection';
 import { QuizPracticeSection } from '@/components/quiz/QuizPracticeSection';
 import { ProgressOverview } from '@/components/progress/ProgressOverview';
 
-type PracticeTab = 'flashcard' | 'quiz' | 'test' | 'progress';
+type PracticeTab = 'flashcard' | 'quiz' | 'test' | 'writing' | 'progress';
 
 const mockTests = [
   { id: 'kakunin', name: 'IM Japan Kakunin', duration: 30, questions: 30, icon: '🏭', description: 'Simulasi tes bahasa Kemnaker', isPremium: false },
   { id: 'jlpt_n5', name: 'JLPT N5 Mock Test', duration: 60, questions: 55, icon: '📜', description: 'Latihan format JLPT N5', isPremium: false },
+  { id: 'ielts_mock', name: 'IELTS Practice Test', duration: 170, questions: 80, icon: '🎓', description: 'Simulasi IELTS Academic', isPremium: false },
+  { id: 'toefl_mock', name: 'TOEFL iBT Practice Test', duration: 120, questions: 58, icon: '📝', description: 'Simulasi TOEFL iBT', isPremium: false },
 ];
 
 export default function Practice() {
@@ -100,6 +102,9 @@ export default function Practice() {
             <Button variant="tab" data-active={activeTab === 'test'} className="flex-1" onClick={() => setActiveTab('test')}>
               <FileText className="h-4 w-4 mr-1" />Tes
             </Button>
+            <Button variant="tab" data-active={activeTab === 'writing'} className="flex-1" onClick={() => setActiveTab('writing')}>
+              <PenTool className="h-4 w-4 mr-1" />Writing
+            </Button>
             <Button variant="tab" data-active={activeTab === 'progress'} className="flex-1" onClick={() => setActiveTab('progress')}>
               <TrendingUp className="h-4 w-4 mr-1" />Progres
             </Button>
@@ -111,6 +116,20 @@ export default function Practice() {
           
           {activeTab === 'quiz' && <QuizPracticeSection />}
           
+          {activeTab === 'writing' && (
+            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-4">
+              <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl p-4">
+                <p className="text-sm text-blue-700 dark:text-blue-300">
+                  Latihan menulis esai untuk persiapan IELTS dan TOEFL. Tulis esai sesuai prompt yang diberikan.
+                </p>
+              </div>
+              <Button className="w-full gap-2" onClick={() => navigate('/writing')}>
+                <PenTool className="h-5 w-5" />
+                Mulai Writing Practice
+              </Button>
+            </motion.div>
+          )}
+
           {activeTab === 'progress' && <ProgressOverview />}
           
           {activeTab === 'test' && (

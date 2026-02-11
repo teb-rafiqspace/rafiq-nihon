@@ -229,12 +229,15 @@ export function useProgressTracking() {
 
   // Group by track
   const trackProgress = useMemo((): TrackProgress[] => {
-    const tracks = ['jlpt_n5', 'jlpt_n4', 'jlpt_n3', 'kemnaker'];
+    const tracks = ['jlpt_n5', 'jlpt_n4', 'jlpt_n3', 'jlpt_n2', 'kemnaker', 'ielts', 'toefl'];
     const trackLabels: Record<string, string> = {
       'jlpt_n5': 'JLPT N5',
       'jlpt_n4': 'JLPT N4',
       'jlpt_n3': 'JLPT N3',
-      'kemnaker': 'IM Japan/Kemnaker'
+      'jlpt_n2': 'JLPT N2',
+      'kemnaker': 'IM Japan/Kemnaker',
+      'ielts': 'IELTS',
+      'toefl': 'TOEFL'
     };
 
     return tracks.map(track => {

@@ -116,7 +116,7 @@ export default function ChapterDetail() {
               variant="ghost"
               size="icon"
               className="text-primary-foreground hover:bg-primary-foreground/10 mb-4"
-              onClick={() => navigate('/learn')}
+              onClick={() => navigate(`/learn?lang=${chapter?.language || 'japanese'}&track=${chapter?.track || 'kemnaker'}`)}
             >
               <ArrowLeft className="h-5 w-5" />
             </Button>
@@ -182,14 +182,18 @@ export default function ChapterDetail() {
                   onClick={() => {
                     if (isLocked) return;
                     // Route to special lesson views based on chapter
-                    if (chapter?.chapter_number === 3 && chapter?.track === 'jlpt_n5') {
+                    const isEnglish = chapter?.track === 'ielts' || chapter?.track === 'toefl';
+                    const isJLPT = chapter?.track?.startsWith('jlpt_');
+                    if (isEnglish) {
+                      navigate(`/english-lesson/${lesson.id}`);
+                    } else if (chapter?.chapter_number === 3 && chapter?.track === 'jlpt_n5') {
                       navigate('/location-lesson');
                     } else if (chapter?.chapter_number === 2 && chapter?.track === 'jlpt_n5') {
                       navigate('/time-lesson');
+                    } else if (isJLPT) {
+                      navigate(`/jlpt-lesson/${lesson.id}`);
                     } else {
-                      const isJLPT = chapter?.track === 'jlpt_n5';
-                      const route = isJLPT ? `/jlpt-lesson/${lesson.id}` : `/lesson/${lesson.id}`;
-                      navigate(route);
+                      navigate(`/lesson/${lesson.id}`);
                     }
                   }}
                   disabled={isLocked}

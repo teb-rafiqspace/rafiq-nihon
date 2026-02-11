@@ -11,6 +11,8 @@ const goals = [
   { id: 'kemnaker', label: 'Kemnaker / IM Japan', description: 'Persiapan magang Jepang', icon: '🏭' },
   { id: 'jlpt', label: 'JLPT N5', description: 'Sertifikasi bahasa Jepang', icon: '📜' },
   { id: 'general', label: 'Umum', description: 'Belajar untuk hobi/wisata', icon: '✈️' },
+  { id: 'ielts', label: 'IELTS', description: 'Persiapan tes IELTS Academic', icon: '🎓' },
+  { id: 'toefl', label: 'TOEFL iBT', description: 'Persiapan tes TOEFL iBT', icon: '📝' },
 ];
 
 const levels = [
@@ -53,7 +55,7 @@ export default function Onboarding() {
   
   const handleComplete = async () => {
     await updateProfile.mutateAsync({
-      learning_goal: goal as 'kemnaker' | 'jlpt' | 'general',
+      learning_goal: goal as 'kemnaker' | 'jlpt' | 'general' | 'ielts' | 'toefl',
       skill_level: level as 'beginner' | 'some_knowledge' | 'intermediate',
       daily_goal_minutes: dailyMinutes,
       onboarding_completed: true,

@@ -52,7 +52,7 @@ export interface TestSection {
 }
 
 interface MockTestConfig {
-  testType: 'kakunin' | 'jlpt_n5';
+  testType: 'kakunin' | 'jlpt_n5' | 'jlpt_n2' | 'ielts_mock' | 'toefl_mock';
   timeLimit: number; // in seconds
   passingScore: number; // percentage
 }
@@ -99,6 +99,8 @@ export function useMockTest(config: MockTestConfig) {
       'kosakata': { name: 'Kosakata', nameJp: 'ごい' },
       'grammar': { name: 'Tata Bahasa', nameJp: 'ぶんぽう' },
       'membaca': { name: 'Pemahaman Bacaan', nameJp: 'どっかい' },
+      'listening': { name: 'Listening', nameJp: '' },
+      'reading': { name: 'Reading', nameJp: '' },
     };
     
     return Object.entries(sectionMap).map(([id, data]) => ({
@@ -391,7 +393,8 @@ export function useMockTest(config: MockTestConfig) {
         
         // Award XP based on score (only if passed)
         if (result.passed) {
-          const xpEarned = config.testType === 'jlpt_n5' ? 100 : 50;
+          const xpMap: Record<string, number> = { jlpt_n5: 100, jlpt_n2: 200, ielts_mock: 200, toefl_mock: 200 };
+          const xpEarned = xpMap[config.testType] || 50;
           
           const { data: profile } = await supabase
             .from('profiles')

@@ -1,7 +1,11 @@
 import { motion } from 'framer-motion';
 import { Bot } from 'lucide-react';
 
-export function WelcomeMessage() {
+interface WelcomeMessageProps {
+  isEnglish?: boolean;
+}
+
+export function WelcomeMessage({ isEnglish = false }: WelcomeMessageProps) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -16,24 +20,26 @@ export function WelcomeMessage() {
       >
         <Bot className="h-10 w-10 text-white" />
       </motion.div>
-      
+
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.3 }}
         className="text-xl font-bold mb-2"
       >
-        Konnichiwa! 👋
+        {isEnglish ? 'Hello! 👋' : 'Konnichiwa! 👋'}
       </motion.h2>
-      
+
       <motion.p
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.4 }}
         className="text-muted-foreground text-sm max-w-xs mx-auto"
       >
-        Saya Rafiq Sensei, asisten AI kamu untuk belajar bahasa Jepang. 
-        Tanyakan apa saja tentang bahasa Jepang!
+        {isEnglish
+          ? 'Saya Rafiq, asisten AI kamu untuk belajar bahasa Inggris. Tanyakan apa saja tentang IELTS atau TOEFL!'
+          : 'Saya Rafiq Sensei, asisten AI kamu untuk belajar bahasa Jepang. Tanyakan apa saja tentang bahasa Jepang!'
+        }
       </motion.p>
     </motion.div>
   );

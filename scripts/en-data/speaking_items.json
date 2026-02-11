@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "si-ielts-001-01",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "I usually spend my free time reading books or playing sports.",
+    "reading_hiragana": "/aɪ ˈjuːʒuəli spɛnd maɪ friː taɪm ˈriːdɪŋ bʊks ɔːr ˈpleɪɪŋ spɔːrts/",
+    "meaning_id": "Saya biasanya menghabiskan waktu luang saya dengan membaca buku atau berolahraga.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-ielts-001-02",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "I come from a small city in the southern part of my country.",
+    "reading_hiragana": "/aɪ kʌm frɒm ə smɔːl ˈsɪti ɪn ðə ˈsʌðərn pɑːrt ɒv maɪ ˈkʌntri/",
+    "meaning_id": "Saya berasal dari kota kecil di bagian selatan negara saya.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-ielts-001-03",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "My favorite subject at school was history because I love learning about the past.",
+    "reading_hiragana": "/maɪ ˈfeɪvərɪt ˈsʌbdʒɪkt æt skuːl wɒz ˈhɪstəri bɪˈkɒz aɪ lʌv ˈlɜːrnɪŋ əˈbaʊt ðə pɑːst/",
+    "meaning_id": "Mata pelajaran favorit saya di sekolah adalah sejarah karena saya suka belajar tentang masa lalu.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-ielts-001-04",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "In my country, public transportation is quite efficient and affordable.",
+    "reading_hiragana": "/ɪn maɪ ˈkʌntri ˈpʌblɪk trænspɔːˈteɪʃən ɪz kwaɪt ɪˈfɪʃənt ænd əˈfɔːrdəbl/",
+    "meaning_id": "Di negara saya, transportasi umum cukup efisien dan terjangkau.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-ielts-001-05",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "I prefer cooking at home rather than eating out at restaurants.",
+    "reading_hiragana": "/aɪ prɪˈfɜːr ˈkʊkɪŋ æt hoʊm ˈræðər ðæn ˈiːtɪŋ aʊt æt ˈrɛstərɒnts/",
+    "meaning_id": "Saya lebih suka memasak di rumah daripada makan di restoran.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-ielts-001-06",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "I have been working as a software developer for about three years now.",
+    "reading_hiragana": "/aɪ hæv bɪn ˈwɜːrkɪŋ æz ə ˈsɒftweər dɪˈvɛləpər fɔːr əˈbaʊt θriː jɪərz naʊ/",
+    "meaning_id": "Saya sudah bekerja sebagai pengembang perangkat lunak selama sekitar tiga tahun.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-ielts-001-07",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "The weather in my hometown is generally warm and humid throughout the year.",
+    "reading_hiragana": "/ðə ˈwɛðər ɪn maɪ ˈhoʊmtaʊn ɪz ˈdʒɛnərəli wɔːrm ænd ˈhjuːmɪd θruːˈaʊt ðə jɪər/",
+    "meaning_id": "Cuaca di kampung halaman saya umumnya hangat dan lembap sepanjang tahun.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-ielts-001-08",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "I enjoy traveling to new places because it broadens my perspective on life.",
+    "reading_hiragana": "/aɪ ɪnˈdʒɔɪ ˈtrævəlɪŋ tuː njuː ˈpleɪsɪz bɪˈkɒz ɪt ˈbrɔːdənz maɪ pərˈspɛktɪv ɒn laɪf/",
+    "meaning_id": "Saya senang bepergian ke tempat baru karena itu memperluas pandangan saya tentang kehidupan.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-ielts-001-09",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "My family usually gets together on weekends for a big dinner at my parents' house.",
+    "reading_hiragana": "/maɪ ˈfæməli ˈjuːʒuəli ɡɛts təˈɡɛðər ɒn ˈwiːkɛndz fɔːr ə bɪɡ ˈdɪnər æt maɪ ˈpɛərənts haʊs/",
+    "meaning_id": "Keluarga saya biasanya berkumpul di akhir pekan untuk makan malam besar di rumah orang tua saya.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-ielts-001-10",
+    "lesson_id": "sp-ielts-001",
+    "japanese_text": "I think learning a foreign language is one of the most valuable skills you can have.",
+    "reading_hiragana": "/aɪ θɪŋk ˈlɜːrnɪŋ ə ˈfɒrən ˈlæŋɡwɪdʒ ɪz wʌn ɒv ðə moʊst ˈvæljuəbl skɪlz juː kæn hæv/",
+    "meaning_id": "Saya pikir belajar bahasa asing adalah salah satu keterampilan paling berharga yang bisa dimiliki.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-ielts-002-01",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "This is a beautiful old building with tall white columns at the entrance.",
+    "reading_hiragana": "/ðɪs ɪz ə ˈbjuːtɪfəl oʊld ˈbɪldɪŋ wɪð tɔːl waɪt ˈkɒləmz æt ðə ˈɛntrəns/",
+    "meaning_id": "Ini adalah bangunan tua yang indah dengan kolom-kolom putih tinggi di pintu masuk.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-ielts-002-02",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The park is located in the center of the city and is surrounded by tall trees.",
+    "reading_hiragana": "/ðə pɑːrk ɪz loʊˈkeɪtɪd ɪn ðə ˈsɛntər ɒv ðə ˈsɪti ænd ɪz səˈraʊndɪd baɪ tɔːl triːz/",
+    "meaning_id": "Taman ini terletak di pusat kota dan dikelilingi oleh pohon-pohon tinggi.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-ielts-002-03",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "It has a rectangular shape and is made of dark brown leather with a silver clasp.",
+    "reading_hiragana": "/ɪt hæz ə rɛkˈtæŋɡjʊlər ʃeɪp ænd ɪz meɪd ɒv dɑːrk braʊn ˈlɛðər wɪð ə ˈsɪlvər klæsp/",
+    "meaning_id": "Benda ini berbentuk persegi panjang dan terbuat dari kulit cokelat tua dengan gesper perak.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-ielts-002-04",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The market is always crowded and noisy, with vendors selling fresh fruits and vegetables.",
+    "reading_hiragana": "/ðə ˈmɑːrkɪt ɪz ˈɔːlweɪz ˈkraʊdɪd ænd ˈnɔɪzi wɪð ˈvɛndərz ˈsɛlɪŋ frɛʃ fruːts ænd ˈvɛdʒtəblz/",
+    "meaning_id": "Pasar selalu ramai dan berisik, dengan pedagang yang menjual buah dan sayuran segar.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-ielts-002-05",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The room has large windows that let in plenty of natural light during the day.",
+    "reading_hiragana": "/ðə ruːm hæz lɑːrdʒ ˈwɪndoʊz ðæt lɛt ɪn ˈplɛnti ɒv ˈnætʃərəl laɪt ˈdjʊərɪŋ ðə deɪ/",
+    "meaning_id": "Ruangan ini memiliki jendela besar yang membiarkan banyak cahaya alami masuk di siang hari.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-ielts-002-06",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The beach stretches for several kilometers and the sand is soft and golden.",
+    "reading_hiragana": "/ðə biːtʃ strɛtʃɪz fɔːr ˈsɛvərəl kɪˈlɒmɪtərz ænd ðə sænd ɪz sɒft ænd ˈɡoʊldən/",
+    "meaning_id": "Pantai ini membentang beberapa kilometer dan pasirnya lembut dan keemasan.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-ielts-002-07",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "My apartment is on the fifth floor and has a small balcony overlooking the river.",
+    "reading_hiragana": "/maɪ əˈpɑːrtmənt ɪz ɒn ðə fɪfθ flɔːr ænd hæz ə smɔːl ˈbælkəni ˌoʊvərˈlʊkɪŋ ðə ˈrɪvər/",
+    "meaning_id": "Apartemen saya di lantai lima dan memiliki balkon kecil yang menghadap sungai.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-ielts-002-08",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The museum features an impressive collection of ancient pottery and sculptures.",
+    "reading_hiragana": "/ðə mjuˈziːəm ˈfiːtʃərz ən ɪmˈprɛsɪv kəˈlɛkʃən ɒv ˈeɪnʃənt ˈpɒtəri ænd ˈskʌlptʃərz/",
+    "meaning_id": "Museum ini menampilkan koleksi tembikar dan patung kuno yang mengesankan.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-ielts-002-09",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The device is lightweight and portable, making it convenient for daily use.",
+    "reading_hiragana": "/ðə dɪˈvaɪs ɪz ˈlaɪtweɪt ænd ˈpɔːrtəbl ˈmeɪkɪŋ ɪt kənˈviːniənt fɔːr ˈdeɪli juːs/",
+    "meaning_id": "Perangkat ini ringan dan portabel, sehingga nyaman untuk penggunaan sehari-hari.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-ielts-002-10",
+    "lesson_id": "sp-ielts-002",
+    "japanese_text": "The neighborhood is peaceful and well-maintained with tree-lined streets and cozy cafes.",
+    "reading_hiragana": "/ðə ˈneɪbərhʊd ɪz ˈpiːsfəl ænd wɛl meɪnˈteɪnd wɪð triː laɪnd striːts ænd ˈkoʊzi kæˈfeɪz/",
+    "meaning_id": "Lingkungan ini damai dan terawat dengan baik, memiliki jalan-jalan yang dipenuhi pohon dan kafe yang nyaman.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-ielts-003-01",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "In my opinion, technology has significantly improved the quality of education worldwide.",
+    "reading_hiragana": "/ɪn maɪ əˈpɪnjən tɛkˈnɒlədʒi hæz sɪɡˈnɪfɪkəntli ɪmˈpruːvd ðə ˈkwɒlɪti ɒv ɛdʒuˈkeɪʃən ˌwɜːrldˈwaɪd/",
+    "meaning_id": "Menurut saya, teknologi telah secara signifikan meningkatkan kualitas pendidikan di seluruh dunia.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-ielts-003-02",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "I strongly believe that regular exercise is essential for maintaining good health.",
+    "reading_hiragana": "/aɪ ˈstrɒŋli bɪˈliːv ðæt ˈrɛɡjʊlər ˈɛksərsaɪz ɪz ɪˈsɛnʃəl fɔːr meɪnˈteɪnɪŋ ɡʊd hɛlθ/",
+    "meaning_id": "Saya sangat percaya bahwa olahraga teratur sangat penting untuk menjaga kesehatan yang baik.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-ielts-003-03",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "While some people disagree, I tend to think that working from home increases productivity.",
+    "reading_hiragana": "/waɪl sʌm ˈpiːpl dɪsəˈɡriː aɪ tɛnd tuː θɪŋk ðæt ˈwɜːrkɪŋ frɒm hoʊm ɪnˈkriːsɪz prɒdʌkˈtɪvɪti/",
+    "meaning_id": "Meskipun beberapa orang tidak setuju, saya cenderung berpikir bahwa bekerja dari rumah meningkatkan produktivitas.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-ielts-003-04",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "From my perspective, the advantages of studying abroad far outweigh the disadvantages.",
+    "reading_hiragana": "/frɒm maɪ pərˈspɛktɪv ðə ædˈvɑːntɪdʒɪz ɒv ˈstʌdiɪŋ əˈbrɔːd fɑːr ˌaʊtˈweɪ ðə dɪsædˈvɑːntɪdʒɪz/",
+    "meaning_id": "Dari sudut pandang saya, keuntungan belajar di luar negeri jauh lebih besar daripada kerugiannya.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-ielts-003-05",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "It is often argued that social media has a negative impact on young people's mental health.",
+    "reading_hiragana": "/ɪt ɪz ˈɒfən ˈɑːrɡjuːd ðæt ˈsoʊʃəl ˈmiːdiə hæz ə ˈnɛɡətɪv ˈɪmpækt ɒn jʌŋ ˈpiːplz ˈmɛntəl hɛlθ/",
+    "meaning_id": "Sering dikatakan bahwa media sosial memiliki dampak negatif pada kesehatan mental orang muda.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-ielts-003-06",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "On the one hand, globalization creates job opportunities, but on the other hand, it can harm local businesses.",
+    "reading_hiragana": "/ɒn ðə wʌn hænd ˌɡloʊbəlaɪˈzeɪʃən kriˈeɪts dʒɒb ˌɒpərˈtjuːnɪtiz bʌt ɒn ðə ˈʌðər hænd ɪt kæn hɑːrm ˈloʊkəl ˈbɪznɪsɪz/",
+    "meaning_id": "Di satu sisi, globalisasi menciptakan peluang kerja, tetapi di sisi lain, ini bisa merugikan bisnis lokal.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-ielts-003-07",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "I would argue that governments should invest more in renewable energy sources.",
+    "reading_hiragana": "/aɪ wʊd ˈɑːrɡjuː ðæt ˈɡʌvərnmənts ʃʊd ɪnˈvɛst mɔːr ɪn rɪˈnjuːəbl ˈɛnərdʒi ˈsɔːrsɪz/",
+    "meaning_id": "Saya berpendapat bahwa pemerintah harus berinvestasi lebih banyak dalam sumber energi terbarukan.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-ielts-003-08",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "There is no doubt in my mind that education is the key to reducing poverty and inequality.",
+    "reading_hiragana": "/ðɛr ɪz noʊ daʊt ɪn maɪ maɪnd ðæt ɛdʒuˈkeɪʃən ɪz ðə kiː tuː rɪˈdjuːsɪŋ ˈpɒvərti ænd ˌɪnɪˈkwɒlɪti/",
+    "meaning_id": "Tidak ada keraguan dalam pikiran saya bahwa pendidikan adalah kunci untuk mengurangi kemiskinan dan ketidaksetaraan.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-ielts-003-09",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "Although I understand the opposing view, I still maintain that public healthcare should be free for everyone.",
+    "reading_hiragana": "/ɔːlˈðoʊ aɪ ˌʌndərˈstænd ðə əˈpoʊzɪŋ vjuː aɪ stɪl meɪnˈteɪn ðæt ˈpʌblɪk ˈhɛlθkɛr ʃʊd biː friː fɔːr ˈɛvriˌwʌn/",
+    "meaning_id": "Meskipun saya memahami pandangan yang berlawanan, saya tetap berpendapat bahwa layanan kesehatan publik harus gratis untuk semua orang.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-ielts-003-10",
+    "lesson_id": "sp-ielts-003",
+    "japanese_text": "To sum up, I feel that the benefits of international travel clearly justify the cost involved.",
+    "reading_hiragana": "/tuː sʌm ʌp aɪ fiːl ðæt ðə ˈbɛnɪfɪts ɒv ˌɪntərˈnæʃənəl ˈtrævəl ˈklɪərli ˈdʒʌstɪfaɪ ðə kɒst ɪnˈvɒlvd/",
+    "meaning_id": "Singkatnya, saya merasa bahwa manfaat perjalanan internasional jelas membenarkan biaya yang terlibat.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-ielts-004-01",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "I would like to talk about a memorable trip I took to Bali last summer.",
+    "reading_hiragana": "/aɪ wʊd laɪk tuː tɔːk əˈbaʊt ə ˈmɛmərəbl trɪp aɪ tʊk tuː ˈbɑːli lɑːst ˈsʌmər/",
+    "meaning_id": "Saya ingin berbicara tentang perjalanan berkesan yang saya lakukan ke Bali musim panas lalu.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-ielts-004-02",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "The person who has influenced me the most is my grandmother, who taught me the value of hard work.",
+    "reading_hiragana": "/ðə ˈpɜːrsən huː hæz ˈɪnfluənst miː ðə moʊst ɪz maɪ ˈɡrænˌmʌðər huː tɔːt miː ðə ˈvæljuː ɒv hɑːrd wɜːrk/",
+    "meaning_id": "Orang yang paling mempengaruhi saya adalah nenek saya, yang mengajarkan saya nilai kerja keras.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-ielts-004-03",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "This event happened about two years ago when I was still studying at university.",
+    "reading_hiragana": "/ðɪs ɪˈvɛnt ˈhæpənd əˈbaʊt tuː jɪərz əˈɡoʊ wɛn aɪ wɒz stɪl ˈstʌdiɪŋ æt ˌjuːnɪˈvɜːrsɪti/",
+    "meaning_id": "Peristiwa ini terjadi sekitar dua tahun yang lalu ketika saya masih belajar di universitas.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-ielts-004-04",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "What made it special was the fact that I had never experienced anything like it before.",
+    "reading_hiragana": "/wɒt meɪd ɪt ˈspɛʃəl wɒz ðə fækt ðæt aɪ hæd ˈnɛvər ɪkˈspɪəriənst ˈɛniθɪŋ laɪk ɪt bɪˈfɔːr/",
+    "meaning_id": "Yang membuatnya istimewa adalah kenyataan bahwa saya belum pernah mengalami sesuatu seperti itu sebelumnya.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-ielts-004-05",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "I remember feeling incredibly proud because I had worked so hard to achieve that goal.",
+    "reading_hiragana": "/aɪ rɪˈmɛmbər ˈfiːlɪŋ ɪnˈkrɛdɪbli praʊd bɪˈkɒz aɪ hæd wɜːrkt soʊ hɑːrd tuː əˈtʃiːv ðæt ɡoʊl/",
+    "meaning_id": "Saya ingat merasa sangat bangga karena saya telah bekerja sangat keras untuk mencapai tujuan itu.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-ielts-004-06",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "The book that changed my life is called Sapiens, and it is written by Yuval Noah Harari.",
+    "reading_hiragana": "/ðə bʊk ðæt tʃeɪndʒd maɪ laɪf ɪz kɔːld ˈseɪpiənz ænd ɪt ɪz ˈrɪtən baɪ juˈvɑːl noʊˈɑː həˈrɑːri/",
+    "meaning_id": "Buku yang mengubah hidup saya berjudul Sapiens, dan ditulis oleh Yuval Noah Harari.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-ielts-004-07",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "I was accompanied by my two closest friends, and together we explored the entire area on foot.",
+    "reading_hiragana": "/aɪ wɒz əˈkʌmpənid baɪ maɪ tuː ˈkloʊsɪst frɛndz ænd təˈɡɛðər wiː ɪkˈsplɔːrd ðə ɪnˈtaɪər ˈɛriə ɒn fʊt/",
+    "meaning_id": "Saya ditemani oleh dua teman terdekat saya, dan bersama-sama kami menjelajahi seluruh area dengan berjalan kaki.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-ielts-004-08",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "Looking back, I realize that this experience taught me the importance of stepping outside my comfort zone.",
+    "reading_hiragana": "/ˈlʊkɪŋ bæk aɪ ˈriːəlaɪz ðæt ðɪs ɪkˈspɪəriəns tɔːt miː ðə ɪmˈpɔːrtəns ɒv ˈstɛpɪŋ aʊtˈsaɪd maɪ ˈkʌmfərt zoʊn/",
+    "meaning_id": "Melihat kembali, saya menyadari bahwa pengalaman ini mengajarkan saya pentingnya keluar dari zona nyaman.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-ielts-004-09",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "The reason I chose this particular topic is that it had a lasting impact on my personal growth.",
+    "reading_hiragana": "/ðə ˈriːzən aɪ tʃoʊz ðɪs pərˈtɪkjʊlər ˈtɒpɪk ɪz ðæt ɪt hæd ə ˈlɑːstɪŋ ˈɪmpækt ɒn maɪ ˈpɜːrsənəl ɡroʊθ/",
+    "meaning_id": "Alasan saya memilih topik khusus ini adalah karena hal itu memiliki dampak yang langgeng pada pertumbuhan pribadi saya.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-ielts-004-10",
+    "lesson_id": "sp-ielts-004",
+    "japanese_text": "Overall, it was an unforgettable experience that I would highly recommend to anyone who has the opportunity.",
+    "reading_hiragana": "/ˌoʊvərˈɔːl ɪt wɒz ən ˌʌnfərˈɡɛtəbl ɪkˈspɪəriəns ðæt aɪ wʊd ˈhaɪli rɛkəˈmɛnd tuː ˈɛniˌwʌn huː hæz ðə ˌɒpərˈtuːnɪti/",
+    "meaning_id": "Secara keseluruhan, itu adalah pengalaman yang tak terlupakan yang sangat saya rekomendasikan kepada siapa saja yang memiliki kesempatan.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-ielts-005-01",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "The role of technology in modern education is a topic that generates considerable debate among scholars.",
+    "reading_hiragana": "/ðə roʊl ɒv tɛkˈnɒlədʒi ɪn ˈmɒdərn ɛdʒuˈkeɪʃən ɪz ə ˈtɒpɪk ðæt ˈdʒɛnəreɪts kənˈsɪdərəbl dɪˈbeɪt əˈmʌŋ ˈskɒlərz/",
+    "meaning_id": "Peran teknologi dalam pendidikan modern adalah topik yang menimbulkan perdebatan yang cukup besar di kalangan akademisi.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-ielts-005-02",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "There are several underlying factors that contribute to the widening gap between rich and poor nations.",
+    "reading_hiragana": "/ðɛr ɑːr ˈsɛvərəl ˌʌndərˈlaɪɪŋ ˈfæktərz ðæt kənˈtrɪbjuːt tuː ðə ˈwaɪdənɪŋ ɡæp bɪˈtwiːn rɪtʃ ænd pʊər ˈneɪʃənz/",
+    "meaning_id": "Ada beberapa faktor mendasar yang berkontribusi pada kesenjangan yang semakin melebar antara negara kaya dan miskin.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-ielts-005-03",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "It could be argued that urbanization has both positive and negative consequences for society as a whole.",
+    "reading_hiragana": "/ɪt kʊd biː ˈɑːrɡjuːd ðæt ˌɜːrbənaɪˈzeɪʃən hæz boʊθ ˈpɒzɪtɪv ænd ˈnɛɡətɪv ˈkɒnsɪkwənsɪz fɔːr səˈsaɪəti æz ə hoʊl/",
+    "meaning_id": "Dapat dikatakan bahwa urbanisasi memiliki konsekuensi positif dan negatif bagi masyarakat secara keseluruhan.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-ielts-005-04",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "From a philosophical standpoint, the question of whether money can buy happiness remains unresolved.",
+    "reading_hiragana": "/frɒm ə ˌfɪləˈsɒfɪkəl ˈstændpɔɪnt ðə ˈkwɛstʃən ɒv ˈwɛðər ˈmʌni kæn baɪ ˈhæpɪnəs rɪˈmeɪnz ˌʌnrɪˈzɒlvd/",
+    "meaning_id": "Dari sudut pandang filosofis, pertanyaan apakah uang bisa membeli kebahagiaan tetap belum terjawab.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-ielts-005-05",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "One could make a compelling case that artificial intelligence will fundamentally transform the labor market within the next decade.",
+    "reading_hiragana": "/wʌn kʊd meɪk ə kəmˈpɛlɪŋ keɪs ðæt ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns wɪl ˌfʌndəˈmɛntəli trænsˈfɔːrm ðə ˈleɪbər ˈmɑːrkɪt wɪˈðɪn ðə nɛkst ˈdɛkeɪd/",
+    "meaning_id": "Seseorang bisa membuat argumen kuat bahwa kecerdasan buatan akan secara fundamental mengubah pasar tenaga kerja dalam dekade mendatang.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-ielts-005-06",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "The ethical implications of genetic engineering are far-reaching and demand careful consideration by policymakers.",
+    "reading_hiragana": "/ðə ˈɛθɪkəl ˌɪmplɪˈkeɪʃənz ɒv dʒəˈnɛtɪk ˌɛndʒɪˈnɪərɪŋ ɑːr ˌfɑːr ˈriːtʃɪŋ ænd dɪˈmænd ˈkɛrfəl kənˌsɪdəˈreɪʃən baɪ ˈpɒlɪsiˌmeɪkərz/",
+    "meaning_id": "Implikasi etis dari rekayasa genetika sangat luas dan membutuhkan pertimbangan yang cermat oleh pembuat kebijakan.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-ielts-005-07",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "While individual responsibility is important, systemic changes are necessary to address climate change effectively.",
+    "reading_hiragana": "/waɪl ˌɪndɪˈvɪdʒuəl rɪˌspɒnsɪˈbɪlɪti ɪz ɪmˈpɔːrtənt sɪˈstɛmɪk ˈtʃeɪndʒɪz ɑːr ˈnɛsəsɛri tuː əˈdrɛs ˈklaɪmɪt tʃeɪndʒ ɪˈfɛktɪvli/",
+    "meaning_id": "Meskipun tanggung jawab individu penting, perubahan sistemik diperlukan untuk mengatasi perubahan iklim secara efektif.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-ielts-005-08",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "The notion that traditional values are incompatible with progress is, in my view, an oversimplification of a nuanced issue.",
+    "reading_hiragana": "/ðə ˈnoʊʃən ðæt trəˈdɪʃənəl ˈvæljuːz ɑːr ˌɪnkəmˈpætɪbl wɪð ˈprɒɡrɛs ɪz ɪn maɪ vjuː ən ˌoʊvərsɪmplɪfɪˈkeɪʃən ɒv ə ˈnjuːɑːnst ˈɪʃuː/",
+    "meaning_id": "Gagasan bahwa nilai-nilai tradisional tidak sesuai dengan kemajuan, menurut saya, adalah penyederhanaan berlebihan dari masalah yang bernuansa.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-ielts-005-09",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "Research consistently demonstrates that early childhood education yields substantial long-term benefits for both individuals and communities.",
+    "reading_hiragana": "/rɪˈsɜːrtʃ kənˈsɪstəntli ˈdɛmənstreɪts ðæt ˈɜːrli ˈtʃaɪldhʊd ɛdʒuˈkeɪʃən jiːldz səbˈstænʃəl lɒŋ tɜːrm ˈbɛnɪfɪts fɔːr boʊθ ˌɪndɪˈvɪdʒuəlz ænd kəˈmjuːnɪtiz/",
+    "meaning_id": "Penelitian secara konsisten menunjukkan bahwa pendidikan anak usia dini menghasilkan manfaat jangka panjang yang substansial bagi individu maupun komunitas.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-ielts-005-10",
+    "lesson_id": "sp-ielts-005",
+    "japanese_text": "In conclusion, I would contend that a balanced approach is required, one that weighs economic growth against environmental sustainability.",
+    "reading_hiragana": "/ɪn kənˈkluːʒən aɪ wʊd kənˈtɛnd ðæt ə ˈbælənst əˈproʊtʃ ɪz rɪˈkwaɪərd wʌn ðæt weɪz ˌiːkəˈnɒmɪk ɡroʊθ əˈɡɛnst ɪnˌvaɪrənˈmɛntəl səˌsteɪnəˈbɪlɪti/",
+    "meaning_id": "Sebagai kesimpulan, saya berpendapat bahwa diperlukan pendekatan yang seimbang, yang mempertimbangkan pertumbuhan ekonomi terhadap kelestarian lingkungan.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-ielts-006-01",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "The photograph shows a bustling marketplace filled with colorful stalls.",
+    "reading_hiragana": "/ðə ˈfoʊtəɡrɑːf ʃoʊz ə ˈbʌslɪŋ ˈmɑːrkɪtˌpleɪs fɪld wɪð ˈkʌlərfəl stɔːlz/",
+    "meaning_id": "Foto ini menunjukkan pasar yang ramai dipenuhi dengan kios-kios berwarna-warni.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-ielts-006-02",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "She asked whether the committee had reached a unanimous decision regarding the proposal.",
+    "reading_hiragana": "/ʃiː æskt ˈwɛðər ðə kəˈmɪti hæd riːtʃt ə juˈnænɪməs dɪˈsɪʒən rɪˈɡɑːrdɪŋ ðə prəˈpoʊzəl/",
+    "meaning_id": "Dia bertanya apakah komite telah mencapai keputusan bulat mengenai proposal tersebut.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-ielts-006-03",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "Despite the challenging circumstances, they managed to complete the project ahead of schedule.",
+    "reading_hiragana": "/dɪˈspaɪt ðə ˈtʃælɪndʒɪŋ ˈsɜːrkəmstænsɪz ðeɪ ˈmænɪdʒd tuː kəmˈpliːt ðə ˈprɒdʒɛkt əˈhɛd ɒv ˈʃɛdjuːl/",
+    "meaning_id": "Meskipun keadaan yang menantang, mereka berhasil menyelesaikan proyek lebih cepat dari jadwal.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-ielts-006-04",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "The entrepreneur established a successful business through determination and innovative thinking.",
+    "reading_hiragana": "/ðə ˌɒntrəprəˈnɜːr ɪˈstæblɪʃt ə səkˈsɛsfəl ˈbɪznɪs θruː dɪˌtɜːrmɪˈneɪʃən ænd ˈɪnəveɪtɪv ˈθɪŋkɪŋ/",
+    "meaning_id": "Pengusaha tersebut mendirikan bisnis yang sukses melalui tekad dan pemikiran inovatif.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-ielts-006-05",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "The archaeological excavation revealed artifacts dating back to the third century.",
+    "reading_hiragana": "/ðə ˌɑːrkiəˈlɒdʒɪkəl ˌɛkskəˈveɪʃən rɪˈviːld ˈɑːrtɪfækts ˈdeɪtɪŋ bæk tuː ðə θɜːrd ˈsɛntʃəri/",
+    "meaning_id": "Penggalian arkeologi mengungkap artefak yang berasal dari abad ketiga.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-ielts-006-06",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "Particularly noteworthy is the correlation between socioeconomic status and educational attainment.",
+    "reading_hiragana": "/pərˈtɪkjʊlərli ˈnoʊtwɜːrði ɪz ðə ˌkɒrəˈleɪʃən bɪˈtwiːn ˌsoʊsioʊˌiːkəˈnɒmɪk ˈstætəs ænd ˌɛdʒuˈkeɪʃənəl əˈteɪnmənt/",
+    "meaning_id": "Yang patut dicatat adalah korelasi antara status sosial ekonomi dan pencapaian pendidikan.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-ielts-006-07",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "The temperature fluctuated considerably throughout the month of February.",
+    "reading_hiragana": "/ðə ˈtɛmpərətʃər ˈflʌktʃueɪtɪd kənˈsɪdərəbli θruːˈaʊt ðə mʌnθ ɒv ˈfɛbruˌɛri/",
+    "meaning_id": "Suhu berfluktuasi cukup besar sepanjang bulan Februari.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-ielts-006-08",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "The government implemented comprehensive legislation to regulate pharmaceutical companies more effectively.",
+    "reading_hiragana": "/ðə ˈɡʌvərnmənt ˈɪmplɪmɛntɪd ˌkɒmprɪˈhɛnsɪv ˌlɛdʒɪsˈleɪʃən tuː ˈrɛɡjʊleɪt ˌfɑːrməˈsuːtɪkəl ˈkʌmpəniz mɔːr ɪˈfɛktɪvli/",
+    "meaning_id": "Pemerintah menerapkan undang-undang komprehensif untuk mengatur perusahaan farmasi secara lebih efektif.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-ielts-006-09",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "The deterioration of infrastructure in rural areas has exacerbated existing inequalities.",
+    "reading_hiragana": "/ðə dɪˌtɪəriəˈreɪʃən ɒv ˈɪnfrəstrʌktʃər ɪn ˈrʊərəl ˈɛriəz hæz ɪɡˈzæsərbeɪtɪd ɪɡˈzɪstɪŋ ˌɪnɪˈkwɒlɪtiz/",
+    "meaning_id": "Kerusakan infrastruktur di daerah pedesaan telah memperburuk ketidaksetaraan yang ada.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-ielts-006-10",
+    "lesson_id": "sp-ielts-006",
+    "japanese_text": "Consequently, the interdisciplinary approach has yielded unprecedented breakthroughs in medical research.",
+    "reading_hiragana": "/ˈkɒnsɪkwəntli ðə ˌɪntərdɪsɪˈplɪnəri əˈproʊtʃ hæz jiːldɪd ˌʌnˈprɛsɪdɛntɪd ˈbreɪkθruːz ɪn ˈmɛdɪkəl rɪˈsɜːrtʃ/",
+    "meaning_id": "Akibatnya, pendekatan interdisipliner telah menghasilkan terobosan yang belum pernah terjadi sebelumnya dalam penelitian medis.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-toefl-001-01",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "I personally prefer studying in a library because it provides a quiet environment for concentration.",
+    "reading_hiragana": "/aɪ ˈpɜːrsənəli prɪˈfɜːr ˈstʌdiɪŋ ɪn ə ˈlaɪbrɛri bɪˈkɒz ɪt prəˈvaɪdz ə ˈkwaɪət ɪnˈvaɪrənmənt fɔːr ˌkɒnsənˈtreɪʃən/",
+    "meaning_id": "Saya pribadi lebih suka belajar di perpustakaan karena menyediakan lingkungan yang tenang untuk konsentrasi.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-toefl-001-02",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "If I had to choose, I would say that traveling is more educational than reading textbooks.",
+    "reading_hiragana": "/ɪf aɪ hæd tuː tʃuːz aɪ wʊd seɪ ðæt ˈtrævəlɪŋ ɪz mɔːr ˌɛdʒuˈkeɪʃənəl ðæn ˈriːdɪŋ ˈtɛkstbʊks/",
+    "meaning_id": "Jika saya harus memilih, saya akan mengatakan bahwa bepergian lebih mendidik daripada membaca buku teks.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-toefl-001-03",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "There are two main reasons why I believe group projects are beneficial for students.",
+    "reading_hiragana": "/ðɛr ɑːr tuː meɪn ˈriːzənz waɪ aɪ bɪˈliːv ɡruːp ˈprɒdʒɛkts ɑːr ˌbɛnɪˈfɪʃəl fɔːr ˈstjuːdənts/",
+    "meaning_id": "Ada dua alasan utama mengapa saya percaya proyek kelompok bermanfaat bagi siswa.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-toefl-001-04",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "First of all, learning a musical instrument helps develop discipline and patience.",
+    "reading_hiragana": "/fɜːrst ɒv ɔːl ˈlɜːrnɪŋ ə ˈmjuːzɪkəl ˈɪnstrʊmənt hɛlps dɪˈvɛləp ˈdɪsɪplɪn ænd ˈpeɪʃəns/",
+    "meaning_id": "Pertama-tama, belajar alat musik membantu mengembangkan disiplin dan kesabaran.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-toefl-001-05",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "In addition to that, participating in sports teaches valuable teamwork skills.",
+    "reading_hiragana": "/ɪn əˈdɪʃən tuː ðæt pɑːrˈtɪsɪpeɪtɪŋ ɪn spɔːrts tiːtʃɪz ˈvæljuəbl ˈtiːmwɜːrk skɪlz/",
+    "meaning_id": "Selain itu, berpartisipasi dalam olahraga mengajarkan keterampilan kerja tim yang berharga.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-toefl-001-06",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "I agree with the idea that children should be required to learn a second language in elementary school.",
+    "reading_hiragana": "/aɪ əˈɡriː wɪð ðə aɪˈdɪə ðæt ˈtʃɪldrən ʃʊd biː rɪˈkwaɪərd tuː lɜːrn ə ˈsɛkənd ˈlæŋɡwɪdʒ ɪn ˌɛlɪˈmɛntəri skuːl/",
+    "meaning_id": "Saya setuju dengan gagasan bahwa anak-anak harus diwajibkan belajar bahasa kedua di sekolah dasar.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-toefl-001-07",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "For instance, my own experience shows that hands-on learning is more effective than lectures.",
+    "reading_hiragana": "/fɔːr ˈɪnstəns maɪ oʊn ɪkˈspɪəriəns ʃoʊz ðæt hændz ɒn ˈlɜːrnɪŋ ɪz mɔːr ɪˈfɛktɪv ðæn ˈlɛktʃərz/",
+    "meaning_id": "Misalnya, pengalaman saya sendiri menunjukkan bahwa pembelajaran langsung lebih efektif daripada kuliah.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-toefl-001-08",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "Another important point is that online courses offer flexibility for working professionals.",
+    "reading_hiragana": "/əˈnʌðər ɪmˈpɔːrtənt pɔɪnt ɪz ðæt ˈɒnlaɪn kɔːrsɪz ˈɒfər ˌflɛksɪˈbɪlɪti fɔːr ˈwɜːrkɪŋ prəˈfɛʃənəlz/",
+    "meaning_id": "Poin penting lainnya adalah bahwa kursus online menawarkan fleksibilitas bagi profesional yang bekerja.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-toefl-001-09",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "Based on my personal experience, living in a foreign country greatly improves language skills.",
+    "reading_hiragana": "/beɪst ɒn maɪ ˈpɜːrsənəl ɪkˈspɪəriəns ˈlɪvɪŋ ɪn ə ˈfɒrən ˈkʌntri ˈɡreɪtli ɪmˈpruːvz ˈlæŋɡwɪdʒ skɪlz/",
+    "meaning_id": "Berdasarkan pengalaman pribadi saya, tinggal di negara asing sangat meningkatkan keterampilan bahasa.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-toefl-001-10",
+    "lesson_id": "sp-toefl-001",
+    "japanese_text": "To summarize, I believe that a combination of traditional and modern teaching methods works best.",
+    "reading_hiragana": "/tuː ˈsʌməraɪz aɪ bɪˈliːv ðæt ə ˌkɒmbɪˈneɪʃən ɒv trəˈdɪʃənəl ænd ˈmɒdərn ˈtiːtʃɪŋ ˈmɛθədz wɜːrks bɛst/",
+    "meaning_id": "Untuk merangkum, saya percaya bahwa kombinasi metode pengajaran tradisional dan modern paling efektif.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-toefl-002-01",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "The university should consider extending library hours during the exam period.",
+    "reading_hiragana": "/ðə ˌjuːnɪˈvɜːrsɪti ʃʊd kənˈsɪdər ɪkˈstɛndɪŋ ˈlaɪbrɛri ˈaʊərz ˈdjʊərɪŋ ðə ɪɡˈzæm ˈpɪəriəd/",
+    "meaning_id": "Universitas harus mempertimbangkan untuk memperpanjang jam perpustakaan selama periode ujian.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-toefl-002-02",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "I think the new parking policy will cause problems for students who commute to campus.",
+    "reading_hiragana": "/aɪ θɪŋk ðə njuː ˈpɑːrkɪŋ ˈpɒlɪsi wɪl kɔːz ˈprɒbləmz fɔːr ˈstjuːdənts huː kəˈmjuːt tuː ˈkæmpəs/",
+    "meaning_id": "Saya pikir kebijakan parkir baru akan menyebabkan masalah bagi mahasiswa yang pulang pergi ke kampus.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-toefl-002-03",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "The student agrees with the proposal to renovate the dormitory common areas.",
+    "reading_hiragana": "/ðə ˈstjuːdənt əˈɡriːz wɪð ðə prəˈpoʊzəl tuː ˈrɛnəveɪt ðə ˈdɔːrmɪtɔːri ˈkɒmən ˈɛriəz/",
+    "meaning_id": "Mahasiswa tersebut setuju dengan proposal untuk merenovasi area umum asrama.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-toefl-002-04",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "According to the announcement, the cafeteria will start offering vegetarian options next semester.",
+    "reading_hiragana": "/əˈkɔːrdɪŋ tuː ðə əˈnaʊnsmənt ðə ˌkæfɪˈtɪəriə wɪl stɑːrt ˈɒfərɪŋ ˌvɛdʒɪˈtɛriən ˈɒpʃənz nɛkst sɪˈmɛstər/",
+    "meaning_id": "Menurut pengumuman tersebut, kafetaria akan mulai menawarkan pilihan vegetarian semester depan.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-toefl-002-05",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "The woman suggests that he should speak with his academic advisor about changing his major.",
+    "reading_hiragana": "/ðə ˈwʊmən səˈdʒɛsts ðæt hiː ʃʊd spiːk wɪð hɪz ˌækəˈdɛmɪk ædˈvaɪzər əˈbaʊt ˈtʃeɪndʒɪŋ hɪz ˈmeɪdʒər/",
+    "meaning_id": "Wanita itu menyarankan agar dia berbicara dengan penasihat akademiknya tentang mengubah jurusannya.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-toefl-002-06",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "The main issue is that the computer lab does not have enough workstations for all the students.",
+    "reading_hiragana": "/ðə meɪn ˈɪʃuː ɪz ðæt ðə kəmˈpjuːtər læb dʌz nɒt hæv ɪˈnʌf ˈwɜːrksteɪʃənz fɔːr ɔːl ðə ˈstjuːdənts/",
+    "meaning_id": "Masalah utamanya adalah lab komputer tidak memiliki cukup stasiun kerja untuk semua mahasiswa.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-toefl-002-07",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "He is concerned because the required textbook for his biology class is out of stock at the bookstore.",
+    "reading_hiragana": "/hiː ɪz kənˈsɜːrnd bɪˈkɒz ðə rɪˈkwaɪərd ˈtɛkstbʊk fɔːr hɪz baɪˈɒlədʒi klæs ɪz aʊt ɒv stɒk æt ðə ˈbʊkstɔːr/",
+    "meaning_id": "Dia khawatir karena buku teks yang diperlukan untuk kelas biologinya sudah habis di toko buku.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-toefl-002-08",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "The notice states that students must register for courses before the deadline to avoid a late fee.",
+    "reading_hiragana": "/ðə ˈnoʊtɪs steɪts ðæt ˈstjuːdənts mʌst ˈrɛdʒɪstər fɔːr kɔːrsɪz bɪˈfɔːr ðə ˈdɛdlaɪn tuː əˈvɔɪd ə leɪt fiː/",
+    "meaning_id": "Pemberitahuan menyatakan bahwa mahasiswa harus mendaftar untuk mata kuliah sebelum batas waktu untuk menghindari biaya keterlambatan.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-toefl-002-09",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "She recommends joining the study group because it will help her prepare for the final examination.",
+    "reading_hiragana": "/ʃiː ˌrɛkəˈmɛndz ˈdʒɔɪnɪŋ ðə ˈstʌdi ɡruːp bɪˈkɒz ɪt wɪl hɛlp hɜːr prɪˈpɛr fɔːr ðə ˈfaɪnəl ɪɡˌzæmɪˈneɪʃən/",
+    "meaning_id": "Dia merekomendasikan untuk bergabung dengan kelompok belajar karena itu akan membantunya mempersiapkan ujian akhir.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-toefl-002-10",
+    "lesson_id": "sp-toefl-002",
+    "japanese_text": "Overall, the student feels that the new scholarship program will benefit a large number of applicants.",
+    "reading_hiragana": "/ˌoʊvərˈɔːl ðə ˈstjuːdənt fiːlz ðæt ðə njuː ˈskɒlərʃɪp ˈproʊɡræm wɪl ˈbɛnɪfɪt ə lɑːrdʒ ˈnʌmbər ɒv ˈæplɪkənts/",
+    "meaning_id": "Secara keseluruhan, mahasiswa merasa bahwa program beasiswa baru akan menguntungkan banyak pelamar.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-toefl-003-01",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "The reading passage explains the concept of photosynthesis and how plants convert sunlight into energy.",
+    "reading_hiragana": "/ðə ˈriːdɪŋ ˈpæsɪdʒ ɪkˈspleɪnz ðə ˈkɒnsɛpt ɒv ˌfoʊtəˈsɪnθəsɪs ænd haʊ plænts kənˈvɜːrt ˈsʌnlaɪt ˈɪntuː ˈɛnərdʒi/",
+    "meaning_id": "Bagian bacaan menjelaskan konsep fotosintesis dan bagaimana tanaman mengubah sinar matahari menjadi energi.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-toefl-003-02",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "The professor's main point is that migration patterns are influenced by both environmental and genetic factors.",
+    "reading_hiragana": "/ðə prəˈfɛsərz meɪn pɔɪnt ɪz ðæt maɪˈɡreɪʃən ˈpætərnz ɑːr ˈɪnfluənst baɪ boʊθ ɪnˌvaɪrənˈmɛntəl ænd dʒəˈnɛtɪk ˈfæktərz/",
+    "meaning_id": "Poin utama profesor adalah bahwa pola migrasi dipengaruhi oleh faktor lingkungan dan genetik.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-toefl-003-03",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "According to the lecture, the Industrial Revolution had a profound effect on urban development in Europe.",
+    "reading_hiragana": "/əˈkɔːrdɪŋ tuː ðə ˈlɛktʃər ðə ɪnˈdʌstriəl ˌrɛvəˈluːʃən hæd ə prəˈfaʊnd ɪˈfɛkt ɒn ˈɜːrbən dɪˈvɛləpmənt ɪn ˈjʊərəp/",
+    "meaning_id": "Menurut kuliah, Revolusi Industri memiliki dampak mendalam pada perkembangan perkotaan di Eropa.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-toefl-003-04",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "The article describes three strategies that companies use to reduce their carbon footprint.",
+    "reading_hiragana": "/ðə ˈɑːrtɪkəl dɪˈskraɪbz θriː ˈstrætədʒiz ðæt ˈkʌmpəniz juːz tuː rɪˈdjuːs ðɛr ˈkɑːrbən ˈfʊtprɪnt/",
+    "meaning_id": "Artikel ini menjelaskan tiga strategi yang digunakan perusahaan untuk mengurangi jejak karbon mereka.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-toefl-003-05",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "The speaker provides two examples to illustrate the difference between classical and operant conditioning.",
+    "reading_hiragana": "/ðə ˈspiːkər prəˈvaɪdz tuː ɪɡˈzæmplz tuː ˈɪləstreɪt ðə ˈdɪfərəns bɪˈtwiːn ˈklæsɪkəl ænd ˈɒpərænt kənˈdɪʃənɪŋ/",
+    "meaning_id": "Pembicara memberikan dua contoh untuk mengilustrasikan perbedaan antara pengkondisian klasik dan operan.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-toefl-003-06",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "The passage outlines the key differences between renewable and nonrenewable energy sources.",
+    "reading_hiragana": "/ðə ˈpæsɪdʒ ˈaʊtlaɪnz ðə kiː ˈdɪfərənsɪz bɪˈtwiːn rɪˈnjuːəbl ænd ˌnɒnrɪˈnjuːəbl ˈɛnərdʒi ˈsɔːrsɪz/",
+    "meaning_id": "Bagian ini menguraikan perbedaan utama antara sumber energi terbarukan dan tidak terbarukan.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-toefl-003-07",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "In the lecture, the professor challenges the traditional view that dinosaurs were cold-blooded reptiles.",
+    "reading_hiragana": "/ɪn ðə ˈlɛktʃər ðə prəˈfɛsər ˈtʃælɪndʒɪz ðə trəˈdɪʃənəl vjuː ðæt ˈdaɪnəsɔːrz wɜːr koʊld blʌdɪd ˈrɛptaɪlz/",
+    "meaning_id": "Dalam kuliah tersebut, profesor menantang pandangan tradisional bahwa dinosaurus adalah reptil berdarah dingin.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-toefl-003-08",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "To support his argument, the professor refers to a study conducted by researchers at Stanford University.",
+    "reading_hiragana": "/tuː səˈpɔːrt hɪz ˈɑːrɡjʊmənt ðə prəˈfɛsər rɪˈfɜːrz tuː ə ˈstʌdi kənˈdʌktɪd baɪ rɪˈsɜːrtʃərz æt ˈstænfərd ˌjuːnɪˈvɜːrsɪti/",
+    "meaning_id": "Untuk mendukung argumennya, profesor merujuk pada studi yang dilakukan oleh peneliti di Universitas Stanford.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-toefl-003-09",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "The key takeaway from the reading is that biodiversity is essential for maintaining healthy ecosystems.",
+    "reading_hiragana": "/ðə kiː ˈteɪkəweɪ frɒm ðə ˈriːdɪŋ ɪz ðæt ˌbaɪoʊdaɪˈvɜːrsɪti ɪz ɪˈsɛnʃəl fɔːr meɪnˈteɪnɪŋ ˈhɛlθi ˈiːkoʊsɪstəmz/",
+    "meaning_id": "Hal penting dari bacaan ini adalah bahwa keanekaragaman hayati sangat penting untuk menjaga ekosistem yang sehat.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-toefl-003-10",
+    "lesson_id": "sp-toefl-003",
+    "japanese_text": "In summary, the lecture and the reading passage both emphasize the importance of sustainable agricultural practices.",
+    "reading_hiragana": "/ɪn ˈsʌməri ðə ˈlɛktʃər ænd ðə ˈriːdɪŋ ˈpæsɪdʒ boʊθ ˈɛmfəsaɪz ðə ɪmˈpɔːrtəns ɒv səˈsteɪnəbl ˌæɡrɪˈkʌltʃərəl ˈpræktɪsɪz/",
+    "meaning_id": "Singkatnya, kuliah dan bagian bacaan keduanya menekankan pentingnya praktik pertanian berkelanjutan.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-toefl-004-01",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "The reading passage discusses the benefits of urban green spaces for public health.",
+    "reading_hiragana": "/ðə ˈriːdɪŋ ˈpæsɪdʒ dɪˈskʌsɪz ðə ˈbɛnɪfɪts ɒv ˈɜːrbən ɡriːn ˈspeɪsɪz fɔːr ˈpʌblɪk hɛlθ/",
+    "meaning_id": "Bagian bacaan membahas manfaat ruang hijau perkotaan untuk kesehatan masyarakat.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-toefl-004-02",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "However, the professor in the lecture casts doubt on the claims made in the reading.",
+    "reading_hiragana": "/haʊˈɛvər ðə prəˈfɛsər ɪn ðə ˈlɛktʃər kæsts daʊt ɒn ðə kleɪmz meɪd ɪn ðə ˈriːdɪŋ/",
+    "meaning_id": "Namun, profesor dalam kuliah meragukan klaim yang dibuat dalam bacaan.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-toefl-004-03",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "The first point in the reading states that community gardens improve neighborhood cohesion.",
+    "reading_hiragana": "/ðə fɜːrst pɔɪnt ɪn ðə ˈriːdɪŋ steɪts ðæt kəˈmjuːnɪti ˈɡɑːrdənz ɪmˈpruːv ˈneɪbərhʊd koʊˈhiːʒən/",
+    "meaning_id": "Poin pertama dalam bacaan menyatakan bahwa kebun komunitas meningkatkan kohesi lingkungan.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-toefl-004-04",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "The professor counters this by explaining that the research methodology was flawed and the sample size was too small.",
+    "reading_hiragana": "/ðə prəˈfɛsər ˈkaʊntərz ðɪs baɪ ɪkˈspleɪnɪŋ ðæt ðə rɪˈsɜːrtʃ ˌmɛθəˈdɒlədʒi wɒz flɔːd ænd ðə ˈsæmpl saɪz wɒz tuː smɔːl/",
+    "meaning_id": "Profesor membantah ini dengan menjelaskan bahwa metodologi penelitian cacat dan ukuran sampel terlalu kecil.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-toefl-004-05",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "The second argument presented in the reading is that green spaces reduce air pollution in cities.",
+    "reading_hiragana": "/ðə ˈsɛkənd ˈɑːrɡjʊmənt prɪˈzɛntɪd ɪn ðə ˈriːdɪŋ ɪz ðæt ɡriːn ˈspeɪsɪz rɪˈdjuːs ɛr pəˈluːʃən ɪn ˈsɪtiz/",
+    "meaning_id": "Argumen kedua yang disajikan dalam bacaan adalah bahwa ruang hijau mengurangi polusi udara di kota-kota.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-toefl-004-06",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "In contrast, the lecturer argues that the effect of parks on air quality is negligible compared to industrial emissions.",
+    "reading_hiragana": "/ɪn ˈkɒntræst ðə ˈlɛktʃərər ˈɑːrɡjuːz ðæt ðə ɪˈfɛkt ɒv pɑːrks ɒn ɛr ˈkwɒlɪti ɪz ˈnɛɡlɪdʒəbl kəmˈpɛrd tuː ɪnˈdʌstriəl ɪˈmɪʃənz/",
+    "meaning_id": "Sebaliknya, dosen berargumen bahwa efek taman pada kualitas udara dapat diabaikan dibandingkan dengan emisi industri.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-toefl-004-07",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "The third point raised in the passage concerns the economic benefits of maintaining public parks.",
+    "reading_hiragana": "/ðə θɜːrd pɔɪnt reɪzd ɪn ðə ˈpæsɪdʒ kənˈsɜːrnz ðə ˌiːkəˈnɒmɪk ˈbɛnɪfɪts ɒv meɪnˈteɪnɪŋ ˈpʌblɪk pɑːrks/",
+    "meaning_id": "Poin ketiga yang diangkat dalam bagian tersebut berkaitan dengan manfaat ekonomi dari memelihara taman umum.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-toefl-004-08",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "The professor refutes this claim by presenting data showing that park maintenance costs often exceed their economic returns.",
+    "reading_hiragana": "/ðə prəˈfɛsər rɪˈfjuːts ðɪs kleɪm baɪ prɪˈzɛntɪŋ ˈdeɪtə ˈʃoʊɪŋ ðæt pɑːrk ˈmeɪntɪnəns kɒsts ˈɒfən ɪkˈsiːd ðɛr ˌiːkəˈnɒmɪk rɪˈtɜːrnz/",
+    "meaning_id": "Profesor membantah klaim ini dengan menyajikan data yang menunjukkan bahwa biaya pemeliharaan taman sering melebihi keuntungan ekonominya.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-toefl-004-09",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "Therefore, the lecture and the reading present contrasting perspectives on the value of urban green spaces.",
+    "reading_hiragana": "/ˈðɛrfɔːr ðə ˈlɛktʃər ænd ðə ˈriːdɪŋ prɪˈzɛnt kənˈtræstɪŋ pərˈspɛktɪvz ɒn ðə ˈvæljuː ɒv ˈɜːrbən ɡriːn ˈspeɪsɪz/",
+    "meaning_id": "Oleh karena itu, kuliah dan bacaan menyajikan perspektif yang kontras tentang nilai ruang hijau perkotaan.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-toefl-004-10",
+    "lesson_id": "sp-toefl-004",
+    "japanese_text": "In conclusion, while the reading supports the expansion of green spaces, the professor questions the evidence behind these claims.",
+    "reading_hiragana": "/ɪn kənˈkluːʒən waɪl ðə ˈriːdɪŋ səˈpɔːrts ðə ɪkˈspænʃən ɒv ɡriːn ˈspeɪsɪz ðə prəˈfɛsər ˈkwɛstʃənz ðə ˈɛvɪdəns bɪˈhaɪnd ðiːz kleɪmz/",
+    "meaning_id": "Sebagai kesimpulan, sementara bacaan mendukung perluasan ruang hijau, profesor mempertanyakan bukti di balik klaim-klaim ini.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-toefl-005-01",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "The professor begins by introducing the concept of plate tectonics and its significance in geology.",
+    "reading_hiragana": "/ðə prəˈfɛsər bɪˈɡɪnz baɪ ˌɪntrəˈdjuːsɪŋ ðə ˈkɒnsɛpt ɒv pleɪt tɛkˈtɒnɪks ænd ɪts sɪɡˈnɪfɪkəns ɪn dʒiˈɒlədʒi/",
+    "meaning_id": "Profesor memulai dengan memperkenalkan konsep tektonik lempeng dan signifikansinya dalam geologi.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-toefl-005-02",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "She then explains how continental drift was initially rejected by the scientific community before being widely accepted.",
+    "reading_hiragana": "/ʃiː ðɛn ɪkˈspleɪnz haʊ ˌkɒntɪˈnɛntəl drɪft wɒz ɪˈnɪʃəli rɪˈdʒɛktɪd baɪ ðə ˌsaɪənˈtɪfɪk kəˈmjuːnɪti bɪˈfɔːr ˈbiːɪŋ ˈwaɪdli əkˈsɛptɪd/",
+    "meaning_id": "Dia kemudian menjelaskan bagaimana pergeseran benua awalnya ditolak oleh komunitas ilmiah sebelum diterima secara luas.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-toefl-005-03",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "The lecturer uses the example of the Amazon rainforest to demonstrate the complexity of tropical ecosystems.",
+    "reading_hiragana": "/ðə ˈlɛktʃərər ˈjuːzɪz ðə ɪɡˈzæmpl ɒv ðə ˈæməzɒn ˈreɪnfɒrɪst tuː ˈdɛmənstreɪt ðə kəmˈplɛksɪti ɒv ˈtrɒpɪkəl ˈiːkoʊsɪstəmz/",
+    "meaning_id": "Dosen menggunakan contoh hutan hujan Amazon untuk mendemonstrasikan kompleksitas ekosistem tropis.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-toefl-005-04",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "Furthermore, the professor highlights the distinction between correlation and causation in scientific research.",
+    "reading_hiragana": "/ˈfɜːrðərmɔːr ðə prəˈfɛsər ˈhaɪlaɪts ðə dɪˈstɪŋkʃən bɪˈtwiːn ˌkɒrəˈleɪʃən ænd kɔːˈzeɪʃən ɪn ˌsaɪənˈtɪfɪk rɪˈsɜːrtʃ/",
+    "meaning_id": "Selanjutnya, profesor menyoroti perbedaan antara korelasi dan kausalitas dalam penelitian ilmiah.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-toefl-005-05",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "The main argument of the lecture is that behavioral economics challenges the assumption of rational decision-making.",
+    "reading_hiragana": "/ðə meɪn ˈɑːrɡjʊmənt ɒv ðə ˈlɛktʃər ɪz ðæt bɪˈheɪvjərəl ˌiːkəˈnɒmɪks ˈtʃælɪndʒɪz ðə əˈsʌmpʃən ɒv ˈræʃənəl dɪˈsɪʒən ˈmeɪkɪŋ/",
+    "meaning_id": "Argumen utama kuliah adalah bahwa ekonomi perilaku menantang asumsi pengambilan keputusan rasional.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-toefl-005-06",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "To clarify this point, the professor describes an experiment in which participants consistently chose the less optimal solution.",
+    "reading_hiragana": "/tuː ˈklærɪfaɪ ðɪs pɔɪnt ðə prəˈfɛsər dɪˈskraɪbz ən ɪkˈspɛrɪmənt ɪn wɪtʃ pɑːrˈtɪsɪpənts kənˈsɪstəntli tʃoʊz ðə lɛs ˈɒptɪməl səˈluːʃən/",
+    "meaning_id": "Untuk mengklarifikasi poin ini, profesor mendeskripsikan eksperimen di mana peserta secara konsisten memilih solusi yang kurang optimal.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-toefl-005-07",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "The phenomenon of cognitive dissonance occurs when individuals hold two contradictory beliefs simultaneously.",
+    "reading_hiragana": "/ðə fɪˈnɒmɪnən ɒv ˈkɒɡnɪtɪv ˈdɪsənəns əˈkɜːrz wɛn ˌɪndɪˈvɪdʒuəlz hoʊld tuː ˌkɒntrəˈdɪktəri bɪˈliːfs ˌsaɪməlˈteɪniəsli/",
+    "meaning_id": "Fenomena disonansi kognitif terjadi ketika individu memiliki dua keyakinan yang bertentangan secara bersamaan.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-toefl-005-08",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "The professor elaborates on how symbiotic relationships between species contribute to evolutionary adaptation.",
+    "reading_hiragana": "/ðə prəˈfɛsər ɪˈlæbəreɪts ɒn haʊ sɪmbaɪˈɒtɪk rɪˈleɪʃənʃɪps bɪˈtwiːn ˈspiːʃiːz kənˈtrɪbjuːt tuː ˌiːvəˈluːʃənəri ˌædæpˈteɪʃən/",
+    "meaning_id": "Profesor mengelaborasi bagaimana hubungan simbiosis antar spesies berkontribusi pada adaptasi evolusioner.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-toefl-005-09",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "The implications of this research extend beyond academia and have practical applications in public policy and governance.",
+    "reading_hiragana": "/ðə ˌɪmplɪˈkeɪʃənz ɒv ðɪs rɪˈsɜːrtʃ ɪkˈstɛnd bɪˈjɒnd ˌækəˈdiːmiə ænd hæv ˈpræktɪkəl ˌæplɪˈkeɪʃənz ɪn ˈpʌblɪk ˈpɒlɪsi ænd ˈɡʌvərnəns/",
+    "meaning_id": "Implikasi dari penelitian ini melampaui dunia akademis dan memiliki aplikasi praktis dalam kebijakan publik dan tata kelola.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-toefl-005-10",
+    "lesson_id": "sp-toefl-005",
+    "japanese_text": "To conclude, the professor asserts that interdisciplinary collaboration is essential for addressing complex global challenges.",
+    "reading_hiragana": "/tuː kənˈkluːd ðə prəˈfɛsər əˈsɜːrts ðæt ˌɪntərdɪsɪˈplɪnəri kəˌlæbəˈreɪʃən ɪz ɪˈsɛnʃəl fɔːr əˈdrɛsɪŋ ˈkɒmplɛks ˈɡloʊbəl ˈtʃælɪndʒɪz/",
+    "meaning_id": "Sebagai penutup, profesor menegaskan bahwa kolaborasi interdisipliner sangat penting untuk mengatasi tantangan global yang kompleks.",
+    "audio_url": null,
+    "order_index": 10
+  },
+  {
+    "id": "si-toefl-006-01",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "I believe that universities should require all students to take at least one science course.",
+    "reading_hiragana": "/aɪ bɪˈliːv ðæt ˌjuːnɪˈvɜːrsɪtiz ʃʊd rɪˈkwaɪər ɔːl ˈstjuːdənts tuː teɪk æt liːst wʌn ˈsaɪəns kɔːrs/",
+    "meaning_id": "Saya percaya bahwa universitas harus mewajibkan semua mahasiswa untuk mengambil setidaknya satu mata kuliah sains.",
+    "audio_url": null,
+    "order_index": 1
+  },
+  {
+    "id": "si-toefl-006-02",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "The most significant advantage of this approach is that it encourages critical thinking across disciplines.",
+    "reading_hiragana": "/ðə moʊst sɪɡˈnɪfɪkənt ædˈvɑːntɪdʒ ɒv ðɪs əˈproʊtʃ ɪz ðæt ɪt ɪnˈkʌrɪdʒɪz ˈkrɪtɪkəl ˈθɪŋkɪŋ əˈkrɒs ˈdɪsɪplɪnz/",
+    "meaning_id": "Keuntungan paling signifikan dari pendekatan ini adalah bahwa hal itu mendorong pemikiran kritis lintas disiplin.",
+    "audio_url": null,
+    "order_index": 2
+  },
+  {
+    "id": "si-toefl-006-03",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "Moreover, developing scientific literacy is becoming increasingly important in today's technology-driven world.",
+    "reading_hiragana": "/mɔːrˈoʊvər dɪˈvɛləpɪŋ ˌsaɪənˈtɪfɪk ˈlɪtərəsi ɪz bɪˈkʌmɪŋ ɪnˈkriːsɪŋli ɪmˈpɔːrtənt ɪn tʊˈdeɪz tɛkˈnɒlədʒi ˈdrɪvən wɜːrld/",
+    "meaning_id": "Selain itu, mengembangkan literasi ilmiah menjadi semakin penting di dunia yang didorong teknologi saat ini.",
+    "audio_url": null,
+    "order_index": 3
+  },
+  {
+    "id": "si-toefl-006-04",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "Some people might argue that mandatory courses limit student freedom, but I disagree with this perspective.",
+    "reading_hiragana": "/sʌm ˈpiːpl maɪt ˈɑːrɡjuː ðæt ˈmændətɔːri kɔːrsɪz ˈlɪmɪt ˈstjuːdənt ˈfriːdəm bʌt aɪ dɪsəˈɡriː wɪð ðɪs pərˈspɛktɪv/",
+    "meaning_id": "Beberapa orang mungkin berargumen bahwa mata kuliah wajib membatasi kebebasan mahasiswa, tetapi saya tidak setuju dengan perspektif ini.",
+    "audio_url": null,
+    "order_index": 4
+  },
+  {
+    "id": "si-toefl-006-05",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "When I was an undergraduate student, I took an astronomy course that completely changed my understanding of the universe.",
+    "reading_hiragana": "/wɛn aɪ wɒz ən ˌʌndərˈɡrædʒuɪt ˈstjuːdənt aɪ tʊk ən əˈstrɒnəmi kɔːrs ðæt kəmˈpliːtli tʃeɪndʒd maɪ ˌʌndərˈstændɪŋ ɒv ðə ˈjuːnɪvɜːrs/",
+    "meaning_id": "Ketika saya masih mahasiswa sarjana, saya mengambil kursus astronomi yang sepenuhnya mengubah pemahaman saya tentang alam semesta.",
+    "audio_url": null,
+    "order_index": 5
+  },
+  {
+    "id": "si-toefl-006-06",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "This experience demonstrated to me that exposure to different fields of study can lead to unexpected discoveries.",
+    "reading_hiragana": "/ðɪs ɪkˈspɪəriəns ˈdɛmənstreɪtɪd tuː miː ðæt ɪkˈspoʊʒər tuː ˈdɪfərənt fiːldz ɒv ˈstʌdi kæn liːd tuː ˌʌnɪkˈspɛktɪd dɪˈskʌvəriz/",
+    "meaning_id": "Pengalaman ini menunjukkan kepada saya bahwa paparan terhadap berbagai bidang studi dapat mengarah pada penemuan yang tidak terduga.",
+    "audio_url": null,
+    "order_index": 6
+  },
+  {
+    "id": "si-toefl-006-07",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "Furthermore, cross-disciplinary knowledge enables professionals to approach problems from multiple angles.",
+    "reading_hiragana": "/ˈfɜːrðərmɔːr krɒs ˈdɪsɪplɪnəri ˈnɒlɪdʒ ɪˈneɪblz prəˈfɛʃənəlz tuː əˈproʊtʃ ˈprɒbləmz frɒm ˈmʌltɪpl ˈæŋɡəlz/",
+    "meaning_id": "Selanjutnya, pengetahuan lintas disiplin memungkinkan para profesional untuk mendekati masalah dari berbagai sudut.",
+    "audio_url": null,
+    "order_index": 7
+  },
+  {
+    "id": "si-toefl-006-08",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "In the contemporary job market, employers increasingly value candidates who possess a diverse range of competencies.",
+    "reading_hiragana": "/ɪn ðə kənˈtɛmpərɛri dʒɒb ˈmɑːrkɪt ɪmˈplɔɪərz ɪnˈkriːsɪŋli ˈvæljuː ˈkændɪdeɪts huː pəˈzɛs ə daɪˈvɜːrs reɪndʒ ɒv ˈkɒmpɪtənsiz/",
+    "meaning_id": "Di pasar kerja kontemporer, pemberi kerja semakin menghargai kandidat yang memiliki beragam kompetensi.",
+    "audio_url": null,
+    "order_index": 8
+  },
+  {
+    "id": "si-toefl-006-09",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "Taking everything into consideration, a well-rounded education prepares students for the complexities of the modern workforce.",
+    "reading_hiragana": "/ˈteɪkɪŋ ˈɛvriθɪŋ ˈɪntuː kənˌsɪdəˈreɪʃən ə wɛl ˈraʊndɪd ˌɛdʒuˈkeɪʃən prɪˈpɛrz ˈstjuːdənts fɔːr ðə kəmˈplɛksɪtiz ɒv ðə ˈmɒdərn ˈwɜːrkfɔːrs/",
+    "meaning_id": "Dengan mempertimbangkan semuanya, pendidikan yang menyeluruh mempersiapkan mahasiswa untuk kompleksitas dunia kerja modern.",
+    "audio_url": null,
+    "order_index": 9
+  },
+  {
+    "id": "si-toefl-006-10",
+    "lesson_id": "sp-toefl-006",
+    "japanese_text": "For all these reasons, I am firmly convinced that a broad academic foundation benefits every student regardless of their major.",
+    "reading_hiragana": "/fɔːr ɔːl ðiːz ˈriːzənz aɪ æm ˈfɜːrmli kənˈvɪnst ðæt ə brɔːd ˌækəˈdɛmɪk faʊnˈdeɪʃən ˈbɛnɪfɪts ˈɛvri ˈstjuːdənt rɪˈɡɑːrdlɪs ɒv ðɛr ˈmeɪdʒər/",
+    "meaning_id": "Untuk semua alasan ini, saya sangat yakin bahwa fondasi akademik yang luas menguntungkan setiap mahasiswa terlepas dari jurusan mereka.",
+    "audio_url": null,
+    "order_index": 10
+  }
+]

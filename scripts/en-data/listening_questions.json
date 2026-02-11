@@ -1,0 +1,302 @@
+[
+  {
+    "id": "lq-ielts-001-01",
+    "listening_id": "listening-ielts-001",
+    "question_text": "How many books can the student borrow at a time with a library card?",
+    "question_type": "multiple_choice",
+    "options": ["A) Five", "B) Eight", "C) Ten", "D) Twelve"],
+    "correct_answer": "C) Ten",
+    "explanation": "The librarian states 'you'll be able to borrow up to ten books at a time.'",
+    "order_index": 1
+  },
+  {
+    "id": "lq-ielts-001-02",
+    "listening_id": "listening-ielts-001",
+    "question_text": "Where are the individual study rooms located?",
+    "question_type": "multiple_choice",
+    "options": ["A) On the first floor", "B) On the second floor", "C) On the third floor", "D) In the basement"],
+    "correct_answer": "C) On the third floor",
+    "explanation": "The librarian says 'we have individual study rooms on the third floor.'",
+    "order_index": 2
+  },
+  {
+    "id": "lq-ielts-001-03",
+    "listening_id": "listening-ielts-001",
+    "question_text": "What are the library's weekend opening hours?",
+    "question_type": "multiple_choice",
+    "options": ["A) 8 AM to 10 PM", "B) 9 AM to 6 PM", "C) 9 AM to 10 PM", "D) 8 AM to 6 PM"],
+    "correct_answer": "B) 9 AM to 6 PM",
+    "explanation": "The librarian states the library is open 'on weekends from 9 AM to 6 PM.'",
+    "order_index": 3
+  },
+  {
+    "id": "lq-ielts-002-01",
+    "listening_id": "listening-ielts-002",
+    "question_text": "Where is the international students' office now located?",
+    "question_type": "multiple_choice",
+    "options": ["A) In the Administration Block", "B) In the Science Complex", "C) In the Student Hub", "D) In the Sports Center"],
+    "correct_answer": "C) In the Student Hub",
+    "explanation": "The guide explains that 'the international students' office actually moved to the new Student Hub last year.'",
+    "order_index": 4
+  },
+  {
+    "id": "lq-ielts-002-02",
+    "listening_id": "listening-ielts-002",
+    "question_text": "How can undergraduate students access the labs outside of class hours?",
+    "question_type": "multiple_choice",
+    "options": ["A) By paying an additional fee", "B) By booking a slot through the online booking system", "C) By getting permission from the dean", "D) Labs are not available outside class hours"],
+    "correct_answer": "B) By booking a slot through the online booking system",
+    "explanation": "The guide says 'you'll need to book a slot through the online booking system.'",
+    "order_index": 5
+  },
+  {
+    "id": "lq-ielts-002-03",
+    "listening_id": "listening-ielts-002",
+    "question_text": "How many main dining facilities are on campus?",
+    "question_type": "multiple_choice",
+    "options": ["A) Two", "B) Three", "C) Four", "D) Five"],
+    "correct_answer": "B) Three",
+    "explanation": "The guide states 'We have three main dining facilities' — the Central Cafeteria, a smaller cafe in the library, and a food court near the Student Hub.",
+    "order_index": 6
+  },
+  {
+    "id": "lq-ielts-003-01",
+    "listening_id": "listening-ielts-003",
+    "question_text": "By how much has Earth's average temperature risen since the pre-industrial era?",
+    "question_type": "multiple_choice",
+    "options": ["A) 0.5 degrees Celsius", "B) 1.1 degrees Celsius", "C) 1.5 degrees Celsius", "D) 2.0 degrees Celsius"],
+    "correct_answer": "B) 1.1 degrees Celsius",
+    "explanation": "The professor states that 'the Earth's average temperature has risen by approximately 1.1 degrees Celsius since the pre-industrial era.'",
+    "order_index": 7
+  },
+  {
+    "id": "lq-ielts-003-02",
+    "listening_id": "listening-ielts-003",
+    "question_text": "How many mass bleaching events has the Great Barrier Reef experienced since 2016?",
+    "question_type": "multiple_choice",
+    "options": ["A) Two", "B) Three", "C) Four", "D) Five"],
+    "correct_answer": "C) Four",
+    "explanation": "The professor mentions that 'The Great Barrier Reef has experienced four mass bleaching events since 2016.'",
+    "order_index": 8
+  },
+  {
+    "id": "lq-ielts-003-03",
+    "listening_id": "listening-ielts-003",
+    "question_text": "What does the professor ask students to prepare for next week's seminar?",
+    "question_type": "multiple_choice",
+    "options": ["A) A written essay on global warming", "B) A five-minute presentation on climate change's effect on one ecosystem", "C) A group debate on environmental policy", "D) A summary of the course readings"],
+    "correct_answer": "B) A five-minute presentation on climate change's effect on one ecosystem",
+    "explanation": "The professor says 'I'd like you to research one specific ecosystem and analyze how climate change is affecting its biodiversity. Please prepare a five-minute presentation.'",
+    "order_index": 9
+  },
+  {
+    "id": "lq-ielts-004-01",
+    "listening_id": "listening-ielts-004",
+    "question_text": "How much does a Parkside Village apartment cost per month?",
+    "question_type": "multiple_choice",
+    "options": ["A) 450 pounds", "B) 550 pounds", "C) 650 pounds", "D) 750 pounds"],
+    "correct_answer": "C) 650 pounds",
+    "explanation": "The advisor states 'Parkside Village apartments are 650 pounds per month.'",
+    "order_index": 10
+  },
+  {
+    "id": "lq-ielts-004-02",
+    "listening_id": "listening-ielts-004",
+    "question_text": "What is the average monthly rent for a room in a shared house?",
+    "question_type": "multiple_choice",
+    "options": ["A) 350 to 450 pounds", "B) 450 to 550 pounds", "C) 550 to 650 pounds", "D) 650 to 750 pounds"],
+    "correct_answer": "B) 450 to 550 pounds",
+    "explanation": "The advisor says 'The average rent for a room in a shared house in this area is around 450 to 550 pounds per month.'",
+    "order_index": 11
+  },
+  {
+    "id": "lq-ielts-004-03",
+    "listening_id": "listening-ielts-004",
+    "question_text": "What free service does the student union offer regarding private rentals?",
+    "question_type": "multiple_choice",
+    "options": ["A) Property inspection service", "B) Moving assistance", "C) Contract-checking service", "D) Rent negotiation service"],
+    "correct_answer": "C) Contract-checking service",
+    "explanation": "The advisor mentions that 'Our student union offers a free contract-checking service.'",
+    "order_index": 12
+  },
+  {
+    "id": "lq-ielts-005-01",
+    "listening_id": "listening-ielts-005",
+    "question_text": "What is the principle of superposition in archaeology?",
+    "question_type": "multiple_choice",
+    "options": ["A) Newer artifacts are always more valuable than older ones", "B) In undisturbed deposits, older materials lie beneath more recent ones", "C) All archaeological sites contain multiple layers", "D) Artifacts must be dated using radiocarbon methods"],
+    "correct_answer": "B) In undisturbed deposits, older materials lie beneath more recent ones",
+    "explanation": "The professor explains superposition as 'the idea that in undisturbed deposits, older materials lie beneath more recent ones.'",
+    "order_index": 13
+  },
+  {
+    "id": "lq-ielts-005-02",
+    "listening_id": "listening-ielts-005",
+    "question_text": "Up to how many years can radiocarbon dating determine the age of objects?",
+    "question_type": "multiple_choice",
+    "options": ["A) 10,000 years", "B) 25,000 years", "C) 50,000 years", "D) 100,000 years"],
+    "correct_answer": "C) 50,000 years",
+    "explanation": "The professor states that radiocarbon dating 'can date objects up to approximately 50,000 years old.'",
+    "order_index": 14
+  },
+  {
+    "id": "lq-ielts-005-03",
+    "listening_id": "listening-ielts-005",
+    "question_text": "Which dating technique uses tree growth ring patterns?",
+    "question_type": "multiple_choice",
+    "options": ["A) Radiocarbon dating", "B) Potassium-argon dating", "C) Luminescence dating", "D) Dendrochronology"],
+    "correct_answer": "D) Dendrochronology",
+    "explanation": "The professor describes 'Dendrochronology, or tree-ring dating' as a technique that 'offers extremely precise dates by matching the patterns of growth rings in ancient wood samples.'",
+    "order_index": 15
+  },
+  {
+    "id": "lq-toefl-001-01",
+    "listening_id": "listening-toefl-001",
+    "question_text": "What career does the student plan to pursue after graduation?",
+    "question_type": "multiple_choice",
+    "options": ["A) Clinical psychologist", "B) Research scientist", "C) Organizational consultant", "D) University professor"],
+    "correct_answer": "C) Organizational consultant",
+    "explanation": "The student says 'I've been thinking about going into organizational consulting after graduation.'",
+    "order_index": 16
+  },
+  {
+    "id": "lq-toefl-001-02",
+    "listening_id": "listening-toefl-001",
+    "question_text": "Which two courses does the professor recommend?",
+    "question_type": "multiple_choice",
+    "options": ["A) Clinical Psychology and Research Methods", "B) Organizational Behavior and Applied Statistics", "C) Business Management and Data Science", "D) Leadership Theory and Team Dynamics"],
+    "correct_answer": "B) Organizational Behavior and Applied Statistics",
+    "explanation": "The professor recommends the 'Organizational Behavior course' and the 'Applied Statistics course.'",
+    "order_index": 17
+  },
+  {
+    "id": "lq-toefl-001-03",
+    "listening_id": "listening-toefl-001",
+    "question_text": "What does the professor suggest the student join?",
+    "question_type": "multiple_choice",
+    "options": ["A) The Student Government", "B) The Business Psychology Club", "C) A consulting firm internship", "D) The Statistics Study Group"],
+    "correct_answer": "B) The Business Psychology Club",
+    "explanation": "The professor says 'I'd recommend joining the Business Psychology Club' because they organize networking events and a mentorship program.",
+    "order_index": 18
+  },
+  {
+    "id": "lq-toefl-002-01",
+    "listening_id": "listening-toefl-002",
+    "question_text": "What specific focus does the student choose for the research paper?",
+    "question_type": "multiple_choice",
+    "options": ["A) Biological mechanisms of antibiotic resistance", "B) Public health implications of antibiotic resistance", "C) Agricultural use of antibiotics and resistance", "D) Development of new antibiotics"],
+    "correct_answer": "C) Agricultural use of antibiotics and resistance",
+    "explanation": "The student decides to focus on 'how antibiotics used in livestock farming contribute to the development of resistant bacteria' and comparing different countries' regulatory approaches.",
+    "order_index": 19
+  },
+  {
+    "id": "lq-toefl-002-02",
+    "listening_id": "listening-toefl-002",
+    "question_text": "When did the European Union ban antibiotics as growth promoters?",
+    "question_type": "multiple_choice",
+    "options": ["A) 2000", "B) 2003", "C) 2006", "D) 2010"],
+    "correct_answer": "C) 2006",
+    "explanation": "The student mentions that 'the European Union banned antibiotics as growth promoters back in 2006.'",
+    "order_index": 20
+  },
+  {
+    "id": "lq-toefl-002-03",
+    "listening_id": "listening-toefl-002",
+    "question_text": "What is the required length of the research paper?",
+    "question_type": "multiple_choice",
+    "options": ["A) 1,000 to 2,000 words", "B) 2,000 to 3,000 words", "C) 3,000 to 4,000 words", "D) 4,000 to 5,000 words"],
+    "correct_answer": "C) 3,000 to 4,000 words",
+    "explanation": "The professor specifies 'Between 3,000 and 4,000 words, not including references.'",
+    "order_index": 21
+  },
+  {
+    "id": "lq-toefl-003-01",
+    "listening_id": "listening-toefl-003",
+    "question_text": "According to the professor, what is the primary driving force behind plate tectonics?",
+    "question_type": "multiple_choice",
+    "options": ["A) Ridge push", "B) Slab pull", "C) Convection in the mantle", "D) Basal drag"],
+    "correct_answer": "C) Convection in the mantle",
+    "explanation": "The professor states 'The primary driving force is convection in the mantle.'",
+    "order_index": 22
+  },
+  {
+    "id": "lq-toefl-003-02",
+    "listening_id": "listening-toefl-003",
+    "question_text": "Which force is considered the most significant driving force for plate movement?",
+    "question_type": "multiple_choice",
+    "options": ["A) Ridge push", "B) Slab pull", "C) Convection currents", "D) Basal drag"],
+    "correct_answer": "B) Slab pull",
+    "explanation": "The professor says about slab pull: 'this is actually considered the most significant driving force.'",
+    "order_index": 23
+  },
+  {
+    "id": "lq-toefl-003-03",
+    "listening_id": "listening-toefl-003",
+    "question_text": "What temperature does the Earth's core reach according to the lecture?",
+    "question_type": "multiple_choice",
+    "options": ["A) Over 2,000 degrees Celsius", "B) Over 3,000 degrees Celsius", "C) Over 4,000 degrees Celsius", "D) Over 5,000 degrees Celsius"],
+    "correct_answer": "D) Over 5,000 degrees Celsius",
+    "explanation": "The professor states 'temperatures in the core reaching over 5,000 degrees Celsius.'",
+    "order_index": 24
+  },
+  {
+    "id": "lq-toefl-004-01",
+    "listening_id": "listening-toefl-004",
+    "question_text": "What does the word 'barroco' mean in Portuguese?",
+    "question_type": "multiple_choice",
+    "options": ["A) Beautiful music", "B) An irregularly shaped pearl", "C) An ornate decoration", "D) A musical instrument"],
+    "correct_answer": "B) An irregularly shaped pearl",
+    "explanation": "The professor explains that 'the term itself comes from the Portuguese word barroco, meaning an irregularly shaped pearl.'",
+    "order_index": 25
+  },
+  {
+    "id": "lq-toefl-004-02",
+    "listening_id": "listening-toefl-004",
+    "question_text": "Which opera is generally regarded as the first great opera?",
+    "question_type": "multiple_choice",
+    "options": ["A) The Four Seasons", "B) Messiah", "C) L'Orfeo", "D) The Marriage of Figaro"],
+    "correct_answer": "C) L'Orfeo",
+    "explanation": "The professor says 'Claudio Monteverdi's L'Orfeo, composed in 1607, is generally regarded as the first great opera.'",
+    "order_index": 26
+  },
+  {
+    "id": "lq-toefl-004-03",
+    "listening_id": "listening-toefl-004",
+    "question_text": "Where did Handel spend most of his career?",
+    "question_type": "multiple_choice",
+    "options": ["A) Germany", "B) Italy", "C) France", "D) England"],
+    "correct_answer": "D) England",
+    "explanation": "The professor explains that 'Handel, though German-born, spent much of his career in England.'",
+    "order_index": 27
+  },
+  {
+    "id": "lq-toefl-005-01",
+    "listening_id": "listening-toefl-005",
+    "question_text": "How far does an Arctic tern travel round-trip each year?",
+    "question_type": "multiple_choice",
+    "options": ["A) 30,000 kilometers", "B) 50,000 kilometers", "C) 70,000 kilometers", "D) 90,000 kilometers"],
+    "correct_answer": "C) 70,000 kilometers",
+    "explanation": "The professor states the Arctic tern travels 'approximately 70,000 kilometers round-trip each year.'",
+    "order_index": 28
+  },
+  {
+    "id": "lq-toefl-005-02",
+    "listening_id": "listening-toefl-005",
+    "question_text": "How many wildebeest are involved in the East African migration?",
+    "question_type": "multiple_choice",
+    "options": ["A) 500,000", "B) 1 million", "C) 1.5 million", "D) 2 million"],
+    "correct_answer": "C) 1.5 million",
+    "explanation": "The professor says 'The wildebeest migration in East Africa involves approximately 1.5 million animals.'",
+    "order_index": 29
+  },
+  {
+    "id": "lq-toefl-005-03",
+    "listening_id": "listening-toefl-005",
+    "question_text": "What is 'phenological mismatch' as described in the lecture?",
+    "question_type": "multiple_choice",
+    "options": ["A) When animals migrate to the wrong destination", "B) When the timing of seasonal events no longer aligns with animal migration and food availability", "C) When predators and prey live in the same habitat", "D) When animals fail to reproduce during breeding season"],
+    "correct_answer": "B) When the timing of seasonal events no longer aligns with animal migration and food availability",
+    "explanation": "The professor explains that climate change shifts the timing of seasonal events, 'creating mismatches between migrating animals and the food resources they depend on,' and refers to this as 'phenological mismatch.'",
+    "order_index": 30
+  }
+]
