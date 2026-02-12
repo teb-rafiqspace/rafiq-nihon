@@ -1,0 +1,982 @@
+[
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "Hari ini saya _____ ke kantor dengan berjalan kaki karena cuaca bagus. (きょうは てんきが いいので、かいしゃまで あるいて かよいました)",
+    "options": [
+      "通いました (kayoimashita)",
+      "通りました (toorimashita)",
+      "渡りました (watarimashita)",
+      "移りました (utsurimashita)"
+    ],
+    "correct_answer": "通いました (kayoimashita)",
+    "explanation": "通う (kayou) berarti 'pergi secara rutin/bolak-balik' seperti ke sekolah atau kantor. Ini adalah kata kerja komposit yang tepat untuk konteks komuter.",
+    "sort_order": 1
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼女は試験に合格して、とても _____。 (Dia sangat ___ karena lulus ujian)",
+    "options": [
+      "喜んでいる (yorondeiru)",
+      "楽しんでいる (tanoshideiru)",
+      "嬉しがっている (ureshigatteiru)",
+      "面白がっている (omoshirogatteiru)"
+    ],
+    "correct_answer": "喜んでいる (yorondeiru)",
+    "explanation": "喜ぶ (yorobu) berarti 'gembira/senang' dan paling tepat untuk ekspresi kebahagiaan atas pencapaian seperti lulus ujian.",
+    "sort_order": 2
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "会議の時間を1時間 _____ していただけませんか。(Bisakah Anda ___ waktu rapat 1 jam?)",
+    "options": [
+      "延ばして (nobashite)",
+      "伸ばして (nobashite)",
+      "増やして (fuyashite)",
+      "足して (tashite)"
+    ],
+    "correct_answer": "延ばして (nobashite)",
+    "explanation": "延ばす berarti 'menunda/memperpanjang waktu'. 伸ばす untuk panjang fisik, 増やす untuk jumlah, 足す untuk menambahkan.",
+    "sort_order": 3
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "新しいプロジェクトの _____ を来週までに提出してください。(Tolong serahkan ___ proyek baru minggu depan)",
+    "options": [
+      "企画書 (kikakusho)",
+      "計画書 (keikakusho)",
+      "報告書 (houkokusho)",
+      "申込書 (moushikomisho)"
+    ],
+    "correct_answer": "企画書 (kikakusho)",
+    "explanation": "企画書 adalah 'proposal/rencana proyek'. 計画書 adalah rencana umum, 報告書 adalah laporan, 申込書 adalah formulir aplikasi.",
+    "sort_order": 4
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼は失敗を _____ にして、もっと頑張るようになった。(Dia menjadi lebih berusaha dengan menjadikan kegagalan sebagai ___)",
+    "options": [
+      "きっかけ (kikkake)",
+      "機会 (kikai)",
+      "チャンス (chansu)",
+      "原因 (gen'in)"
+    ],
+    "correct_answer": "きっかけ (kikkake)",
+    "explanation": "きっかけ berarti 'pemicu/kesempatan' yang menyebabkan perubahan. Pola ~をきっかけにして berarti 'dengan kesempatan/karena'.",
+    "sort_order": 5
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "この小説は若者の間で _____ 人気がある。(Novel ini ___ populer di kalangan anak muda)",
+    "options": [
+      "非常に (hijou ni)",
+      "大変 (taihen)",
+      "とても (totemo)",
+      "すごく (sugoku)"
+    ],
+    "correct_answer": "非常に (hijou ni)",
+    "explanation": "非常に adalah adverbia formal yang berarti 'sangat/amat'. Dalam konteks tulisan formal tentang popularitas, ini paling tepat dibanding pilihan lain yang lebih kasual.",
+    "sort_order": 6
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼女は _____ 性格なので、友達がたくさんいる。(Dia memiliki banyak teman karena kepribadian yang ___)",
+    "options": [
+      "明るい (akarui)",
+      "明らかな (akiraka na)",
+      "鮮やかな (azayaka na)",
+      "晴れやかな (hareyaka na)"
+    ],
+    "correct_answer": "明るい (akarui)",
+    "explanation": "明るい性格 berarti 'kepribadian ceria/ramah'. 明らかな berarti 'jelas', 鮮やかな berarti 'cerah/vivid', 晴れやかな berarti 'cerah (cuaca/suasana hati)'.",
+    "sort_order": 7
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "会社の経営が _____ 状態になってきた。(Manajemen perusahaan menjadi dalam kondisi ___)",
+    "options": [
+      "厳しい (kibishii)",
+      "辛い (tsurai)",
+      "苦しい (kurushii)",
+      "難しい (muzukashii)"
+    ],
+    "correct_answer": "厳しい (kibishii)",
+    "explanation": "厳しい状態 berarti 'kondisi sulit/keras' dalam konteks bisnis. 辛い untuk perasaan sedih, 苦しい untuk penderitaan fisik/mental, 難しい untuk kesulitan.",
+    "sort_order": 8
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "雨が _____ 降り始めた。(Hujan mulai turun ___)",
+    "options": [
+      "ぽつぽつ (potsupotsu)",
+      "ざあざあ (zaazaa)",
+      "しとしと (shitoshito)",
+      "どんどん (dondon)"
+    ],
+    "correct_answer": "ぽつぽつ (potsupotsu)",
+    "explanation": "ぽつぽつ adalah onomatopoeia untuk hujan mulai turun (tetesan awal). ざあざあ untuk hujan deras, しとしと untuk hujan gerimis terus-menerus, どんどん untuk 'terus-menerus'.",
+    "sort_order": 9
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "心臓が _____ している。緊張しているみたい。(Jantung ___ . Sepertinya saya gugup)",
+    "options": [
+      "どきどき (dokidoki)",
+      "わくわく (wakuwaku)",
+      "いらいら (iraira)",
+      "はらはら (harahara)"
+    ],
+    "correct_answer": "どきどき (dokidoki)",
+    "explanation": "どきどき menggambarkan detak jantung yang kencang karena gugup/berdebar. わくわく untuk kegembiraan, いらいら untuk kesal, はらはら untuk cemas melihat sesuatu.",
+    "sort_order": 10
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "この漢字の _____ を教えてください。(Tolong ajarkan ___ kanji ini)",
+    "options": [
+      "読み方 (yomikata)",
+      "読むこと (yomu koto)",
+      "読み (yomi)",
+      "読書 (dokusho)"
+    ],
+    "correct_answer": "読み方 (yomikata)",
+    "explanation": "読み方 berarti 'cara membaca'. ~方 menunjukkan 'cara/metode'. 読み adalah 'bacaan', 読書 adalah 'membaca buku'.",
+    "sort_order": 11
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼は事故で足に _____ を負った。(Dia mengalami ___ di kaki karena kecelakaan)",
+    "options": [
+      "怪我 (kega)",
+      "病気 (byouki)",
+      "傷 (kizu)",
+      "痛み (itami)"
+    ],
+    "correct_answer": "怪我 (kega)",
+    "explanation": "怪我を負う adalah pola tetap untuk 'mengalami cedera'. 病気 untuk penyakit, 傷 untuk luka (fisik), 痛み untuk rasa sakit.",
+    "sort_order": 12
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼女は子供の _____ について真剣に考えている。(Dia memikirkan ___ anak dengan serius)",
+    "options": [
+      "将来 (shourai)",
+      "未来 (mirai)",
+      "今後 (kongo)",
+      "先 (saki)"
+    ],
+    "correct_answer": "将来 (shourai)",
+    "explanation": "将来 berarti 'masa depan' seseorang (karier, kehidupan). 未来 lebih abstrak/jauh, 今後 untuk 'setelah ini', 先 untuk 'nanti/depan'.",
+    "sort_order": 13
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "会議で新しい _____ を発表した。(Saya mempresentasikan ___ baru di rapat)",
+    "options": [
+      "提案 (teian)",
+      "意見 (iken)",
+      "考え (kangae)",
+      "思い (omoi)"
+    ],
+    "correct_answer": "提案 (teian)",
+    "explanation": "提案 berarti 'proposal/usulan' formal. 意見 adalah opini umum, 考え adalah pemikiran, 思い adalah perasaan.",
+    "sort_order": 14
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "この問題は簡単に _____ できない。(Masalah ini tidak bisa ___ dengan mudah)",
+    "options": [
+      "解決 (kaiketsu)",
+      "解答 (kaitou)",
+      "解釈 (shakshaku)",
+      "解除 (kaijo)"
+    ],
+    "correct_answer": "解決 (kaiketsu)",
+    "explanation": "解決する berarti 'menyelesaikan masalah'. 解答 untuk jawaban soal, 解釈 untuk interpretasi, 解除 untuk membatalkan/mencabut.",
+    "sort_order": 15
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼は重要な _____ を果たしている。(Dia menjalankan ___ penting)",
+    "options": [
+      "役割 (yakuwari)",
+      "役目 (yakume)",
+      "務め (tsutome)",
+      "仕事 (shigoto)"
+    ],
+    "correct_answer": "役割 (yakuwari)",
+    "explanation": "役割を果たす adalah pola tetap untuk 'menjalankan peran'. 役目 juga berarti peran tapi kurang formal, 務め untuk tugas, 仕事 untuk pekerjaan.",
+    "sort_order": 16
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "新しい製品の _____ に成功した。(Berhasil ___ produk baru)",
+    "options": [
+      "開発 (kaihatsu)",
+      "発明 (hatsumei)",
+      "発見 (hakken)",
+      "製造 (seizou)"
+    ],
+    "correct_answer": "開発 (kaihatsu)",
+    "explanation": "開発 berarti 'pengembangan' produk/teknologi. 発明 untuk invensi baru, 発見 untuk menemukan sesuatu yang sudah ada, 製造 untuk memproduksi.",
+    "sort_order": 17
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "その国の文化を _____ するために、1年間留学した。(Saya belajar di luar negeri 1 tahun untuk ___ budaya negara itu)",
+    "options": [
+      "理解 (rikai)",
+      "了解 (ryoukai)",
+      "納得 (nattoku)",
+      "承知 (shouchi)"
+    ],
+    "correct_answer": "理解 (rikai)",
+    "explanation": "理解する berarti 'memahami' secara mendalam. 了解 untuk mengerti/OK, 納得 untuk meyakinkan diri, 承知 untuk mengetahui/setuju.",
+    "sort_order": 18
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "彼の _____ のおかげで、プロジェクトが成功した。(Proyek berhasil berkat ___ dia)",
+    "options": [
+      "協力 (kyouryoku)",
+      "援助 (enjo)",
+      "助け (tasuke)",
+      "手伝い (tetsudai)"
+    ],
+    "correct_answer": "協力 (kyouryoku)",
+    "explanation": "協力 berarti 'kerja sama/dukungan' dalam konteks formal/profesional. 援助 untuk bantuan finansial, 助け untuk pertolongan, 手伝い untuk membantu pekerjaan.",
+    "sort_order": 19
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "kosakata",
+    "question_text": "この契約の _____ をよく読んでからサインしてください。(Tolong baca ___ kontrak ini dengan baik sebelum menandatangani)",
+    "options": [
+      "内容 (naiyou)",
+      "中身 (nakami)",
+      "中心 (chuushin)",
+      "内部 (naibu)"
+    ],
+    "correct_answer": "内容 (naiyou)",
+    "explanation": "内容 berarti 'isi/konten' dokumen formal. 中身 untuk isi fisik, 中心 untuk pusat, 内部 untuk bagian dalam.",
+    "sort_order": 20
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "健康のために、毎日野菜を食べる _____。(Demi kesehatan, saya ___ makan sayuran setiap hari)",
+    "options": [
+      "ようにしている",
+      "ことにしている",
+      "はずだ",
+      "わけだ"
+    ],
+    "correct_answer": "ようにしている",
+    "explanation": "~ようにしている berarti 'berusaha untuk/membuat kebiasaan'. Menunjukkan usaha sadar untuk melakukan sesuatu secara rutin.",
+    "sort_order": 21
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "来月から新しいアパートに引っ越す _____。(Bulan depan saya memutuskan untuk pindah ke apartemen baru)",
+    "options": [
+      "ことにした",
+      "ようにした",
+      "ことになった",
+      "ようになった"
+    ],
+    "correct_answer": "ことにした",
+    "explanation": "~ことにした berarti 'memutuskan untuk'. Menunjukkan keputusan pribadi yang disengaja.",
+    "sort_order": 22
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "私 _____ 、この仕事はとても大切だ。(Bagi saya, pekerjaan ini sangat penting)",
+    "options": [
+      "にとって",
+      "について",
+      "として",
+      "によって"
+    ],
+    "correct_answer": "にとって",
+    "explanation": "~にとって berarti 'bagi/untuk (seseorang)'. Menunjukkan perspektif atau kepentingan dari sudut pandang tertentu.",
+    "sort_order": 23
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "彼は医者 _____ 有名だ。(Dia terkenal sebagai dokter)",
+    "options": [
+      "として",
+      "にとって",
+      "について",
+      "に対して"
+    ],
+    "correct_answer": "として",
+    "explanation": "~として berarti 'sebagai'. Menunjukkan peran, kapasitas, atau status seseorang/sesuatu.",
+    "sort_order": 24
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "環境問題 _____ 話し合った。(Kami berdiskusi tentang masalah lingkungan)",
+    "options": [
+      "について",
+      "にとって",
+      "として",
+      "に対して"
+    ],
+    "correct_answer": "について",
+    "explanation": "~について berarti 'tentang/mengenai'. Digunakan untuk menunjukkan topik diskusi, laporan, atau pemikiran.",
+    "sort_order": 25
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "天気予報 _____ 、明日は雨が降るそうだ。(Menurut ramalan cuaca, besok akan hujan)",
+    "options": [
+      "によると",
+      "について",
+      "にとって",
+      "に対して"
+    ],
+    "correct_answer": "によると",
+    "explanation": "~によると berarti 'menurut/berdasarkan'. Digunakan untuk mengutip sumber informasi.",
+    "sort_order": 26
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "彼は卒業した _____で、まだ仕事を探している。(Dia baru saja lulus dan masih mencari pekerjaan)",
+    "options": [
+      "ばかり",
+      "ところ",
+      "はず",
+      "わけ"
+    ],
+    "correct_answer": "ばかり",
+    "explanation": "~たばかり berarti 'baru saja'. Menunjukkan bahwa tindakan baru selesai dilakukan dalam waktu dekat.",
+    "sort_order": 27
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "彼が遅れている _____がわかった。(Saya mengerti alasan mengapa dia terlambat)",
+    "options": [
+      "わけ",
+      "はず",
+      "もの",
+      "こと"
+    ],
+    "correct_answer": "わけ",
+    "explanation": "~わけ berarti 'alasan/maksud'. わけがわかる berarti 'mengerti alasan'.",
+    "sort_order": 28
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "彼はもう家に着いている _____だ。(Dia seharusnya sudah sampai di rumah)",
+    "options": [
+      "はず",
+      "わけ",
+      "もの",
+      "こと"
+    ],
+    "correct_answer": "はず",
+    "explanation": "~はず berarti 'seharusnya/mestinya'. Menunjukkan ekspektasi logis berdasarkan informasi yang ada.",
+    "sort_order": 29
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "母は私に部屋を掃除 _____。(Ibu menyuruh saya membersihkan kamar)",
+    "options": [
+      "させた",
+      "された",
+      "させられた",
+      "してもらった"
+    ],
+    "correct_answer": "させた",
+    "explanation": "~させる adalah bentuk kausatif yang berarti 'menyuruh/membiarkan seseorang melakukan sesuatu'.",
+    "sort_order": 30
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "私は先生に褒め _____。(Saya dipuji oleh guru)",
+    "options": [
+      "られた",
+      "させた",
+      "させられた",
+      "てもらった"
+    ],
+    "correct_answer": "られた",
+    "explanation": "~られる adalah bentuk pasif. 褒める (memuji) menjadi 褒められる (dipuji).",
+    "sort_order": 31
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "雨に降られて、服が濡れてしまった。(_____ hujan, baju saya basah)",
+    "options": [
+      "Kehujanan",
+      "Karena hujan",
+      "Waktu hujan",
+      "Saat hujan"
+    ],
+    "correct_answer": "Kehujanan",
+    "explanation": "降られる adalah bentuk pasif yang menunjukkan 'mengalami dampak negatif'. 雨に降られる berarti 'kehujanan (merugikan)'.",
+    "sort_order": 32
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "子供の時、母に野菜を食べ _____。(Waktu kecil, saya disuruh makan sayuran oleh ibu)",
+    "options": [
+      "させられた",
+      "られた",
+      "させた",
+      "てもらった"
+    ],
+    "correct_answer": "させられた",
+    "explanation": "~させられる adalah bentuk kausatif-pasif yang berarti 'dipaksa/disuruh melakukan sesuatu (dengan perasaan enggan)'.",
+    "sort_order": 33
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "田中さんは日本語 _____ 英語も話せる。(Tanaka-san bisa berbicara Jepang maupun Inggris)",
+    "options": [
+      "はもちろん",
+      "だけでなく",
+      "ばかりでなく",
+      "のみならず"
+    ],
+    "correct_answer": "はもちろん",
+    "explanation": "~はもちろん berarti 'tentu saja... juga'. Menunjukkan bahwa yang pertama sudah jelas, ditambah yang kedua juga benar.",
+    "sort_order": 34
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "試験の結果 _____ 、合格できると思う。(Dilihat dari hasil ujian, saya pikir saya bisa lulus)",
+    "options": [
+      "からすると",
+      "について",
+      "にとって",
+      "として"
+    ],
+    "correct_answer": "からすると",
+    "explanation": "~からすると berarti 'jika dilihat dari/berdasarkan'. Menunjukkan penilaian berdasarkan sesuatu.",
+    "sort_order": 35
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "雨が降りそうだから、傘を持って行った _____ がいい。(Sepertinya akan hujan, jadi lebih baik bawa payung)",
+    "options": [
+      "ほう",
+      "もの",
+      "こと",
+      "わけ"
+    ],
+    "correct_answer": "ほう",
+    "explanation": "~たほうがいい berarti 'lebih baik melakukan'. Digunakan untuk memberi saran atau rekomendasi.",
+    "sort_order": 36
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "忙しくて、昼ご飯を食べる _____ がない。(Saya sibuk dan tidak punya waktu untuk makan siang)",
+    "options": [
+      "暇",
+      "時間",
+      "余裕",
+      "機会"
+    ],
+    "correct_answer": "暇",
+    "explanation": "~する暇がない berarti 'tidak punya waktu untuk'. 暇 dalam konteks ini berarti waktu luang.",
+    "sort_order": 37
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "寒かった _____ 、風邪をひいてしまった。(Karena kedinginan, saya masuk angin)",
+    "options": [
+      "せいで",
+      "おかげで",
+      "ために",
+      "ので"
+    ],
+    "correct_answer": "せいで",
+    "explanation": "~せいで berarti 'karena/gara-gara (hasil negatif)'. Menunjukkan penyebab dari sesuatu yang buruk.",
+    "sort_order": 38
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "先生の助け _____ 、合格することができた。(Berkat bantuan guru, saya bisa lulus)",
+    "options": [
+      "のおかげで",
+      "のせいで",
+      "のために",
+      "によって"
+    ],
+    "correct_answer": "のおかげで",
+    "explanation": "~のおかげで berarti 'berkat/karena (hasil positif)'. Menunjukkan penyebab dari sesuatu yang baik.",
+    "sort_order": 39
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "grammar",
+    "question_text": "日本語を勉強する _____ に、毎日アニメを見ている。(Agar belajar bahasa Jepang, saya menonton anime setiap hari)",
+    "options": [
+      "ため",
+      "ように",
+      "ので",
+      "から"
+    ],
+    "correct_answer": "ため",
+    "explanation": "~するために berarti 'untuk/agar'. Menunjukkan tujuan dengan kata kerja.",
+    "sort_order": 40
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【広告】「新しいカフェが駅前にオープンしました。オープン記念として、今週末はコーヒーが半額です。平日は朝7時から夜10時まで、週末は朝8時から夜11時まで営業しています。」\n\n質問: 土曜日の朝6時にこのカフェに行くことができますか。",
+    "options": [
+      "できない。まだ開いていないから。",
+      "できる。7時から開いているから。",
+      "できる。8時から開いているから。",
+      "わからない。書いていないから。"
+    ],
+    "correct_answer": "できない。まだ開いていないから。",
+    "explanation": "Iklan mengatakan akhir pekan (週末=土日) buka jam 8 pagi. Sabtu jam 6 pagi masih terlalu awal, jadi tidak bisa pergi.",
+    "sort_order": 41
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【メール】田中様\n\nお世話になっております。先日お願いした資料について、来週の月曜日までにお送りいただけますでしょうか。ご確認のほど、よろしくお願いいたします。\n山田\n\n質問: 山田さんは田中さんに何を頼んでいますか。",
+    "options": [
+      "来週の月曜日までに資料を送ってほしい",
+      "先週の月曜日までに資料を送ってほしい",
+      "今週の月曜日に会いたい",
+      "来週の月曜日に電話してほしい"
+    ],
+    "correct_answer": "来週の月曜日までに資料を送ってほしい",
+    "explanation": "Email mengatakan '来週の月曜日までにお送りいただけますでしょうか' yang berarti meminta untuk mengirim dokumen paling lambat Senin minggu depan.",
+    "sort_order": 42
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【新聞記事】「最近、若者の間で読書離れが進んでいる。スマートフォンの普及により、本を読む時間が減っているためだと考えられる。しかし、電子書籍の売り上げは増えており、読書の形が変わってきているとも言える。」\n\n質問: この記事によると、若者はなぜ本を読まなくなったのですか。",
+    "options": [
+      "スマートフォンを使う時間が増えたから",
+      "本が高くなったから",
+      "図書館が少なくなったから",
+      "電子書籍が人気になったから"
+    ],
+    "correct_answer": "スマートフォンを使う時間が増えたから",
+    "explanation": "Artikel menjelaskan bahwa karena penyebaran smartphone (スマートフォンの普及), waktu untuk membaca buku berkurang.",
+    "sort_order": 43
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【お知らせ】「本日、午後2時から4時まで、館内の点検を行います。その間、図書館はご利用いただけません。ご不便をおかけしますが、ご了承ください。」\n\n質問: 午後3時に図書館を利用できますか。",
+    "options": [
+      "利用できない",
+      "利用できる",
+      "2時間だけ利用できる",
+      "午前中なら利用できる"
+    ],
+    "correct_answer": "利用できない",
+    "explanation": "Pengumuman mengatakan pemeriksaan dilakukan dari jam 2 siang hingga jam 4 sore, dan perpustakaan tidak bisa digunakan selama waktu itu. Jam 3 sore masuk dalam rentang tersebut.",
+    "sort_order": 44
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【説明文】「日本では、春になると桜が咲きます。多くの人が桜の下で花見をします。花見は、友達や家族と一緒に食べたり飲んだりしながら桜を楽しむ日本の伝統的な習慣です。」\n\n質問: 花見とは何ですか。",
+    "options": [
+      "桜を見ながら食べたり飲んだりすること",
+      "春に旅行に行くこと",
+      "桜の木を植えること",
+      "桜の写真を撮ること"
+    ],
+    "correct_answer": "桜を見ながら食べたり飲んだりすること",
+    "explanation": "Teks menjelaskan bahwa hanami adalah kebiasaan menikmati sakura sambil makan dan minum bersama teman atau keluarga.",
+    "sort_order": 45
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【意見文】「私は、学生は制服を着るべきだと思う。制服があれば、毎日何を着るか考える必要がないし、みんな平等だからだ。ただし、個性を大切にしたい人もいるので、週に一度は私服の日があってもいいと思う。」\n\n質問: 筆者の意見として正しいものはどれですか。",
+    "options": [
+      "制服は必要だが、たまに私服を着る日があってもいい",
+      "制服は絶対に必要だ",
+      "私服のほうがいい",
+      "制服は必要ない"
+    ],
+    "correct_answer": "制服は必要だが、たまに私服を着る日があってもいい",
+    "explanation": "Penulis mendukung seragam tetapi juga mengatakan bahwa tidak masalah jika ada hari berpakaian bebas sekali seminggu untuk menghargai individualitas.",
+    "sort_order": 46
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【レシピ】「カレーの作り方：①野菜と肉を切る。②鍋で肉を炒める。③野菜を入れて炒める。④水を入れて煮る。⑤カレールーを入れて混ぜる。」\n\n質問: カレーを作るとき、最初に何をしますか。",
+    "options": [
+      "野菜と肉を切る",
+      "肉を炒める",
+      "水を入れる",
+      "カレールーを入れる"
+    ],
+    "correct_answer": "野菜と肉を切る",
+    "explanation": "Resep menunjukkan langkah pertama (①) adalah memotong sayuran dan daging.",
+    "sort_order": 47
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【掲示板】「今週の金曜日、午後6時から飲み会があります。参加したい方は、水曜日までに田中さんに連絡してください。場所は駅前の居酒屋です。」\n\n質問: 参加したい人は、いつまでに連絡すればいいですか。",
+    "options": [
+      "水曜日まで",
+      "金曜日まで",
+      "木曜日まで",
+      "月曜日まで"
+    ],
+    "correct_answer": "水曜日まで",
+    "explanation": "Pengumuman dengan jelas menyebutkan bahwa yang ingin ikut harus menghubungi Tanaka-san paling lambat hari Rabu (水曜日まで).",
+    "sort_order": 48
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【日記】「今日は朝から雨だった。傘を持っていくのを忘れて、びしょ濡れになってしまった。会社に着いたら、同僚が『大丈夫？』と心配してくれて、タオルを貸してくれた。優しい人がいて、本当に助かった。」\n\n質問: この人は、なぜびしょ濡れになりましたか。",
+    "options": [
+      "傘を持っていかなかったから",
+      "傘が壊れたから",
+      "雨が強かったから",
+      "傘を忘れて帰ったから"
+    ],
+    "correct_answer": "傘を持っていかなかったから",
+    "explanation": "Diary menjelaskan dia lupa membawa payung (傘を持っていくのを忘れて), sehingga basah kuyup.",
+    "sort_order": 49
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【案内】「当店では、環境保護のため、プラスチックバッグの配布を中止いたしました。エコバッグをお持ちでないお客様には、紙袋を1枚10円で販売しております。ご協力をお願いいたします。」\n\n質問: この店では、買い物袋をどうしていますか。",
+    "options": [
+      "プラスチックバッグは配らず、紙袋は有料",
+      "すべて無料",
+      "プラスチックバッグは有料、紙袋は無料",
+      "すべて有料"
+    ],
+    "correct_answer": "プラスチックバッグは配らず、紙袋は有料",
+    "explanation": "Pemberitahuan mengatakan toko berhenti memberikan kantong plastik dan menjual kantong kertas seharga 10 yen per lembar.",
+    "sort_order": 50
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【記事】「最近、在宅勤務をする人が増えている。通勤時間がなくなり、家族と過ごす時間が増えたという声がある一方で、仕事とプライベートの区別がつきにくいという問題もある。」\n\n質問: 在宅勤務のメリットとして述べられていることは何ですか。",
+    "options": [
+      "家族と過ごす時間が増える",
+      "給料が上がる",
+      "仕事が楽になる",
+      "休みが増える"
+    ],
+    "correct_answer": "家族と過ごす時間が増える",
+    "explanation": "Artikel menyebutkan bahwa keuntungan kerja dari rumah adalah waktu bersama keluarga bertambah karena tidak ada waktu komuter.",
+    "sort_order": 51
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【手紙】「前略、お元気ですか。先日はお忙しい中、お時間をいただきありがとうございました。おかげさまで、プロジェクトが無事に終わりました。また機会がありましたら、ぜひお会いしたいと思います。草々」\n\n質問: この手紙の目的は何ですか。",
+    "options": [
+      "お礼を言うこと",
+      "謝ること",
+      "お願いすること",
+      "報告すること"
+    ],
+    "correct_answer": "お礼を言うこと",
+    "explanation": "Surat mengucapkan terima kasih atas waktu yang diberikan (ありがとうございました) dan proyek selesai dengan baik berkat bantuan tersebut.",
+    "sort_order": 52
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【評論】「近年、ペットを飼う人が増えているが、無責任な飼い主も少なくない。ペットを捨てたり、十分な世話をしなかったりする問題が起きている。ペットを飼う前に、最後まで責任を持てるかどうか、よく考える必要がある。」\n\n質問: 筆者が問題だと思っていることは何ですか。",
+    "options": [
+      "無責任な飼い方をする人がいること",
+      "ペットを飼う人が増えていること",
+      "ペットの値段が高いこと",
+      "ペットショップが多いこと"
+    ],
+    "correct_answer": "無責任な飼い方をする人がいること",
+    "explanation": "Esai mengkritik pemilik yang tidak bertanggung jawab yang membuang atau tidak merawat hewan peliharaan dengan baik.",
+    "sort_order": 53
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【インタビュー】記者「成功の秘訣は何ですか。」\n社長「失敗を恐れないことです。失敗から学ぶことが大切だと思います。」\n\n質問: 社長は何が大切だと言っていますか。",
+    "options": [
+      "失敗から学ぶこと",
+      "失敗しないこと",
+      "成功すること",
+      "お金を稼ぐこと"
+    ],
+    "correct_answer": "失敗から学ぶこと",
+    "explanation": "Presiden perusahaan mengatakan bahwa tidak takut gagal dan belajar dari kegagalan adalah penting.",
+    "sort_order": 54
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "membaca",
+    "question_text": "【説明】「この薬は、1日3回、食後に飲んでください。飲み忘れた場合は、次の食事の後に1回分だけ飲んでください。2回分を一度に飲まないようにしてください。」\n\n質問: この薬の飲み方として正しいものはどれですか。",
+    "options": [
+      "飲み忘れても、2回分を一度に飲んではいけない",
+      "食前に飲む",
+      "1日1回飲む",
+      "飲み忘れたら、次は2回分飲む"
+    ],
+    "correct_answer": "飲み忘れても、2回分を一度に飲んではいけない",
+    "explanation": "Instruksi dengan jelas menyatakan jangan minum 2 dosis sekaligus (2回分を一度に飲まないように), bahkan jika terlupa.",
+    "sort_order": 55
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【会社の会議】\n上司「来月の新製品発表会ですが、会場はどこにしますか。」\n部下「駅に近いホテルがいいと思います。お客様が来やすいですから。」\n上司「そうですね。じゃあ、そこで予約してください。」\n\n質問: 会場はどこに決まりましたか。",
+    "options": [
+      "駅に近いホテル",
+      "会社の会議室",
+      "駅から遠いホテル",
+      "まだ決まっていない"
+    ],
+    "correct_answer": "駅に近いホテル",
+    "explanation": "Bawahan menyarankan hotel dekat stasiun karena mudah dijangkau pelanggan, dan atasan menyetujuinya (そこで予約してください).",
+    "sort_order": 56
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【電話での会話】\nA「もしもし、田中ですが、山田さんはいらっしゃいますか。」\nB「申し訳ございません。山田はただいま外出しております。」\nA「そうですか。では、また後でかけ直します。」\n\n質問: 田中さんはこのあと何をしますか。",
+    "options": [
+      "また電話をかける",
+      "会社に行く",
+      "メールを送る",
+      "待つ"
+    ],
+    "correct_answer": "また電話をかける",
+    "explanation": "Tanaka mengatakan akan menelepon lagi nanti (また後でかけ直します) karena Yamada sedang keluar.",
+    "sort_order": 57
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【駅のアナウンス】\n「お客様にお知らせいたします。大雨のため、10時から11時まで、電車の運転を見合わせます。ご迷惑をおかけしますが、ご了承ください。」\n\n質問: 10時30分に電車に乗ることができますか。",
+    "options": [
+      "乗ることができない",
+      "乗ることができる",
+      "遅れるが乗ることができる",
+      "わからない"
+    ],
+    "correct_answer": "乗ることができない",
+    "explanation": "Pengumuman mengatakan kereta tidak beroperasi dari jam 10 hingga jam 11 karena hujan deras. Jam 10:30 termasuk dalam waktu tersebut.",
+    "sort_order": 58
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【店での会話】\n客「すみません、このシャツのLサイズはありますか。」\n店員「申し訳ございません。Lサイズは売り切れです。MサイズとXLサイズならございます。」\n客「そうですか。じゃあ、XLサイズをください。」\n\n質問: 客はどのサイズを買いますか。",
+    "options": [
+      "XLサイズ",
+      "Lサイズ",
+      "Mサイズ",
+      "買わない"
+    ],
+    "correct_answer": "XLサイズ",
+    "explanation": "Pelanggan awalnya ingin ukuran L tapi habis, lalu memutuskan membeli ukuran XL (XLサイズをください).",
+    "sort_order": 59
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【友達との会話】\nA「明日のパーティー、何時に集まる？」\nB「6時にしよう。その前に買い物に行きたいから。」\nA「わかった。じゃあ、6時に駅前で。」\n\n質問: 二人はどこで会いますか。",
+    "options": [
+      "駅前",
+      "パーティー会場",
+      "店",
+      "Bさんの家"
+    ],
+    "correct_answer": "駅前",
+    "explanation": "A mengatakan mereka akan bertemu di depan stasiun jam 6 (6時に駅前で).",
+    "sort_order": 60
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【職場での会話】\n上司「今日の午後、取引先に行ってもらえますか。」\n部下「すみません、今日は別の会議があります。明日ではだめですか。」\n上司「わかりました。じゃあ、明日お願いします。」\n\n質問: 部下はいつ取引先に行きますか。",
+    "options": [
+      "明日",
+      "今日の午後",
+      "今日の午前",
+      "来週"
+    ],
+    "correct_answer": "明日",
+    "explanation": "Bawahan tidak bisa pergi hari ini karena ada rapat lain, lalu atasan menyetujui untuk pergi besok (明日お願いします).",
+    "sort_order": 61
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【レストランでの会話】\n客「注文をお願いします。ハンバーグとサラダをください。」\nウェイター「かしこまりました。お飲み物はいかがですか。」\n客「コーヒーをお願いします。」\n\n質問: 客は何を注文しましたか。",
+    "options": [
+      "ハンバーグとサラダとコーヒー",
+      "ハンバーグだけ",
+      "サラダとコーヒー",
+      "ハンバーグとコーヒー"
+    ],
+    "correct_answer": "ハンバーグとサラダとコーヒー",
+    "explanation": "Pelanggan memesan hamburger steak dan salad, lalu ditambah kopi ketika pelayan menanyakan minuman.",
+    "sort_order": 62
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【学校での会話】\n先生「来週の遠足ですが、雨の場合は中止します。」\n学生「中止になったら、どうしますか。」\n先生「その場合は、学校で授業をします。」\n\n質問: 雨が降ったら、何をしますか。",
+    "options": [
+      "学校で授業をする",
+      "遠足に行く",
+      "家で休む",
+      "図書館に行く"
+    ],
+    "correct_answer": "学校で授業をする",
+    "explanation": "Guru menjelaskan jika hujan, piknik dibatalkan dan akan ada kelas di sekolah (学校で授業をします).",
+    "sort_order": 63
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【病院での会話】\n患者「先生、風邪が治りません。」\n医者「そうですか。では、薬を変えてみましょう。これを1週間飲んでみてください。」\n患者「わかりました。ありがとうございます。」\n\n質問: 医者は何をすることにしましたか。",
+    "options": [
+      "薬を変える",
+      "注射をする",
+      "入院させる",
+      "検査をする"
+    ],
+    "correct_answer": "薬を変える",
+    "explanation": "Dokter memutuskan untuk mengganti obat (薬を変えてみましょう) karena pilek pasien tidak sembuh.",
+    "sort_order": 64
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【家族の会話】\n母「今晩、何が食べたい？」\n子供「カレーがいい！」\n母「昨日もカレーだったでしょう。今日は違うものにしましょう。」\n子供「じゃあ、ハンバーグ。」\n\n質問: 今晩、何を作りますか。",
+    "options": [
+      "ハンバーグ",
+      "カレー",
+      "まだ決まっていない",
+      "寿司"
+    ],
+    "correct_answer": "ハンバーグ",
+    "explanation": "Anak awalnya ingin kari tapi ibu menolak karena kemarin juga kari, lalu anak memilih hamburger steak.",
+    "sort_order": 65
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【旅行代理店での会話】\n客「北海道旅行のパンフレットをください。」\n店員「はい、こちらです。3日間コースと5日間コースがあります。」\n客「5日間は長すぎるので、3日間コースでお願いします。」\n\n質問: 客はどのコースを選びましたか。",
+    "options": [
+      "3日間コース",
+      "5日間コース",
+      "まだ決めていない",
+      "1週間コース"
+    ],
+    "correct_answer": "3日間コース",
+    "explanation": "Pelanggan mengatakan 5 hari terlalu lama dan memilih paket 3 hari (3日間コースでお願いします).",
+    "sort_order": 66
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【図書館での会話】\nA「この本を借りたいのですが。」\nB「すみません、その本は今貸し出し中です。予約しますか。」\nA「はい、お願いします。」\n\n質問: Aさんはその本を借りることができましたか。",
+    "options": [
+      "借りることができなかった",
+      "借りることができた",
+      "明日借りることができる",
+      "わからない"
+    ],
+    "correct_answer": "借りることができなかった",
+    "explanation": "Buku sedang dipinjam orang lain (貸し出し中), jadi A tidak bisa meminjam sekarang dan hanya bisa memesan.",
+    "sort_order": 67
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【会社での会話】\n上司「来週の出張ですが、飛行機のチケットは予約しましたか。」\n部下「はい、もう予約しました。ホテルも予約済みです。」\n上司「ありがとう。準備万端ですね。」\n\n質問: 部下は何を予約しましたか。",
+    "options": [
+      "飛行機とホテル",
+      "飛行機だけ",
+      "ホテルだけ",
+      "何も予約していない"
+    ],
+    "correct_answer": "飛行機とホテル",
+    "explanation": "Bawahan mengatakan sudah memesan tiket pesawat (もう予約しました) dan hotel juga sudah dipesan (ホテルも予約済みです).",
+    "sort_order": 68
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【スーパーでのアナウンス】\n「お客様にお知らせします。本日、野菜売り場で特売を行っております。新鮮なトマトが1パック100円です。ぜひお買い求めください。」\n\n質問: 今日、何が安くなっていますか。",
+    "options": [
+      "トマト",
+      "肉",
+      "魚",
+      "果物"
+    ],
+    "correct_answer": "トマト",
+    "explanation": "Pengumuman mengatakan ada obral di bagian sayuran dan tomat segar dijual 100 yen per pak.",
+    "sort_order": 69
+  },
+  {
+    "test_type": "cert_jlpt_n3",
+    "section": "listening",
+    "question_text": "【友達との電話】\nA「もしもし、明日の約束だけど、2時から3時に変更してもいい？」\nB「ごめん、3時は別の予定があるんだ。2時のままでお願い。」\nA「わかった。じゃあ、2時ね。」\n\n質問: 二人は何時に会いますか。",
+    "options": [
+      "2時",
+      "3時",
+      "4時",
+      "まだ決まっていない"
+    ],
+    "correct_answer": "2時",
+    "explanation": "A ingin mengubah jam 2 ke jam 3, tapi B tidak bisa jam 3 dan meminta tetap jam 2. A menyetujui (2時のままでお願い).",
+    "sort_order": 70
+  }
+]

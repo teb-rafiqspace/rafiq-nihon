@@ -1,0 +1,497 @@
+[
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "昨日、友達と映画を___に行きました。",
+    "options": ["見", "観", "読み", "聞き"],
+    "correct_answer": "見",
+    "explanation": "映画を見る (melihat film) adalah ungkapan yang benar. 見る digunakan untuk menonton.",
+    "sort_order": 1
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "部屋が___から、窓を開けてください。",
+    "options": ["暑い", "熱い", "温かい", "暖かい"],
+    "correct_answer": "暑い",
+    "explanation": "暑い digunakan untuk cuaca atau suhu ruangan yang panas. 熱い untuk benda panas, 温かい/暖かい untuk hangat.",
+    "sort_order": 2
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "電車が___ので、会社に遅れました。",
+    "options": ["止まった", "泊まった", "留まった", "休んだ"],
+    "correct_answer": "止まった",
+    "explanation": "止まる berarti berhenti (untuk kendaraan). 泊まる = menginap, 留まる = tetap tinggal, 休む = istirahat.",
+    "sort_order": 3
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosaika",
+    "question_text": "この漢字の___が分かりません。",
+    "options": ["読み方", "読み物", "読者", "読書"],
+    "correct_answer": "読み方",
+    "explanation": "読み方 berarti cara membaca. 読み物 = bacaan, 読者 = pembaca, 読書 = membaca buku.",
+    "sort_order": 4
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "試験の結果を___しています。",
+    "options": ["楽しみ", "楽しい", "楽", "楽しむ"],
+    "correct_answer": "楽しみ",
+    "explanation": "楽しみにする berarti menantikan dengan senang hati. 楽しみ adalah bentuk nomina.",
+    "sort_order": 5
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "風邪を___から、学校を休みました。",
+    "options": ["引いた", "吸った", "持った", "掛けた"],
+    "correct_answer": "引いた",
+    "explanation": "風邪を引く adalah ungkapan untuk terkena flu/pilek. Ini adalah kolokasi tetap dalam bahasa Jepang.",
+    "sort_order": 6
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "今日は___が悪いので、早く帰ります。",
+    "options": ["体", "気分", "具合", "調子"],
+    "correct_answer": "具合",
+    "explanation": "具合が悪い berarti kondisi tubuh tidak baik/sakit. Semua pilihan bisa digunakan tapi 具合 paling umum untuk kondisi kesehatan.",
+    "sort_order": 7
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "駅で友達と___しました。",
+    "options": ["待ち合わせ", "待たせ", "待ち", "待合"],
+    "correct_answer": "待ち合わせ",
+    "explanation": "待ち合わせる berarti bertemu/janjian bertemu di suatu tempat. 待ち合わせ adalah bentuk nomina.",
+    "sort_order": 8
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "この問題は難しくて、___が分かりません。",
+    "options": ["意味", "意見", "意思", "意識"],
+    "correct_answer": "意味",
+    "explanation": "意味 berarti arti/makna. 意見 = pendapat, 意思 = kehendak, 意識 = kesadaran.",
+    "sort_order": 9
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "スーパーで野菜を___しました。",
+    "options": ["売って", "買って", "運んで", "貸して"],
+    "correct_answer": "買って",
+    "explanation": "買う berarti membeli. Di supermarket kita membeli barang. 売る = menjual, 運ぶ = mengangkut, 貸す = meminjamkan.",
+    "sort_order": 10
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "日本語を___するために、毎日勉強しています。",
+    "options": ["上手", "上達", "進歩", "向上"],
+    "correct_answer": "上達",
+    "explanation": "上達する berarti meningkat/menjadi mahir (dalam keterampilan). 上手 = pandai (adjektiva), 進歩 = kemajuan, 向上 = peningkatan.",
+    "sort_order": 11
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "この服は___が高すぎて、買えません。",
+    "options": ["値段", "料金", "代金", "費用"],
+    "correct_answer": "値段",
+    "explanation": "値段 adalah harga barang. 料金 = tarif/biaya layanan, 代金 = jumlah pembayaran, 費用 = biaya/pengeluaran.",
+    "sort_order": 12
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "雨が___ので、傘を持って行きました。",
+    "options": ["降って", "落ちて", "流れて", "吹いて"],
+    "correct_answer": "降って",
+    "explanation": "降る digunakan untuk hujan atau salju turun. 落ちる = jatuh, 流れる = mengalir, 吹く = berhembus.",
+    "sort_order": 13
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "田中さんは___がとても速いです。",
+    "options": ["足", "手", "頭", "口"],
+    "correct_answer": "足",
+    "explanation": "足が速い berarti lari cepat. Ini adalah ungkapan idiomatik dalam bahasa Jepang.",
+    "sort_order": 14
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "明日は大切な___があります。",
+    "options": ["約束", "約束する", "約", "束"],
+    "correct_answer": "約束",
+    "explanation": "約束 berarti janji/perjanjian. Ini adalah bentuk nomina yang sesuai dengan pola kalimat.",
+    "sort_order": 15
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "この本を友達に___てもらいました。",
+    "options": ["借り", "貸し", "受け", "渡し"],
+    "correct_answer": "貸し",
+    "explanation": "貸してもらう berarti dipinjamkan (menerima pinjaman). 借りる = meminjam, 受ける = menerima, 渡す = menyerahkan.",
+    "sort_order": 16
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "毎朝、犬の___をします。",
+    "options": ["散歩", "歩き", "歩く", "歩行"],
+    "correct_answer": "散歩",
+    "explanation": "散歩 berarti jalan-jalan. 犬の散歩をする = mengajak anjing jalan-jalan adalah ungkapan yang umum.",
+    "sort_order": 17
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "兄は今、大学で___を勉強しています。",
+    "options": ["経済", "経済学", "経済的", "経済する"],
+    "correct_answer": "経済",
+    "explanation": "経済 (ekonomi) atau 経済学 bisa digunakan, tapi 経済 lebih umum dalam konteks ini. 経済的 = ekonomis (adjektiva).",
+    "sort_order": 18
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "この仕事は___ですが、面白いです。",
+    "options": ["大変", "大切", "大事", "大きい"],
+    "correct_answer": "大変",
+    "explanation": "大変 berarti sulit/berat (untuk pekerjaan). 大切/大事 = penting, 大きい = besar.",
+    "sort_order": 19
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "kosakata",
+    "question_text": "新しい___を探しています。",
+    "options": ["アパート", "マンション", "住所", "家"],
+    "correct_answer": "アパート",
+    "explanation": "Semua bisa benar, tapi アパート (apartemen) adalah pilihan yang paling umum untuk mencari tempat tinggal baru.",
+    "sort_order": 20
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "朝ごはんを___から、学校に行きました。",
+    "options": ["食べて", "食べる", "食べた", "食べ"],
+    "correct_answer": "食べて",
+    "explanation": "て-form (食べて) digunakan untuk menghubungkan dua tindakan berurutan. Pola: ~てから = setelah melakukan ~.",
+    "sort_order": 21
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "日本語が上手に___たいです。",
+    "options": ["なり", "する", "言い", "話し"],
+    "correct_answer": "なり",
+    "explanation": "~になりたい berarti ingin menjadi ~. Untuk kondisi/keadaan (上手), gunakan なる bukan する.",
+    "sort_order": 22
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "この本は子供___も読めます。",
+    "options": ["でも", "にも", "とも", "から"],
+    "correct_answer": "でも",
+    "explanation": "~でも berarti 'bahkan ~'. 子供でも = bahkan anak-anak. Pola ini menekankan sesuatu yang mengejutkan atau ekstrem.",
+    "sort_order": 23
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "雨が___たら、試合は中止です。",
+    "options": ["降っ", "降り", "降る", "降って"],
+    "correct_answer": "降っ",
+    "explanation": "~たら adalah bentuk kondisional. Untuk verba Kelompok I seperti 降る, bentuknya adalah 降ったら (dari 降った + ら).",
+    "sort_order": 24
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "先生に日本語を___もらいました。",
+    "options": ["教えて", "教える", "教えた", "教え"],
+    "correct_answer": "教えて",
+    "explanation": "~てもらう berarti menerima tindakan dari orang lain untuk keuntungan diri sendiri. Gunakan て-form sebelum もらう.",
+    "sort_order": 25
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "図書館では静かに___なければなりません。",
+    "options": ["し", "する", "して", "した"],
+    "correct_answer": "し",
+    "explanation": "~なければならない berarti 'harus'. Bentuknya: ます-stem + なければならない. Untuk する, ます-stem adalah し.",
+    "sort_order": 26
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "窓が___います。誰か開けましたか。",
+    "options": ["開いて", "開けて", "開く", "開け"],
+    "correct_answer": "開いて",
+    "explanation": "~ている menunjukkan keadaan hasil. 開いている = (dalam keadaan) terbuka. 開く adalah verba intransitif.",
+    "sort_order": 27
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "お酒を___でもいいですか。",
+    "options": ["飲ん", "飲み", "飲む", "飲んで"],
+    "correct_answer": "飲ん",
+    "explanation": "~てもいい berarti 'boleh melakukan ~'. Bentuknya: て-form + もいい. 飲む → 飲んで, jadi 飲んでもいい.",
+    "sort_order": 28
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "宿題を___しまいました。",
+    "options": ["忘れて", "忘れ", "忘れる", "忘れた"],
+    "correct_answer": "忘れて",
+    "explanation": "~てしまう menunjukkan penyesalan atau penyelesaian. Gunakan て-form + しまう. 忘れる → 忘れてしまう.",
+    "sort_order": 29
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "この漢字の___方を教えてください。",
+    "options": ["書き", "書く", "書いて", "書い"],
+    "correct_answer": "書き",
+    "explanation": "~方 (cara ~) diikuti oleh ます-stem dari verba. 書く → 書きます → 書き方 (cara menulis).",
+    "sort_order": 30
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "田中さんは親切___、頭もいいです。",
+    "options": ["で", "な", "だ", "に"],
+    "correct_answer": "で",
+    "explanation": "Untuk menghubungkan dua adjektiva-na atau nomina, gunakan で. 親切で頭もいい = baik hati dan juga pintar.",
+    "sort_order": 31
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "映画を見___、夕飯を食べました。",
+    "options": ["てから", "た後で", "ながら", "たり"],
+    "correct_answer": "てから",
+    "explanation": "~てから berarti 'setelah melakukan ~'. Menunjukkan urutan tindakan yang jelas. た後で juga benar tapi てから lebih natural.",
+    "sort_order": 32
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "友達___プレゼントをもらいました。",
+    "options": ["に", "から", "で", "を"],
+    "correct_answer": "に",
+    "explanation": "Pola ~にもらう: menerima dari seseorang. Partikel に menandai pemberi dalam pola もらう.",
+    "sort_order": 33
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "音楽を___ながら、勉強しています。",
+    "options": ["聞き", "聞く", "聞いて", "聞いた"],
+    "correct_answer": "聞き",
+    "explanation": "~ながら berarti 'sambil melakukan ~'. Digunakan dengan ます-stem. 聞く → 聞きます → 聞きながら.",
+    "sort_order": 34
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "先生___質問してもいいですか。",
+    "options": ["に", "を", "へ", "と"],
+    "correct_answer": "に",
+    "explanation": "~に質問する: bertanya kepada seseorang. Partikel に menandai target pertanyaan.",
+    "sort_order": 35
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "昨日は忙し___て、寝る時間がありませんでした。",
+    "options": ["く", "い", "くて", "かった"],
+    "correct_answer": "く",
+    "explanation": "Untuk adjektiva-i + て: hilangkan い, tambahkan くて. 忙しい → 忙しくて. Menunjukkan alasan.",
+    "sort_order": 36
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "この本は難しすぎて、___。",
+    "options": ["読めません", "読みません", "読まないです", "読みたくないです"],
+    "correct_answer": "読めません",
+    "explanation": "~すぎる (terlalu ~) sering diikuti oleh bentuk potensial negatif untuk menunjukkan ketidakmampuan. 読めません = tidak bisa membaca.",
+    "sort_order": 37
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "日本へ___ことがありますか。",
+    "options": ["行った", "行く", "行って", "行き"],
+    "correct_answer": "行った",
+    "explanation": "~たことがある menunjukkan pengalaman. Bentuknya: bentuk-ta + ことがある. 行く → 行った.",
+    "sort_order": 38
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "この薬を___ほうがいいですよ。",
+    "options": ["飲んだ", "飲む", "飲んで", "飲み"],
+    "correct_answer": "飲んだ",
+    "explanation": "~たほうがいい berarti 'sebaiknya melakukan ~'. Bentuknya: bentuk-ta + ほうがいい. 飲む → 飲んだ.",
+    "sort_order": 39
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "grammar",
+    "question_text": "部屋が___られました。",
+    "options": ["汚さ", "汚し", "汚れ", "汚く"],
+    "correct_answer": "汚さ",
+    "explanation": "Bentuk pasif: ます-stem + られる (untuk verba Kelompok II). 汚す (mengotori) → 汚される (dikotori). Tapi 汚す adalah Kelompok I, jadi 汚さ + れる.",
+    "sort_order": 40
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "お知らせ：明日、学校の図書館は改装のため休館します。本の返却は来週でもかまいません。ご不便をおかけして申し訳ございません。\n\nこの知らせによると、明日は何ができませんか。",
+    "options": ["本を借りること", "本を読むこと", "本を返すこと", "学校に行くこと"],
+    "correct_answer": "本を借りること",
+    "explanation": "Perpustakaan tutup karena renovasi, jadi tidak bisa meminjam atau membaca buku di perpustakaan. Pengembalian buku boleh minggu depan.",
+    "sort_order": 41
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "田中：明日のパーティーに来られますか。\n山田：すみません、明日は用事があって行けません。でも、プレゼントは今日渡しておきますね。\n\n山田さんはどうしますか。",
+    "options": ["明日パーティーに行く", "今日プレゼントを渡す", "明日プレゼントを持って行く", "用事をキャンセルする"],
+    "correct_answer": "今日プレゼントを渡す",
+    "explanation": "山田さんは明日来られないが、プレゼントは今日渡しておく (今日渡します) と言っています。",
+    "sort_order": 42
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "レストランの看板：\n営業時間：11:00〜22:00\n定休日：毎週火曜日\nランチタイム：11:00〜15:00（ドリンク無料）\n\n水曜日の14:00に行ったら、どうなりますか。",
+    "options": ["店は休みです", "ドリンクは無料です", "ランチは食べられません", "夜だけ営業しています"],
+    "correct_answer": "ドリンクは無料です",
+    "explanation": "水曜日は営業日で、14:00はランチタイム (11:00-15:00) なので、ドリンクが無料です。",
+    "sort_order": 43
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "メール：\n佐藤さん、先日貸してくださった本、とても面白かったです。来週の月曜日にお返ししますね。いつもありがとうございます。\n\nこのメールを書いた人は何をしますか。",
+    "options": ["来週本を借りる", "来週本を返す", "先週本を返した", "今日本を貸す"],
+    "correct_answer": "来週本を返す",
+    "explanation": "「来週の月曜日にお返しします」と書いてあるので、来週本を返します。",
+    "sort_order": 44
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "私の趣味は写真を撮ることです。毎週末、カメラを持って色々な場所に行きます。特に自然の風景が好きで、山や海に行くことが多いです。\n\nこの人の趣味は何ですか。",
+    "options": ["旅行", "写真", "登山", "水泳"],
+    "correct_answer": "写真",
+    "explanation": "「私の趣味は写真を撮ることです」と最初に書いてあります。他は趣味のための活動です。",
+    "sort_order": 45
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "注意：このエレベーターは8人まで乗れます。重い荷物を持っている時は、階段を使ってください。非常時には、赤いボタンを押してください。\n\nこの注意書きによると、正しいのはどれですか。",
+    "options": ["9人で乗ってはいけない", "荷物は持って乗れない", "階段は使えない", "赤いボタンをいつも押す"],
+    "correct_answer": "9人で乗ってはいけない",
+    "explanation": "エレベーターは8人までなので、9人で乗るのは禁止です。重い荷物の時は階段を推奨、非常時のみ赤ボタン。",
+    "sort_order": 46
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "昨日、友達と映画を見に行く約束をしていましたが、急に仕事が入ってしまいました。友達に電話をして、来週に変更してもらいました。\n\nこの人は昨日どうしましたか。",
+    "options": ["映画を見た", "友達と会った", "約束を変更した", "仕事を休んだ"],
+    "correct_answer": "約束を変更した",
+    "explanation": "仕事が入ったので、友達に電話して約束を来週に変更しました。昨日は映画を見ていません。",
+    "sort_order": 47
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "スーパーのチラシ：\n大セール！今週末限定\n野菜：30%オフ\n肉類：20%オフ\n魚：50%オフ\n土曜日・日曜日のみ\n\n一番安く買えるのは何ですか。",
+    "options": ["野菜", "肉", "魚", "全部同じ"],
+    "correct_answer": "魚",
+    "explanation": "魚は50%オフで最大の割引です。野菜は30%オフ、肉類は20%オフです。",
+    "sort_order": 48
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "私は毎朝6時に起きます。起きてから、顔を洗って、朝ごはんを食べます。7時に家を出て、電車で会社に行きます。会社には8時に着きます。\n\nこの人は家から会社まで何分かかりますか。",
+    "options": ["30分", "1時間", "2時間", "45分"],
+    "correct_answer": "1時間",
+    "explanation": "7時に家を出て、8時に会社に着くので、1時間かかります。",
+    "sort_order": 49
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "お客様へ：\n本日、エアコンの修理をします。午後1時から3時まで、電気を止めます。ご協力をお願いいたします。\n　　　　　　　　　　　　　　　　　　管理人\n\n午後2時には何ができませんか。",
+    "options": ["エアコンを使うこと", "電気を使うこと", "水を使うこと", "外出すること"],
+    "correct_answer": "電気を使うこと",
+    "explanation": "午後1時から3時まで電気を止めるので、午後2時には電気を使えません。エアコン修理は理由であって禁止事項ではありません。",
+    "sort_order": 50
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "日記：\n今日は朝から雨でした。傘を持っていなかったので、駅でビニール傘を買いました。でも、午後には晴れてしまって、傘が必要ありませんでした。\n\nこの人の気持ちは何ですか。",
+    "options": ["嬉しい", "残念", "怖い", "楽しい"],
+    "correct_answer": "残念",
+    "explanation": "傘を買ったのに午後に晴れてしまって必要なくなったので、残念な気持ちです。「でも」と「〜てしまう」が残念な気持ちを示します。",
+    "sort_order": 51
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "駅前の新しいカフェは、コーヒーがとても美味しいです。値段も安くて、学生がたくさん来ます。私も週に2回ぐらい行きます。ただ、週末はいつも混んでいて、座れないこともあります。\n\nこのカフェについて、正しいのはどれですか。",
+    "options": ["週末は空いている", "値段が高い", "学生が多い", "コーヒーがまずい"],
+    "correct_answer": "学生が多い",
+    "explanation": "「学生がたくさん来ます」と書いてあります。値段は安い、週末は混んでいる、コーヒーは美味しいです。",
+    "sort_order": 52
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "お知らせ：\n明日の遠足は雨天決行です。雨が降っても行きます。ただし、台風や大雨の場合は中止します。中止の時は、朝7時までにメールでお知らせします。\n\n明日、小雨が降ったら、どうなりますか。",
+    "options": ["遠足は中止です", "遠足に行きます", "メールが来ます", "家で待ちます"],
+    "correct_answer": "遠足に行きます",
+    "explanation": "「雨天決行」なので、小雨なら遠足に行きます。台風や大雨の場合のみ中止です。",
+    "sort_order": 53
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "昨日、友達の結婚式に出席しました。式は午後2時からでしたが、私は1時間早く着いてしまいました。近くのカフェで時間をつぶしてから、会場に行きました。\n\nこの人は何時に会場に着きましたか。",
+    "options": ["1時", "2時", "3時", "12時"],
+    "correct_answer": "1時",
+    "explanation": "式は2時からで、1時間早く着いたので1時に着きました。その後カフェに行ってから会場に入りました。",
+    "sort_order": 54
+  },
+  {
+    "test_type": "cert_jlpt_n4",
+    "section": "membaca",
+    "question_text": "妹の誕生日にセーターをあげようと思います。妹は青が好きなので、青いセーターを探しています。昨日デパートに行きましたが、いいのが見つかりませんでした。今度、インターネットで探してみます。\n\nこの人は何をしますか。",
+    "options": ["デパートでまた探す", "インターネットで探す", "妹に聞く", "青い服を買う"],
+    "correct_answer": "インターネットで探す",
+    "explanation": "「今度、インターネットで探してみます」と書いてあります。デパートでは見つからなかったので、次はネットで探します。",
+    "sort_order": 55
+  }
+]

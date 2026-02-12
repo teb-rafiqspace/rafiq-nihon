@@ -91,7 +91,7 @@ DO $$
 BEGIN
   ALTER TABLE mock_test_questions DROP CONSTRAINT IF EXISTS mock_test_questions_test_type_check;
   ALTER TABLE mock_test_questions ADD CONSTRAINT mock_test_questions_test_type_check
-    CHECK (test_type IN ('kakunin', 'jlpt_n5', 'jlpt_n2', 'ielts_mock', 'toefl_mock'));
+    CHECK (test_type IN ('kakunin', 'jlpt_n5', 'jlpt_n4', 'jlpt_n3', 'jlpt_n2', 'jlpt_n1', 'ielts_mock', 'toefl_mock'));
 EXCEPTION WHEN OTHERS THEN
   RAISE NOTICE 'Could not update mock_test_questions test_type check: %', SQLERRM;
 END $$;

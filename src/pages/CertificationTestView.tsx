@@ -1,62 +1,101 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowLeft, Grid3X3, ChevronLeft, ChevronRight, Languages, BookOpen, MessageSquare, FileSearch } from 'lucide-react';
+import { ArrowLeft, Grid3X3, ChevronLeft, ChevronRight, BookOpen, MessageSquare, FileSearch, Headphones, Award } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { useMockTest } from '@/hooks/useMockTest';
-import { TestStartScreen, JLPT_N5_SECTIONS, JLPT_N2_SECTIONS } from '@/components/mocktest/TestStartScreen';
+import { useCertificationTest, CertTestConfig } from '@/hooks/useCertificationTest';
+import { TestStartScreen } from '@/components/mocktest/TestStartScreen';
 import { EnhancedTimer } from '@/components/mocktest/EnhancedTimer';
 import { EnhancedTestQuestion } from '@/components/mocktest/EnhancedTestQuestion';
 import { EnhancedTestResults } from '@/components/mocktest/EnhancedTestResults';
 import { SectionNavGrid } from '@/components/mocktest/SectionNavGrid';
 import { EnhancedSubmitDialog } from '@/components/mocktest/EnhancedSubmitDialog';
 import { ExitConfirmDialog } from '@/components/mocktest/ExitConfirmDialog';
-import { cn } from '@/lib/utils';
+import { CertificateUnlockedModal } from '@/components/certificate/CertificateUnlockedModal';
 
-const TEST_CONFIGS = {
-  kakunin: {
-    testType: 'kakunin' as const,
-    timeLimit: 30 * 60, // 30 minutes
-    passingScore: 70,
-    name: 'IM Japan Kakunin',
-    nameJp: 'かくにんテスト',
-    description: 'Simulasi tes bahasa Kemnaker',
-    xpReward: 50,
+const CERT_TEST_CONFIGS: Record<string, CertTestConfig> = {
+  cert_kakunin: {
+    testType: 'cert_kakunin',
+    name: 'Sertifikasi IM Japan Kakunin',
+    timeLimit: 30 * 60,
+    passingScore: 75,
+    xpReward: 100,
     sections: [
-      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 15, icon: <BookOpen className="h-4 w-4" /> },
-      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 10, icon: <MessageSquare className="h-4 w-4" /> },
-      { id: 'membaca', name: 'Pemahaman', nameJp: 'どっかい', questions: 5, icon: <FileSearch className="h-4 w-4" /> },
+      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 15 },
+      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 10 },
+      { id: 'membaca', name: 'Pemahaman', nameJp: 'どっかい', questions: 5 },
     ]
   },
-  jlpt_n5: {
-    testType: 'jlpt_n5' as const,
-    timeLimit: 60 * 60, // 60 minutes
-    passingScore: 60,
-    name: 'JLPT N5 Mock Test',
-    nameJp: 'もぎしけん',
-    description: 'Tes latihan lengkap untuk persiapan JLPT N5',
-    xpReward: 100,
-    sections: JLPT_N5_SECTIONS
+  cert_jlpt_n5: {
+    testType: 'cert_jlpt_n5',
+    name: 'Sertifikasi JLPT N5',
+    timeLimit: 60 * 60,
+    passingScore: 65,
+    xpReward: 150,
+    sections: [
+      { id: 'hiragana', name: 'Hiragana', nameJp: 'ひらがな', questions: 10 },
+      { id: 'katakana', name: 'Katakana', nameJp: 'カタカナ', questions: 5 },
+      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 15 },
+      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 15 },
+      { id: 'membaca', name: 'Pemahaman Bacaan', nameJp: 'どっかい', questions: 10 },
+    ]
   },
-  jlpt_n2: {
-    testType: 'jlpt_n2' as const,
-    timeLimit: 105 * 60, // 105 minutes
-    passingScore: 60,
-    name: 'JLPT N2 Mock Test',
-    nameJp: '模擬試験 N2',
-    description: 'Tes latihan lengkap untuk persiapan JLPT N2',
+  cert_jlpt_n4: {
+    testType: 'cert_jlpt_n4',
+    name: 'Sertifikasi JLPT N4',
+    timeLimit: 75 * 60,
+    passingScore: 65,
     xpReward: 200,
-    sections: JLPT_N2_SECTIONS
+    sections: [
+      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 20 },
+      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 20 },
+      { id: 'membaca', name: 'Pemahaman Bacaan', nameJp: 'どっかい', questions: 15 },
+    ]
   },
+  cert_jlpt_n3: {
+    testType: 'cert_jlpt_n3',
+    name: 'Sertifikasi JLPT N3',
+    timeLimit: 90 * 60,
+    passingScore: 65,
+    xpReward: 250,
+    sections: [
+      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 20 },
+      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 20 },
+      { id: 'membaca', name: 'Pemahaman Bacaan', nameJp: 'どっかい', questions: 15 },
+      { id: 'listening', name: 'Mendengarkan', nameJp: 'ちょうかい', questions: 15 },
+    ]
+  },
+  cert_jlpt_n2: {
+    testType: 'cert_jlpt_n2',
+    name: 'Sertifikasi JLPT N2',
+    timeLimit: 105 * 60,
+    passingScore: 65,
+    xpReward: 300,
+    sections: [
+      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 25 },
+      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 25 },
+      { id: 'membaca', name: 'Pemahaman Bacaan', nameJp: 'どっかい', questions: 20 },
+      { id: 'listening', name: 'Mendengarkan', nameJp: 'ちょうかい', questions: 20 },
+    ]
+  }
 };
 
-export default function MockTestView() {
+const SECTION_ICONS: Record<string, React.ReactNode> = {
+  hiragana: <BookOpen className="h-4 w-4" />,
+  katakana: <BookOpen className="h-4 w-4" />,
+  kosakata: <BookOpen className="h-4 w-4" />,
+  grammar: <MessageSquare className="h-4 w-4" />,
+  membaca: <FileSearch className="h-4 w-4" />,
+  listening: <Headphones className="h-4 w-4" />,
+};
+
+export default function CertificationTestView() {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
-  const testType = (searchParams.get('type') as keyof typeof TEST_CONFIGS) || 'kakunin';
-  
-  const config = TEST_CONFIGS[testType];
-  
+  const testType = searchParams.get('type') || 'cert_kakunin';
+
+  const config = CERT_TEST_CONFIGS[testType] || CERT_TEST_CONFIGS.cert_kakunin;
+
   const {
     questions,
     currentQuestion,
@@ -70,6 +109,7 @@ export default function MockTestView() {
     isReviewMode,
     testStarted,
     sections,
+    earnedCertificate,
     setAnswer,
     toggleFlag,
     goToQuestion,
@@ -86,43 +126,30 @@ export default function MockTestView() {
     startTest,
     getCurrentSection,
     totalTime
-  } = useMockTest(config);
-  
+  } = useCertificationTest(config);
+
   const [showNavGrid, setShowNavGrid] = useState(false);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
   const [showExitConfirm, setShowExitConfirm] = useState(false);
-  
+  const [showCertModal, setShowCertModal] = useState(true);
+
   const progress = questions.length > 0 ? ((currentIndex + 1) / questions.length) * 100 : 0;
   const isLastQuestion = currentIndex === questions.length - 1;
   const currentSection = getCurrentSection();
-  
-  const handleExit = () => {
-    setShowExitConfirm(true);
-  };
-  
-  const handleConfirmExit = () => {
-    navigate('/practice?tab=test');
-  };
-  
-  const handleSubmitClick = () => {
-    setShowSubmitConfirm(true);
-  };
-  
+
+  const handleExit = () => setShowExitConfirm(true);
+  const handleConfirmExit = () => navigate('/practice?tab=test');
+  const handleSubmitClick = () => setShowSubmitConfirm(true);
   const handleConfirmSubmit = () => {
     setShowSubmitConfirm(false);
     submitTest();
   };
-  
-  const handleRetry = () => {
-    window.location.reload();
-  };
-  
+  const handleRetry = () => window.location.reload();
   const handleGoToQuestion = (index: number) => {
     goToQuestion(index);
     setShowSubmitConfirm(false);
   };
-  
-  // Prepare sections for nav grid
+
   const navSections = sections.map(s => ({
     id: s.id,
     name: s.name,
@@ -130,56 +157,80 @@ export default function MockTestView() {
     startIndex: s.startIndex,
     count: s.count
   }));
-  
+
+  // Sections with icons for the start screen
+  const startScreenSections = config.sections.map(s => ({
+    ...s,
+    icon: SECTION_ICONS[s.id] || <BookOpen className="h-4 w-4" />,
+  }));
+
   // Show start screen before test begins
   if (!testStarted && !testResult) {
     return (
       <TestStartScreen
         testName={config.name}
-        testNameJp={config.nameJp}
+        testNameJp=""
         totalQuestions={questions.length || config.sections.reduce((acc, s) => acc + s.questions, 0)}
         timeMinutes={config.timeLimit / 60}
         passingScore={config.passingScore}
         xpReward={config.xpReward}
-        sections={config.sections}
+        sections={startScreenSections}
         onStart={startTest}
         onBack={() => navigate('/practice?tab=test')}
         isLoading={isLoading}
       />
     );
   }
-  
+
   // Show results screen
   if (testResult && !isReviewMode) {
+    // Adapt CertTestResult to TestResult format expected by EnhancedTestResults
+    const adaptedResult = {
+      score: testResult.score,
+      totalQuestions: testResult.totalQuestions,
+      passed: testResult.passed,
+      timeSpent: testResult.timeSpent,
+      sectionResults: testResult.sectionResults,
+    };
+
     return (
-      <EnhancedTestResults
-        result={testResult}
-        testName={config.name}
-        testNameJp={config.nameJp}
-        passingScore={config.passingScore}
-        xpReward={config.xpReward}
-        sections={navSections}
-        onReview={enterReviewMode}
-        onRetry={handleRetry}
-        onBack={() => navigate('/practice?tab=test')}
-        formatTime={formatTime}
-        totalTime={totalTime}
-      />
+      <>
+        <EnhancedTestResults
+          result={adaptedResult}
+          testName={config.name}
+          testNameJp=""
+          passingScore={config.passingScore}
+          xpReward={config.xpReward}
+          sections={navSections}
+          onReview={enterReviewMode}
+          onRetry={handleRetry}
+          onBack={() => navigate('/practice?tab=test')}
+          formatTime={formatTime}
+          totalTime={totalTime}
+        />
+        {earnedCertificate && showCertModal && (
+          <CertificateUnlockedModal
+            certificate={earnedCertificate}
+            testName={config.name}
+            onClose={() => setShowCertModal(false)}
+          />
+        )}
+      </>
     );
   }
-  
+
   // Loading state
   if (isLoading) {
     return (
       <div className="min-h-screen bg-background flex items-center justify-center">
         <div className="text-center">
-          <div className="w-12 h-12 border-4 border-primary border-t-transparent rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-muted-foreground">Memuat soal...</p>
+          <div className="w-12 h-12 border-4 border-amber-500 border-t-transparent rounded-full animate-spin mx-auto mb-4" />
+          <p className="text-muted-foreground">Memuat soal sertifikasi...</p>
         </div>
       </div>
     );
   }
-  
+
   if (!currentQuestion) {
     return (
       <div className="min-h-screen bg-background flex items-center justify-center">
@@ -190,55 +241,41 @@ export default function MockTestView() {
       </div>
     );
   }
-  
+
   return (
     <div className="min-h-screen bg-background pb-32">
       {/* Fixed Header */}
       <div className="fixed top-0 left-0 right-0 bg-background/95 backdrop-blur-md z-30 border-b border-border">
         <div className="pt-safe">
           <div className="container max-w-lg mx-auto px-4 py-3">
-            {/* Section & Timer Row */}
             <div className="flex items-center justify-between gap-4 mb-3">
-              {/* Exit Button */}
-              <Button 
-                variant="ghost" 
-                size="sm" 
-                onClick={handleExit}
-                className="text-muted-foreground"
-              >
+              <Button variant="ghost" size="sm" onClick={handleExit} className="text-muted-foreground">
                 <ArrowLeft className="h-4 w-4 mr-1" />
                 Keluar
               </Button>
-              
-              {/* Timer (only show during test, not review) */}
+
               {!isReviewMode && (
-                <EnhancedTimer 
+                <EnhancedTimer
                   timeRemaining={timeRemaining}
                   totalTime={totalTime}
-                  formatTime={formatTime} 
+                  formatTime={formatTime}
                 />
               )}
-              
-              {/* Review Mode Badge */}
+
               {isReviewMode && (
                 <span className="bg-secondary text-secondary-foreground px-3 py-1 rounded-full text-sm font-medium">
                   Mode Review
                 </span>
               )}
-              
-              {/* Nav Grid Button */}
-              <Button
-                variant="outline"
-                size="icon"
-                onClick={() => setShowNavGrid(true)}
-              >
+
+              <Button variant="outline" size="icon" onClick={() => setShowNavGrid(true)}>
                 <Grid3X3 className="h-4 w-4" />
               </Button>
             </div>
-            
-            {/* Section Info */}
+
             <div className="flex items-center justify-between text-sm mb-2">
               <div className="flex items-center gap-2">
+                <Award className="h-4 w-4 text-amber-500" />
                 <span className="font-medium">{currentSection.name}</span>
                 <span className="text-muted-foreground font-japanese">{currentSection.nameJp}</span>
               </div>
@@ -246,18 +283,15 @@ export default function MockTestView() {
                 Soal {currentIndex + 1}/{questions.length}
               </span>
             </div>
-            
-            {/* Progress Bar with section markers */}
+
             <div className="relative">
               <div className="h-2 bg-muted rounded-full overflow-hidden">
                 <motion.div
-                  className="h-full bg-gradient-primary rounded-full"
+                  className="h-full bg-gradient-to-r from-amber-400 to-amber-600 rounded-full"
                   animate={{ width: `${progress}%` }}
                   transition={{ duration: 0.3 }}
                 />
               </div>
-              
-              {/* Section markers */}
               {sections.slice(0, -1).map((section) => {
                 const markerPosition = ((section.startIndex + section.count) / questions.length) * 100;
                 return (
@@ -272,7 +306,7 @@ export default function MockTestView() {
           </div>
         </div>
       </div>
-      
+
       {/* Question Content */}
       <div className="container max-w-lg mx-auto px-4 pt-36">
         <EnhancedTestQuestion
@@ -289,7 +323,7 @@ export default function MockTestView() {
           onPrev={prevQuestion}
         />
       </div>
-      
+
       {/* Fixed Bottom Navigation */}
       <div className="fixed bottom-0 left-0 right-0 bg-background/95 backdrop-blur-md border-t border-border pb-safe">
         <div className="container max-w-lg mx-auto px-4 py-4">
@@ -304,20 +338,18 @@ export default function MockTestView() {
               <ChevronLeft className="h-5 w-5 mr-1" />
               Sebelumnya
             </Button>
-            
+
             {isLastQuestion && !isReviewMode ? (
               <Button
-                variant="default"
                 size="lg"
                 onClick={handleSubmitClick}
                 disabled={isSubmitting}
-                className="flex-1"
+                className="flex-1 bg-amber-600 hover:bg-amber-700 text-white"
               >
                 {isSubmitting ? 'Menyimpan...' : 'Selesai'}
               </Button>
             ) : isLastQuestion && isReviewMode ? (
               <Button
-                variant="default"
                 size="lg"
                 onClick={() => navigate('/practice?tab=test')}
                 className="flex-1"
@@ -326,7 +358,6 @@ export default function MockTestView() {
               </Button>
             ) : (
               <Button
-                variant="default"
                 size="lg"
                 onClick={nextQuestion}
                 className="flex-1"
@@ -338,8 +369,7 @@ export default function MockTestView() {
           </div>
         </div>
       </div>
-      
-      {/* Section Navigation Grid */}
+
       <SectionNavGrid
         sections={navSections}
         currentIndex={currentIndex}
@@ -348,8 +378,7 @@ export default function MockTestView() {
         isOpen={showNavGrid}
         onClose={() => setShowNavGrid(false)}
       />
-      
-      {/* Enhanced Submit Confirmation Dialog */}
+
       <EnhancedSubmitDialog
         isOpen={showSubmitConfirm}
         onClose={() => setShowSubmitConfirm(false)}
@@ -360,8 +389,7 @@ export default function MockTestView() {
         flaggedQuestions={getFlaggedQuestions()}
         onGoToQuestion={handleGoToQuestion}
       />
-      
-      {/* Exit Confirmation Dialog */}
+
       <ExitConfirmDialog
         isOpen={showExitConfirm}
         onClose={() => setShowExitConfirm(false)}

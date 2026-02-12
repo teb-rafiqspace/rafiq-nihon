@@ -259,7 +259,13 @@ export default function LessonView() {
               <Button
                 variant="ghost"
                 size="icon"
-                onClick={() => navigate(`/chapter/${lesson?.chapter_id}`)}
+                onClick={() => {
+                  // Save partial progress before navigating away
+                  if (user?.id && lessonId && lesson?.chapter_id && vocabIndex > 0 && currentStep === 'content') {
+                    saveProgressMutation.mutate({ completed: false, xpEarned: 0 });
+                  }
+                  navigate(`/chapter/${lesson?.chapter_id}`);
+                }}
                 className="shrink-0"
               >
                 <ArrowLeft className="h-5 w-5" />

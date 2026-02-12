@@ -17,6 +17,7 @@ import {
   LogOut,
   ChevronRight,
   Crown,
+  Award,
   Bookmark,
   Download,
 } from 'lucide-react';
@@ -27,6 +28,7 @@ import { AchievementSection } from '@/components/achievements/AchievementSection
 import { WeeklyProgressChart } from '@/components/progress/WeeklyProgressChart';
 
 const menuItems = [
+  { icon: Award, label: 'Sertifikat Saya', path: '/certificates' },
   { icon: Bookmark, label: 'Bookmark Saya', path: '/bookmarks' },
   { icon: Trophy, label: 'Analytics Lengkap', path: '/analytics' },
   { icon: Settings, label: 'Pengaturan Akun', path: '/settings' },

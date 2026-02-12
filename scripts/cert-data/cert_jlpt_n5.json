@@ -1,0 +1,497 @@
+[
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Bagaimana cara membaca hiragana ini: あ?",
+    "options": ["a", "i", "u", "e"],
+    "correct_answer": "a",
+    "explanation": "Hiragana あ dibaca 'a', vokal pertama dalam bahasa Jepang.",
+    "sort_order": 1
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Hiragana mana yang dibaca 'ka'?",
+    "options": ["き", "か", "く", "け"],
+    "correct_answer": "か",
+    "explanation": "Hiragana か dibaca 'ka'. き=ki, く=ku, け=ke.",
+    "sort_order": 2
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Bagaimana cara membaca kata ini: さくら?",
+    "options": ["sakura", "takura", "sakula", "satula"],
+    "correct_answer": "sakura",
+    "explanation": "さくら (sakura) berarti bunga sakura. さ=sa, く=ku, ら=ra.",
+    "sort_order": 3
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Hiragana mana yang dibaca 'shi'?",
+    "options": ["さ", "す", "し", "そ"],
+    "correct_answer": "し",
+    "explanation": "Hiragana し dibaca 'shi', bukan 'si'. さ=sa, す=su, そ=so.",
+    "sort_order": 4
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Bagaimana cara membaca kata ini: たべる?",
+    "options": ["taberu", "haberu", "takeru", "tameru"],
+    "correct_answer": "taberu",
+    "explanation": "たべる (taberu) berarti 'makan'. た=ta, べ=be, る=ru.",
+    "sort_order": 5
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Hiragana ん dibaca sebagai bunyi apa?",
+    "options": ["n", "m", "ng", "ya"],
+    "correct_answer": "n",
+    "explanation": "Hiragana ん adalah satu-satunya hiragana yang merupakan konsonan tunggal, dibaca 'n'.",
+    "sort_order": 6
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Bagaimana cara membaca kata ini: にほん?",
+    "options": ["nihon", "nikon", "nihom", "nihan"],
+    "correct_answer": "nihon",
+    "explanation": "にほん (Nihon) berarti Jepang. に=ni, ほ=ho, ん=n.",
+    "sort_order": 7
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Hiragana きゃ dibaca sebagai apa?",
+    "options": ["kiya", "kya", "kiya", "ka"],
+    "correct_answer": "kya",
+    "explanation": "きゃ adalah kombinasi き + や kecil = 'kya'. Ini disebut yoon.",
+    "sort_order": 8
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Bagaimana cara membaca kata ini: がっこう?",
+    "options": ["gakkou", "kakkou", "gatkou", "gakkoo"],
+    "correct_answer": "gakkou",
+    "explanation": "がっこう (gakkou) berarti sekolah. が=ga, っ=tsu kecil (konsonan ganda), こ=ko, う=u panjang.",
+    "sort_order": 9
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "hiragana",
+    "question_text": "Hiragana っ (tsu kecil) berfungsi untuk apa?",
+    "options": ["Memperpanjang vokal", "Menggandakan konsonan berikutnya", "Menambah bunyi 'tsu'", "Menandai akhir kalimat"],
+    "correct_answer": "Menggandakan konsonan berikutnya",
+    "explanation": "っ (sokuon) menggandakan konsonan berikutnya, seperti dalam がっこう (gakkou).",
+    "sort_order": 10
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "katakana",
+    "question_text": "Bagaimana cara membaca katakana ini: コーヒー?",
+    "options": ["koohii", "koufii", "koohee", "coffee"],
+    "correct_answer": "koohii",
+    "explanation": "コーヒー (koohii) adalah kata pinjaman dari bahasa Inggris 'coffee'.",
+    "sort_order": 11
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "katakana",
+    "question_text": "Katakana apa yang digunakan untuk menulis 'Amerika'?",
+    "options": ["アメリカ", "アメヒカ", "アメニカ", "アメシカ"],
+    "correct_answer": "アメリカ",
+    "explanation": "アメリカ (Amerika) ditulis dengan katakana karena merupakan nama negara asing.",
+    "sort_order": 12
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "katakana",
+    "question_text": "Bagaimana cara membaca kata ini: テレビ?",
+    "options": ["terebi", "telebi", "derebi", "telehi"],
+    "correct_answer": "terebi",
+    "explanation": "テレビ (terebi) berasal dari kata bahasa Inggris 'television'.",
+    "sort_order": 13
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "katakana",
+    "question_text": "Katakana apa yang digunakan untuk menulis 'taksi'?",
+    "options": ["タクシー", "タクジー", "ダクシー", "タクスー"],
+    "correct_answer": "タクシー",
+    "explanation": "タクシー (takushii) adalah kata pinjaman dari bahasa Inggris 'taxi'.",
+    "sort_order": 14
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "katakana",
+    "question_text": "Bagaimana cara membaca kata ini: レストラン?",
+    "options": ["resutoran", "lesutoran", "resutolan", "lesutolan"],
+    "correct_answer": "resutoran",
+    "explanation": "レストラン (resutoran) berasal dari kata bahasa Inggris 'restaurant'.",
+    "sort_order": 15
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'あか' (aka)?",
+    "options": ["Merah", "Biru", "Hijau", "Kuning"],
+    "correct_answer": "Merah",
+    "explanation": "あか (aka) berarti merah. Warna dasar yang penting dalam bahasa Jepang.",
+    "sort_order": 16
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'ibu' dalam bahasa Jepang?",
+    "options": ["ちち", "はは", "あに", "あね"],
+    "correct_answer": "はは",
+    "explanation": "はは (haha) berarti ibu (ibu sendiri). ちち=ayah, あに=kakak laki-laki, あね=kakak perempuan.",
+    "sort_order": 17
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'あたま' (atama)?",
+    "options": ["Tangan", "Kaki", "Kepala", "Mata"],
+    "correct_answer": "Kepala",
+    "explanation": "あたま (atama) berarti kepala. Bagian tubuh yang penting dalam kosakata N5.",
+    "sort_order": 18
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'buku' dalam bahasa Jepang?",
+    "options": ["ほん", "かみ", "えんぴつ", "つくえ"],
+    "correct_answer": "ほん",
+    "explanation": "ほん (hon) berarti buku. かみ=kertas, えんぴつ=pensil, つくえ=meja.",
+    "sort_order": 19
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'やさい' (yasai)?",
+    "options": ["Buah", "Sayuran", "Daging", "Ikan"],
+    "correct_answer": "Sayuran",
+    "explanation": "やさい (yasai) berarti sayuran. くだもの=buah, にく=daging, さかな=ikan.",
+    "sort_order": 20
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'air' dalam bahasa Jepang?",
+    "options": ["おちゃ", "みず", "ぎゅうにゅう", "ジュース"],
+    "correct_answer": "みず",
+    "explanation": "みず (mizu) berarti air. おちゃ=teh, ぎゅうにゅう=susu, ジュース=jus.",
+    "sort_order": 21
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'おおきい' (ookii)?",
+    "options": ["Kecil", "Besar", "Panjang", "Pendek"],
+    "correct_answer": "Besar",
+    "explanation": "おおきい (ookii) berarti besar. Antonimnya adalah ちいさい (chiisai) yang berarti kecil.",
+    "sort_order": 22
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'sekolah' dalam bahasa Jepang?",
+    "options": ["びょういん", "がっこう", "えき", "としょかん"],
+    "correct_answer": "がっこう",
+    "explanation": "がっこう (gakkou) berarti sekolah. びょういん=rumah sakit, えき=stasiun, としょかん=perpustakaan.",
+    "sort_order": 23
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'あさ' (asa)?",
+    "options": ["Pagi", "Siang", "Sore", "Malam"],
+    "correct_answer": "Pagi",
+    "explanation": "あさ (asa) berarti pagi. ひる=siang, ゆうがた=sore, よる=malam.",
+    "sort_order": 24
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'murah' dalam bahasa Jepang?",
+    "options": ["たかい", "やすい", "おもい", "かるい"],
+    "correct_answer": "やすい",
+    "explanation": "やすい (yasui) berarti murah. たかい=mahal/tinggi, おもい=berat, かるい=ringan.",
+    "sort_order": 25
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'てんき' (tenki)?",
+    "options": ["Suhu", "Cuaca", "Hujan", "Angin"],
+    "correct_answer": "Cuaca",
+    "explanation": "てんき (tenki) berarti cuaca. Kata umum untuk membicarakan kondisi cuaca.",
+    "sort_order": 26
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'lezat/enak' dalam bahasa Jepang?",
+    "options": ["おいしい", "まずい", "あまい", "からい"],
+    "correct_answer": "おいしい",
+    "explanation": "おいしい (oishii) berarti lezat/enak. まずい=tidak enak, あまい=manis, からい=pedas.",
+    "sort_order": 27
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'しごと' (shigoto)?",
+    "options": ["Rumah", "Pekerjaan", "Sekolah", "Teman"],
+    "correct_answer": "Pekerjaan",
+    "explanation": "しごと (shigoto) berarti pekerjaan atau kerja.",
+    "sort_order": 28
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'hari ini' dalam bahasa Jepang?",
+    "options": ["きのう", "きょう", "あした", "あさって"],
+    "correct_answer": "きょう",
+    "explanation": "きょう (kyou) berarti hari ini. きのう=kemarin, あした=besok, あさって=lusa.",
+    "sort_order": 29
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata 'みぎ' (migi)?",
+    "options": ["Kiri", "Kanan", "Depan", "Belakang"],
+    "correct_answer": "Kanan",
+    "explanation": "みぎ (migi) berarti kanan. ひだり=kiri, まえ=depan, うしろ=belakang.",
+    "sort_order": 30
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Partikel apa yang digunakan untuk menandai topik kalimat?",
+    "options": ["が", "を", "は", "に"],
+    "correct_answer": "は",
+    "explanation": "Partikel は (wa) digunakan untuk menandai topik kalimat, misalnya: わたしは がくせいです。",
+    "sort_order": 31
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Kalimat mana yang benar untuk mengatakan 'Saya makan nasi'?",
+    "options": ["わたしは ごはんが たべます。", "わたしは ごはんを たべます。", "わたしは ごはんに たべます。", "わたしは ごはんで たべます。"],
+    "correct_answer": "わたしは ごはんを たべます。",
+    "explanation": "Partikel を (wo) digunakan untuk menandai objek langsung. ごはんを たべます = makan nasi.",
+    "sort_order": 32
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Partikel apa yang digunakan untuk menunjukkan lokasi keberadaan?",
+    "options": ["は", "が", "を", "に"],
+    "correct_answer": "に",
+    "explanation": "Partikel に (ni) menunjukkan lokasi keberadaan, misalnya: 本は つくえに あります (buku ada di meja).",
+    "sort_order": 33
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Bagaimana bentuk て-form dari kata 'たべる' (taberu)?",
+    "options": ["たべて", "たべった", "たべい", "たべる"],
+    "correct_answer": "たべて",
+    "explanation": "て-form dari たべる (ru-verb) adalah たべて. Digunakan untuk menghubungkan kalimat atau membuat bentuk permintaan.",
+    "sort_order": 34
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Kalimat mana yang benar untuk mengatakan 'Saya pergi ke sekolah'?",
+    "options": ["わたしは がっこうを いきます。", "わたしは がっこうに いきます。", "わたしは がっこうが いきます。", "わたしは がっこうで いきます。"],
+    "correct_answer": "わたしは がっこうに いきます。",
+    "explanation": "Partikel に (ni) menunjukkan tujuan pergi. がっこうに いきます = pergi ke sekolah.",
+    "sort_order": 35
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Partikel apa yang digunakan untuk menunjukkan lokasi tindakan?",
+    "options": ["に", "で", "を", "へ"],
+    "correct_answer": "で",
+    "explanation": "Partikel で (de) menunjukkan lokasi di mana tindakan terjadi, misalnya: レストランで たべます (makan di restoran).",
+    "sort_order": 36
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Bagaimana cara membuat kalimat negatif dari 'おいしいです' (enak)?",
+    "options": ["おいしくないです", "おいしいじゃないです", "おいしくありません", "おいしいではありません"],
+    "correct_answer": "おいしくないです",
+    "explanation": "Untuk i-adjective, bentuk negatifnya adalah: い → くない. おいしい → おいしくない.",
+    "sort_order": 37
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Kalimat mana yang benar untuk mengatakan 'Ini adalah buku'?",
+    "options": ["これが ほんです。", "これは ほんです。", "これを ほんです。", "これに ほんです。"],
+    "correct_answer": "これは ほんです。",
+    "explanation": "Partikel は (wa) digunakan untuk 'X adalah Y'. これは ほんです = Ini adalah buku.",
+    "sort_order": 38
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Bagaimana bentuk ます-form dari kata 'いく' (iku)?",
+    "options": ["いきます", "いくます", "いきます", "いけます"],
+    "correct_answer": "いきます",
+    "explanation": "いく (iku) adalah u-verb. Bentuk masu-nya adalah いきます (ikimasu).",
+    "sort_order": 39
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Partikel apa yang digunakan untuk menunjukkan alat atau cara?",
+    "options": ["に", "を", "で", "が"],
+    "correct_answer": "で",
+    "explanation": "Partikel で (de) juga menunjukkan alat/cara, misalnya: バスで いきます (pergi dengan bus).",
+    "sort_order": 40
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Bagaimana cara membuat bentuk lampau dari 'たべます' (makan)?",
+    "options": ["たべました", "たべた", "たべます", "たべません"],
+    "correct_answer": "たべました",
+    "explanation": "Bentuk lampau formal dari ます-form adalah ました. たべます → たべました (telah makan).",
+    "sort_order": 41
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Kalimat mana yang benar untuk mengatakan 'Saya suka kopi'?",
+    "options": ["わたしは コーヒーを すきです。", "わたしは コーヒーが すきです。", "わたしは コーヒーに すきです。", "わたしは コーヒーで すきです。"],
+    "correct_answer": "わたしは コーヒーが すきです。",
+    "explanation": "Dengan すき (suka), gunakan partikel が. コーヒーが すきです = suka kopi.",
+    "sort_order": 42
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Bagaimana bentuk negatif dari 'いきます' (pergi)?",
+    "options": ["いきません", "いかない", "いきないです", "いくません"],
+    "correct_answer": "いきません",
+    "explanation": "Bentuk negatif formal dari ます-form adalah ません. いきます → いきません (tidak pergi).",
+    "sort_order": 43
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Partikel apa yang digunakan setelah waktu (jam, hari, dll)?",
+    "options": ["は", "に", "を", "で"],
+    "correct_answer": "に",
+    "explanation": "Partikel に (ni) digunakan dengan waktu spesifik, misalnya: 7じに おきます (bangun jam 7).",
+    "sort_order": 44
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "grammar",
+    "question_text": "Kalimat mana yang benar untuk mengatakan 'Tolong tunggu'?",
+    "options": ["まってください", "まちください", "まつください", "まちます"],
+    "correct_answer": "まってください",
+    "explanation": "て-form + ください = tolong lakukan. まつ → まって → まってください (tolong tunggu).",
+    "sort_order": 45
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: たなかさんは まいにち 7じに おきます。それから、あさごはんを たべます。8じに うちを でます。\n\nPertanyaan: たなかさんは なんじに おきますか。",
+    "options": ["6じ", "7じ", "8じ", "9じ"],
+    "correct_answer": "7じ",
+    "explanation": "Dalam teks disebutkan 'まいにち 7じに おきます' (bangun setiap hari jam 7).",
+    "sort_order": 46
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: わたしの へやは ちいさいです。でも、きれいです。まどが ふたつ あります。つくえと いすが あります。\n\nPertanyaan: へやに まどが いくつ ありますか。",
+    "options": ["ひとつ", "ふたつ", "みっつ", "よっつ"],
+    "correct_answer": "ふたつ",
+    "explanation": "Teks menyebutkan 'まどが ふたつ あります' (ada dua jendela).",
+    "sort_order": 47
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: きょうは いい てんきです。あおい そらです。わたしは こうえんへ いきます。ともだちと サッカーを します。\n\nPertanyaan: きょうの てんきは どうですか。",
+    "options": ["わるいです", "あめです", "いいです", "くもりです"],
+    "correct_answer": "いいです",
+    "explanation": "Teks dimulai dengan 'きょうは いい てんきです' (cuaca hari ini bagus).",
+    "sort_order": 48
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: すずきさんは せんせいです。まいにち がっこうで にほんごを おしえます。がくせいが たくさん います。\n\nPertanyaan: すずきさんの しごとは なんですか。",
+    "options": ["がくせい", "せんせい", "いしゃ", "かいしゃいん"],
+    "correct_answer": "せんせい",
+    "explanation": "Teks menyebutkan 'すずきさんは せんせいです' (Suzuki-san adalah guru).",
+    "sort_order": 49
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: わたしは まいあさ コーヒーを のみます。ぎゅうにゅうと さとうを いれます。とても おいしいです。\n\nPertanyaan: わたしは コーヒーに なにを いれますか。",
+    "options": ["みず", "おちゃ", "ぎゅうにゅうと さとう", "レモン"],
+    "correct_answer": "ぎゅうにゅうと さとう",
+    "explanation": "Teks menyebutkan 'ぎゅうにゅうと さとうを いれます' (memasukkan susu dan gula).",
+    "sort_order": 50
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: あした ともだちの たんじょうびです。プレゼントを かいます。ほんを あげます。\n\nPertanyaan: なにを あげますか。",
+    "options": ["ケーキ", "ほん", "はな", "ようふく"],
+    "correct_answer": "ほん",
+    "explanation": "Teks menyebutkan 'ほんを あげます' (memberikan buku).",
+    "sort_order": 51
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: やまださんの いえは えきの ちかくです。あるいて 5ふんです。とても べんりです。\n\nPertanyaan: やまださんの いえは えきから どのくらいですか。",
+    "options": ["10ふん", "5ふん", "15ふん", "20ふん"],
+    "correct_answer": "5ふん",
+    "explanation": "Teks menyebutkan 'あるいて 5ふんです' (5 menit jalan kaki).",
+    "sort_order": 52
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: わたしは にほんりょうりが すきです。すしや てんぷらを よく たべます。おいしいです。\n\nPertanyaan: なにが すきですか。",
+    "options": ["ちゅうかりょうり", "にほんりょうり", "イタリアりょうり", "かんこくりょうり"],
+    "correct_answer": "にほんりょうり",
+    "explanation": "Teks dimulai dengan 'わたしは にほんりょうりが すきです' (saya suka masakan Jepang).",
+    "sort_order": 53
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: きのう デパートへ いきました。あたらしい くつを かいました。くろい くつです。とても すきです。\n\nPertanyaan: なにを かいましたか。",
+    "options": ["ようふく", "かばん", "くつ", "ぼうし"],
+    "correct_answer": "くつ",
+    "explanation": "Teks menyebutkan 'あたらしい くつを かいました' (membeli sepatu baru).",
+    "sort_order": 54
+  },
+  {
+    "test_type": "cert_jlpt_n5",
+    "section": "membaca",
+    "question_text": "Bacaan: らいしゅう テストが あります。まいにち べんきょうします。としょかんで べんきょうします。\n\nPertanyaan: どこで べんきょうしますか。",
+    "options": ["うち", "がっこう", "としょかん", "カフェ"],
+    "correct_answer": "としょかん",
+    "explanation": "Teks menyebutkan 'としょかんで べんきょうします' (belajar di perpustakaan).",
+    "sort_order": 55
+  }
+]

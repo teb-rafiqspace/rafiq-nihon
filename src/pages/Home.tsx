@@ -213,47 +213,6 @@ export default function Home() {
               <ChevronRight className="h-5 w-5 text-muted-foreground" />
             </button>
 
-            {/* IELTS Track */}
-            <button
-              onClick={() => navigate('/learn?lang=english&track=ielts')}
-              className="w-full flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
-            >
-              <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center text-xl">
-                🎓
-              </div>
-              <div className="flex-1 text-left">
-                <p className="font-medium">IELTS</p>
-                <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
-                  <div
-                    className="h-full bg-gradient-to-r from-blue-500 to-indigo-600 rounded-full transition-all duration-500"
-                    style={{ width: `${trackProgress?.ielts || 0}%` }}
-                  />
-                </div>
-                <p className="text-xs text-muted-foreground mt-1">{trackProgress?.ielts || 0}% selesai</p>
-              </div>
-              <ChevronRight className="h-5 w-5 text-muted-foreground" />
-            </button>
-
-            {/* TOEFL Track */}
-            <button
-              onClick={() => navigate('/learn?lang=english&track=toefl')}
-              className="w-full flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors -mx-1"
-            >
-              <div className="w-12 h-12 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-xl flex items-center justify-center text-xl">
-                📝
-              </div>
-              <div className="flex-1 text-left">
-                <p className="font-medium">TOEFL</p>
-                <div className="mt-1.5 h-2 bg-muted rounded-full overflow-hidden">
-                  <div
-                    className="h-full bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full transition-all duration-500"
-                    style={{ width: `${trackProgress?.toefl || 0}%` }}
-                  />
-                </div>
-                <p className="text-xs text-muted-foreground mt-1">{trackProgress?.toefl || 0}% selesai</p>
-              </div>
-              <ChevronRight className="h-5 w-5 text-muted-foreground" />
-            </button>
           </motion.div>
           
           {/* Quick Actions */}

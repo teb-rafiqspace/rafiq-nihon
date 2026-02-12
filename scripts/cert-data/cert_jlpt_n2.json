@@ -1,0 +1,812 @@
+[
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "会議の結果を社長に___する必要があります。",
+    "options": ["報告", "連絡", "通知", "宣言"],
+    "correct_answer": "報告",
+    "explanation": "「報告する」adalah ungkapan formal untuk melaporkan hasil kepada atasan. 報告 (ほうこく) berarti laporan formal.",
+    "sort_order": 1
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この問題は___が複雑で、簡単には解決できない。",
+    "options": ["事情", "理由", "原因", "目的"],
+    "correct_answer": "事情",
+    "explanation": "「事情」(じじょう) berarti situasi atau keadaan yang kompleks. Cocok untuk menjelaskan masalah yang rumit.",
+    "sort_order": 2
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼の___な態度が、周りの人を不快にさせた。",
+    "options": ["横柄", "丁寧", "真面目", "素直"],
+    "correct_answer": "横柄",
+    "explanation": "「横柄」(おうへい) berarti arogan atau sombong, sikap yang membuat orang tidak nyaman.",
+    "sort_order": 3
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "新製品の開発には多額の___が必要だ。",
+    "options": ["投資", "貯金", "収入", "支出"],
+    "correct_answer": "投資",
+    "explanation": "「投資」(とうし) berarti investasi, yang tepat untuk pengembangan produk baru yang memerlukan dana besar.",
+    "sort_order": 4
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この計画は___に基づいて作成されました。",
+    "options": ["根拠", "理由", "原因", "目標"],
+    "correct_answer": "根拠",
+    "explanation": "「根拠」(こんきょ) berarti dasar atau landasan, ungkapan formal untuk menjelaskan basis pembuatan rencana.",
+    "sort_order": 5
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "台風の___で、電車が運休になった。",
+    "options": ["影響", "結果", "原因", "理由"],
+    "correct_answer": "影響",
+    "explanation": "「影響」(えいきょう) berarti pengaruh atau dampak. Digunakan untuk menjelaskan akibat dari peristiwa alam.",
+    "sort_order": 6
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼女は仕事に対して非常に___だ。",
+    "options": ["熱心", "親切", "丁寧", "真剣"],
+    "correct_answer": "熱心",
+    "explanation": "「熱心」(ねっしん) berarti antusias atau bersemangat, sering digunakan dengan 「に対して」untuk menunjukkan sikap terhadap pekerjaan.",
+    "sort_order": 7
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この問題については、専門家の___を仰ぐべきだ。",
+    "options": ["助言", "相談", "意見", "提案"],
+    "correct_answer": "助言",
+    "explanation": "「助言を仰ぐ」(じょげんをあおぐ) adalah ungkapan formal untuk meminta nasihat dari ahli.",
+    "sort_order": 8
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "会社の___を守ることは、社員の義務です。",
+    "options": ["規則", "法律", "習慣", "常識"],
+    "correct_answer": "規則",
+    "explanation": "「規則」(きそく) berarti peraturan perusahaan, berbeda dengan 法律 (hukum negara).",
+    "sort_order": 9
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼の___により、プロジェクトは成功した。",
+    "options": ["貢献", "協力", "努力", "活動"],
+    "correct_answer": "貢献",
+    "explanation": "「貢献」(こうけん) berarti kontribusi, ungkapan formal untuk menunjukkan peran penting seseorang dalam kesuksesan.",
+    "sort_order": 10
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "経済状況の___に伴い、売上が減少している。",
+    "options": ["悪化", "変化", "増加", "発展"],
+    "correct_answer": "悪化",
+    "explanation": "「悪化」(あっか) berarti memburuk. Cocok dengan konteks penurunan penjualan karena situasi ekonomi.",
+    "sort_order": 11
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この薬は医師の___が必要です。",
+    "options": ["処方", "診断", "治療", "検査"],
+    "correct_answer": "処方",
+    "explanation": "「処方」(しょほう) berarti resep dokter. 処方箋 (しょほうせん) adalah resep medis.",
+    "sort_order": 12
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼の説明は___で、よく理解できなかった。",
+    "options": ["曖昧", "明確", "詳細", "簡単"],
+    "correct_answer": "曖昧",
+    "explanation": "「曖昧」(あいまい) berarti ambigu atau tidak jelas, yang menyebabkan sulit dipahami.",
+    "sort_order": 13
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この計画の___は来月中です。",
+    "options": ["期限", "予定", "時間", "日程"],
+    "correct_answer": "期限",
+    "explanation": "「期限」(きげん) berarti batas waktu atau deadline, digunakan untuk tenggat waktu formal.",
+    "sort_order": 14
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "環境問題に___を持つ人が増えている。",
+    "options": ["関心", "興味", "注意", "心配"],
+    "correct_answer": "関心",
+    "explanation": "「関心を持つ」(かんしんをもつ) adalah ungkapan formal untuk menunjukkan perhatian atau kepedulian terhadap isu.",
+    "sort_order": 15
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この問題の___を早急に見つけなければならない。",
+    "options": ["解決策", "答え", "方法", "手段"],
+    "correct_answer": "解決策",
+    "explanation": "「解決策」(かいけつさく) berarti solusi, ungkapan formal untuk cara menyelesaikan masalah.",
+    "sort_order": 16
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼の提案は___があって、採用された。",
+    "options": ["独創性", "個性", "特徴", "性格"],
+    "correct_answer": "独創性",
+    "explanation": "「独創性」(どくそうせい) berarti orisinalitas atau kreativitas, sering digunakan dalam konteks bisnis untuk ide inovatif.",
+    "sort_order": 17
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この契約書の内容を___に確認してください。",
+    "options": ["慎重", "丁寧", "詳しく", "真面目"],
+    "correct_answer": "慎重",
+    "explanation": "「慎重に」(しんちょうに) berarti dengan hati-hati, cocok untuk konteks memeriksa dokumen penting seperti kontrak.",
+    "sort_order": 18
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "新しい技術の___により、生産効率が上がった。",
+    "options": ["導入", "発明", "開発", "発見"],
+    "correct_answer": "導入",
+    "explanation": "「導入」(どうにゅう) berarti implementasi atau pengenalan teknologi baru ke dalam sistem yang ada.",
+    "sort_order": 19
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼の___な考え方が、チームの雰囲気を悪くしている。",
+    "options": ["否定的", "消極的", "積極的", "肯定的"],
+    "correct_answer": "否定的",
+    "explanation": "「否定的」(ひていてき) berarti negatif, sikap yang dapat merusak atmosfer tim.",
+    "sort_order": 20
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この製品は品質が___されています。",
+    "options": ["保証", "約束", "確認", "証明"],
+    "correct_answer": "保証",
+    "explanation": "「保証される」(ほしょうされる) berarti dijamin, digunakan untuk menjamin kualitas produk.",
+    "sort_order": 21
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "彼女は困難な状況でも___を失わない。",
+    "options": ["冷静さ", "元気", "勇気", "自信"],
+    "correct_answer": "冷静さ",
+    "explanation": "「冷静さを失わない」(れいせいさをうしなわない) berarti tetap tenang, ungkapan untuk menunjukkan kemampuan tetap rasional dalam situasi sulit.",
+    "sort_order": 22
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この問題は___な観点から検討する必要がある。",
+    "options": ["多角的", "複雑", "詳細", "具体的"],
+    "correct_answer": "多角的",
+    "explanation": "「多角的」(たかくてき) berarti multidimensional atau dari berbagai sudut pandang, cocok untuk analisis komprehensif.",
+    "sort_order": 23
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "会議で彼の意見が___された。",
+    "options": ["採用", "使用", "利用", "応用"],
+    "correct_answer": "採用",
+    "explanation": "「採用される」(さいようされる) berarti diadopsi atau diterima, digunakan untuk ide atau pendapat yang disetujui.",
+    "sort_order": 24
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "kosakata",
+    "question_text": "この政策の___について、国民の意見を聞くべきだ。",
+    "options": ["是非", "良し悪し", "正否", "当否"],
+    "correct_answer": "是非",
+    "explanation": "「是非」(ぜひ) dalam konteks ini berarti pro dan kontra atau benar-salah dari suatu kebijakan, bukan arti 'pasti'.",
+    "sort_order": 25
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "環境問題___、世界中で議論されている。",
+    "options": ["に関して", "について", "によって", "にとって"],
+    "correct_answer": "に関して",
+    "explanation": "「に関して」は「について」より格式的で、公式な議論や文書でよく使われます。",
+    "sort_order": 26
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "この提案___、賛成する人は少ない。",
+    "options": ["に対して", "について", "によって", "として"],
+    "correct_answer": "に対して",
+    "explanation": "「に対して」は対象への態度や反応を示します。「提案に対して賛成/反対」という形でよく使われます。",
+    "sort_order": 27
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "東京___、日本の大都市では物価が高い。",
+    "options": ["をはじめ", "を中心に", "を通して", "をもとに"],
+    "correct_answer": "をはじめ",
+    "explanation": "「をはじめ」は代表例を挙げて、他にも同様のものがあることを示します。",
+    "sort_order": 28
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "このクーポンは本日___有効です。",
+    "options": ["に限り", "だけ", "しか", "のみ"],
+    "correct_answer": "に限り",
+    "explanation": "「に限り」は制限を示す格式的な表現で、ビジネスや公式な場面で使われます。",
+    "sort_order": 29
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "彼は忙しい___、毎日ジョギングをしている。",
+    "options": ["にもかかわらず", "のに", "けれども", "から"],
+    "correct_answer": "にもかかわらず",
+    "explanation": "「にもかかわらず」は逆接を示す格式的な表現で、書き言葉でよく使われます。",
+    "sort_order": 30
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "経済が発展する___、環境破壊も進んでいる。",
+    "options": ["一方で", "一方", "反面", "ながら"],
+    "correct_answer": "一方で",
+    "explanation": "「一方で」は対比や両面性を示す接続表現です。AがあるのにBもあるという状況を表します。",
+    "sort_order": 31
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "雨が降っている___、試合は中止にならない。",
+    "options": ["からといって", "から", "ので", "ため"],
+    "correct_answer": "からといって",
+    "explanation": "「からといって」は理由があっても必ずしもその結果にならないことを示します。",
+    "sort_order": 32
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "約束した___、今さらやめる___。",
+    "options": ["以上、わけにはいかない", "から、ことができない", "ので、はずがない", "けど、ものではない"],
+    "correct_answer": "以上、わけにはいかない",
+    "explanation": "「以上」は理由を示し、「わけにはいかない」は社会的・道義的にできないという意味です。",
+    "sort_order": 33
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "努力した___、結果が出なかった。",
+    "options": ["ものの", "のに", "が", "けれど"],
+    "correct_answer": "ものの",
+    "explanation": "「ものの」は逆接を示す書き言葉で、「～したけれども」という意味です。",
+    "sort_order": 34
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "試験に合格できる___、本人の努力にかかっている。",
+    "options": ["かどうかは", "か", "のは", "ことは"],
+    "correct_answer": "かどうかは",
+    "explanation": "「かどうかは」は可能性や選択について、それを決定する要因を述べる時に使います。",
+    "sort_order": 35
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "部長___お願いできますか。",
+    "options": ["にお会いできないでしょうか", "に会えませんか", "と会いたいです", "を会いたいです"],
+    "correct_answer": "にお会いできないでしょうか",
+    "explanation": "「お会いする」は「会う」の謙譲語で、目上の人に会う時に使います。",
+    "sort_order": 36
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "明日の会議___、資料を準備してください。",
+    "options": ["に備えて", "のために", "によって", "として"],
+    "correct_answer": "に備えて",
+    "explanation": "「に備えて」は将来の出来事に対して準備することを示します。",
+    "sort_order": 37
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "彼は日本語が上手な___、英語もできる。",
+    "options": ["上に", "だけでなく", "ばかりか", "どころか"],
+    "correct_answer": "上に",
+    "explanation": "「上に」は良い点を追加する時に使います。AだけでなくBもという意味です。",
+    "sort_order": 38
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "社長___この計画を承認していただきました。",
+    "options": ["から", "が", "に", "で"],
+    "correct_answer": "に",
+    "explanation": "「～から～ていただく」の形で、恩恵を受ける相手を「に」で示します。謙譲語の構文です。",
+    "sort_order": 39
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "結果___、最善を尽くすことが大切だ。",
+    "options": ["はともかく", "について", "に関して", "によって"],
+    "correct_answer": "はともかく",
+    "explanation": "「はともかく」は「それはさておき」という意味で、他のことよりも重要なことを述べる時に使います。",
+    "sort_order": 40
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "台風の___、電車が止まる可能性がある。",
+    "options": ["いかんでは", "ままで", "うちに", "ところで"],
+    "correct_answer": "いかんでは",
+    "explanation": "「いかんでは/いかんによっては」は状況や条件次第で結果が変わることを示す格式的な表現です。",
+    "sort_order": 41
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "彼は優秀な___、謙虚な性格だ。",
+    "options": ["ばかりでなく", "だけで", "のみならず", "上に"],
+    "correct_answer": "のみならず",
+    "explanation": "「のみならず」は「ばかりでなく」の格式的な言い方で、書き言葉でよく使われます。",
+    "sort_order": 42
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "先生___ご説明いただけませんか。",
+    "options": ["にご説明いただけませんか", "が説明してくれませんか", "に説明してもらえませんか", "から教えてくれませんか"],
+    "correct_answer": "にご説明いただけませんか",
+    "explanation": "「ご～いただく」は謙譲語で、目上の人に依頼する丁寧な表現です。",
+    "sort_order": 43
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "彼女の話を聞く___、驚くべき経験をしたようだ。",
+    "options": ["に", "と", "や", "で"],
+    "correct_answer": "に",
+    "explanation": "「～に」は動作のタイミングや条件を示します。「聞くに」で「聞いてみると」という意味になります。",
+    "sort_order": 44
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "健康___、何事も思うようにできない。",
+    "options": ["あっての", "があっての", "のための", "による"],
+    "correct_answer": "あっての",
+    "explanation": "「あっての」は「それがあるからこそ」という意味で、基盤となるものを強調します。",
+    "sort_order": 45
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "彼は怠けている___、仕事ができない。",
+    "options": ["どころか", "ばかりか", "ところで", "わけで"],
+    "correct_answer": "どころか",
+    "explanation": "「どころか」は予想と逆の結果を示します。期待に反して悪い状況を述べる時に使います。",
+    "sort_order": 46
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "社長のご意見を___、決定いたします。",
+    "options": ["伺った上で", "聞いてから", "聞いた後で", "聞いて"],
+    "correct_answer": "伺った上で",
+    "explanation": "「伺う」は「聞く・訪ねる」の謙譲語で、「～た上で」は前提条件を示す格式的な表現です。",
+    "sort_order": 47
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "この問題は君___解決できる。",
+    "options": ["にしか", "だけが", "しか", "のみが"],
+    "correct_answer": "にしか",
+    "explanation": "「にしか～ない」は限定を強調する表現で、「君だけが」という意味を強く示します。",
+    "sort_order": 48
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "結果が出る___、諦めずに頑張ろう。",
+    "options": ["まで", "までに", "うちに", "間に"],
+    "correct_answer": "まで",
+    "explanation": "「まで」は継続の終点を示します。結果が出るまで続けるという意味です。",
+    "sort_order": 49
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "grammar",
+    "question_text": "契約内容___、よく確認してください。",
+    "options": ["につきましては", "については", "に関しては", "といえば"],
+    "correct_answer": "につきましては",
+    "explanation": "「につきましては」は「については」の非常に丁寧な言い方で、ビジネス文書でよく使われます。",
+    "sort_order": 50
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「企業は利益追求だけでなく、社会的責任を果たすべきだ」という論説文で、筆者が最も強調している点は何か。",
+    "options": ["企業の利益が最優先である", "社会貢献と利益追求のバランスが重要", "社会的責任は二の次である", "利益は全く重要ではない"],
+    "correct_answer": "社会貢献と利益追求のバランスが重要",
+    "explanation": "「だけでなく」「べきだ」という表現から、両方のバランスを重視していることが分かります。",
+    "sort_order": 51
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "ビジネスメールで「ご検討のほど、よろしくお願いいたします」とある。この文の意味は何か。",
+    "options": ["検討を強制している", "検討を丁寧に依頼している", "検討は不要である", "検討を命令している"],
+    "correct_answer": "検討を丁寧に依頼している",
+    "explanation": "「のほど」「よろしくお願いいたします」は丁寧な依頼表現です。",
+    "sort_order": 52
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「テレワークの普及により、通勤時間が削減される一方で、コミュニケーション不足が課題となっている」という文の構造は。",
+    "options": ["利点のみを述べている", "欠点のみを述べている", "利点と欠点の両面を述べている", "無関係な事項を並べている"],
+    "correct_answer": "利点と欠点の両面を述べている",
+    "explanation": "「一方で」は対比を示し、利点(通勤削減)と欠点(コミュニケーション不足)の両面を提示しています。",
+    "sort_order": 53
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「この政策については賛否両論がある。しかしながら、長期的な視点で見れば必要不可欠である」という文で、筆者の立場は。",
+    "options": ["反対の立場", "中立の立場", "賛成の立場", "不明"],
+    "correct_answer": "賛成の立場",
+    "explanation": "「しかしながら」以降で「必要不可欠」と述べており、賛成の立場を明確にしています。",
+    "sort_order": 54
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「従来の方法にとらわれず、新しい発想で取り組むべきだ」という文が示唆することは。",
+    "options": ["従来の方法を完全に否定", "従来の方法に固執すべき", "柔軟な思考が必要", "何も変えるべきではない"],
+    "correct_answer": "柔軟な思考が必要",
+    "explanation": "「とらわれず」「新しい発想」という表現から、固定観念を捨てて柔軟に考えることを提案しています。",
+    "sort_order": 55
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「お忙しいところ恐縮ですが、ご協力いただければ幸いです」というメールの文末表現の意図は。",
+    "options": ["強制的に協力を求める", "丁寧に協力を依頼する", "協力は不要と伝える", "相手を批判する"],
+    "correct_answer": "丁寧に協力を依頼する",
+    "explanation": "「恐縮ですが」「いただければ幸いです」は相手に配慮した丁寧な依頼表現です。",
+    "sort_order": 56
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「環境保護と経済発展は相反するものではなく、両立可能である」という主張の根拠として適切なものは。",
+    "options": ["環境を犠牲にすべき", "経済成長は不要", "持続可能な開発の実例", "どちらも放棄すべき"],
+    "correct_answer": "持続可能な開発の実例",
+    "explanation": "「両立可能」という主張を支えるには、実際に両方を達成した具体例が必要です。",
+    "sort_order": 57
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「若者の投票率が低い現状を鑑み、政治教育の充実が求められる」という文で、「鑑み」の意味は。",
+    "options": ["無視して", "考慮して", "賛成して", "反対して"],
+    "correct_answer": "考慮して",
+    "explanation": "「鑑みる」(かんがみる)は「考慮する」「考えに入れる」という意味の格式的な表現です。",
+    "sort_order": 58
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「このたびは弊社の不手際により、ご迷惑をおかけし、誠に申し訳ございません」という謝罪文の特徴は。",
+    "options": ["責任を回避している", "責任を認め丁寧に謝罪", "相手を非難している", "謝罪していない"],
+    "correct_answer": "責任を認め丁寧に謝罪",
+    "explanation": "「弊社の不手際」で責任を認め、「誠に申し訳ございません」で丁寧に謝罪しています。",
+    "sort_order": 59
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「グローバル化が進む中、多様性を尊重する姿勢が不可欠である」という文の「不可欠」の意味は。",
+    "options": ["不要である", "必要不可欠である", "避けるべきである", "どちらでもよい"],
+    "correct_answer": "必要不可欠である",
+    "explanation": "「不可欠」(ふかけつ)は「欠くことができない」つまり「絶対に必要」という意味です。",
+    "sort_order": 60
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「消費者のニーズを的確に把握し、それに応える商品開発が求められる」という文で、企業に求められることは。",
+    "options": ["消費者を無視する", "自社の都合を優先", "市場調査と商品開発", "価格を上げる"],
+    "correct_answer": "市場調査と商品開発",
+    "explanation": "「ニーズを把握」(市場調査)と「応える商品開発」の両方が必要と述べています。",
+    "sort_order": 61
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「人工知能の発展は目覚ましいものの、倫理的な問題については十分な議論がなされていない」という文の問題点は。",
+    "options": ["技術の遅れ", "倫理的議論の不足", "投資の不足", "研究者の不足"],
+    "correct_answer": "倫理的議論の不足",
+    "explanation": "「ものの」以降で対比され、「十分な議論がなされていない」が問題として指摘されています。",
+    "sort_order": 62
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「ご不明な点がございましたら、遠慮なくお問い合わせください」という文のビジネス上の意図は。",
+    "options": ["質問を禁止する", "質問を歓迎する姿勢", "質問は迷惑である", "質問は不要"],
+    "correct_answer": "質問を歓迎する姿勢",
+    "explanation": "「遠慮なく」という表現で、気軽に質問してよいという姿勢を示しています。",
+    "sort_order": 63
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「少子高齢化が進む我が国において、社会保障制度の見直しは喫緊の課題である」で「喫緊の課題」の意味は。",
+    "options": ["遠い未来の問題", "緊急に対応すべき問題", "重要でない問題", "すでに解決した問題"],
+    "correct_answer": "緊急に対応すべき問題",
+    "explanation": "「喫緊」(きっきん)は「非常に急を要する」という意味の格式的な表現です。",
+    "sort_order": 64
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「この研究成果は、医療分野のみならず、産業界にも大きな影響を与えるものと期待される」という文の特徴は。",
+    "options": ["医療分野だけに限定", "影響範囲が広い", "影響は小さい", "実用性がない"],
+    "correct_answer": "影響範囲が広い",
+    "explanation": "「のみならず」で医療だけでなく産業界にも影響があることを示しています。",
+    "sort_order": 65
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「貴社におかれましては、ますますご清栄のこととお慶び申し上げます」という文書の冒頭の役割は。",
+    "options": ["批判する", "謝罪する", "挨拶・祝意を示す", "要求する"],
+    "correct_answer": "挨拶・祝意を示す",
+    "explanation": "ビジネス文書の決まり文句で、相手の繁栄を喜ぶ丁寧な挨拶表現です。",
+    "sort_order": 66
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「効率化を図る一方で、品質の維持にも注力すべきである」という方針が示すことは。",
+    "options": ["効率だけを重視", "品質だけを重視", "両方のバランス重視", "どちらも不要"],
+    "correct_answer": "両方のバランス重視",
+    "explanation": "「一方で」「も」という表現から、効率と品質の両方を大切にする方針が分かります。",
+    "sort_order": 67
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「再生可能エネルギーへの転換は、環境保護の観点から見て必然的な流れである」という文の「必然的」の意味は。",
+    "options": ["避けられない", "避けるべき", "選択可能", "不要"],
+    "correct_answer": "避けられない",
+    "explanation": "「必然的」(ひつぜんてき)は「必ず起こる」「避けられない」という意味です。",
+    "sort_order": 68
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「当社といたしましては、お客様のご要望に沿えるよう、最大限努力する所存でございます」という文の「所存」の意味は。",
+    "options": ["過去の行動", "つもり・考え", "他人の意見", "不可能"],
+    "correct_answer": "つもり・考え",
+    "explanation": "「所存」(しょぞん)は「つもり」「考え」の謙譲語で、自分の意思を丁寧に述べる表現です。",
+    "sort_order": 69
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "membaca",
+    "question_text": "「デジタル化の波は、あらゆる業界に押し寄せており、対応の遅れは競争力の低下を招く」という警告が意味することは。",
+    "options": ["デジタル化は不要", "急いで対応すべき", "様子を見るべき", "無視してよい"],
+    "correct_answer": "急いで対応すべき",
+    "explanation": "「遅れは～を招く」という因果関係から、迅速な対応の必要性を訴えています。",
+    "sort_order": 70
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "ビジネス会議で「この件につきましては、後日改めてご報告させていただきます」と言った。話し手の意図は。",
+    "options": ["今すぐ報告する", "報告を延期する", "報告しない", "報告を忘れた"],
+    "correct_answer": "報告を延期する",
+    "explanation": "「後日改めて」は後で別の機会に報告するという丁寧な延期の表現です。",
+    "sort_order": 71
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "上司が「君の意見も一理あるが、現実的には難しいと思う」と言った。上司の立場は。",
+    "options": ["完全に賛成", "部分的に理解するが否定的", "完全に反対", "無関心"],
+    "correct_answer": "部分的に理解するが否定的",
+    "explanation": "「一理ある」で部分的な理解を示しつつ、「が」以降で実現困難という否定的見解を述べています。",
+    "sort_order": 72
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "顧客が「検討させていただきます」と言った。この発言の意味は。",
+    "options": ["即座に購入する", "検討する(保留)", "絶対に購入しない", "価格交渉したい"],
+    "correct_answer": "検討する(保留)",
+    "explanation": "ビジネスでは「検討する」は即答を避け、後で決定するという丁寧な保留表現です。",
+    "sort_order": 73
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "講演で「グローバル化は避けて通れない課題である」と述べられた。講演者の認識は。",
+    "options": ["グローバル化は選択できる", "グローバル化は必然である", "グローバル化は不要", "グローバル化は失敗した"],
+    "correct_answer": "グローバル化は必然である",
+    "explanation": "「避けて通れない」は「必ず直面する」「避けられない」という意味です。",
+    "sort_order": 74
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "取引先が「前向きに検討させていただきます」と回答した。この発言が示すことは。",
+    "options": ["確実に実行する", "積極的に検討する姿勢", "完全に拒否", "興味がない"],
+    "correct_answer": "積極的に検討する姿勢",
+    "explanation": "「前向きに」は肯定的・積極的な態度を示す表現で、実現の可能性を含んでいます。",
+    "sort_order": 75
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "会議で「それは差し控えさせていただきたい」と発言した。話し手の意図は。",
+    "options": ["積極的に参加する", "丁重に断る", "賛成する", "無関心"],
+    "correct_answer": "丁重に断る",
+    "explanation": "「差し控える」は「控える」「やめる」の丁寧な表現で、婉曲的な拒否を示します。",
+    "sort_order": 76
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "ニュースで「景気の先行きは依然として不透明である」と報じられた。経済状況は。",
+    "options": ["非常に良い", "予測困難", "確実に改善", "すでに回復"],
+    "correct_answer": "予測困難",
+    "explanation": "「不透明」は「見通しが立たない」「予測できない」という意味で、不確実性を示します。",
+    "sort_order": 77
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "上司が「その案は再考の余地がある」と言った。上司の評価は。",
+    "options": ["完璧である", "改善可能", "最悪である", "変更不要"],
+    "correct_answer": "改善可能",
+    "explanation": "「再考の余地がある」は「もう一度考え直す必要がある」つまり改善の可能性を示唆しています。",
+    "sort_order": 78
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "学会で「この仮説は実証的なデータに基づいている」と発表された。研究の特徴は。",
+    "options": ["推測だけである", "データに裏付けられている", "証拠がない", "理論だけ"],
+    "correct_answer": "データに裏付けられている",
+    "explanation": "「実証的なデータに基づく」は実際のデータや証拠で支持されていることを意味します。",
+    "sort_order": 79
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "面接で「御社の理念に共感し、ぜひ貢献したい」と述べた。応募者の姿勢は。",
+    "options": ["興味がない", "強い入社意欲", "迷っている", "他社を優先"],
+    "correct_answer": "強い入社意欲",
+    "explanation": "「共感」「貢献したい」という表現から、強い入社への意欲と積極性が読み取れます。",
+    "sort_order": 80
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "セミナーで「持続可能な社会を実現するには、一人一人の意識改革が求められる」と語られた。講師の主張は。",
+    "options": ["政府だけの責任", "個人の意識が重要", "企業だけの問題", "不可能である"],
+    "correct_answer": "個人の意識が重要",
+    "explanation": "「一人一人の意識改革」から、個々人の意識や行動の変化が必要という主張が分かります。",
+    "sort_order": 81
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "商談で「お値段につきましては、もう少しご検討いただけませんでしょうか」と言われた。相手の要望は。",
+    "options": ["価格に満足", "値下げ交渉", "購入中止", "別の商品"],
+    "correct_answer": "値下げ交渉",
+    "explanation": "「もう少しご検討」は婉曲的な値下げ要求で、価格の再考を求めています。",
+    "sort_order": 82
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "記者会見で「現段階ではコメントを控えさせていただきます」と述べた。話し手の対応は。",
+    "options": ["詳しく説明する", "回答を避ける", "全て答える", "賛成する"],
+    "correct_answer": "回答を避ける",
+    "explanation": "「コメントを控える」は公式な場面で回答を避ける丁寧な表現です。",
+    "sort_order": 83
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "プレゼンで「従来の手法では限界がある」と指摘された。発言の意図は。",
+    "options": ["従来の手法で十分", "新しい方法が必要", "何も変えない", "過去を称賛"],
+    "correct_answer": "新しい方法が必要",
+    "explanation": "「限界がある」という指摘は、現状の問題点を示し、新しいアプローチの必要性を訴えています。",
+    "sort_order": 84
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "討論会で「その論点には異を唱えざるを得ない」と発言した。話し手の立場は。",
+    "options": ["完全に同意", "反対意見を述べる", "無関心", "賛成"],
+    "correct_answer": "反対意見を述べる",
+    "explanation": "「異を唱える」は反対意見を表明するという意味で、「ざるを得ない」で強い必要性を示します。",
+    "sort_order": 85
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "会議で「この問題は看過できない」と強調された。話し手の態度は。",
+    "options": ["無視すべき", "見逃せない重要問題", "些細な問題", "関係ない"],
+    "correct_answer": "見逃せない重要問題",
+    "explanation": "「看過できない」(かんかできない)は「見過ごせない」という意味で、重大性を強調します。",
+    "sort_order": 86
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "交渉で「双方にとって Win-Win の関係を構築したい」と提案された。提案の目的は。",
+    "options": ["一方的な利益", "相互利益の追求", "相手の損失", "関係の断絶"],
+    "correct_answer": "相互利益の追求",
+    "explanation": "「Win-Win」は両者が利益を得る関係で、互恵的なパートナーシップを目指しています。",
+    "sort_order": 87
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "講演で「イノベーションは既存の枠組みを打破することから生まれる」と語られた。講演者の考えは。",
+    "options": ["現状維持が重要", "革新には変革が必要", "伝統を守るべき", "何も変えない"],
+    "correct_answer": "革新には変革が必要",
+    "explanation": "「枠組みを打破する」は既存の概念を破るという意味で、革新には変化が必要という主張です。",
+    "sort_order": 88
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "ディベートで「反論の余地はあるものの、概ね妥当な意見である」と評価された。評価内容は。",
+    "options": ["完全に正しい", "大筋で妥当", "全く間違い", "評価不可能"],
+    "correct_answer": "大筋で妥当",
+    "explanation": "「ものの」で若干の留保を示しつつ、「概ね妥当」で全体的には適切という評価を示しています。",
+    "sort_order": 89
+  },
+  {
+    "test_type": "cert_jlpt_n2",
+    "section": "listening",
+    "question_text": "会見で「今後の展開を注視していく所存です」と述べられた。話し手の姿勢は。",
+    "options": ["無関心", "注意深く見守る", "すぐに行動", "関与しない"],
+    "correct_answer": "注意深く見守る",
+    "explanation": "「注視する」は注意深く観察するという意味で、慎重に状況を見守る姿勢を示します。",
+    "sort_order": 90
+  }
+]

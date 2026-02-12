@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
-import { Layers, Target, FileText, Trophy, TrendingUp, PenTool } from 'lucide-react';
+import { Layers, Target, FileText, Trophy, TrendingUp, Award } from 'lucide-react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
 import { MockTestCard } from '@/components/mocktest/MockTestCard';
@@ -15,14 +15,22 @@ import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeMod
 import { FlashcardSection } from '@/components/flashcard/FlashcardSection';
 import { QuizPracticeSection } from '@/components/quiz/QuizPracticeSection';
 import { ProgressOverview } from '@/components/progress/ProgressOverview';
+import { CertificationTestCard } from '@/components/certificate/CertificationTestCard';
+import { useMyCertificates } from '@/hooks/useCertificates';
 
-type PracticeTab = 'flashcard' | 'quiz' | 'test' | 'writing' | 'progress';
+type PracticeTab = 'flashcard' | 'quiz' | 'test' | 'certification' | 'progress';
+
+const certificationTests = [
+  { id: 'cert_kakunin', name: 'IM Japan Kakunin', duration: 30, questions: 30, icon: '🏭', description: 'Sertifikasi tes bahasa Kemnaker', passingScore: 75 },
+  { id: 'cert_jlpt_n5', name: 'JLPT N5', duration: 60, questions: 55, icon: '📜', description: 'Sertifikasi kemampuan JLPT N5', passingScore: 65 },
+  { id: 'cert_jlpt_n4', name: 'JLPT N4', duration: 75, questions: 55, icon: '📜', description: 'Sertifikasi kemampuan JLPT N4', passingScore: 65 },
+  { id: 'cert_jlpt_n3', name: 'JLPT N3', duration: 90, questions: 70, icon: '📜', description: 'Sertifikasi kemampuan JLPT N3', passingScore: 65 },
+  { id: 'cert_jlpt_n2', name: 'JLPT N2', duration: 105, questions: 90, icon: '📜', description: 'Sertifikasi kemampuan JLPT N2', passingScore: 65 },
+];
 
 const mockTests = [
   { id: 'kakunin', name: 'IM Japan Kakunin', duration: 30, questions: 30, icon: '🏭', description: 'Simulasi tes bahasa Kemnaker', isPremium: false },
   { id: 'jlpt_n5', name: 'JLPT N5 Mock Test', duration: 60, questions: 55, icon: '📜', description: 'Latihan format JLPT N5', isPremium: false },
-  { id: 'ielts_mock', name: 'IELTS Practice Test', duration: 170, questions: 80, icon: '🎓', description: 'Simulasi IELTS Academic', isPremium: false },
-  { id: 'toefl_mock', name: 'TOEFL iBT Practice Test', duration: 120, questions: 58, icon: '📝', description: 'Simulasi TOEFL iBT', isPremium: false },
 ];
 
 export default function Practice() {
@@ -35,6 +43,7 @@ export default function Practice() {
   
   const { data: subscription } = useSubscription();
   const isPremium = isPremiumActive(subscription);
+  const { data: myCertificates = [] } = useMyCertificates();
   
   const { data: testHistory = [] } = useQuery({
     queryKey: ['test-history', user?.id],
@@ -93,20 +102,25 @@ export default function Practice() {
         
         <div className="container max-w-lg mx-auto px-4 -mt-4">
           <div className="bg-card rounded-2xl shadow-elevated p-1.5 flex gap-1">
-            <Button variant="tab" data-active={activeTab === 'flashcard'} className="flex-1" onClick={() => setActiveTab('flashcard')}>
-              <Layers className="h-4 w-4 mr-1" />Flashcard
+            <Button variant="tab" data-active={activeTab === 'flashcard'} className="flex-1 px-1.5 text-xs min-w-0" onClick={() => setActiveTab('flashcard')}>
+              <Layers className="h-3.5 w-3.5 mr-0.5 shrink-0" />
+              <span className="truncate">Flashcard</span>
             </Button>
-            <Button variant="tab" data-active={activeTab === 'quiz'} className="flex-1" onClick={() => setActiveTab('quiz')}>
-              <Target className="h-4 w-4 mr-1" />Kuis
+            <Button variant="tab" data-active={activeTab === 'quiz'} className="flex-1 px-1.5 text-xs min-w-0" onClick={() => setActiveTab('quiz')}>
+              <Target className="h-3.5 w-3.5 mr-0.5 shrink-0" />
+              <span className="truncate">Kuis</span>
             </Button>
-            <Button variant="tab" data-active={activeTab === 'test'} className="flex-1" onClick={() => setActiveTab('test')}>
-              <FileText className="h-4 w-4 mr-1" />Tes
+            <Button variant="tab" data-active={activeTab === 'test'} className="flex-1 px-1.5 text-xs min-w-0" onClick={() => setActiveTab('test')}>
+              <FileText className="h-3.5 w-3.5 mr-0.5 shrink-0" />
+              <span className="truncate">Tes</span>
             </Button>
-            <Button variant="tab" data-active={activeTab === 'writing'} className="flex-1" onClick={() => setActiveTab('writing')}>
-              <PenTool className="h-4 w-4 mr-1" />Writing
+            <Button variant="tab" data-active={activeTab === 'certification'} className="flex-1 px-1.5 text-xs min-w-0" onClick={() => setActiveTab('certification')}>
+              <Award className="h-3.5 w-3.5 mr-0.5 shrink-0" />
+              <span className="truncate">Sertifikasi</span>
             </Button>
-            <Button variant="tab" data-active={activeTab === 'progress'} className="flex-1" onClick={() => setActiveTab('progress')}>
-              <TrendingUp className="h-4 w-4 mr-1" />Progres
+            <Button variant="tab" data-active={activeTab === 'progress'} className="flex-1 px-1.5 text-xs min-w-0" onClick={() => setActiveTab('progress')}>
+              <TrendingUp className="h-3.5 w-3.5 mr-0.5 shrink-0" />
+              <span className="truncate">Progres</span>
             </Button>
           </div>
         </div>
@@ -116,22 +130,46 @@ export default function Practice() {
           
           {activeTab === 'quiz' && <QuizPracticeSection />}
           
-          {activeTab === 'writing' && (
-            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-4">
-              <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl p-4">
-                <p className="text-sm text-blue-700 dark:text-blue-300">
-                  Latihan menulis esai untuk persiapan IELTS dan TOEFL. Tulis esai sesuai prompt yang diberikan.
+          {activeTab === 'progress' && <ProgressOverview />}
+          
+          {activeTab === 'certification' && (
+            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-6">
+              <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-xl p-4">
+                <p className="text-sm text-amber-700 dark:text-amber-300">
+                  <Award className="h-4 w-4 inline mr-1" />
+                  Ikuti tes sertifikasi dan dapatkan sertifikat resmi dari Rafiq Nihon. Sertifikat bisa diunduh sebagai PDF.
                 </p>
               </div>
-              <Button className="w-full gap-2" onClick={() => navigate('/writing')}>
-                <PenTool className="h-5 w-5" />
-                Mulai Writing Practice
-              </Button>
+              <div className="space-y-4">
+                {certificationTests.map((test, index) => {
+                  const hasCert = myCertificates.some(c => c.test_type === test.id);
+                  const certBestScore = testHistory
+                    .filter(a => a.test_type === test.id)
+                    .reduce((best, a) => {
+                      const pct = Math.round((a.score / a.total_questions) * 100);
+                      return pct > best ? pct : best;
+                    }, -1);
+                  return (
+                    <motion.div key={test.id} initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: index * 0.1 }}>
+                      <CertificationTestCard
+                        id={test.id}
+                        title={test.name}
+                        description={test.description}
+                        questionCount={test.questions}
+                        timeMinutes={test.duration}
+                        icon={test.icon}
+                        passingScore={test.passingScore}
+                        bestScore={certBestScore >= 0 ? certBestScore : undefined}
+                        hasCertificate={hasCert}
+                        onStart={() => navigate(`/certification-test?type=${test.id}`)}
+                      />
+                    </motion.div>
+                  );
+                })}
+              </div>
             </motion.div>
           )}
 
-          {activeTab === 'progress' && <ProgressOverview />}
-          
           {activeTab === 'test' && (
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="space-y-6">
               <div className="bg-warning/10 border border-warning/30 rounded-xl p-4">

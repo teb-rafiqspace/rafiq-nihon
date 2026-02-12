@@ -140,7 +140,8 @@ export default function Learn() {
           </div>
         </div>
 
-        {/* Language Tabs */}
+        {/* Language Tabs - hidden when only one language */}
+        {LANGUAGES.length > 1 && (
         <div className="container max-w-lg mx-auto px-4 -mt-4">
           <div className="bg-card rounded-2xl shadow-elevated p-1.5 mb-2 flex gap-1">
             {LANGUAGES.map((lang) => (
@@ -160,6 +161,7 @@ export default function Learn() {
             ))}
           </div>
         </div>
+        )}
 
         {/* Track Tabs - Scrollable */}
         <div className="container max-w-lg mx-auto px-4">
@@ -201,8 +203,8 @@ export default function Learn() {
                 {activeTrack === 'jlpt_n4' && '\u{1F4CC} Level dasar - lanjutan dari N5, fokus pada tata bahasa praktis'}
                 {activeTrack === 'jlpt_n3' && '\u{1F4CC} Level menengah - persiapan untuk bekerja di Jepang'}
                 {activeTrack === 'jlpt_n2' && '\u{1F4CC} Level lanjutan - penguasaan ekspresi formal dan bacaan kompleks'}
-                {activeTrack === 'ielts' && '\u{1F4CC} Persiapan IELTS Academic - target Band 5.0 hingga 7.5'}
-                {activeTrack === 'toefl' && '\u{1F4CC} Persiapan TOEFL iBT - target skor 80 hingga 110'}
+                {/* {activeTrack === 'ielts' && '\u{1F4CC} Persiapan IELTS Academic - target Band 5.0 hingga 7.5'} */}
+                {/* {activeTrack === 'toefl' && '\u{1F4CC} Persiapan TOEFL iBT - target skor 80 hingga 110'} */}
               </p>
             </motion.div>
           )}

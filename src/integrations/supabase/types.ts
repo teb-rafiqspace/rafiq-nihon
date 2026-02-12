@@ -71,6 +71,90 @@ export type Database = {
         }
         Relationships: []
       }
+      certificates: {
+        Row: {
+          id: string
+          user_id: string
+          certificate_number: string
+          test_type: string
+          display_name: string
+          score: number
+          total_questions: number
+          score_percent: number
+          passing_score: number
+          time_spent_seconds: number | null
+          section_scores: Json | null
+          issued_date: string
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          certificate_number: string
+          test_type: string
+          display_name: string
+          score: number
+          total_questions: number
+          score_percent: number
+          passing_score: number
+          time_spent_seconds?: number | null
+          section_scores?: Json | null
+          issued_date?: string
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          certificate_number?: string
+          test_type?: string
+          display_name?: string
+          score?: number
+          total_questions?: number
+          score_percent?: number
+          passing_score?: number
+          time_spent_seconds?: number | null
+          section_scores?: Json | null
+          issued_date?: string
+          created_at?: string
+        }
+        Relationships: []
+      }
+      certification_test_questions: {
+        Row: {
+          id: string
+          test_type: string
+          section: string
+          question_text: string
+          options: Json
+          correct_answer: string
+          explanation: string | null
+          sort_order: number
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          test_type: string
+          section: string
+          question_text: string
+          options?: Json
+          correct_answer: string
+          explanation?: string | null
+          sort_order?: number
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          test_type?: string
+          section?: string
+          question_text?: string
+          options?: Json
+          correct_answer?: string
+          explanation?: string | null
+          sort_order?: number
+          created_at?: string
+        }
+        Relationships: []
+      }
       chapters: {
         Row: {
           chapter_number: number

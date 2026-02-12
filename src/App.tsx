@@ -37,6 +37,9 @@ import Leaderboard from "./pages/Leaderboard";
 import Friends from "./pages/Friends";
 import EnglishLessonView from "./pages/EnglishLessonView";
 import WritingPractice from "./pages/WritingPractice";
+import CertificationTestView from "./pages/CertificationTestView";
+import CertificateView from "./pages/CertificateView";
+import MyCertificates from "./pages/MyCertificates";
 import NotFound from "./pages/NotFound";
 
 // Admin pages
@@ -68,8 +71,8 @@ const App = () => (
               <Route path="/chapter/:chapterId" element={<ChapterDetail />} />
               <Route path="/lesson/:lessonId" element={<LessonView />} />
               <Route path="/jlpt-lesson/:lessonId" element={<JLPTLessonView />} />
-              <Route path="/english-lesson/:lessonId" element={<EnglishLessonView />} />
-              <Route path="/writing" element={<WritingPractice />} />
+              {/* <Route path="/english-lesson/:lessonId" element={<EnglishLessonView />} /> */}
+              {/* <Route path="/writing" element={<WritingPractice />} /> */}
               <Route path="/time-lesson" element={<TimeScheduleLesson />} />
               <Route path="/location-lesson" element={<LocationLesson />} />
               <Route path="/kana" element={<KanaLearn />} />
@@ -90,7 +93,10 @@ const App = () => (
               <Route path="/analytics" element={<Analytics />} />
               <Route path="/leaderboard" element={<Leaderboard />} />
               <Route path="/friends" element={<Friends />} />
-              
+              <Route path="/certification-test" element={<CertificationTestView />} />
+              <Route path="/certificate/:id" element={<CertificateView />} />
+              <Route path="/certificates" element={<MyCertificates />} />
+
               {/* Admin Routes */}
               <Route path="/admin" element={<AdminDashboard />} />
               <Route path="/admin/users" element={<UserManagement />} />

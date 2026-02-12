@@ -1,0 +1,422 @@
+[
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari kata Jepang 'おはようございます' (ohayou gozaimasu)?",
+    "options": [
+      "Selamat pagi",
+      "Selamat siang",
+      "Selamat malam",
+      "Selamat tidur"
+    ],
+    "correct_answer": "Selamat pagi",
+    "explanation": "おはようございます (ohayou gozaimasu) adalah salam formal untuk mengucapkan selamat pagi dalam bahasa Jepang.",
+    "sort_order": 1
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Kata Jepang untuk 'pabrik' adalah...",
+    "options": [
+      "こうじょう (koujou)",
+      "がっこう (gakkou)",
+      "びょういん (byouin)",
+      "ぎんこう (ginkou)"
+    ],
+    "correct_answer": "こうじょう (koujou)",
+    "explanation": "工場 (こうじょう/koujou) berarti pabrik, tempat kerja yang umum untuk pekerja Indonesia di Jepang.",
+    "sort_order": 2
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'terima kasih' dalam bahasa Jepang?",
+    "options": [
+      "すみません (sumimasen)",
+      "ありがとうございます (arigatou gozaimasu)",
+      "ごめんなさい (gomennasai)",
+      "いただきます (itadakimasu)"
+    ],
+    "correct_answer": "ありがとうございます (arigatou gozaimasu)",
+    "explanation": "ありがとうございます (arigatou gozaimasu) adalah ungkapan formal untuk berterima kasih dalam bahasa Jepang.",
+    "sort_order": 3
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari 'やすみ' (yasumi)?",
+    "options": [
+      "Kerja",
+      "Istirahat/Libur",
+      "Makan",
+      "Tidur"
+    ],
+    "correct_answer": "Istirahat/Libur",
+    "explanation": "休み (やすみ/yasumi) berarti istirahat atau hari libur dalam bahasa Jepang.",
+    "sort_order": 4
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Kata Jepang untuk angka '1000' adalah...",
+    "options": [
+      "ひゃく (hyaku)",
+      "せん (sen)",
+      "まん (man)",
+      "じゅう (juu)"
+    ],
+    "correct_answer": "せん (sen)",
+    "explanation": "千 (せん/sen) adalah angka 1000 dalam bahasa Jepang. Penting untuk mengetahui angka dalam kehidupan sehari-hari.",
+    "sort_order": 5
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari 'あぶない' (abunai)?",
+    "options": [
+      "Aman",
+      "Bahaya",
+      "Cepat",
+      "Lambat"
+    ],
+    "correct_answer": "Bahaya",
+    "explanation": "危ない (あぶない/abunai) berarti bahaya. Kata ini sangat penting untuk keselamatan kerja di pabrik.",
+    "sort_order": 6
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'permisi/maaf' dalam bahasa Jepang?",
+    "options": [
+      "ありがとう (arigatou)",
+      "すみません (sumimasen)",
+      "さようなら (sayounara)",
+      "おねがいします (onegaishimasu)"
+    ],
+    "correct_answer": "すみません (sumimasen)",
+    "explanation": "すみません (sumimasen) digunakan untuk meminta maaf atau menarik perhatian seseorang secara sopan.",
+    "sort_order": 7
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Kata Jepang untuk 'hari Senin' adalah...",
+    "options": [
+      "げつようび (getsuyoubi)",
+      "かようび (kayoubi)",
+      "すいようび (suiyoubi)",
+      "もくようび (mokuyoubi)"
+    ],
+    "correct_answer": "げつようび (getsuyoubi)",
+    "explanation": "月曜日 (げつようび/getsuyoubi) berarti hari Senin dalam bahasa Jepang.",
+    "sort_order": 8
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari 'しごと' (shigoto)?",
+    "options": [
+      "Rumah",
+      "Pekerjaan",
+      "Makanan",
+      "Uang"
+    ],
+    "correct_answer": "Pekerjaan",
+    "explanation": "仕事 (しごと/shigoto) berarti pekerjaan atau kerja dalam bahasa Jepang.",
+    "sort_order": 9
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'tolong' atau 'mohon' dalam bahasa Jepang?",
+    "options": [
+      "ください (kudasai)",
+      "どうぞ (douzo)",
+      "いいえ (iie)",
+      "はい (hai)"
+    ],
+    "correct_answer": "ください (kudasai)",
+    "explanation": "ください (kudasai) digunakan untuk meminta sesuatu dengan sopan, seperti 'tolong' atau 'mohon'.",
+    "sort_order": 10
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari 'ざんぎょう' (zangyou)?",
+    "options": [
+      "Libur",
+      "Lembur",
+      "Makan siang",
+      "Istirahat"
+    ],
+    "correct_answer": "Lembur",
+    "explanation": "残業 (ざんぎょう/zangyou) berarti lembur atau kerja overtime. Istilah penting dalam konteks kerja.",
+    "sort_order": 11
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Kata Jepang untuk 'rumah sakit' adalah...",
+    "options": [
+      "びょういん (byouin)",
+      "えき (eki)",
+      "くうこう (kuukou)",
+      "かいしゃ (kaisha)"
+    ],
+    "correct_answer": "びょういん (byouin)",
+    "explanation": "病院 (びょういん/byouin) berarti rumah sakit dalam bahasa Jepang.",
+    "sort_order": 12
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari 'わかりました' (wakarimashita)?",
+    "options": [
+      "Saya mengerti",
+      "Saya tidak tahu",
+      "Saya lapar",
+      "Saya lelah"
+    ],
+    "correct_answer": "Saya mengerti",
+    "explanation": "わかりました (wakarimashita) berarti 'saya mengerti' atau 'saya paham'. Ungkapan penting di tempat kerja.",
+    "sort_order": 13
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Bagaimana cara mengatakan 'selamat datang' dalam bahasa Jepang?",
+    "options": [
+      "いってきます (ittekimasu)",
+      "いってらっしゃい (itterasshai)",
+      "いらっしゃいませ (irasshaimase)",
+      "ただいま (tadaima)"
+    ],
+    "correct_answer": "いらっしゃいませ (irasshaimase)",
+    "explanation": "いらっしゃいませ (irasshaimase) adalah ungkapan untuk menyambut tamu atau pelanggan, berarti 'selamat datang'.",
+    "sort_order": 14
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "kosakata",
+    "question_text": "Apa arti dari 'きんし' (kinshi)?",
+    "options": [
+      "Diperbolehkan",
+      "Dilarang",
+      "Diperlukan",
+      "Disarankan"
+    ],
+    "correct_answer": "Dilarang",
+    "explanation": "禁止 (きんし/kinshi) berarti dilarang atau larangan. Penting untuk memahami aturan keselamatan kerja.",
+    "sort_order": 15
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Partikel yang tepat untuk menunjukkan objek dalam kalimat adalah...",
+    "options": [
+      "を (wo)",
+      "は (wa)",
+      "に (ni)",
+      "で (de)"
+    ],
+    "correct_answer": "を (wo)",
+    "explanation": "Partikel を (wo) digunakan untuk menandai objek langsung dalam kalimat Jepang. Contoh: パンを食べます (roti makan).",
+    "sort_order": 16
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Bentuk sopan dari kata kerja 'たべる' (taberu/makan) dalam bentuk sekarang adalah...",
+    "options": [
+      "たべる (taberu)",
+      "たべます (tabemasu)",
+      "たべた (tabeta)",
+      "たべました (tabemashita)"
+    ],
+    "correct_answer": "たべます (tabemasu)",
+    "explanation": "たべます (tabemasu) adalah bentuk sopan dari 'makan' dalam bentuk sekarang/akan datang.",
+    "sort_order": 17
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Untuk mengatakan 'Saya akan pergi ke pabrik', kalimat yang benar adalah...",
+    "options": [
+      "こうじょうに行きます (koujou ni ikimasu)",
+      "こうじょうを行きます (koujou wo ikimasu)",
+      "こうじょうは行きます (koujou wa ikimasu)",
+      "こうじょうで行きます (koujou de ikimasu)"
+    ],
+    "correct_answer": "こうじょうに行きます (koujou ni ikimasu)",
+    "explanation": "Partikel に (ni) digunakan untuk menunjukkan tujuan dengan kata kerja gerak seperti 行く (iku/pergi).",
+    "sort_order": 18
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Bentuk lampau negatif dari 'します' (shimasu/melakukan) adalah...",
+    "options": [
+      "しません (shimasen)",
+      "しました (shimashita)",
+      "しませんでした (shimasendeshita)",
+      "しない (shinai)"
+    ],
+    "correct_answer": "しませんでした (shimasendeshita)",
+    "explanation": "しませんでした (shimasendeshita) adalah bentuk lampau negatif sopan dari する (suru/melakukan).",
+    "sort_order": 19
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Partikel yang digunakan untuk menunjukkan alat atau sarana adalah...",
+    "options": [
+      "で (de)",
+      "を (wo)",
+      "に (ni)",
+      "が (ga)"
+    ],
+    "correct_answer": "で (de)",
+    "explanation": "Partikel で (de) digunakan untuk menunjukkan alat atau cara. Contoh: バスで行きます (pergi dengan bus).",
+    "sort_order": 20
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Untuk mengatakan 'Ada buku di atas meja', kalimat yang benar adalah...",
+    "options": [
+      "つくえの上に本があります (tsukue no ue ni hon ga arimasu)",
+      "つくえの上で本があります (tsukue no ue de hon ga arimasu)",
+      "つくえの上を本があります (tsukue no ue wo hon ga arimasu)",
+      "つくえの上は本があります (tsukue no ue wa hon ga arimasu)"
+    ],
+    "correct_answer": "つくえの上に本があります (tsukue no ue ni hon ga arimasu)",
+    "explanation": "Partikel に (ni) digunakan untuk menunjukkan lokasi keberadaan dengan kata kerja ある (aru/ada untuk benda mati).",
+    "sort_order": 21
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Bentuk ajakan dari 'たべる' (taberu/makan) adalah...",
+    "options": [
+      "たべよう (tabeyou)",
+      "たべて (tabete)",
+      "たべます (tabemasu)",
+      "たべた (tabeta)"
+    ],
+    "correct_answer": "たべよう (tabeyou)",
+    "explanation": "たべよう (tabeyou) adalah bentuk ajakan yang berarti 'ayo makan' atau 'mari kita makan'.",
+    "sort_order": 22
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Untuk bertanya 'Berapa harganya?', ungkapan yang tepat adalah...",
+    "options": [
+      "いくらですか (ikura desuka)",
+      "なんですか (nan desuka)",
+      "どこですか (doko desuka)",
+      "だれですか (dare desuka)"
+    ],
+    "correct_answer": "いくらですか (ikura desuka)",
+    "explanation": "いくらですか (ikura desuka) adalah ungkapan untuk menanyakan harga dalam bahasa Jepang.",
+    "sort_order": 23
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Partikel の (no) berfungsi untuk...",
+    "options": [
+      "Menunjukkan kepemilikan atau hubungan",
+      "Menunjukkan objek",
+      "Menunjukkan tempat",
+      "Menunjukkan waktu"
+    ],
+    "correct_answer": "Menunjukkan kepemilikan atau hubungan",
+    "explanation": "Partikel の (no) digunakan untuk menunjukkan kepemilikan atau hubungan antara kata benda. Contoh: 私の本 (buku saya).",
+    "sort_order": 24
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "grammar",
+    "question_text": "Untuk mengatakan 'Saya ingin makan', ungkapan yang tepat adalah...",
+    "options": [
+      "たべたいです (tabetai desu)",
+      "たべますです (tabemasu desu)",
+      "たべるです (taberu desu)",
+      "たべましょう (tabemashou)"
+    ],
+    "correct_answer": "たべたいです (tabetai desu)",
+    "explanation": "たいです (tai desu) ditambahkan pada bentuk dasar kata kerja untuk menyatakan keinginan. たべたいです berarti 'ingin makan'.",
+    "sort_order": 25
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "membaca",
+    "question_text": "Bacalah teks berikut:\n\n「まいにち７じに会社に行きます。９じから５じまで働きます。１２じにお昼ごはんを食べます。」\n\nPertanyaan: Pukul berapa dia makan siang?",
+    "options": [
+      "7:00",
+      "9:00",
+      "12:00",
+      "17:00"
+    ],
+    "correct_answer": "12:00",
+    "explanation": "Teks menyebutkan 「１２じにお昼ごはんを食べます」yang berarti 'makan siang pukul 12'. に (ni) menunjukkan waktu.",
+    "sort_order": 26
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "membaca",
+    "question_text": "Bacalah teks berikut:\n\n「工場で働いています。毎日８時間働きます。土曜日と日曜日は休みです。」\n\nPertanyaan: Berapa hari kerja dalam seminggu?",
+    "options": [
+      "5 hari",
+      "6 hari",
+      "7 hari",
+      "4 hari"
+    ],
+    "correct_answer": "5 hari",
+    "explanation": "Teks menyebutkan 「土曜日と日曜日は休みです」(Sabtu dan Minggu libur), jadi kerja 5 hari (Senin-Jumat).",
+    "sort_order": 27
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "membaca",
+    "question_text": "Bacalah pengumuman berikut:\n\n「あぶないですから、ここで たばこを 吸わないでください。」\n\nPertanyaan: Apa yang dilarang di tempat ini?",
+    "options": [
+      "Makan",
+      "Minum",
+      "Merokok",
+      "Berbicara"
+    ],
+    "correct_answer": "Merokok",
+    "explanation": "たばこを吸わないでください berarti 'jangan merokok'. Pengumuman ini melarang merokok karena berbahaya (あぶない).",
+    "sort_order": 28
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "membaca",
+    "question_text": "Bacalah jadwal berikut:\n\n「月曜日：オリエンテーション\n火曜日：安全研修\n水曜日：仕事開始」\n\nPertanyaan: Kapan mulai bekerja?",
+    "options": [
+      "Hari Senin",
+      "Hari Selasa",
+      "Hari Rabu",
+      "Hari Kamis"
+    ],
+    "correct_answer": "Hari Rabu",
+    "explanation": "Jadwal menunjukkan 「水曜日：仕事開始」(Rabu: mulai bekerja). 水曜日 (suiyoubi) adalah hari Rabu.",
+    "sort_order": 29
+  },
+  {
+    "test_type": "cert_kakunin",
+    "section": "membaca",
+    "question_text": "Bacalah pesan berikut:\n\n「田中さんへ\n明日は９時に会議室に来てください。大切な話があります。\n山田」\n\nPertanyaan: Apa yang harus dilakukan Tanaka-san besok?",
+    "options": [
+      "Pergi ke pabrik pukul 9",
+      "Datang ke ruang rapat pukul 9",
+      "Menelepon Yamada pukul 9",
+      "Pulang pukul 9"
+    ],
+    "correct_answer": "Datang ke ruang rapat pukul 9",
+    "explanation": "Pesan tersebut meminta Tanaka untuk 「９時に会議室に来てください」(datang ke ruang rapat pukul 9).",
+    "sort_order": 30
+  }
+]
