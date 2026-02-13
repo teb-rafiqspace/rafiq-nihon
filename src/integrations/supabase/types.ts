@@ -71,6 +71,42 @@ export type Database = {
         }
         Relationships: []
       }
+      certification_test_questions: {
+        Row: {
+          correct_answer: string
+          created_at: string
+          explanation: string | null
+          id: string
+          options: Json
+          question_text: string
+          section: string
+          sort_order: number
+          test_type: string
+        }
+        Insert: {
+          correct_answer: string
+          created_at?: string
+          explanation?: string | null
+          id?: string
+          options?: Json
+          question_text: string
+          section: string
+          sort_order?: number
+          test_type: string
+        }
+        Update: {
+          correct_answer?: string
+          created_at?: string
+          explanation?: string | null
+          id?: string
+          options?: Json
+          question_text?: string
+          section?: string
+          sort_order?: number
+          test_type?: string
+        }
+        Relationships: []
+      }
       chapters: {
         Row: {
           chapter_number: number

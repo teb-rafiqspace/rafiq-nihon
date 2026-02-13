@@ -149,11 +149,11 @@ export function useCertificationTest(config: CertTestConfig) {
     const loadQuestions = async () => {
       setIsLoading(true);
       try {
-        const { data, error } = await supabase
+        const { data, error } = await (supabase
           .from('certification_test_questions' as any)
           .select('*')
           .eq('test_type', config.testType)
-          .order('sort_order', { ascending: true });
+          .order('sort_order', { ascending: true }) as any);
 
         if (error) throw error;
 
