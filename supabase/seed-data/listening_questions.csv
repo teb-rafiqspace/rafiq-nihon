@@ -1,0 +1,6 @@
+id;listening_id;question_text;question_type;options;correct_answer;explanation;order_index;created_at
+lq-001-1;listening-n5-001;この人はどこに住んでいますか？;multiple_choice;"[""大阪"",""東京"",""京都"",""横浜""]";東京;"Audio menyebutkan ""とうきょうにすんでいます""";1;2026-02-07 02:18:14.638864+00
+lq-001-2;listening-n5-001;この人の仕事は何ですか？;multiple_choice;"[""学生"",""先生"",""会社員"",""医者""]";会社員;"Audio menyebutkan ""かいしゃいんです""";2;2026-02-07 02:18:14.638864+00
+lq-002-1;listening-n5-002;駅はどこにありますか？;multiple_choice;"[""右側"",""左側"",""まっすぐ"",""後ろ""]";左側;"Audio menyebutkan ""えきはひだりがわにあります""";1;2026-02-07 02:18:14.638864+00
+lq-003-1;listening-n5-003;Tシャツはいくらですか？;multiple_choice;"[""1000円"",""1500円"",""2000円"",""2500円""]";2000円;"Audio menyebutkan ""2000えんです""";1;2026-02-07 02:18:14.638864+00
+lq-003-2;listening-n5-003;おつりはいくらですか？;multiple_choice;"[""100円"",""300円"",""500円"",""1000円""]";500円;"Audio menyebutkan ""おつりの500えんです""";2;2026-02-07 02:18:14.638864+00

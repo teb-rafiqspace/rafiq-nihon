@@ -1,0 +1,97 @@
+# JLPT N2 Kanji 97-192
+偽|11|palsu|いつわ.る|ギ|偽造|ぎぞう|pemalsuan
+儀|15|upacara||ギ|儀式|ぎしき|upacara
+宜|8|pantas||ギ|適宜|てきぎ|sesuai kebutuhan
+戯|15|bermain|たわむ.れる|ギ|遊戯|ゆうぎ|permainan
+擬|17|meniru||ギ|擬似|ぎじ|semu
+犠|17|korban||ギ|犠牲|ぎせい|pengorbanan
+菊|11|krisan|きく|キク|菊花|きくか|bunga krisan
+吉|6|keberuntungan||キチ|吉報|きっぽう|kabar baik
+喫|12|menyeruput||キツ|喫茶|きっさ|minum teh
+詰|13|mengisi|つ.める|キツ|詰問|きつもん|pertanyaan tajam
+却|5|menolak||キャク|却下|きゃっか|penolakan
+虐|9|menganiaya|しいた.げる|ギャク|虐待|ぎゃくたい|penganiayaan
+丘|5|bukit|おか|キュウ|丘陵|きゅうりょう|perbukitan
+及|3|mencapai|およ.ぶ|キュウ|普及|ふきゅう|penyebaran
+朽|6|membusuk|く.ちる|キュウ|朽木|くちき|kayu lapuk
+拒|7|menolak|こば.む|キョ|拒否|きょひ|penolakan
+距|12|jarak||キョ|距離|きょり|jarak
+漁|14|memancing|あさ.る|ギョ|漁業|ぎょぎょう|perikanan
+凶|4|jahat||キョウ|凶悪|きょうあく|kejam
+叫|6|berteriak|さけ.ぶ|キョウ|叫び|さけび|teriakan
+峡|9|lembah||キョウ|海峡|かいきょう|selat
+恐|10|takut|おそ.れる|キョウ|恐怖|きょうふ|ketakutan
+恭|10|hormat||キョウ|恭敬|きょうけい|penghormatan
+脅|10|mengancam|おびや.かす|キョウ|脅威|きょうい|ancaman
+矯|17|meluruskan|た.める|キョウ|矯正|きょうせい|koreksi
+響|20|bergema|ひび.く|キョウ|影響|えいきょう|pengaruh
+驚|22|terkejut|おどろ.く|キョウ|驚異|きょうい|keajaiban
+仰|6|menengadah|あお.ぐ|ギョウ|仰天|ぎょうてん|kaget
+僅|13|sedikit|わず.か|キン|僅差|きんさ|selisih tipis
+緊|15|tegang||キン|緊張|きんちょう|ketegangan
+菌|11|bakteri||キン|細菌|さいきん|bakteri
+襟|18|kerah|えり|キン|襟元|えりもと|kerah
+謹|17|berhati-hati|つつし.む|キン|謹慎|きんしん|berhati-hati
+吟|7|bersyair||ギン|吟味|ぎんみ|pemeriksaan
+偶|11|kebetulan||グウ|偶然|ぐうぜん|kebetulan
+遇|12|bertemu||グウ|待遇|たいぐう|perlakuan
+隅|12|sudut|すみ|グウ|隅々|すみずみ|setiap sudut
+掘|11|menggali|ほ.る|クツ|発掘|はっくつ|penggalian
+屈|8|membungkuk|かが.む|クツ|屈服|くっぷく|tunduk
+繰|19|mengulang|く.る|ソウ|繰返す|くりかえす|mengulang
+桑|10|murbei|くわ|ソウ|桑畑|くわばたけ|ladang murbei
+勲|15|jasa||クン|勲章|くんしょう|tanda jasa
+薫|16|harum|かお.る|クン|薫風|くんぷう|angin harum
+傾|13|miring|かたむ.く|ケイ|傾向|けいこう|kecenderungan
+刑|6|hukuman||ケイ|刑罰|けいばつ|hukuman
+啓|11|membuka||ケイ|啓発|けいはつ|pencerahan
+契|9|kontrak|ちぎ.る|ケイ|契約|けいやく|kontrak
+恵|10|berkah|めぐ.む|ケイ|恩恵|おんけい|berkah
+慶|15|sukacita||ケイ|慶祝|けいしゅく|perayaan
+憩|16|istirahat|いこ.う|ケイ|休憩|きゅうけい|istirahat
+掲|11|memajang|かか.げる|ケイ|掲載|けいさい|pemuatan
+携|13|membawa|たずさ.える|ケイ|携帯|けいたい|membawa
+渓|11|lembah||ケイ|渓谷|けいこく|lembah
+継|13|meneruskan|つ.ぐ|ケイ|継続|けいぞく|kelanjutan
+茎|8|batang|くき|ケイ|茎|くき|batang
+蛍|11|kunang-kunang|ほたる|ケイ|蛍光|けいこう|fluoresen
+鶏|19|ayam|にわとり|ケイ|鶏肉|とりにく|daging ayam
+迎|7|menyambut|むか.える|ゲイ|歓迎|かんげい|penyambutan
+鯨|19|paus|くじら|ゲイ|鯨肉|くじらにく|daging paus
+撃|15|menyerang|う.つ|ゲキ|攻撃|こうげき|serangan
+傑|13|orang hebat||ケツ|傑作|けっさく|karya besar
+倹|10|hemat||ケン|勤倹|きんけん|hemat
+兼|10|merangkap|か.ねる|ケン|兼業|けんぎょう|pekerjaan rangkap
+剣|10|pedang|つるぎ|ケン|剣道|けんどう|kendo
+圏|12|wilayah||ケン|圏内|けんない|dalam wilayah
+堅|12|kokoh|かた.い|ケン|堅実|けんじつ|kokoh
+嫌|13|benci|きら.う|ケン|嫌悪|けんお|kebencian
+懸|20|menggantung|か.ける|ケン|懸念|けねん|kekhawatiran
+献|13|persembahan||ケン|貢献|こうけん|kontribusi
+肩|8|bahu|かた|ケン|肩書き|かたがき|jabatan
+謙|17|rendah hati||ケン|謙虚|けんきょ|rendah hati
+賢|16|bijaksana|かしこ.い|ケン|賢明|けんめい|bijaksana
+軒|10|rumah|のき|ケン|軒先|のきさき|tritisan
+遣|13|mengirim|つか.う|ケン|派遣|はけん|pengiriman
+顕|18|nyata||ケン|顕著|けんちょ|mencolok
+幻|4|ilusi|まぼろし|ゲン|幻想|げんそう|ilusi
+弦|8|tali busur|つる|ゲン|弦楽|げんがく|alat gesek
+玄|5|misterius||ゲン|玄関|げんかん|pintu masuk
+孤|8|sendirian||コ|孤独|こどく|kesepian
+弧|9|busur||コ|括弧|かっこ|tanda kurung
+枯|9|layu|か.れる|コ|枯渇|こかつ|kekeringan
+雇|12|mempekerjakan|やと.う|コ|雇用|こよう|pekerjaan
+誇|13|membanggakan|ほこ.る|コ|誇張|こちょう|melebih-lebihkan
+鼓|13|gendang|つづみ|コ|太鼓|たいこ|gendang
+互|4|saling|たが.い|ゴ|相互|そうご|saling
+呉|7|memberi|く.れる|ゴ|呉服|ごふく|kain kimono
+娯|10|hiburan||ゴ|娯楽|ごらく|hiburan
+御|12|terhormat|おん|ゴ|御中|おんちゅう|kepada
+悟|10|menyadari|さと.る|ゴ|悟り|さとり|pencerahan
+碁|13|go (permainan)||ゴ|囲碁|いご|permainan go
+侯|9|marquis||コウ|諸侯|しょこう|para bangsawan
+坑|7|tambang||コウ|坑道|こうどう|terowongan
+孔|4|lubang||コウ|毛孔|けこう|pori-pori
+巧|5|terampil|たく.み|コウ|巧妙|こうみょう|cerdik
+恒|9|tetap||コウ|恒久|こうきゅう|permanen
+慌|12|panik|あわ.てる|コウ|慌張|こうちょう|panik

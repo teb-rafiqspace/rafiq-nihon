@@ -1,0 +1,201 @@
+# Chapter 1: 上級文法パターン (Advanced Grammar Patterns)
+
+=== bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a ===
+際|さい|kesempatan; saat|この際はっきり言おう。|Pada kesempatan ini, bicara terus terang.|noun
+出発|しゅっぱつ|keberangkatan|明日出発する。|Besok berangkat.|noun
+準備|じゅんび|persiapan|準備が整った。|Persiapan sudah selesai.|noun
+確認|かくにん|konfirmasi|スケジュールを確認する。|Mengonfirmasi jadwal.|noun
+注意|ちゅうい|perhatian; peringatan|注意事項を読む。|Membaca hal-hal yang perlu diperhatikan.|noun
+開催|かいさい|penyelenggaraan|大会を開催する。|Menyelenggarakan turnamen.|noun
+参加|さんか|partisipasi|会議に参加する。|Berpartisipasi dalam rapat.|noun
+入学|にゅうがく|masuk sekolah|来年入学する。|Masuk sekolah tahun depan.|noun
+卒業|そつぎょう|kelulusan|大学を卒業した。|Lulus dari universitas.|noun
+就職|しゅうしょく|mendapat pekerjaan|日本で就職する。|Bekerja di Jepang.|noun
+転職|てんしょく|pindah kerja|転職を考えている。|Sedang berpikir pindah kerja.|noun
+歓迎|かんげい|penyambutan|歓迎会を開く。|Mengadakan pesta penyambutan.|noun
+送別|そうべつ|perpisahan|送別会に出席する。|Menghadiri pesta perpisahan.|noun
+設立|せつりつ|pendirian|会社を設立する。|Mendirikan perusahaan.|noun
+訪問|ほうもん|kunjungan|工場を訪問する。|Mengunjungi pabrik.|noun
+面接|めんせつ|wawancara|面接を受ける。|Mengikuti wawancara.|noun
+着任|ちゃくにん|mulai bertugas|来月着任する。|Mulai bertugas bulan depan.|noun
+帰国|きこく|pulang ke negara asal|来年帰国する。|Pulang tahun depan.|noun
+手続き|てつづき|prosedur|手続きを済ませる。|Menyelesaikan prosedur.|noun
+式典|しきてん|upacara|式典に出席する。|Menghadiri upacara.|noun
+挨拶|あいさつ|salam; sambutan|挨拶をする。|Memberi sambutan.|noun
+決意|けつい|tekad|決意を固める。|Memantapkan tekad.|noun
+覚悟|かくご|kesiapan mental|覚悟を決める。|Membulatkan tekad.|noun
+心構え|こころがまえ|persiapan mental|心構えが大切だ。|Kesiapan mental itu penting.|noun
+事前|じぜん|sebelumnya|事前に確認する。|Mengonfirmasi sebelumnya.|adverb
+見送る|みおくる|mengantar pergi|空港で見送る。|Mengantar di bandara.|verb
+迎える|むかえる|menyambut|新年を迎える。|Menyambut tahun baru.|verb
+催す|もよおす|menyelenggarakan|イベントを催す。|Menyelenggarakan acara.|verb
+臨む|のぞむ|menghadapi|試験に臨む。|Menghadapi ujian.|verb
+届ける|とどける|menyampaikan|書類を届ける。|Menyampaikan dokumen.|verb
+祝う|いわう|merayakan|誕生日を祝う。|Merayakan ulang tahun.|verb
+申し込む|もうしこむ|mendaftar|講座に申し込む。|Mendaftar kursus.|verb
+整える|ととのえる|menyiapkan; merapikan|環境を整える。|Menyiapkan lingkungan.|verb
+赴く|おもむく|pergi ke; menuju|現地に赴く。|Pergi ke lokasi.|verb
+改装|かいそう|renovasi|店を改装する。|Merenovasi toko.|noun
+段取り|だんどり|pengaturan|段取りを決める。|Menentukan pengaturan.|noun
+渡航|とこう|perjalanan luar negeri|渡航の準備をする。|Menyiapkan perjalanan luar negeri.|noun
+記念|きねん|peringatan; kenangan|開校記念日だ。|Hari peringatan berdirinya sekolah.|noun
+
+=== 07f22711-3d47-43c2-a05b-2e7487681056 ===
+基づく|もとづく|berdasarkan|データに基づく判断だ。|Keputusan berdasarkan data.|verb
+実話|じつわ|kisah nyata|この映画は実話だ。|Film ini berdasarkan kisah nyata.|noun
+調査|ちょうさ|penyelidikan|市場調査を行う。|Melakukan riset pasar.|noun
+研究|けんきゅう|penelitian|研究結果を発表する。|Mempresentasikan hasil penelitian.|noun
+データ|データ|data|データを分析する。|Menganalisis data.|noun
+結果|けっか|hasil|調査の結果が出た。|Hasil penyelidikan sudah keluar.|noun
+事実|じじつ|fakta|事実を確認する。|Mengonfirmasi fakta.|noun
+経験|けいけん|pengalaman|経験を生かす。|Memanfaatkan pengalaman.|noun
+理論|りろん|teori|理論と実践を結ぶ。|Menghubungkan teori dan praktik.|noun
+統計|とうけい|statistik|統計データを集める。|Mengumpulkan data statistik.|noun
+証拠|しょうこ|bukti|証拠が見つかった。|Bukti ditemukan.|noun
+資料|しりょう|bahan; dokumen|資料を準備する。|Menyiapkan dokumen.|noun
+文献|ぶんけん|literatur; pustaka|文献を参照する。|Merujuk literatur.|noun
+情報|じょうほう|informasi|情報を集める。|Mengumpulkan informasi.|noun
+分析|ぶんせき|analisis|分析結果を示す。|Menunjukkan hasil analisis.|noun
+報告|ほうこく|laporan|報告書を提出する。|Menyerahkan laporan.|noun
+根拠|こんきょ|dasar; landasan|根拠を示す。|Menunjukkan dasar.|noun
+基準|きじゅん|standar; kriteria|基準を満たす。|Memenuhi standar.|noun
+原則|げんそく|prinsip|原則として禁止だ。|Pada prinsipnya dilarang.|noun
+前提|ぜんてい|premis; syarat awal|前提条件を確認する。|Mengonfirmasi syarat awal.|noun
+仮説|かせつ|hipotesis|仮説を立てる。|Menyusun hipotesis.|noun
+推測|すいそく|dugaan|推測に過ぎない。|Hanya dugaan semata.|noun
+実験|じっけん|eksperimen|実験を行う。|Melakukan eksperimen.|noun
+観察|かんさつ|pengamatan|自然を観察する。|Mengamati alam.|noun
+判断|はんだん|penilaian; keputusan|状況を判断する。|Menilai situasi.|noun
+評価|ひょうか|evaluasi|高く評価される。|Dievaluasi tinggi.|noun
+算出|さんしゅつ|perhitungan|コストを算出する。|Menghitung biaya.|noun
+推定|すいてい|perkiraan|推定値を出す。|Mengeluarkan nilai perkiraan.|noun
+裏付け|うらづけ|pembuktian|裏付けが取れた。|Pembuktian berhasil didapat.|noun
+検証|けんしょう|verifikasi|仮説を検証する。|Memverifikasi hipotesis.|noun
+結論|けつろん|kesimpulan|結論に達する。|Mencapai kesimpulan.|noun
+考察|こうさつ|pembahasan|考察を加える。|Menambahkan pembahasan.|noun
+引用|いんよう|kutipan|論文を引用する。|Mengutip makalah.|noun
+参照|さんしょう|referensi|参照してください。|Silakan lihat referensi.|noun
+発見|はっけん|penemuan|新しい発見があった。|Ada penemuan baru.|noun
+収集|しゅうしゅう|pengumpulan|データを収集する。|Mengumpulkan data.|noun
+整理|せいり|penyusunan|情報を整理する。|Menyusun informasi.|noun
+体系|たいけい|sistem; kerangka|体系的に学ぶ。|Belajar secara sistematis.|noun
+
+=== a2fc2a82-a116-4ecd-abf9-a46097808033 ===
+応じる|おうじる|menanggapi; menyesuaikan|要求に応じる。|Menanggapi permintaan.|verb
+能力|のうりょく|kemampuan|能力を発揮する。|Menunjukkan kemampuan.|noun
+状況|じょうきょう|situasi|状況を把握する。|Memahami situasi.|noun
+条件|じょうけん|syarat; kondisi|条件を満たす。|Memenuhi syarat.|noun
+需要|じゅよう|permintaan|需要が高まる。|Permintaan meningkat.|noun
+要求|ようきゅう|tuntutan|要求を受け入れる。|Menerima tuntutan.|noun
+環境|かんきょう|lingkungan|環境に配慮する。|Memperhatikan lingkungan.|noun
+予算|よさん|anggaran|予算を組む。|Menyusun anggaran.|noun
+規模|きぼ|skala|規模を拡大する。|Memperluas skala.|noun
+段階|だんかい|tahap|段階的に進める。|Melanjutkan secara bertahap.|noun
+程度|ていど|tingkat; derajat|ある程度は仕方ない。|Sampai tingkat tertentu tidak bisa dihindari.|noun
+水準|すいじゅん|standar; tingkat|生活水準が上がる。|Standar hidup naik.|noun
+実績|じっせき|rekam jejak|実績を積む。|Menumpuk rekam jejak.|noun
+成果|せいか|hasil; prestasi|成果を上げる。|Menghasilkan prestasi.|noun
+対応|たいおう|penanganan|迅速に対応する。|Menangani dengan cepat.|noun
+柔軟|じゅうなん|fleksibel|柔軟に対応する。|Menangani secara fleksibel.|na_adjective
+適切|てきせつ|tepat; sesuai|適切な判断をする。|Membuat keputusan yang tepat.|na_adjective
+格差|かくさ|kesenjangan|格差が広がる。|Kesenjangan melebar.|noun
+変動|へんどう|fluktuasi|価格が変動する。|Harga berfluktuasi.|noun
+調整|ちょうせい|penyesuaian|日程を調整する。|Menyesuaikan jadwal.|noun
+配慮|はいりょ|pertimbangan|配慮が足りない。|Kurang pertimbangan.|noun
+措置|そち|tindakan; langkah|措置を講じる。|Mengambil tindakan.|noun
+余地|よち|ruang; peluang|改善の余地がある。|Ada ruang untuk perbaikan.|noun
+融通|ゆうずう|fleksibilitas|融通が利く。|Fleksibel.|noun
+妥協|だきょう|kompromi|妥協点を探る。|Mencari titik kompromi.|noun
+見極める|みきわめる|menilai dengan cermat|真偽を見極める。|Menilai kebenaran dengan cermat.|verb
+見合わせる|みあわせる|menunda|実施を見合わせる。|Menunda pelaksanaan.|verb
+踏まえる|ふまえる|mempertimbangkan|状況を踏まえる。|Mempertimbangkan situasi.|verb
+反映|はんえい|refleksi; cerminan|意見を反映させる。|Mencerminkan pendapat.|noun
+取り入れる|とりいれる|mengadopsi|新技術を取り入れる。|Mengadopsi teknologi baru.|verb
+左右する|さゆうする|memengaruhi|結果を左右する。|Memengaruhi hasil.|verb
+委ねる|ゆだねる|menyerahkan|判断を委ねる。|Menyerahkan keputusan.|verb
+相応|そうおう|sesuai; sepadan|相応の努力が必要だ。|Diperlukan usaha yang sepadan.|na_adjective
+差異|さい|perbedaan|文化の差異を理解する。|Memahami perbedaan budaya.|noun
+臨機応変|りんきおうへん|fleksibel sesuai situasi|臨機応変に対応する。|Menanggapi secara fleksibel.|na_adjective
+任せる|まかせる|menyerahkan|部下に任せる。|Menyerahkan pada bawahan.|verb
+適応|てきおう|adaptasi|新環境に適応する。|Beradaptasi dengan lingkungan baru.|noun
+供給|きょうきゅう|pasokan|供給が追いつかない。|Pasokan tidak mencukupi.|noun
+
+=== 183c8d6d-6309-4d3f-9c3e-9e3918c58dcb ===
+伴う|ともなう|menyertai; disertai|危険を伴う作業だ。|Pekerjaan yang disertai bahaya.|verb
+増加|ぞうか|peningkatan|人口が増加する。|Jumlah penduduk meningkat.|noun
+減少|げんしょう|penurunan|売上が減少した。|Penjualan menurun.|noun
+変化|へんか|perubahan|環境の変化に対応する。|Menanggapi perubahan lingkungan.|noun
+成長|せいちょう|pertumbuhan|経済が成長する。|Ekonomi bertumbuh.|noun
+発展|はってん|perkembangan|技術が発展する。|Teknologi berkembang.|noun
+進歩|しんぽ|kemajuan|医学が進歩する。|Kedokteran mengalami kemajuan.|noun
+衰退|すいたい|kemunduran|産業が衰退する。|Industri mengalami kemunduran.|noun
+悪化|あっか|perburukan|状況が悪化する。|Situasi memburuk.|noun
+改善|かいぜん|perbaikan|品質を改善する。|Memperbaiki kualitas.|noun
+拡大|かくだい|perluasan|事業を拡大する。|Memperluas usaha.|noun
+縮小|しゅくしょう|pengecilan|規模を縮小する。|Mengecilkan skala.|noun
+上昇|じょうしょう|kenaikan|気温が上昇する。|Suhu naik.|noun
+低下|ていか|penurunan|体力が低下する。|Stamina menurun.|noun
+推移|すいい|perubahan bertahap|数値の推移を見る。|Melihat perubahan angka bertahap.|noun
+傾向|けいこう|kecenderungan|増加傾向にある。|Cenderung meningkat.|noun
+動向|どうこう|tren; arah|市場の動向を分析する。|Menganalisis tren pasar.|noun
+景気|けいき|kondisi ekonomi|景気が回復する。|Kondisi ekonomi pulih.|noun
+高齢化|こうれいか|penuaan masyarakat|高齢化が進む。|Penuaan masyarakat berlanjut.|noun
+過疎|かそ|depopulasi|過疎化が深刻だ。|Depopulasi serius.|noun
+都市化|としか|urbanisasi|都市化が進んでいる。|Urbanisasi terus berlangsung.|noun
+人口|じんこう|jumlah penduduk|人口が減っている。|Jumlah penduduk berkurang.|noun
+技術|ぎじゅつ|teknologi|技術が向上する。|Teknologi meningkat.|noun
+普及|ふきゅう|penyebaran luas|スマホが普及した。|Smartphone sudah menyebar luas.|noun
+進化|しんか|evolusi|AIが進化する。|AI berevolusi.|noun
+深刻|しんこく|serius|問題が深刻化する。|Masalah menjadi serius.|na_adjective
+複雑|ふくざつ|rumit; kompleks|社会が複雑になる。|Masyarakat menjadi rumit.|na_adjective
+加速|かそく|percepatan|変化が加速する。|Perubahan dipercepat.|noun
+鈍化|どんか|pelambatan|成長が鈍化する。|Pertumbuhan melambat.|noun
+激化|げきか|meningkat drastis|競争が激化する。|Persaingan meningkat drastis.|noun
+緩和|かんわ|pelonggaran|規制を緩和する。|Melonggarkan regulasi.|noun
+移行|いこう|transisi|新制度に移行する。|Beralih ke sistem baru.|noun
+転換|てんかん|perubahan arah|政策を転換する。|Mengubah arah kebijakan.|noun
+影響|えいきょう|pengaruh|影響を受ける。|Menerima pengaruh.|noun
+波及|はきゅう|dampak meluas|影響が波及する。|Dampak meluas.|noun
+浸透|しんとう|meresap; menyebar|考えが浸透する。|Pemikiran meresap.|noun
+促進|そくしん|percepatan; promosi|交流を促進する。|Mempercepat pertukaran.|noun
+抑制|よくせい|pengendalian|支出を抑制する。|Mengendalikan pengeluaran.|noun
+
+=== 057e22b9-f0e0-437e-9c30-ea7031dd93c9 ===
+反面|はんめん|di sisi lain|便利な反面、高い。|Nyaman tapi di sisi lain mahal.|noun
+便利|べんり|nyaman; praktis|便利な道具だ。|Alat yang praktis.|na_adjective
+不便|ふべん|tidak praktis|交通が不便だ。|Transportasi tidak praktis.|na_adjective
+豊か|ゆたか|kaya; melimpah|自然が豊かだ。|Alam yang melimpah.|na_adjective
+貧しい|まずしい|miskin|貧しい生活を送る。|Menjalani kehidupan miskin.|i_adjective
+都市|とし|kota|都市部に住む。|Tinggal di area kota.|noun
+田舎|いなか|desa; pedesaan|田舎で暮らす。|Tinggal di pedesaan.|noun
+利点|りてん|kelebihan|利点を生かす。|Memanfaatkan kelebihan.|noun
+欠点|けってん|kekurangan|欠点を補う。|Menutupi kekurangan.|noun
+長所|ちょうしょ|kelebihan|長所を伸ばす。|Mengembangkan kelebihan.|noun
+短所|たんしょ|kekurangan|短所を改善する。|Memperbaiki kekurangan.|noun
+効率|こうりつ|efisiensi|効率を上げる。|Meningkatkan efisiensi.|noun
+品質|ひんしつ|kualitas|品質を保つ。|Menjaga kualitas.|noun
+安全|あんぜん|keselamatan|安全を確保する。|Memastikan keselamatan.|noun
+危険|きけん|bahaya|危険を冒す。|Mengambil risiko.|noun
+積極的|せっきょくてき|aktif; positif|積極的に参加する。|Berpartisipasi secara aktif.|na_adjective
+消極的|しょうきょくてき|pasif|消極的な態度だ。|Sikap yang pasif.|na_adjective
+楽観的|らっかんてき|optimis|楽観的な見方だ。|Pandangan yang optimis.|na_adjective
+悲観的|ひかんてき|pesimis|悲観的になる。|Menjadi pesimis.|na_adjective
+保守的|ほしゅてき|konservatif|保守的な考え方だ。|Cara berpikir yang konservatif.|na_adjective
+革新的|かくしんてき|inovatif|革新的な技術だ。|Teknologi yang inovatif.|na_adjective
+表面|ひょうめん|permukaan|表面上は平静だ。|Di permukaan tampak tenang.|noun
+内面|ないめん|bagian dalam|内面の成長が大切だ。|Pertumbuhan batin itu penting.|noun
+公式|こうしき|resmi|公式な発表だ。|Pengumuman resmi.|na_adjective
+非公式|ひこうしき|tidak resmi|非公式な会談だ。|Pertemuan tidak resmi.|na_adjective
+理想|りそう|ideal|理想と現実は違う。|Ideal dan kenyataan berbeda.|noun
+現実|げんじつ|kenyataan|現実を直視する。|Menghadapi kenyataan.|noun
+先進国|せんしんこく|negara maju|先進国の技術だ。|Teknologi negara maju.|noun
+途上国|とじょうこく|negara berkembang|途上国を支援する。|Membantu negara berkembang.|noun
+正規|せいき|reguler; resmi|正規社員になる。|Menjadi karyawan tetap.|noun
+非正規|ひせいき|non-reguler|非正規雇用が増えた。|Tenaga kerja non-reguler meningkat.|noun
+有利|ゆうり|menguntungkan|有利な条件だ。|Kondisi yang menguntungkan.|na_adjective
+不利|ふり|tidak menguntungkan|不利な立場にある。|Berada di posisi tidak menguntungkan.|na_adjective
+対照的|たいしょうてき|kontras|対照的な意見だ。|Pendapat yang kontras.|na_adjective
+一方|いっぽう|di sisi lain|一方で問題もある。|Di sisi lain ada masalah juga.|noun
+対立|たいりつ|pertentangan|意見が対立する。|Pendapat bertentangan.|noun
+矛盾|むじゅん|kontradiksi|矛盾を感じる。|Merasakan kontradiksi.|noun
+両立|りょうりつ|keseimbangan dua hal|仕事と育児を両立する。|Menyeimbangkan kerja dan pengasuhan.|noun

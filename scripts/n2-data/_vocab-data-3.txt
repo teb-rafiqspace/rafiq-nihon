@@ -1,0 +1,283 @@
+# Chapter 3 continued + Chapter 4
+
+=== c329bf33-b8ab-4e4e-91e9-570491a7fc7d ===
+理由|りゆう|alasan|理由を説明する。|Menjelaskan alasan.|noun
+必ず|かならず|pasti|必ず成功する。|Pasti berhasil.|adverb
+責任|せきにん|tanggung jawab|責任を負う。|Menanggung jawab.|noun
+義務|ぎむ|kewajiban|義務を果たす。|Memenuhi kewajiban.|noun
+約束|やくそく|janji|約束を守る。|Menepati janji.|noun
+覚悟|かくご|kesiapan|覚悟の上だ。|Sudah siap.|noun
+決断|けつだん|keputusan tegas|決断を下す。|Membuat keputusan tegas.|noun
+誓う|ちかう|bersumpah|成功を誓う。|Bersumpah untuk berhasil.|verb
+怠る|おこたる|melalaikan|準備を怠る。|Melalaikan persiapan.|verb
+言い訳|いいわけ|alasan; dalih|言い訳をしない。|Tidak memberi dalih.|noun
+弁解|べんかい|pembelaan diri|弁解の余地がない。|Tidak ada ruang untuk pembelaan diri.|noun
+釈明|しゃくめい|penjelasan klarifikasi|釈明を求める。|Meminta klarifikasi.|noun
+口実|こうじつ|dalih; preteks|口実を作る。|Membuat dalih.|noun
+根拠|こんきょ|landasan|根拠のない主張だ。|Klaim tanpa landasan.|noun
+因果|いんが|sebab-akibat|因果関係を調べる。|Menyelidiki hubungan sebab-akibat.|noun
+動機|どうき|motif|犯行の動機を探る。|Mencari motif kejahatan.|noun
+原因|げんいん|penyebab|原因を究明する。|Mengungkap penyebab.|noun
+要因|よういん|faktor|主な要因は何か。|Apa faktor utamanya.|noun
+背景|はいけい|latar belakang|背景を理解する。|Memahami latar belakang.|noun
+経緯|けいい|proses; kronologi|経緯を説明する。|Menjelaskan kronologi.|noun
+帰結|きけつ|konsekuensi|論理的な帰結だ。|Konsekuensi logis.|noun
+必然|ひつぜん|keniscayaan|必然的な結果だ。|Hasil yang niscaya.|noun
+偶然|ぐうぜん|kebetulan|偶然の一致だ。|Kebetulan yang sama.|noun
+不可避|ふかひ|tidak bisa dihindari|不可避な変化だ。|Perubahan yang tidak bisa dihindari.|na_adjective
+不可欠|ふかけつ|tidak bisa ditinggalkan|不可欠な存在だ。|Keberadaan yang tak bisa ditinggalkan.|na_adjective
+強いる|しいる|memaksa|犠牲を強いる。|Memaksa berkorban.|verb
+余儀なくされる|よぎなくされる|terpaksa|変更を余儀なくされる。|Terpaksa melakukan perubahan.|verb
+やむを得ず|やむをえず|terpaksa|やむを得ず欠席した。|Terpaksa absen.|adverb
+当然|とうぜん|wajar; tentu saja|当然の結果だ。|Hasil yang wajar.|na_adjective
+無論|むろん|tentu saja|無論賛成だ。|Tentu saja setuju.|adverb
+もちろん|もちろん|tentu saja|もちろん参加する。|Tentu saja ikut.|adverb
+明らか|あきらか|jelas; nyata|原因は明らかだ。|Penyebabnya jelas.|na_adjective
+一概に|いちがいに|secara umum|一概には言えない。|Tidak bisa digeneralisasi.|adverb
+一律|いちりつ|seragam; sama rata|一律に適用する。|Menerapkan secara seragam.|adverb
+一貫|いっかん|konsisten|一貫した態度だ。|Sikap yang konsisten.|noun
+首尾一貫|しゅびいっかん|konsisten dari awal|首尾一貫した主張だ。|Klaim yang konsisten dari awal.|noun
+矛盾|むじゅん|kontradiksi|論理に矛盾がある。|Ada kontradiksi dalam logika.|noun
+整合性|せいごうせい|konsistensi|整合性を保つ。|Menjaga konsistensi.|noun
+
+=== e6c9769b-7e02-4d92-8c97-47d3800ed00e ===
+仮に|かりに|misalnya; seandainya|仮に失敗しても大丈夫だ。|Seandainya gagal pun tidak apa-apa.|adverb
+場合|ばあい|kasus; situasi|場合によっては中止する。|Tergantung situasi, bisa dibatalkan.|noun
+最低限|さいていげん|minimum|最低限の準備をする。|Melakukan persiapan minimum.|noun
+少なくとも|すくなくとも|setidaknya|少なくとも一回は行く。|Setidaknya pergi sekali.|adverb
+せめて|せめて|setidaknya|せめて連絡してほしい。|Setidaknya tolong hubungi.|adverb
+たとえ|たとえ|meskipun; walaupun|たとえ難しくても挑戦する。|Walaupun sulit, tetap menantang.|adverb
+仮定|かてい|asumsi; hipotesis|仮定の話だ。|Ini pembicaraan asumsi.|noun
+想像|そうぞう|imajinasi|想像を超える。|Melampaui imajinasi.|noun
+推察|すいさつ|dugaan halus|事情を推察する。|Menduga keadaannya.|noun
+憶測|おくそく|spekulasi|憶測で判断しない。|Tidak menilai berdasarkan spekulasi.|noun
+仮想|かそう|virtual; hipotetis|仮想現実の世界だ。|Dunia realitas virtual.|noun
+架空|かくう|fiktif; khayalan|架空の人物だ。|Tokoh fiktif.|noun
+空想|くうそう|khayalan; fantasi|空想にふける。|Melamun dalam khayalan.|noun
+幻想|げんそう|ilusi; fantasi|幻想を抱く。|Memiliki ilusi.|noun
+前提|ぜんてい|premis|前提条件を確かめる。|Memastikan syarat awal.|noun
+条件付き|じょうけんつき|dengan syarat|条件付きで承認する。|Menyetujui dengan syarat.|noun
+無条件|むじょうけん|tanpa syarat|無条件で賛成する。|Setuju tanpa syarat.|noun
+例外|れいがい|pengecualian|例外なく適用する。|Menerapkan tanpa pengecualian.|noun
+特例|とくれい|kasus khusus|特例として認める。|Mengakui sebagai kasus khusus.|noun
+事例|じれい|contoh kasus|成功事例を紹介する。|Memperkenalkan contoh keberhasilan.|noun
+実例|じつれい|contoh nyata|実例を挙げる。|Memberi contoh nyata.|noun
+用例|ようれい|contoh penggunaan|用例を確認する。|Mengonfirmasi contoh penggunaan.|noun
+該当|がいとう|sesuai; termasuk|該当者はいない。|Tidak ada yang memenuhi syarat.|noun
+相当|そうとう|cukup; setara|相当な努力が必要だ。|Diperlukan usaha yang cukup besar.|na_adjective
+適合|てきごう|kesesuaian|基準に適合する。|Sesuai dengan standar.|noun
+合致|がっち|kesesuaian; cocok|条件に合致する。|Cocok dengan syarat.|noun
+矛盾|むじゅん|kontradiksi|矛盾した発言だ。|Pernyataan yang kontradiktif.|noun
+辻褄|つじつま|konsistensi|辻褄が合わない。|Tidak konsisten.|noun
+筋道|すじみち|logika; jalan pikiran|筋道を立てて考える。|Berpikir secara logis.|noun
+道理|どうり|nalar; akal sehat|道理に合わない。|Tidak masuk akal.|noun
+理屈|りくつ|logika; argumentasi|理屈に合っている。|Sesuai dengan logika.|noun
+論理|ろんり|logika|論理的に考える。|Berpikir secara logis.|noun
+帰納|きのう|induksi|帰納的な推論だ。|Penalaran induktif.|noun
+演繹|えんえき|deduksi|演繹的に導く。|Menyimpulkan secara deduktif.|noun
+妥当性|だとうせい|kelayakan; keabsahan|妥当性を検証する。|Memverifikasi kelayakan.|noun
+信憑性|しんぴょうせい|kredibilitas|信憑性が高い。|Kredibilitasnya tinggi.|noun
+正当性|せいとうせい|legitimasi|正当性を主張する。|Menuntut legitimasi.|noun
+蓋然性|がいぜんせい|probabilitas|蓋然性が高い。|Probabilitasnya tinggi.|noun
+
+=== 31047292-6c0c-4ad4-8d4c-bccf3a538b94 ===
+国内|こくない|dalam negeri|国内外で活躍する。|Aktif di dalam dan luar negeri.|noun
+海外|かいがい|luar negeri|海外に進出する。|Berekspansi ke luar negeri.|noun
+言語|げんご|bahasa|言語能力が高い。|Kemampuan bahasanya tinggi.|noun
+文化|ぶんか|budaya|文化の違いを学ぶ。|Mempelajari perbedaan budaya.|noun
+多様|たよう|beragam|多様な意見がある。|Ada pendapat yang beragam.|na_adjective
+普遍|ふへん|universal|普遍的な価値だ。|Nilai yang universal.|na_adjective
+幅広い|はばひろい|luas; beragam|幅広い分野で活躍する。|Aktif di bidang yang beragam.|i_adjective
+包括的|ほうかつてき|komprehensif|包括的な計画だ。|Rencana yang komprehensif.|na_adjective
+網羅|もうら|mencakup semua|全項目を網羅する。|Mencakup semua item.|noun
+総合|そうごう|komprehensif; menyeluruh|総合的に判断する。|Menilai secara menyeluruh.|noun
+統合|とうごう|integrasi|システムを統合する。|Mengintegrasikan sistem.|noun
+融合|ゆうごう|perpaduan|文化の融合が見られる。|Terlihat perpaduan budaya.|noun
+拡充|かくじゅう|perluasan; penguatan|設備を拡充する。|Memperluas fasilitas.|noun
+充実|じゅうじつ|penuh; memuaskan|内容が充実している。|Isinya sangat memuaskan.|noun
+豊富|ほうふ|berlimpah|経験が豊富だ。|Pengalaman yang berlimpah.|na_adjective
+潤沢|じゅんたく|melimpah|資金が潤沢だ。|Dana yang melimpah.|na_adjective
+過剰|かじょう|berlebihan|過剰な期待をしない。|Tidak berharap berlebihan.|na_adjective
+不足|ふそく|kekurangan|人手が不足している。|Kekurangan tenaga kerja.|noun
+欠如|けつじょ|kekurangan; tidak ada|危機感の欠如だ。|Tidak adanya rasa krisis.|noun
+欠乏|けつぼう|kekurangan parah|資源が欠乏する。|Sumber daya sangat kurang.|noun
+希少|きしょう|langka|希少な動物だ。|Hewan yang langka.|na_adjective
+稀|まれ|jarang|稀なケースだ。|Kasus yang jarang.|na_adjective
+頻繁|ひんぱん|sering|頻繁に連絡する。|Sering menghubungi.|na_adjective
+絶え間ない|たえまない|tak henti-hentinya|絶え間ない努力だ。|Usaha yang tak henti-hentinya.|i_adjective
+途絶える|とだえる|terputus|連絡が途絶える。|Komunikasi terputus.|verb
+途切れる|とぎれる|terputus-putus|会話が途切れる。|Percakapan terputus-putus.|verb
+尽きる|つきる|habis|体力が尽きる。|Stamina habis.|verb
+果てしない|はてしない|tak berujung|果てしない道のりだ。|Perjalanan yang tak berujung.|i_adjective
+際限|さいげん|batas|際限のない要求だ。|Tuntutan yang tak terbatas.|noun
+限界|げんかい|batas; limit|限界に達する。|Mencapai batas.|noun
+上限|じょうげん|batas atas|上限を超える。|Melampaui batas atas.|noun
+下限|かげん|batas bawah|下限を設定する。|Menetapkan batas bawah.|noun
+範囲|はんい|jangkauan; cakupan|範囲を広げる。|Memperluas jangkauan.|noun
+領域|りょういき|wilayah; ranah|新たな領域に進む。|Memasuki ranah baru.|noun
+圏内|けんない|dalam jangkauan|射程圏内にある。|Berada dalam jangkauan tembak.|noun
+圏外|けんがい|di luar jangkauan|電波が圏外だ。|Sinyal di luar jangkauan.|noun
+境界|きょうかい|batas; perbatasan|境界線を引く。|Menarik garis batas.|noun
+越える|こえる|melampaui|限界を越える。|Melampaui batas.|verb
+
+# Chapter 4: 上級敬語 (Advanced Keigo)
+
+=== e3eecebc-d363-4864-b295-c274ad878eb1 ===
+拝見|はいけん|melihat (merendah)|資料を拝見する。|Melihat dokumen.|noun
+承知|しょうち|memahami (merendah)|承知いたしました。|Saya memahaminya.|noun
+恐縮|きょうしゅく|sungkan; tidak enak hati|恐縮ですが、お願いします。|Maaf merepotkan, tolong.|noun
+幸い|さいわい|untungnya; beruntung|幸いにも間に合った。|Untungnya masih sempat.|na_adjective
+恐れ入る|おそれいる|merasa sungkan|恐れ入りますが。|Maaf merepotkan.|verb
+お手数|おてすう|merepotkan|お手数をおかけします。|Maaf merepotkan Anda.|noun
+お差し支え|おさしつかえ|keberatan|お差し支えなければ。|Jika tidak keberatan.|noun
+ご多忙|ごたぼう|sangat sibuk (sopan)|ご多忙のところ恐れ入ります。|Maaf mengganggu di saat sibuk.|noun
+ご査収|ごさしゅう|mohon diperiksa|ご査収ください。|Mohon diperiksa.|noun
+ご検討|ごけんとう|mohon dipertimbangkan|ご検討いただければ幸いです。|Kami akan senang jika Anda mempertimbangkan.|noun
+ご了承|ごりょうしょう|mohon dimaklumi|ご了承ください。|Mohon dimaklumi.|noun
+ご容赦|ごようしゃ|mohon dimaafkan|何卒ご容赦ください。|Mohon dimaafkan.|noun
+ご一報|ごいっぽう|mohon kabari|ご一報いただけますか。|Bisakah Anda memberi kabar?|noun
+ご教示|ごきょうじ|mohon diberi tahu|ご教示いただけますか。|Bisakah Anda memberi tahu?|noun
+ご指導|ごしどう|bimbingan (sopan)|ご指導をお願いします。|Mohon bimbingannya.|noun
+ご尽力|ごじんりょく|usaha keras (sopan)|ご尽力に感謝します。|Terima kasih atas usahanya.|noun
+ご厚意|ごこうい|kebaikan hati (sopan)|ご厚意に甘えます。|Saya menerima kebaikan Anda.|noun
+ご配慮|ごはいりょ|perhatian (sopan)|ご配慮ありがとうございます。|Terima kasih atas perhatiannya.|noun
+ご足労|ごそくろう|merepotkan datang|ご足労いただき感謝します。|Terima kasih sudah datang.|noun
+お詫び|おわび|permintaan maaf|心よりお詫び申し上げます。|Kami mohon maaf dari hati.|noun
+お見舞い|おみまい|kunjungan simpati|お見舞いに行く。|Pergi menjenguk.|noun
+お祝い|おいわい|ucapan selamat|お祝いを述べる。|Mengucapkan selamat.|noun
+お悔やみ|おくやみ|belasungkawa|お悔やみを申し上げます。|Turut berduka cita.|noun
+差し上げる|さしあげる|memberikan (merendah)|プレゼントを差し上げる。|Memberikan hadiah.|verb
+頂戴する|ちょうだいする|menerima (merendah)|お名前を頂戴できますか。|Boleh saya tahu nama Anda?|verb
+申し伝える|もうしつたえる|menyampaikan (merendah)|上司に申し伝えます。|Saya sampaikan ke atasan.|verb
+お目にかかる|おめにかかる|bertemu (merendah)|お目にかかれて光栄です。|Senang bisa bertemu Anda.|verb
+存じる|ぞんじる|mengetahui (merendah)|存じております。|Saya mengetahuinya.|verb
+参る|まいる|pergi/datang (merendah)|すぐに参ります。|Saya segera datang.|verb
+伺う|うかがう|bertanya/mengunjungi (merendah)|お話を伺います。|Saya dengarkan ceritanya.|verb
+仰る|おっしゃる|berkata (hormat)|先生がおっしゃった通りだ。|Sesuai yang dikatakan guru.|verb
+召し上がる|めしあがる|makan/minum (hormat)|どうぞ召し上がってください。|Silakan dimakan/diminum.|verb
+ご覧になる|ごらんになる|melihat (hormat)|資料をご覧ください。|Silakan lihat dokumennya.|verb
+お越しになる|おこしになる|datang (hormat)|ぜひお越しください。|Silakan datang.|verb
+お申し付け|おもうしつけ|perintah/permintaan (sopan)|何なりとお申し付けください。|Jangan segan untuk menyampaikan.|noun
+お取り計らい|おとりはからい|pengaturan (sopan)|お取り計らいをお願いします。|Mohon pengaturannya.|noun
+お力添え|おちからぞえ|bantuan (sopan)|お力添えをお願いします。|Mohon bantuannya.|noun
+お引き立て|おひきたて|dukungan (sopan)|お引き立てに感謝します。|Terima kasih atas dukungannya.|noun
+
+=== e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe ===
+申す|もうす|berkata (merendah)|私は田中と申します。|Saya bernama Tanaka.|verb
+おっしゃる|おっしゃる|berkata (hormat)|部長がおっしゃいました。|Manajer mengatakan.|verb
+いらっしゃる|いらっしゃる|ada/pergi (hormat)|社長はいらっしゃいますか。|Apakah direktur ada?|verb
+くださる|くださる|memberi (hormat)|先生がくださった本だ。|Buku yang diberikan guru.|verb
+なさる|なさる|melakukan (hormat)|どうなさいますか。|Bagaimana Anda akan melakukannya?|verb
+ご存じ|ごぞんじ|mengetahui (hormat)|ご存じですか。|Apakah Anda tahu?|noun
+お忙しい|おいそがしい|sibuk (sopan)|お忙しいところすみません。|Maaf di saat Anda sibuk.|i_adjective
+おいでになる|おいでになる|ada/datang (sangat hormat)|会長がおいでになった。|Ketua telah datang.|verb
+賜る|たまわる|menerima (sangat merendah)|ご支援を賜りたい。|Ingin menerima dukungan.|verb
+拝借|はいしゃく|meminjam (merendah)|お電話を拝借できますか。|Boleh saya pinjam teleponnya?|noun
+拝聴|はいちょう|mendengarkan (merendah)|ご意見を拝聴する。|Mendengarkan pendapat Anda.|noun
+拝読|はいどく|membaca (merendah)|お手紙を拝読しました。|Saya sudah membaca surat Anda.|noun
+お見受け|おみうけ|melihat/menduga (merendah)|お元気そうにお見受けします。|Anda terlihat sehat.|noun
+致す|いたす|melakukan (merendah)|私が致します。|Saya yang akan melakukannya.|verb
+参上|さんじょう|datang (sangat merendah)|明日参上します。|Saya akan datang besok.|noun
+失礼|しつれい|permisi; tidak sopan|お先に失礼します。|Permisi, saya duluan.|noun
+僭越|せんえつ|lancang; sombong|僭越ながら申し上げます。|Dengan lancang saya sampaikan.|na_adjective
+不躾|ぶしつけ|kurang sopan|不躾なお願いで恐縮です。|Maaf atas permintaan yang kurang sopan.|na_adjective
+粗相|そそう|kecerobohan|粗相のないようにする。|Berusaha agar tidak ceroboh.|noun
+失態|しったい|kesalahan memalukan|失態を演じる。|Melakukan kesalahan memalukan.|noun
+非礼|ひれい|ketidaksopanan|非礼をお詫びする。|Meminta maaf atas ketidaksopanan.|noun
+無礼|ぶれい|kurang ajar|無礼な態度だ。|Sikap yang kurang ajar.|na_adjective
+不手際|ふてぎわ|kesalahan penanganan|不手際をお詫びします。|Mohon maaf atas kesalahan penanganan.|noun
+不行届き|ふゆきとどき|kekurangsempurnaan|不行届きの点があった。|Ada hal yang kurang sempurna.|noun
+見苦しい|みぐるしい|memalukan|見苦しい姿を見せた。|Menunjukkan tampilan memalukan.|i_adjective
+心苦しい|こころぐるしい|merasa bersalah|心苦しく思っております。|Saya merasa bersalah.|i_adjective
+甚だ|はなはだ|sangat (formal)|甚だ申し訳ございません。|Saya sangat minta maaf.|adverb
+何卒|なにとぞ|mohon dengan sangat|何卒よろしくお願いします。|Mohon dengan sangat kerja samanya.|adverb
+切に|せつに|dengan sangat|切にお願い申し上げます。|Mohon dengan sangat.|adverb
+重ねて|かさねて|sekali lagi|重ねてお詫び申し上げます。|Sekali lagi kami mohon maaf.|adverb
+改めて|あらためて|kembali; sekali lagi|改めてご連絡します。|Saya akan menghubungi kembali.|adverb
+早速|さっそく|segera|早速始めましょう。|Mari segera mulai.|adverb
+謹んで|つつしんで|dengan hormat|謹んでお祝い申し上げます。|Dengan hormat kami ucapkan selamat.|adverb
+差し支える|さしつかえる|menghalangi|差し支えなければ教えてください。|Jika tidak berkeberatan, tolong beritahu.|verb
+弁える|わきまえる|memahami tata krama|場をわきまえる。|Memahami situasi dan tata krama.|verb
+控える|ひかえる|menahan diri|発言を控える。|Menahan diri dari berkomentar.|verb
+慎む|つつしむ|berhati-hati; menahan diri|言動を慎む。|Berhati-hati dalam ucapan dan tindakan.|verb
+たしなめる|たしなめる|menegur halus|部下をたしなめる。|Menegur bawahan dengan halus.|verb
+
+=== 86772a3e-d47c-48af-82e9-24a4143acd0f ===
+出席|しゅっせき|kehadiran|会議に出席する。|Menghadiri rapat.|noun
+欠席|けっせき|ketidakhadiran|欠席の連絡をする。|Memberitahu ketidakhadiran.|noun
+議題|ぎだい|agenda; topik rapat|議題を確認する。|Mengonfirmasi agenda.|noun
+採決|さいけつ|pemungutan suara|採決を取る。|Melakukan pemungutan suara.|noun
+議事録|ぎじろく|notulen|議事録を作成する。|Membuat notulen.|noun
+進行|しんこう|kemajuan; moderasi|会議を進行する。|Memandu rapat.|noun
+司会|しかい|pembawa acara|司会を務める。|Bertugas sebagai pembawa acara.|noun
+発言|はつげん|pernyataan|発言を求める。|Meminta untuk berbicara.|noun
+質疑|しつぎ|tanya jawab|質疑応答の時間だ。|Waktunya tanya jawab.|noun
+応答|おうとう|jawaban; respons|質問に応答する。|Menjawab pertanyaan.|noun
+報告|ほうこく|laporan|進捗を報告する。|Melaporkan kemajuan.|noun
+連絡|れんらく|kontak; pemberitahuan|連絡事項を伝える。|Menyampaikan pemberitahuan.|noun
+伝言|でんごん|pesan|伝言をお願いします。|Tolong sampaikan pesan.|noun
+折り返す|おりかえす|menelepon kembali|折り返しお電話します。|Saya akan menelepon kembali.|verb
+取り次ぐ|とりつぐ|menyambungkan|電話を取り次ぐ。|Menyambungkan telepon.|verb
+承る|うけたまわる|menerima (merendah)|ご注文を承ります。|Saya menerima pesanan Anda.|verb
+かしこまる|かしこまる|memahami (sangat sopan)|かしこまりました。|Baik, saya mengerti.|verb
+差し控える|さしひかえる|menahan diri|コメントを差し控える。|Menahan diri dari berkomentar.|verb
+お繋ぎする|おつなぎする|menyambungkan (sopan)|担当者にお繋ぎします。|Saya sambungkan ke penanggung jawab.|verb
+申し上げる|もうしあげる|berkata (sangat merendah)|一言申し上げます。|Izinkan saya berkata sepatah.|verb
+決裁|けっさい|persetujuan resmi|決裁を仰ぐ。|Meminta persetujuan resmi.|noun
+稟議|りんぎ|permohonan persetujuan|稟議書を回す。|Mengedarkan surat permohonan persetujuan.|noun
+根回し|ねまわし|lobi informal|事前に根回しする。|Melakukan lobi informal terlebih dahulu.|noun
+打ち合わせ|うちあわせ|rapat koordinasi|打ち合わせを行う。|Melakukan rapat koordinasi.|noun
+段取り|だんどり|pengaturan; persiapan|段取りを組む。|Menyusun pengaturan.|noun
+手配|てはい|pengaturan; persiapan|宿泊を手配する。|Mengatur penginapan.|noun
+手はず|てはず|rencana persiapan|手はずを整える。|Menyiapkan rencana.|noun
+算段|さんだん|cara; strategi|資金の算段をする。|Menyusun strategi pendanaan.|noun
+所存|しょぞん|niat; rencana (formal)|改善する所存です。|Berniat untuk memperbaiki.|noun
+次第|しだい|begitu...; tergantung|届き次第ご連絡します。|Begitu sampai, akan saya hubungi.|noun
+敬意|けいい|penghormatan|敬意を表する。|Menyatakan penghormatan.|noun
+誠意|せいい|ketulusan|誠意を持って対応する。|Menanggapi dengan ketulusan.|noun
+善処|ぜんしょ|penanganan yang baik|善処いたします。|Kami akan menangani dengan baik.|noun
+微力|びりょく|usaha kecil (merendah)|微力ながらお手伝いします。|Meski sedikit, saya akan membantu.|noun
+精一杯|せいいっぱい|sekuat tenaga|精一杯努力します。|Berusaha sekuat tenaga.|adverb
+粉骨砕身|ふんこつさいしん|bekerja keras|粉骨砕身の覚悟です。|Siap bekerja sekeras mungkin.|noun
+光栄|こうえい|terhormat; bangga|光栄に存じます。|Saya merasa terhormat.|noun
+恐悦|きょうえつ|sangat senang (formal)|恐悦至極に存じます。|Saya sangat senang dan berterima kasih.|noun
+
+=== ba41700a-7520-49c7-925b-451f9fed92ba ===
+拝啓|はいけい|pembuka surat formal|拝啓、時下ますますご清栄のこと。|Dengan hormat, semoga Anda sehat selalu.|noun
+敬具|けいぐ|penutup surat formal|何卒よろしくお願いします。敬具|Mohon kerja samanya. Hormat kami.|noun
+御中|おんちゅう|kepada (organisasi)|株式会社○○御中。|Kepada PT ○○.|noun
+各位|かくい|kepada semua|関係者各位。|Kepada semua pihak terkait.|noun
+前略|ぜんりゃく|pembuka surat informal|前略、お元気ですか。|Langsung saja, apa kabar.|noun
+草々|そうそう|penutup surat informal|取り急ぎご連絡まで。草々|Segera saya sampaikan. Salam.|noun
+時下|じか|saat ini (formal)|時下ますますご清栄のこと。|Semoga saat ini selalu dalam keadaan baik.|noun
+清栄|せいえい|kemakmuran (surat)|ご清栄のことと存じます。|Kami percaya Anda dalam keadaan makmur.|noun
+清祥|せいしょう|kesehatan (surat)|ご清祥のこととお慶びします。|Kami turut senang atas kesehatan Anda.|noun
+健勝|けんしょう|sehat (formal)|ご健勝をお祈りします。|Semoga Anda sehat selalu.|noun
+繁栄|はんえい|kemakmuran|ご繁栄をお祈りします。|Semoga Anda semakin makmur.|noun
+多幸|たこう|banyak kebahagiaan|ご多幸をお祈りします。|Semoga Anda mendapat banyak kebahagiaan.|noun
+発展|はってん|perkembangan|益々のご発展をお祈りします。|Semoga semakin berkembang.|noun
+厚く|あつく|dengan tebal (formal)|厚く御礼申し上げます。|Kami ucapkan terima kasih yang sebesar-besarnya.|adverb
+深く|ふかく|dengan dalam|深くお詫び申し上げます。|Kami mohon maaf yang sedalam-dalamnya.|adverb
+衷心|ちゅうしん|dari lubuk hati|衷心よりお見舞い申し上げます。|Dari lubuk hati kami turut prihatin.|noun
+哀悼|あいとう|belasungkawa|哀悼の意を表します。|Kami menyampaikan belasungkawa.|noun
+祈念|きねん|doa; harapan|ご成功を祈念します。|Kami mendoakan keberhasilan Anda.|noun
+添付|てんぷ|lampiran|書類を添付します。|Saya lampirkan dokumennya.|noun
+同封|どうふう|terlampir|資料を同封します。|Kami sertakan dokumennya.|noun
+別紙|べっし|lampiran terpisah|別紙をご参照ください。|Silakan lihat lampiran terpisah.|noun
+記載|きさい|pencantuman|必要事項を記載する。|Mencantumkan hal-hal yang diperlukan.|noun
+署名|しょめい|tanda tangan|署名をお願いします。|Mohon tanda tangannya.|noun
+捺印|なついん|cap stempel|捺印をお願いします。|Mohon bubuhkan cap stempel.|noun
+通知|つうち|pemberitahuan|通知を送付する。|Mengirim pemberitahuan.|noun
+送付|そうふ|pengiriman|書類を送付する。|Mengirim dokumen.|noun
+受領|じゅりょう|penerimaan|書類を受領する。|Menerima dokumen.|noun
+発行|はっこう|penerbitan|証明書を発行する。|Menerbitkan sertifikat.|noun
+交付|こうふ|penyerahan resmi|許可証を交付する。|Menyerahkan surat izin.|noun
+締切|しめきり|tenggat waktu|締切は来週です。|Tenggat waktunya minggu depan.|noun
+期限|きげん|batas waktu|期限を守る。|Mematuhi batas waktu.|noun
+延期|えんき|penundaan|会議を延期する。|Menunda rapat.|noun
+繰り上げ|くりあげ|percepatan jadwal|日程を繰り上げる。|Mempercepat jadwal.|noun
+繰り下げ|くりさげ|penundaan jadwal|開始を繰り下げる。|Menunda waktu mulai.|noun
+催促|さいそく|desakan; tagihan|返事を催促する。|Mendesak balasan.|noun
+督促|とくそく|teguran pembayaran|支払いを督促する。|Menagih pembayaran.|noun
+照会|しょうかい|penyelidikan; permintaan info|詳細を照会する。|Menanyakan detail.|noun
+回答|かいとう|jawaban resmi|回答をお待ちしています。|Kami menunggu jawaban Anda.|noun

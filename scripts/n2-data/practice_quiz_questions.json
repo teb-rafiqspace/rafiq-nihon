@@ -1,0 +1,5685 @@
+[
+  {
+    "id": "pqq-n2-001",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "試験の結果（　　）、奨学金の額が決まります。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "次第で",
+      "に関して",
+      "に対して",
+      "について"
+    ],
+    "correct_answer": "次第で",
+    "explanation": "「〜次第で」は「〜によって決まる」(tergantung pada〜)という意味のN2文法です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-002",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "雨（　　）、サッカーの試合は予定通り行われた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にもかかわらず",
+      "に関して",
+      "において",
+      "にとって"
+    ],
+    "correct_answer": "にもかかわらず",
+    "explanation": "「〜にもかかわらず」は「〜なのに」(meskipun〜)という逆接の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-003",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "出発（　　）、もう一度持ち物を確認してください。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に際して",
+      "に関して",
+      "について",
+      "にとって"
+    ],
+    "correct_answer": "に際して",
+    "explanation": "「〜に際して」は「〜するときに」(pada saat〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-004",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "年齢（　　）、誰でも参加できます。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "を問わず",
+      "をもとに",
+      "を通じて",
+      "をめぐって"
+    ],
+    "correct_answer": "を問わず",
+    "explanation": "「〜を問わず」は「〜に関係なく」(tanpa memandang〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-005",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "予想（　　）、売り上げが大幅に伸びた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に反して",
+      "に際して",
+      "に対して",
+      "に関して"
+    ],
+    "correct_answer": "に反して",
+    "explanation": "「〜に反して」は「〜とは逆に」(berlawanan dengan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-006",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "今さら謝った（　　）、許してもらえないだろう。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ところで",
+      "ところに",
+      "ところが",
+      "ところを"
+    ],
+    "correct_answer": "ところで",
+    "explanation": "「〜たところで」は「〜しても無駄だ」(meskipun〜pun percuma)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-007",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "高いと思い（　　）、結局買ってしまった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "つつも",
+      "ながらも",
+      "つつ",
+      "ながら"
+    ],
+    "correct_answer": "つつも",
+    "explanation": "「〜つつも」は「〜と思っているが」(meski berpikir〜)という逆接の表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-008",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "彼女は日本語が上手だ。（　　）英語も流暢だ。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "そのうえ",
+      "その結果",
+      "そのため",
+      "それなのに"
+    ],
+    "correct_answer": "そのうえ",
+    "explanation": "「そのうえ」は「さらに」(selain itu)という追加を表す接続詞です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-009",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "この問題は難しい（　　）、時間もかかる。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "うえに",
+      "うえで",
+      "うえは",
+      "うえも"
+    ],
+    "correct_answer": "うえに",
+    "explanation": "「〜うえに」は「〜だけでなく」(selain〜juga)という添加の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-010",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "申込書に必要事項を記入した（　　）、提出してください。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "うえで",
+      "うえに",
+      "うえは",
+      "うえも"
+    ],
+    "correct_answer": "うえで",
+    "explanation": "「〜たうえで」は「〜してから」(setelah melakukan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-011",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "引き受けた（　　）、最後まで責任を持ちなさい。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "以上は",
+      "以上に",
+      "以上も",
+      "以上で"
+    ],
+    "correct_answer": "以上は",
+    "explanation": "「〜以上は」は「〜からには」(karena sudah〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-012",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "彼の話（　　）、来月から新しいプロジェクトが始まるそうだ。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "によると",
+      "によって",
+      "により",
+      "にとって"
+    ],
+    "correct_answer": "によると",
+    "explanation": "「〜によると」は情報源を示す表現(menurut〜)です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-013",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "努力（　　）、彼は試験に合格した。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "の末",
+      "のうえ",
+      "の際",
+      "の間"
+    ],
+    "correct_answer": "の末",
+    "explanation": "「〜の末」は「〜した結果ついに」(setelah akhirnya〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-014",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "日本に来て（　　）、初めて納豆を食べた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "以来",
+      "以上",
+      "以外",
+      "以内"
+    ],
+    "correct_answer": "以来",
+    "explanation": "「〜以来」は「〜してからずっと」(sejak〜)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-015",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "先生の説明を聞いた（　　）、まだよくわからない。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ものの",
+      "ものだ",
+      "ものか",
+      "ものを"
+    ],
+    "correct_answer": "ものの",
+    "explanation": "「〜ものの」は「〜けれども」(meskipun〜)という逆接の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-016",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "社長（　　）、この会社の方針を決めることはできない。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "といえども",
+      "といっても",
+      "というより",
+      "というのは"
+    ],
+    "correct_answer": "といえども",
+    "explanation": "「〜といえども」は「〜であっても」(meskipun〜sekalipun)というフォーマルな逆接です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-017",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "彼は病気（　　）、毎日会社に来ている。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ながらも",
+      "ながら",
+      "つつも",
+      "つつ"
+    ],
+    "correct_answer": "ながらも",
+    "explanation": "「〜ながらも」は「〜だけれども」(meskipun〜)という逆接の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-018",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "経験の有無（　　）、やる気のある人を募集しています。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にかかわらず",
+      "にかけて",
+      "にかわって",
+      "にかぎって"
+    ],
+    "correct_answer": "にかかわらず",
+    "explanation": "「〜にかかわらず」は「〜に関係なく」(tanpa memandang〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-019",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "彼は走る（　　）、後ろを振り返った。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "かたわら",
+      "かわりに",
+      "がてら",
+      "ついでに"
+    ],
+    "correct_answer": "かたわら",
+    "explanation": "「〜かたわら」は「〜する一方で」(di samping melakukan〜)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-020",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "この薬は医師の指示（　　）服用してください。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に基づいて",
+      "に反して",
+      "に際して",
+      "に先立って"
+    ],
+    "correct_answer": "に基づいて",
+    "explanation": "「〜に基づいて」は「〜を根拠として」(berdasarkan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-021",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "開会式（　　）、会長からの挨拶があった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に先立って",
+      "に反して",
+      "に際して",
+      "に基づいて"
+    ],
+    "correct_answer": "に先立って",
+    "explanation": "「〜に先立って」は「〜の前に」(sebelum〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-022",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "仕事の都合（　　）、旅行をキャンセルした。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "上",
+      "下",
+      "中",
+      "内"
+    ],
+    "correct_answer": "上",
+    "explanation": "「〜上」は「〜の理由で」(karena alasan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-023",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "このレポートは先生の指導（　　）書いたものです。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のもとで",
+      "のうえで",
+      "のなかで",
+      "のほかに"
+    ],
+    "correct_answer": "のもとで",
+    "explanation": "「〜のもとで」は「〜の指導・影響の下で」(di bawah bimbingan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-024",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "父は厳しい（　　）、優しいところもある。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "反面",
+      "半面",
+      "一面",
+      "表面"
+    ],
+    "correct_answer": "反面",
+    "explanation": "「〜反面」は「〜である一方」(di sisi lain)という対比の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-025",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "彼女は美しい（　　）、頭もいい。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のみならず",
+      "のみか",
+      "のみで",
+      "のみに"
+    ],
+    "correct_answer": "のみならず",
+    "explanation": "「〜のみならず」は「〜だけでなく」(tidak hanya〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-026",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "このまま行く（　　）、大変なことになる。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "とすれば",
+      "とすると",
+      "としたら",
+      "としても"
+    ],
+    "correct_answer": "とすれば",
+    "explanation": "「〜とすれば」は「もし〜なら」(kalau misalnya〜)という仮定の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-027",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "日本語（　　）、中国語も話せます。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "はもとより",
+      "はもちろん",
+      "をはじめ",
+      "をもとに"
+    ],
+    "correct_answer": "はもとより",
+    "explanation": "「〜はもとより」は「〜は言うまでもなく」(tidak perlu dikatakan lagi〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-028",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "景気が回復する（　　）、失業率は下がるだろう。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "につれて",
+      "について",
+      "にとって",
+      "にかけて"
+    ],
+    "correct_answer": "につれて",
+    "explanation": "「〜につれて」は「〜と一緒に変化する」(seiring dengan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-029",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "彼は何も言わず、ただ黙って立っている（　　）だった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "きり",
+      "まま",
+      "っぱなし",
+      "ばかり"
+    ],
+    "correct_answer": "きり",
+    "explanation": "「〜きり」は「〜したまま変わらない」(hanya〜saja tanpa berubah)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-030",
+    "quiz_set_id": "pq-n2-grammar",
+    "question_type": "multiple_choice",
+    "question_text": "母は私のこと（　　）、いつも心配している。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "を思うあまり",
+      "を思うほど",
+      "を思うだけ",
+      "を思うまで"
+    ],
+    "correct_answer": "を思うあまり",
+    "explanation": "「〜あまり」は「〜しすぎて」(karena terlalu〜)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-031",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は会議で自分の意見を（　　）述べた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "堂々と",
+      "漠然と",
+      "密かに",
+      "素直に"
+    ],
+    "correct_answer": "堂々と",
+    "explanation": "「堂々と」は「自信を持って」(dengan percaya diri)という意味の副詞です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-032",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "この問題は（　　）解決しなければならない。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "早急に",
+      "漠然と",
+      "徐々に",
+      "密かに"
+    ],
+    "correct_answer": "早急に",
+    "explanation": "「早急に」(さっきゅうに)は「すぐに」(segera)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-033",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼女の話は（　　）していてよくわからなかった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "漠然と",
+      "堂々と",
+      "明確に",
+      "率直に"
+    ],
+    "correct_answer": "漠然と",
+    "explanation": "「漠然と」は「はっきりしない様子」(samar-samar)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-034",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "新しい政策が国民に（　　）を与えた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "影響",
+      "印象",
+      "感想",
+      "表現"
+    ],
+    "correct_answer": "影響",
+    "explanation": "「影響を与える」は「効果がある」(memberikan pengaruh)という意味の表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-035",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は（　　）な性格で、誰からも好かれている。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "温厚",
+      "冷酷",
+      "傲慢",
+      "陰湿"
+    ],
+    "correct_answer": "温厚",
+    "explanation": "「温厚」は「穏やかで優しい」(lembut dan baik hati)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-036",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "この計画は（　　）段階にある。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "初期",
+      "末期",
+      "終盤",
+      "極限"
+    ],
+    "correct_answer": "初期",
+    "explanation": "「初期段階」は「始まったばかりの時期」(tahap awal)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-037",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "祖父は戦争の（　　）を語ってくれた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "体験",
+      "体調",
+      "体制",
+      "体力"
+    ],
+    "correct_answer": "体験",
+    "explanation": "「体験」は「自分で経験したこと」(pengalaman)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-038",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "この地域は自然が（　　）で観光客が多い。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "豊か",
+      "乏しい",
+      "貧しい",
+      "激しい"
+    ],
+    "correct_answer": "豊か",
+    "explanation": "「豊か」は「たくさんある」(kaya/melimpah)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-039",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は約束を（　　）にする人ではない。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "無駄",
+      "無理",
+      "無視",
+      "無効"
+    ],
+    "correct_answer": "無駄",
+    "explanation": "「無駄にする」は「活かさない」(menyia-nyiakan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-040",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "会社の業績が（　　）に伸びている。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "順調",
+      "急速",
+      "過剰",
+      "異常"
+    ],
+    "correct_answer": "順調",
+    "explanation": "「順調に」は「うまくいっている」(berjalan lancar)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-041",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼の行動は周囲の人々を（　　）させた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "困惑",
+      "感激",
+      "満足",
+      "安心"
+    ],
+    "correct_answer": "困惑",
+    "explanation": "「困惑」は「どうしたらいいかわからない」(kebingungan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-042",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "この問題について（　　）的に考える必要がある。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "客観",
+      "主観",
+      "悲観",
+      "楽観"
+    ],
+    "correct_answer": "客観",
+    "explanation": "「客観的」は「個人の感情を入れず公平に」(secara objektif)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-043",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "台風の（　　）で電車が止まった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "影響",
+      "結果",
+      "原因",
+      "理由"
+    ],
+    "correct_answer": "影響",
+    "explanation": "「影響で」は「〜のせいで」(karena pengaruh)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-044",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "先生は生徒の質問に（　　）に答えた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "丁寧",
+      "大雑把",
+      "曖昧",
+      "適当"
+    ],
+    "correct_answer": "丁寧",
+    "explanation": "「丁寧に」は「心を込めて細かく」(dengan sopan/teliti)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-045",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼の提案は（　　）的で実現が難しい。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "理想",
+      "現実",
+      "合理",
+      "論理"
+    ],
+    "correct_answer": "理想",
+    "explanation": "「理想的」は「完璧だが現実には難しい」(idealistis)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-046",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "地震の後、住民は（　　）な生活を強いられた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "不便",
+      "不満",
+      "不安",
+      "不利"
+    ],
+    "correct_answer": "不便",
+    "explanation": "「不便な」は「便利でない」(tidak nyaman/tidak praktis)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-047",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼女は（　　）な努力で試験に合格した。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "並々ならぬ",
+      "大した",
+      "相当な",
+      "かなりの"
+    ],
+    "correct_answer": "並々ならぬ",
+    "explanation": "「並々ならぬ」は「普通ではない、非常に大きい」(luar biasa)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-048",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "新製品の開発に（　　）な費用がかかった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "莫大",
+      "適切",
+      "最小",
+      "普通"
+    ],
+    "correct_answer": "莫大",
+    "explanation": "「莫大な」は「非常に大きい」(sangat besar)という意味で、金額や量に使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-049",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は自分の失敗を（　　）に受け止めた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "素直",
+      "正直",
+      "率直",
+      "忠実"
+    ],
+    "correct_answer": "素直",
+    "explanation": "「素直に」は「抵抗なく受け入れる」(dengan jujur/tulus)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-050",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "この薬は（　　）が強いので注意してください。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "副作用",
+      "効果",
+      "反応",
+      "作用"
+    ],
+    "correct_answer": "副作用",
+    "explanation": "「副作用」は「薬の本来の目的以外の作用」(efek samping)です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-051",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "社会の（　　）に対応するために、新しい法律が作られた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "変化",
+      "変更",
+      "変動",
+      "変換"
+    ],
+    "correct_answer": "変化",
+    "explanation": "「変化」は「状態が変わること」(perubahan)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-052",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は（　　）な態度で面接に臨んだ。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "真剣",
+      "適当",
+      "消極",
+      "曖昧"
+    ],
+    "correct_answer": "真剣",
+    "explanation": "「真剣な」は「本気の」(serius)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-053",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "このプロジェクトは（　　）に進んでいる。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "着実",
+      "急速",
+      "緩慢",
+      "不規則"
+    ],
+    "correct_answer": "着実",
+    "explanation": "「着実に」は「確実に一歩一歩」(secara pasti/mantap)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-054",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は（　　）を持って仕事に取り組んでいる。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "誇り",
+      "怒り",
+      "悲しみ",
+      "恐れ"
+    ],
+    "correct_answer": "誇り",
+    "explanation": "「誇りを持つ」は「自信と名誉を感じる」(merasa bangga)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-055",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "長年の研究が（　　）を結んだ。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "実",
+      "花",
+      "芽",
+      "種"
+    ],
+    "correct_answer": "実",
+    "explanation": "「実を結ぶ」は「成果が出る」(membuahkan hasil)という慣用句です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-056",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "会議は（　　）な雰囲気の中で行われた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "和やか",
+      "険悪",
+      "殺伐",
+      "深刻"
+    ],
+    "correct_answer": "和やか",
+    "explanation": "「和やかな」は「穏やかで温かい」(hangat dan damai)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-057",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼女の（　　）は人々に勇気を与えた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "功績",
+      "成績",
+      "実績",
+      "業績"
+    ],
+    "correct_answer": "功績",
+    "explanation": "「功績」は「優れた働きや貢献」(jasa/prestasi)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-058",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "新しい制度の（　　）について説明があった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "概要",
+      "詳細",
+      "全貌",
+      "本質"
+    ],
+    "correct_answer": "概要",
+    "explanation": "「概要」は「全体のあらまし」(garis besar/ringkasan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-059",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "この計画には多くの（　　）がある。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "課題",
+      "成果",
+      "利点",
+      "進展"
+    ],
+    "correct_answer": "課題",
+    "explanation": "「課題」は「解決すべき問題」(tugas/tantangan)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-060",
+    "quiz_set_id": "pq-n2-vocab",
+    "question_type": "multiple_choice",
+    "question_text": "彼は（　　）した表情で結果を待っていた。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "緊張",
+      "安堵",
+      "満足",
+      "退屈"
+    ],
+    "correct_answer": "緊張",
+    "explanation": "「緊張した」は「不安で落ち着かない」(tegang/gugup)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-061",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「把握」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "はあく",
+      "はかく",
+      "ばあく",
+      "ばかく"
+    ],
+    "correct_answer": "はあく",
+    "explanation": "「把握」(はあく)は「しっかり理解すること」(memahami/menguasai)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-062",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「曖昧」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "あいまい",
+      "あいばい",
+      "かいまい",
+      "がいまい"
+    ],
+    "correct_answer": "あいまい",
+    "explanation": "「曖昧」(あいまい)は「はっきりしない」(ambigu/samar)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-063",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「克服」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "こくふく",
+      "かつふく",
+      "こくぶく",
+      "かつぶく"
+    ],
+    "correct_answer": "こくふく",
+    "explanation": "「克服」(こくふく)は「困難を乗り越える」(mengatasi)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-064",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「概念」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "がいねん",
+      "かいねん",
+      "がいでん",
+      "かいでん"
+    ],
+    "correct_answer": "がいねん",
+    "explanation": "「概念」(がいねん)は「物事の大まかな意味」(konsep)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-065",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「挫折」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ざせつ",
+      "ざおれ",
+      "くじけ",
+      "くじせつ"
+    ],
+    "correct_answer": "ざせつ",
+    "explanation": "「挫折」(ざせつ)は「途中でうまくいかなくなること」(kegagalan/patah semangat)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-066",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「遮る」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "さえぎる",
+      "さわる",
+      "さまたげる",
+      "しゃする"
+    ],
+    "correct_answer": "さえぎる",
+    "explanation": "「遮る」(さえぎる)は「邪魔をして止める」(menghalangi)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-067",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「膨大」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ぼうだい",
+      "ほうだい",
+      "ぼうたい",
+      "ほうたい"
+    ],
+    "correct_answer": "ぼうだい",
+    "explanation": "「膨大」(ぼうだい)は「非常に大きい」(sangat besar/membengkak)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-068",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「促進」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "そくしん",
+      "ぞくしん",
+      "しょくしん",
+      "ちょくしん"
+    ],
+    "correct_answer": "そくしん",
+    "explanation": "「促進」(そくしん)は「早く進むようにすること」(mempercepat/mendorong)です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-069",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「妥協」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "だきょう",
+      "たきょう",
+      "だぎょう",
+      "たぎょう"
+    ],
+    "correct_answer": "だきょう",
+    "explanation": "「妥協」(だきょう)は「お互いに譲り合う」(kompromi)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-070",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「崩壊」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ほうかい",
+      "ぼうかい",
+      "ほうがい",
+      "ぼうがい"
+    ],
+    "correct_answer": "ほうかい",
+    "explanation": "「崩壊」(ほうかい)は「壊れて崩れる」(keruntuhan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-071",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「誇張」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "こちょう",
+      "ごちょう",
+      "こじょう",
+      "ごじょう"
+    ],
+    "correct_answer": "こちょう",
+    "explanation": "「誇張」(こちょう)は「大げさに言う」(melebih-lebihkan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-072",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「怠慢」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "たいまん",
+      "だいまん",
+      "たいばん",
+      "だいばん"
+    ],
+    "correct_answer": "たいまん",
+    "explanation": "「怠慢」(たいまん)は「怠けること」(kelalaian)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-073",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「穏やか」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "おだやか",
+      "おんやか",
+      "のどやか",
+      "ほがやか"
+    ],
+    "correct_answer": "おだやか",
+    "explanation": "「穏やか」(おだやか)は「静かで落ち着いている」(tenang/damai)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-074",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「頻繁」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ひんぱん",
+      "びんぱん",
+      "ひんばん",
+      "びんばん"
+    ],
+    "correct_answer": "ひんぱん",
+    "explanation": "「頻繁」(ひんぱん)は「何度も繰り返す」(sering)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-075",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「偏見」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "へんけん",
+      "へんげん",
+      "びんけん",
+      "びんげん"
+    ],
+    "correct_answer": "へんけん",
+    "explanation": "「偏見」(へんけん)は「かたよった考え」(prasangka)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-076",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「憂鬱」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ゆううつ",
+      "ゆうつう",
+      "うゆつ",
+      "うつゆう"
+    ],
+    "correct_answer": "ゆううつ",
+    "explanation": "「憂鬱」(ゆううつ)は「気分が沈んでいる」(murung/depresi)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-077",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「繊維」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "せんい",
+      "せんゆい",
+      "ざんい",
+      "ざんゆい"
+    ],
+    "correct_answer": "せんい",
+    "explanation": "「繊維」(せんい)は「糸のような細い組織」(serat)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-078",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「恩恵」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "おんけい",
+      "おんえ",
+      "えんけい",
+      "えんえ"
+    ],
+    "correct_answer": "おんけい",
+    "explanation": "「恩恵」(おんけい)は「ありがたい利益」(anugerah/manfaat)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-079",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「惨事」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "さんじ",
+      "ざんじ",
+      "さんし",
+      "ざんし"
+    ],
+    "correct_answer": "さんじ",
+    "explanation": "「惨事」(さんじ)は「ひどい出来事」(bencana/tragedi)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-080",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「拘束」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "こうそく",
+      "くうそく",
+      "こうぞく",
+      "くうぞく"
+    ],
+    "correct_answer": "こうそく",
+    "explanation": "「拘束」(こうそく)は「自由を制限する」(menahan/membatasi)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-081",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「怪しい」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "あやしい",
+      "おかしい",
+      "くやしい",
+      "けわしい"
+    ],
+    "correct_answer": "あやしい",
+    "explanation": "「怪しい」(あやしい)は「不審な、疑わしい」(mencurigakan)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-082",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「潤う」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "うるおう",
+      "ぬるおう",
+      "じゅんう",
+      "つるおう"
+    ],
+    "correct_answer": "うるおう",
+    "explanation": "「潤う」(うるおう)は「水分が十分にある」(menjadi lembab/makmur)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-083",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「脆弱」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ぜいじゃく",
+      "さいじゃく",
+      "ぜいにゃく",
+      "さいにゃく"
+    ],
+    "correct_answer": "ぜいじゃく",
+    "explanation": "「脆弱」(ぜいじゃく)は「もろくて弱い」(rentan/rapuh)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-084",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「享受」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "きょうじゅ",
+      "こうじゅ",
+      "きょうしゅ",
+      "こうしゅ"
+    ],
+    "correct_answer": "きょうじゅ",
+    "explanation": "「享受」(きょうじゅ)は「恩恵を受けて楽しむ」(menikmati)という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-085",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「赴任」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ふにん",
+      "ぶにん",
+      "おもむにん",
+      "はせにん"
+    ],
+    "correct_answer": "ふにん",
+    "explanation": "「赴任」(ふにん)は「任地に向かう」(berangkat ke tempat tugas)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-086",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「摩擦」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "まさつ",
+      "ませつ",
+      "ばさつ",
+      "ばせつ"
+    ],
+    "correct_answer": "まさつ",
+    "explanation": "「摩擦」(まさつ)は「こすれ合い」(gesekan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-087",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「慶弔」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "けいちょう",
+      "けいとう",
+      "きょうちょう",
+      "きょうとう"
+    ],
+    "correct_answer": "けいちょう",
+    "explanation": "「慶弔」(けいちょう)は「お祝いとお悔やみ」(ucapan selamat dan belasungkawa)です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-088",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「添削」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "てんさく",
+      "そえさく",
+      "てんさつ",
+      "そえさつ"
+    ],
+    "correct_answer": "てんさく",
+    "explanation": "「添削」(てんさく)は「文章を直す」(koreksi)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-089",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「緻密」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ちみつ",
+      "じみつ",
+      "ちびつ",
+      "じびつ"
+    ],
+    "correct_answer": "ちみつ",
+    "explanation": "「緻密」(ちみつ)は「細かく正確な」(teliti/cermat)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-090",
+    "quiz_set_id": "pq-n2-kanji",
+    "question_type": "multiple_choice",
+    "question_text": "「措置」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "そち",
+      "そし",
+      "しょち",
+      "しょし"
+    ],
+    "correct_answer": "そち",
+    "explanation": "「措置」(そち)は「対応するための手段」(tindakan/langkah)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-091",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "お客様がお荷物を（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お持ちになった",
+      "持たれた",
+      "お持ちした",
+      "持ってあげた"
+    ],
+    "correct_answer": "お持ちになった",
+    "explanation": "お客様の動作には尊敬語「お〜になる」を使います。(Untuk tindakan pelanggan, gunakan sonkeigo)",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-092",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "社長は先ほど（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お帰りになりました",
+      "帰られました",
+      "お帰りしました",
+      "帰りました"
+    ],
+    "correct_answer": "お帰りになりました",
+    "explanation": "社長の動作には最も丁寧な尊敬語を使います。「お帰りになりました」が最適です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-093",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先生のお宅に（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "伺いました",
+      "参りました",
+      "いらっしゃいました",
+      "お越しになりました"
+    ],
+    "correct_answer": "伺いました",
+    "explanation": "「伺う」は「訪問する」の謙譲語です。(Kenjougo dari 'mengunjungi')",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-094",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "部長、こちらの資料を（　　）いただけますか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ご覧",
+      "お見",
+      "拝見",
+      "拝読"
+    ],
+    "correct_answer": "ご覧",
+    "explanation": "「ご覧いただく」は「見てもらう」の尊敬語表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-095",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "お客様、お名前を（　　）よろしいですか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "伺っても",
+      "聞いても",
+      "お聞きしても",
+      "承っても"
+    ],
+    "correct_answer": "伺っても",
+    "explanation": "「伺う」は「聞く」の謙譲語で、お客様に対して使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-096",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "社長がそのように（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "おっしゃいました",
+      "申しました",
+      "言いました",
+      "申されました"
+    ],
+    "correct_answer": "おっしゃいました",
+    "explanation": "「おっしゃる」は「言う」の尊敬語です。(Sonkeigo dari 'berkata')",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-097",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "私がご案内（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "いたします",
+      "なさいます",
+      "されます",
+      "くださいます"
+    ],
+    "correct_answer": "いたします",
+    "explanation": "自分の動作には謙譲語「いたす」を使います。(Gunakan kenjougo untuk tindakan sendiri)",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-098",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先日、社長に（　　）機会がありました。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お目にかかる",
+      "お会いになる",
+      "会われる",
+      "お会いする"
+    ],
+    "correct_answer": "お目にかかる",
+    "explanation": "「お目にかかる」は「会う」の謙譲語で、最も丁寧な表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-099",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "明日のパーティーに（　　）いただけますか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ご出席",
+      "ご参加",
+      "ご参列",
+      "お出まし"
+    ],
+    "correct_answer": "ご出席",
+    "explanation": "「ご出席いただく」は相手に出席してもらう丁寧な表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-100",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "御社の製品について（　　）おります。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "存じ上げて",
+      "知って",
+      "ご存知で",
+      "お知りになって"
+    ],
+    "correct_answer": "存じ上げて",
+    "explanation": "「存じ上げる」は「知っている」の謙譲語です。(Kenjougo dari 'mengetahui')",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-101",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先生は毎朝何時に（　　）か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "起きられます",
+      "お起きになります",
+      "起きていらっしゃいます",
+      "お目覚めです"
+    ],
+    "correct_answer": "お起きになります",
+    "explanation": "「お〜になる」は尊敬語の基本的な形です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-102",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "お客様のお荷物は私が（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お持ちします",
+      "お持ちになります",
+      "持たれます",
+      "持ってさしあげます"
+    ],
+    "correct_answer": "お持ちします",
+    "explanation": "自分がする動作は「お〜する」の謙譲語を使います。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-103",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先生、この本を（　　）ことはありますか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お読みになった",
+      "読まれた",
+      "拝読した",
+      "お読みした"
+    ],
+    "correct_answer": "お読みになった",
+    "explanation": "先生の動作には尊敬語「お〜になる」を使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-104",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "課長、明日の会議に（　　）か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ご出席なさいます",
+      "ご出席いたします",
+      "出席してまいります",
+      "出席させていただきます"
+    ],
+    "correct_answer": "ご出席なさいます",
+    "explanation": "上司の動作には尊敬語「ご〜なさる」を使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-105",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "私から改めて（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ご連絡いたします",
+      "ご連絡なさいます",
+      "連絡されます",
+      "ご連絡くださいます"
+    ],
+    "correct_answer": "ご連絡いたします",
+    "explanation": "自分の動作には「ご〜いたす」の謙譲語を使います。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-106",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "部長は今、席を（　　）おります。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "外して",
+      "お外しになって",
+      "外されて",
+      "お外しして"
+    ],
+    "correct_answer": "外して",
+    "explanation": "「席を外しております」は、上司が不在であることを丁寧に伝える表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-107",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "お客様、こちらで少々（　　）いただけますか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お待ち",
+      "お待たせ",
+      "待って",
+      "待たされて"
+    ],
+    "correct_answer": "お待ち",
+    "explanation": "「お待ちいただく」は「待ってもらう」の丁寧な表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-108",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "田中は本日（　　）しております。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "休み",
+      "お休み",
+      "休まれ",
+      "お休まれ"
+    ],
+    "correct_answer": "休み",
+    "explanation": "社外の人に自社の人間について話すときは謙譲表現を使います。「休みしております」が適切です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-109",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先生のご意見を（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "拝聴いたしました",
+      "聞きました",
+      "お聞きになりました",
+      "聞かれました"
+    ],
+    "correct_answer": "拝聴いたしました",
+    "explanation": "「拝聴する」は「聞く」の謙譲語で、目上の人の話を聞くときに使います。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-110",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "お客様、こちらの商品を（　　）ますか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ご覧になり",
+      "拝見し",
+      "お見えになり",
+      "見受けられ"
+    ],
+    "correct_answer": "ご覧になり",
+    "explanation": "「ご覧になる」は「見る」の尊敬語です。お客様に対して使います。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-111",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "社長、お食事は（　　）か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "召し上がりました",
+      "いただきました",
+      "食べられました",
+      "お食べになりました"
+    ],
+    "correct_answer": "召し上がりました",
+    "explanation": "「召し上がる」は「食べる・飲む」の尊敬語です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-112",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "私が代わりに（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "申し伝えます",
+      "お伝えになります",
+      "伝えられます",
+      "お伝えくださいます"
+    ],
+    "correct_answer": "申し伝えます",
+    "explanation": "「申し伝える」は「伝える」の謙譲語です。(Kenjougo dari 'menyampaikan')",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-113",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先生は来週の月曜日に（　　）そうです。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "いらっしゃる",
+      "参る",
+      "伺う",
+      "まいる"
+    ],
+    "correct_answer": "いらっしゃる",
+    "explanation": "「いらっしゃる」は「行く・来る・いる」の尊敬語です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-114",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "弊社の田中が（　　）ご説明いたします。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "改めて",
+      "お改めて",
+      "ご改めて",
+      "改められて"
+    ],
+    "correct_answer": "改めて",
+    "explanation": "自社の人間の動作には謙譲語を使い、「改めて」は普通の副詞として使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-115",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "お忙しいところ、（　　）申し訳ございません。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "恐れ入りますが",
+      "恐縮ですが",
+      "失礼ですが",
+      "すみませんが"
+    ],
+    "correct_answer": "恐れ入りますが",
+    "explanation": "「恐れ入りますが」は最も丁寧なお詫びの前置きです。(Ungkapan permintaan maaf yang paling sopan)",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-116",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "こちらの書類に（　　）いただけますか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ご記入",
+      "お記入",
+      "ご書き",
+      "お書き入れ"
+    ],
+    "correct_answer": "ご記入",
+    "explanation": "「ご記入いただく」は「書いてもらう」の丁寧な表現です。漢語には「ご」を付けます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-117",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "社長は3時に（　　）予定です。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お戻りになる",
+      "戻られる",
+      "お戻りする",
+      "戻りいたす"
+    ],
+    "correct_answer": "お戻りになる",
+    "explanation": "社長の動作には尊敬語「お〜になる」を使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-118",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "つまらないものですが、（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "お受け取りください",
+      "お受け取りいたします",
+      "受け取らせていただきます",
+      "受け取られてください"
+    ],
+    "correct_answer": "お受け取りください",
+    "explanation": "贈り物を渡すときの定型表現です。「お〜ください」は尊敬語の依頼形です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-119",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "先日は大変お世話に（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "なりました",
+      "いたしました",
+      "されました",
+      "してまいりました"
+    ],
+    "correct_answer": "なりました",
+    "explanation": "「お世話になりました」は感謝を表す定型表現です。(Ungkapan terima kasih yang umum)",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-120",
+    "quiz_set_id": "pq-n2-keigo",
+    "question_type": "multiple_choice",
+    "question_text": "それでは、私が（　　）ご報告いたします。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "僭越ながら",
+      "恐縮ながら",
+      "失礼ながら",
+      "不躾ながら"
+    ],
+    "correct_answer": "僭越ながら",
+    "explanation": "「僭越ながら」は「身分を越えて恐縮ですが」(dengan segala kerendahan hati)という最もフォーマルな前置き表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "keigo",
+      "honorifics",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-121",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】最近、リモートワークが広まり、都市部から地方に移住する人が増えている。しかし、地方での生活には、交通の不便さや医療機関の不足など、都市部にはない課題もある。\n\n問：本文の内容と合っているものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "地方移住には課題もある",
+      "地方の生活は都市より便利だ",
+      "リモートワークは減っている",
+      "医療機関は地方の方が多い"
+    ],
+    "correct_answer": "地方移住には課題もある",
+    "explanation": "本文は地方移住の増加とその課題について述べています。(Teks membahas peningkatan migrasi ke daerah dan tantangannya)",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-122",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本語の「すみません」は、謝罪だけでなく、感謝や依頼の場面でも使われる。外国人にとって、この多義的な使い方は混乱の原因になることがある。\n\n問：「すみません」について正しいものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "謝罪以外にも使われる",
+      "謝罪のみに使われる",
+      "外国人には簡単だ",
+      "感謝には使わない"
+    ],
+    "correct_answer": "謝罪以外にも使われる",
+    "explanation": "「すみません」は謝罪・感謝・依頼など多くの場面で使われます。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-123",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】食品ロスが社会問題となっている。日本では年間約600万トンの食品が廃棄されており、その半分は家庭から出ている。一人一人の意識改革が求められている。\n\n問：食品ロスについて正しいものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "家庭からの廃棄が半分を占める",
+      "企業だけの問題である",
+      "年間100万トンが廃棄される",
+      "意識改革は不要だ"
+    ],
+    "correct_answer": "家庭からの廃棄が半分を占める",
+    "explanation": "本文によると、食品廃棄の半分は家庭から出ています。(Setengah dari limbah makanan berasal dari rumah tangga)",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-124",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】AIの発展により、多くの仕事が自動化される可能性がある。しかし、創造性や対人コミュニケーションが求められる仕事は、AIに置き換えられにくいと言われている。\n\n問：AIに置き換えられにくい仕事はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "創造性が必要な仕事",
+      "単純作業",
+      "データ入力",
+      "計算業務"
+    ],
+    "correct_answer": "創造性が必要な仕事",
+    "explanation": "本文によると、創造性や対人コミュニケーションが必要な仕事はAIに置き換えにくいです。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-125",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本の高齢化率は世界一で、65歳以上が人口の約29%を占めている。この状況は、医療費の増大や労働力不足など、様々な社会問題を引き起こしている。\n\n問：高齢化が引き起こす問題として本文に述べられていないものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "教育費の増大",
+      "医療費の増大",
+      "労働力不足",
+      "社会問題"
+    ],
+    "correct_answer": "教育費の増大",
+    "explanation": "本文で述べられているのは医療費の増大と労働力不足です。教育費については言及されていません。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-126",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本では「もったいない」という言葉が環境運動のキーワードとして世界に広まった。この言葉は、物を大切にする日本人の精神を表している。\n\n問：「もったいない」について正しいものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "物を大切にする精神を表す",
+      "環境には関係ない",
+      "日本だけで使われる",
+      "新しい言葉である"
+    ],
+    "correct_answer": "物を大切にする精神を表す",
+    "explanation": "「もったいない」は物を大切にする日本人の精神を表し、世界に広まりました。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-127",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】近年、子どもの読書離れが問題視されている。一方で、電子書籍の普及により、スマートフォンで読書をする若者は増えているという調査結果もある。\n\n問：本文から読み取れることは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "読書の形態が変化している",
+      "若者は全く本を読まない",
+      "電子書籍は人気がない",
+      "紙の本の売上が増えている"
+    ],
+    "correct_answer": "読書の形態が変化している",
+    "explanation": "紙の本離れが進む一方、電子書籍での読書は増えており、読書の形態が変化しています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-128",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】ボランティア活動は、社会貢献だけでなく、参加者自身にも多くのメリットがある。新しいスキルの習得、人脈の拡大、自己成長の機会などが挙げられる。\n\n問：ボランティア活動のメリットとして述べられていないものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "収入の増加",
+      "スキルの習得",
+      "人脈の拡大",
+      "自己成長"
+    ],
+    "correct_answer": "収入の増加",
+    "explanation": "本文では収入の増加については述べられていません。(Peningkatan pendapatan tidak disebutkan)",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-129",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】最近の研究によると、朝食を抜くと集中力が低下し、仕事の効率も下がるという。特に、脳のエネルギー源であるブドウ糖の摂取が重要だとされている。\n\n問：本文の主旨はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "朝食の重要性",
+      "夕食の重要性",
+      "運動の重要性",
+      "睡眠の重要性"
+    ],
+    "correct_answer": "朝食の重要性",
+    "explanation": "本文は朝食を抜くことの悪影響と、ブドウ糖摂取の重要性について述べています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-130",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本の温泉文化は古くから人々の生活に根付いている。温泉にはリラックス効果だけでなく、血行促進や疲労回復などの健康効果もある。ただし、持病のある人は医師に相談してから入浴することが望ましい。\n\n問：温泉について正しいものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "持病がある人は医師に相談すべきだ",
+      "誰でも安全に入れる",
+      "健康効果はない",
+      "最近始まった文化だ"
+    ],
+    "correct_answer": "持病がある人は医師に相談すべきだ",
+    "explanation": "本文は、持病のある人は医師に相談してから入浴することが望ましいと述べています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-131",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】SNSの普及により、情報の発信が容易になった反面、フェイクニュースの拡散も問題となっている。情報の真偽を見極める力、いわゆる「メディアリテラシー」がこれまで以上に重要になっている。\n\n問：筆者が最も言いたいことは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "情報を見極める力が重要だ",
+      "SNSは使うべきではない",
+      "フェイクニュースは減っている",
+      "情報発信は難しい"
+    ],
+    "correct_answer": "情報を見極める力が重要だ",
+    "explanation": "筆者はメディアリテラシー（情報を見極める力）の重要性を訴えています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-132",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】「空気を読む」という日本特有のコミュニケーション方法は、場の雰囲気を察して行動することを意味する。これは円滑な人間関係を築く上で重要だが、自分の意見を言えなくなるという弊害もある。\n\n問：「空気を読む」の弊害は何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "自分の意見を言えなくなる",
+      "人間関係が悪くなる",
+      "雰囲気が悪くなる",
+      "コミュニケーションが増える"
+    ],
+    "correct_answer": "自分の意見を言えなくなる",
+    "explanation": "本文では、空気を読むことで自分の意見を言えなくなるという弊害があると述べています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-133",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本のコンビニエンスストアは、単なる買い物の場所ではなくなっている。公共料金の支払い、宅配便の受け取り、ATMの利用など、生活インフラとしての役割を果たしている。\n\n問：本文が伝えたいことは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "コンビニは生活インフラである",
+      "コンビニは買い物だけの場所だ",
+      "コンビニは減っている",
+      "ATMは銀行にしかない"
+    ],
+    "correct_answer": "コンビニは生活インフラである",
+    "explanation": "コンビニは買い物以外にも多くの生活サービスを提供する生活インフラです。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-134",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本では、新卒一括採用という独自の雇用慣行がある。これは企業が毎年同じ時期にまとめて新卒者を採用する制度だが、近年は通年採用を導入する企業も増えてきている。\n\n問：本文の内容と合うものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "通年採用を導入する企業が増えている",
+      "新卒一括採用はなくなった",
+      "通年採用は存在しない",
+      "全企業が同じ制度を使っている"
+    ],
+    "correct_answer": "通年採用を導入する企業が増えている",
+    "explanation": "本文によると、新卒一括採用に加え、通年採用を導入する企業も増えています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-135",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】災害が多い日本では、防災意識が高い。しかし、実際に非常用持ち出し袋を準備している家庭は全体の半数にも満たないという調査結果がある。意識と行動のギャップが課題となっている。\n\n問：本文で問題とされているのは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "防災意識と実際の準備のギャップ",
+      "災害の多さ",
+      "非常用袋の値段",
+      "防災訓練の不足"
+    ],
+    "correct_answer": "防災意識と実際の準備のギャップ",
+    "explanation": "防災意識は高いが、実際の準備が伴っていないギャップが課題です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-136",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】多文化共生社会の実現には、言語の壁を越えることが不可欠だ。最近では、多言語対応の公共サービスや、やさしい日本語の普及が進んでいる。\n\n問：多文化共生のために進んでいることは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "多言語対応サービスの普及",
+      "外国人の入国制限",
+      "日本語の複雑化",
+      "公共サービスの廃止"
+    ],
+    "correct_answer": "多言語対応サービスの普及",
+    "explanation": "多言語対応の公共サービスや、やさしい日本語の普及が進んでいます。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-137",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】働き方改革により、長時間労働の是正が進んでいる。しかし、仕事の量が変わらないまま労働時間だけが削減されるケースも多く、かえってストレスが増えたという声もある。\n\n問：働き方改革の問題点として挙げられているのは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "仕事量は変わらず時間だけ削減される",
+      "労働時間が増えた",
+      "給料が上がった",
+      "ストレスが減った"
+    ],
+    "correct_answer": "仕事量は変わらず時間だけ削減される",
+    "explanation": "仕事量が変わらないまま時間だけ減らされ、ストレスが増えるという問題があります。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-138",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本の伝統工芸品は、職人の高齢化と後継者不足により存続の危機にある。しかし、若い世代の中には伝統技術を現代的なデザインと融合させ、新しい価値を生み出す動きもある。\n\n問：伝統工芸品の新しい動きとは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "伝統技術と現代デザインの融合",
+      "伝統をそのまま守る",
+      "工芸品の生産を止める",
+      "機械化する"
+    ],
+    "correct_answer": "伝統技術と現代デザインの融合",
+    "explanation": "若い世代が伝統技術と現代的デザインを融合させて新しい価値を作っています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-139",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】電車の中でのマナーについて、最も多い苦情は「大きな声での通話」だという。一方で、「リュックサックの持ち方」も近年問題視されている。混雑した車内では前に抱えるか、網棚に置くことが推奨されている。\n\n問：電車でのリュックの正しい持ち方はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "前に抱えるか網棚に置く",
+      "背中に背負う",
+      "床に置く",
+      "隣の席に置く"
+    ],
+    "correct_answer": "前に抱えるか網棚に置く",
+    "explanation": "混雑した車内では、リュックは前に抱えるか網棚に置くことが推奨されています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-140",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本の大学入試制度は大きな転換期を迎えている。従来の知識偏重型の試験から、思考力・判断力・表現力を問う試験への移行が進んでいる。\n\n問：大学入試はどのように変わっているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "思考力を問う方向へ変化",
+      "知識重視の方向へ変化",
+      "試験がなくなる方向",
+      "変化していない"
+    ],
+    "correct_answer": "思考力を問う方向へ変化",
+    "explanation": "知識偏重型から思考力・判断力・表現力を問う方向へ変化しています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-141",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本には「和食」がユネスコ無形文化遺産に登録されている。和食の特徴は、素材の味を活かすこと、栄養バランスがよいこと、季節感を大切にすることなどである。\n\n問：和食の特徴として述べられていないものはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "調理が簡単なこと",
+      "素材の味を活かすこと",
+      "栄養バランスがよいこと",
+      "季節感を大切にすること"
+    ],
+    "correct_answer": "調理が簡単なこと",
+    "explanation": "本文では調理の簡単さについては述べられていません。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-142",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】睡眠不足は健康に深刻な影響を与える。免疫力の低下、記憶力の減退、さらには精神的な不調にもつながる。成人は7〜8時間の睡眠が推奨されている。\n\n問：推奨される成人の睡眠時間はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "7〜8時間",
+      "5〜6時間",
+      "9〜10時間",
+      "4〜5時間"
+    ],
+    "correct_answer": "7〜8時間",
+    "explanation": "本文によると、成人には7〜8時間の睡眠が推奨されています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-143",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本語には、同じ意味でも場面によって使い分ける言葉が多い。例えば「食べる」は、日常会話では「食べる」、丁寧な場面では「いただく」、尊敬語では「召し上がる」と変化する。\n\n問：「食べる」の尊敬語はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "召し上がる",
+      "いただく",
+      "食べられる",
+      "お食べになる"
+    ],
+    "correct_answer": "召し上がる",
+    "explanation": "「召し上がる」は「食べる」の尊敬語です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-144",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】環境問題の解決には、政府の政策だけでなく、企業の取り組みと個人の行動変容が不可欠だ。特に、プラスチック削減は喫緊の課題であり、レジ袋有料化はその一歩にすぎない。\n\n問：筆者はレジ袋有料化をどう評価しているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "第一歩にすぎない",
+      "十分な対策だ",
+      "やりすぎだ",
+      "効果がない"
+    ],
+    "correct_answer": "第一歩にすぎない",
+    "explanation": "筆者はレジ袋有料化を「一歩にすぎない」と述べ、さらなる取り組みが必要だとしています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-145",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】テレワークの普及で、地方の空き家を利用したワーケーションが注目されている。自然の中で仕事をすることで、創造性が高まるという研究結果もある。しかし、通信環境の整備が課題となっている。\n\n問：ワーケーションの課題は何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "通信環境の整備",
+      "自然環境の悪化",
+      "空き家の不足",
+      "創造性の低下"
+    ],
+    "correct_answer": "通信環境の整備",
+    "explanation": "ワーケーションの課題として通信環境の整備が挙げられています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-146",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本の「おもてなし」の精神は、相手を思いやり、その期待を超えるサービスを提供することにある。これは、マニュアルでは教えきれない、日本文化に根付いた価値観である。\n\n問：「おもてなし」の特徴は何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "マニュアルを超えた心遣い",
+      "マニュアル通りのサービス",
+      "最低限のサービス",
+      "効率重視のサービス"
+    ],
+    "correct_answer": "マニュアルを超えた心遣い",
+    "explanation": "おもてなしはマニュアルでは教えきれない、日本文化に根付いた心遣いです。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-147",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】フードデリバリーサービスの急成長は、飲食業界に大きな変化をもたらした。店舗を持たない「ゴーストキッチン」というビジネスモデルも登場し、少ない初期投資で飲食業を始められるようになった。\n\n問：ゴーストキッチンの利点は何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "少ない初期投資で始められる",
+      "店舗が豪華になる",
+      "デリバリーが不要になる",
+      "従業員が多く必要になる"
+    ],
+    "correct_answer": "少ない初期投資で始められる",
+    "explanation": "ゴーストキッチンは店舗を持たないため、少ない初期投資で始められます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-148",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本では「報連相」（報告・連絡・相談）がビジネスマナーの基本とされている。特に、悪い知らせほど早く報告することが重要だと言われている。\n\n問：「報連相」で特に重要とされているのは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "悪い知らせの早期報告",
+      "良い知らせの報告",
+      "相談の回数を減らすこと",
+      "連絡を最小限にすること"
+    ],
+    "correct_answer": "悪い知らせの早期報告",
+    "explanation": "悪い知らせほど早く報告することが重要だとされています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-149",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】近年、日本の若者の間で「推し活」という言葉が定着している。好きなアイドルやキャラクターを応援する活動のことで、グッズ購入やイベント参加など、消費活動とも結びついている。\n\n問：「推し活」とは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "好きな対象を応援する活動",
+      "スポーツをする活動",
+      "勉強する活動",
+      "旅行する活動"
+    ],
+    "correct_answer": "好きな対象を応援する活動",
+    "explanation": "「推し活」は好きなアイドルやキャラクターを応援する活動です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-150",
+    "quiz_set_id": "pq-n2-reading",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】外来語の増加に対して、高齢者を中心に「わかりにくい」という声がある。国立国語研究所は、外来語の言い換え提案を行っているが、すでに定着した言葉の置き換えは難しいのが現状だ。\n\n問：外来語の言い換えの問題点は何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "すでに定着した言葉は置き換えにくい",
+      "言い換え案がない",
+      "若者が反対している",
+      "外来語は増えていない"
+    ],
+    "correct_answer": "すでに定着した言葉は置き換えにくい",
+    "explanation": "すでに定着した外来語の置き換えは難しいのが現状です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-151",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：すみません、この書類、明日までに仕上げてもらえますか。女：明日ですか。ちょっと厳しいかもしれませんが、やってみます。\n\n問：女の人はどうするつもりか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "できるか分からないが挑戦する",
+      "断る",
+      "他の人に頼む",
+      "今すぐ始める"
+    ],
+    "correct_answer": "できるか分からないが挑戦する",
+    "explanation": "「ちょっと厳しいかもしれませんが、やってみます」は、難しいが挑戦するという意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-152",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：来週の歓迎会、田中さんも来るかな。男：さあ、あの人は付き合いが悪いからね。\n\n問：男の人は田中さんについてどう思っているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "あまり参加しない人だ",
+      "とても社交的だ",
+      "必ず来る",
+      "忙しい人だ"
+    ],
+    "correct_answer": "あまり参加しない人だ",
+    "explanation": "「付き合いが悪い」は、人との交際をあまりしない(tidak suka bergaul)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-153",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：この企画、部長に通ると思う？女：うーん、ちょっと甘いんじゃない？もう少し数字を詰めた方がいいよ。\n\n問：女の人は企画についてどう言っているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "もっと詳しいデータが必要だ",
+      "とても良い企画だ",
+      "部長は承認するだろう",
+      "やり直す必要はない"
+    ],
+    "correct_answer": "もっと詳しいデータが必要だ",
+    "explanation": "「甘い」は「不十分だ」(kurang matang)という意味で、「数字を詰める」はデータを詳しくすることです。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-154",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：山田さん、最近元気ないね。男：うん、仕事でミスが続いてるみたいで、かなり落ち込んでるよ。\n\n問：山田さんの状態はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "仕事のミスで落ち込んでいる",
+      "元気いっぱいだ",
+      "仕事が順調だ",
+      "休暇中だ"
+    ],
+    "correct_answer": "仕事のミスで落ち込んでいる",
+    "explanation": "「落ち込む」は「気分が沈む」(merasa sedih/terpuruk)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-155",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：この仕事、佐藤さんに任せて大丈夫かな。女：彼なら間違いないよ。前にも同じような案件を見事にこなしたから。\n\n問：女の人は佐藤さんをどう評価しているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "信頼できる",
+      "心配だ",
+      "経験が足りない",
+      "仕事が遅い"
+    ],
+    "correct_answer": "信頼できる",
+    "explanation": "「間違いない」は「確実だ」(pasti/dapat diandalkan)という意味の表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-156",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：新しいシステム、使いこなせてる？男：正直、まだ手探り状態だよ。マニュアル読んでもよくわからなくて。\n\n問：男の人はシステムについてどう感じているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "まだよく理解できていない",
+      "完全に使いこなしている",
+      "マニュアルで十分だ",
+      "簡単だと思っている"
+    ],
+    "correct_answer": "まだよく理解できていない",
+    "explanation": "「手探り状態」は「試行錯誤している」(masih meraba-raba)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-157",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：来月の出張、一人で行けるかな。女：大丈夫よ。何かあったら電話してくれれば、こっちでフォローするから。\n\n問：女の人は何を約束しているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "必要な時にサポートする",
+      "一緒に出張に行く",
+      "出張を中止する",
+      "代わりに行く"
+    ],
+    "correct_answer": "必要な時にサポートする",
+    "explanation": "「フォローする」は「サポートする」(mendukung/membantu)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-158",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：今度のプレゼン、緊張するなあ。男：大丈夫、練習通りにやれば問題ないよ。肩の力を抜いて。\n\n問：男の人は女の人に何を勧めているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "リラックスすること",
+      "もっと練習すること",
+      "プレゼンをやめること",
+      "他の人に頼むこと"
+    ],
+    "correct_answer": "リラックスすること",
+    "explanation": "「肩の力を抜く」は「リラックスする」(rileks/santai)という慣用句です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-159",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：田中部長、あの提案についてどうでしたか。女：渋い顔してたよ。予算のことが引っかかってるみたい。\n\n問：田中部長はどう反応したか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "あまり賛成していない",
+      "とても喜んでいた",
+      "無関心だった",
+      "すぐに承認した"
+    ],
+    "correct_answer": "あまり賛成していない",
+    "explanation": "「渋い顔をする」は「不満そうな表情をする」(menunjukkan wajah tidak setuju)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-160",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：この件、鈴木さんに相談した方がいいかな。男：うん、あの人は顔が広いから、きっといい情報を持ってるよ。\n\n問：「顔が広い」とはどういう意味か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "知り合いが多い",
+      "顔が大きい",
+      "有名だ",
+      "偉い人だ"
+    ],
+    "correct_answer": "知り合いが多い",
+    "explanation": "「顔が広い」は「多くの人を知っている」(memiliki banyak kenalan)という慣用句です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-161",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：新しい企画のアイデア、何かある？女：実は温めていたものがあるんですけど、まだ形になっていなくて。\n\n問：女の人のアイデアの状態はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "考えはあるが未完成だ",
+      "完成している",
+      "全くない",
+      "すでに提出した"
+    ],
+    "correct_answer": "考えはあるが未完成だ",
+    "explanation": "「温めている」は「考えを持っている」、「形になっていない」は「まだ完成していない」という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-162",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：あの新人、見込みがあるわね。男：うん、飲み込みが早いし、礼儀正しいし。\n\n問：二人は新人についてどう思っているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "将来が有望だ",
+      "問題がある",
+      "経験不足だ",
+      "やる気がない"
+    ],
+    "correct_answer": "将来が有望だ",
+    "explanation": "「見込みがある」は「将来性がある」、「飲み込みが早い」は「理解が早い」(cepat mengerti)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-163",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：今月の売上、目標に届きそう？女：ギリギリですね。最後の一押しが必要です。\n\n問：売上の状況はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "目標にあと少しで届きそう",
+      "目標を大幅に超えた",
+      "全く届かない",
+      "すでに達成した"
+    ],
+    "correct_answer": "目標にあと少しで届きそう",
+    "explanation": "「ギリギリ」は「かろうじて」(hampir)、「一押し」は「最後の努力」(dorongan terakhir)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-164",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：山本課長、今日機嫌が悪いみたいだから気をつけて。男：えっ、何かあったの？女：朝から取引先とトラブルがあったらしいよ。\n\n問：山本課長はなぜ機嫌が悪いのか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "取引先とトラブルがあった",
+      "体調が悪い",
+      "残業が多い",
+      "部下がミスをした"
+    ],
+    "correct_answer": "取引先とトラブルがあった",
+    "explanation": "朝から取引先とのトラブルがあり、それが原因で機嫌が悪いようです。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-165",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：この案件、もう少し様子を見た方がいいと思うんだけど。女：でも、ここで手を打たないと、チャンスを逃しますよ。\n\n問：女の人の意見はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "今すぐ行動すべきだ",
+      "もう少し待つべきだ",
+      "あきらめるべきだ",
+      "他の人に任せるべきだ"
+    ],
+    "correct_answer": "今すぐ行動すべきだ",
+    "explanation": "「手を打つ」は「対策を講じる」(mengambil tindakan)で、チャンスを逃さないよう行動を促しています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-166",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：転職するか迷ってるんだけど。男：そうか。でも今の会社も悪くないんじゃない？隣の芝生は青く見えるって言うし。\n\n問：男の人が言いたいことは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "他の会社がよく見えるだけかもしれない",
+      "転職すべきだ",
+      "今の会社は最悪だ",
+      "芝生の手入れをすべきだ"
+    ],
+    "correct_answer": "他の会社がよく見えるだけかもしれない",
+    "explanation": "「隣の芝生は青く見える」は「他人のものがよく見える」(rumput tetangga selalu lebih hijau)という諺です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-167",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：昨日の会議、どうだった？女：結局、結論は持ち越しになったよ。意見がまとまらなくて。\n\n問：会議の結果はどうだったか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "結論が出なかった",
+      "全員が賛成した",
+      "中止になった",
+      "新しい案が決まった"
+    ],
+    "correct_answer": "結論が出なかった",
+    "explanation": "「持ち越し」は「次の機会に延期する」(ditunda)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-168",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：この件、佐藤さんに念を押しておいてくれる？男：わかりました。もう一度確認しておきます。\n\n問：「念を押す」とはどういう意味か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "もう一度確認する",
+      "忘れる",
+      "強く叱る",
+      "任せる"
+    ],
+    "correct_answer": "もう一度確認する",
+    "explanation": "「念を押す」は「再確認する、念のため確かめる」(memastikan kembali)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-169",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：新製品の評判はどう？女：おおむね好評だけど、価格が高いという声もちらほら。\n\n問：新製品の評判はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "概ね好評だが価格への不満もある",
+      "全く売れていない",
+      "価格が安すぎる",
+      "評判は最悪だ"
+    ],
+    "correct_answer": "概ね好評だが価格への不満もある",
+    "explanation": "「おおむね好評」は「全体的には良い評価」、「ちらほら」は「少し」(sedikit)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-170",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：明日の打ち合わせ、10時でよろしいですか。男：10時はちょっと...。午後なら空いているんですが。女：では、2時はいかがでしょうか。\n\n問：打ち合わせは何時になりそうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "午後2時",
+      "午前10時",
+      "午後1時",
+      "午前11時"
+    ],
+    "correct_answer": "午後2時",
+    "explanation": "男性が10時は都合が悪いと言い、女性が2時を提案しました。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-171",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：あの店、最近評判がいいらしいよ。女：でも、あそこは予約が取れないので有名よ。\n\n問：あの店についてわかることは何か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "人気が高く予約が困難だ",
+      "評判が悪い",
+      "いつでも入れる",
+      "閉店した"
+    ],
+    "correct_answer": "人気が高く予約が困難だ",
+    "explanation": "評判が良く、予約が取れないほど人気のある店だということがわかります。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-172",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：このレポート、もう少し手を加えた方がいいかな。男：いや、もう十分だと思うよ。あまり凝りすぎると締め切りに間に合わなくなるよ。\n\n問：男の人の意見はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "これ以上直さなくてよい",
+      "もっと修正すべきだ",
+      "締め切りを延ばすべきだ",
+      "最初からやり直すべきだ"
+    ],
+    "correct_answer": "これ以上直さなくてよい",
+    "explanation": "「十分だ」は「もう良い」(sudah cukup)という意味で、過度な修正を避けるよう勧めています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-173",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：来月から海外赴任なんだ。女：えっ、本当？それは大変だけど、またとないチャンスじゃない。\n\n問：女の人は海外赴任をどう思っているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "貴重な機会だ",
+      "やめた方がいい",
+      "大変なだけだ",
+      "意味がない"
+    ],
+    "correct_answer": "貴重な機会だ",
+    "explanation": "「またとない」は「二度とない、非常に貴重な」(kesempatan langka)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-174",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：新しいプロジェクト、メンバーはもう決まった？男：大枠は決まったけど、まだ詰めの段階だよ。\n\n問：プロジェクトメンバーの状況はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "大体決まったが細部はまだ",
+      "全く決まっていない",
+      "完全に決定した",
+      "メンバーが足りない"
+    ],
+    "correct_answer": "大体決まったが細部はまだ",
+    "explanation": "「大枠」は「おおまかな部分」、「詰め」は「細部の調整」(penyesuaian detail)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-175",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：あの提案、なかなかのものだったね。女：うん、彼女の着眼点はいつも鋭いよね。\n\n問：二人はその提案をどう評価しているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "高く評価している",
+      "批判的だ",
+      "興味がない",
+      "普通だと思っている"
+    ],
+    "correct_answer": "高く評価している",
+    "explanation": "「なかなかのもの」は「かなり良い」(cukup bagus)、「着眼点が鋭い」は「視点が優れている」です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-176",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：田中さん、転勤の話を聞いて、どんな反応だった？男：寝耳に水だったみたいで、しばらく固まってたよ。\n\n問：田中さんはどのような状態だったか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "突然の知らせに驚いた",
+      "すでに知っていた",
+      "喜んでいた",
+      "怒っていた"
+    ],
+    "correct_answer": "突然の知らせに驚いた",
+    "explanation": "「寝耳に水」は「全く予想していなかった突然の知らせ」(berita yang sangat mengejutkan)という慣用句です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-177",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：今回の件、佐々木さんが一枚噛んでるらしいよ。女：やっぱりね。あの人が関わると話が大きくなるのよね。\n\n問：「一枚噛んでいる」とはどういう意味か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "関与している",
+      "食事している",
+      "批判している",
+      "傍観している"
+    ],
+    "correct_answer": "関与している",
+    "explanation": "「一枚噛む」は「関与する、参加する」(terlibat)という意味の慣用句です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-178",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：このプロジェクト、予算オーバーしてるんだけど。男：まずいな。どこかで帳尻を合わせないと。\n\n問：男の人は何をしようとしているか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "予算の調整をしようとしている",
+      "プロジェクトを中止しようとしている",
+      "予算を増やそうとしている",
+      "何もしないつもりだ"
+    ],
+    "correct_answer": "予算の調整をしようとしている",
+    "explanation": "「帳尻を合わせる」は「収支を調整する」(menyeimbangkan anggaran)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-179",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：明日のイベント、雨だったらどうする？女：雨天決行って書いてあったよ。\n\n問：雨の場合、イベントはどうなるか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "予定通り実施する",
+      "中止になる",
+      "延期される",
+      "室内に変更される"
+    ],
+    "correct_answer": "予定通り実施する",
+    "explanation": "「雨天決行」は「雨でも予定通り行う」(dilaksanakan meskipun hujan)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-180",
+    "quiz_set_id": "pq-n2-listening",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：この契約書、どこか引っかかるところない？男：うーん、第3条のあたりが少し曖昧だね。確認した方がいいかも。\n\n問：「引っかかる」はここではどういう意味か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "気になる、疑問に思う",
+      "物理的に引っかかる",
+      "理解できる",
+      "問題がない"
+    ],
+    "correct_answer": "気になる、疑問に思う",
+    "explanation": "「引っかかる」はここでは「気になる、疑問に感じる」(merasa ada yang janggal)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "comprehension",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-181",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【メール】「ご多忙のところ恐れ入りますが、来週中にご返事（　　）幸いです。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "いただければ",
+      "くだされば",
+      "なされば",
+      "もらえれば"
+    ],
+    "correct_answer": "いただければ",
+    "explanation": "ビジネスメールでは「いただければ幸いです」が最も丁寧な依頼表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-182",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【掲示】「本日（　　）、エレベーターは点検のため使用できません。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に限り",
+      "にかけて",
+      "にわたり",
+      "において"
+    ],
+    "correct_answer": "に限り",
+    "explanation": "「〜に限り」は「〜だけ」(hanya pada〜)という限定の意味で、掲示に使われます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-183",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】「この問題は複雑で、一朝一夕（　　）解決できるものではない。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "には",
+      "では",
+      "にも",
+      "でも"
+    ],
+    "correct_answer": "には",
+    "explanation": "「一朝一夕には〜ない」は「短期間では〜できない」(tidak bisa diselesaikan dalam waktu singkat)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-184",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【報告書】「調査の結果、以下の（　　）が明らかになった。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "事実",
+      "事件",
+      "事故",
+      "事情"
+    ],
+    "correct_answer": "事実",
+    "explanation": "報告書では「事実が明らかになった」(fakta terungkap)が適切な表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-185",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【ニュース】「政府は新たな経済対策を（　　）方針を固めた。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "講じる",
+      "取る",
+      "する",
+      "行う"
+    ],
+    "correct_answer": "講じる",
+    "explanation": "「対策を講じる」は「対策を行う」のフォーマルな表現(mengambil langkah-langkah)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-186",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【手紙】「末筆（　　）、皆様のご健康をお祈り申し上げます。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ながら",
+      "ですが",
+      "ですので",
+      "につき"
+    ],
+    "correct_answer": "ながら",
+    "explanation": "「末筆ながら」は手紙の結びの定型表現(sebagai penutup surat)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-187",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【広告】「経験の有無（　　）、意欲のある方を募集しています。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "を問わず",
+      "にかかわらず",
+      "を除いて",
+      "に限って"
+    ],
+    "correct_answer": "を問わず",
+    "explanation": "「〜を問わず」は「〜に関係なく」(tanpa memandang〜)で、求人広告でよく使われます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-188",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【案内】「開催日が近づき（　　）、参加者が増えてきました。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "次第",
+      "ながら",
+      "つつ",
+      "がてら"
+    ],
+    "correct_answer": "次第",
+    "explanation": "「〜次第」は「〜するにつれて」(seiring〜)という変化を表す表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-189",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【お知らせ】「（　　）ご了承くださいますよう、お願い申し上げます。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "何卒",
+      "何とか",
+      "何しろ",
+      "何となく"
+    ],
+    "correct_answer": "何卒",
+    "explanation": "「何卒」(なにとぞ)は「どうぞ」の最もフォーマルな表現(dengan segala hormat)です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-190",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【会議】「この計画を実行に移す（　　）、まず予算を確保する必要がある。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にあたって",
+      "にかけて",
+      "にわたって",
+      "にかかわって"
+    ],
+    "correct_answer": "にあたって",
+    "explanation": "「〜にあたって」は「〜するために」(dalam rangka〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-191",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【報道】「事故の原因（　　）、現在調査中です。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "については",
+      "にとっては",
+      "としては",
+      "からすれば"
+    ],
+    "correct_answer": "については",
+    "explanation": "「〜については」は「〜に関して」(mengenai〜)という主題提示の表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-192",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【スピーチ】「本日は、お忙しい中お集まりいただき、（　　）。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "誠にありがとうございます",
+      "どうもすみません",
+      "大変失礼いたします",
+      "恐縮でございます"
+    ],
+    "correct_answer": "誠にありがとうございます",
+    "explanation": "スピーチの冒頭では出席者への感謝を述べるのが一般的です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-193",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【契約書】「本契約は、両者の合意（　　）成立するものとする。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に基づき",
+      "に際し",
+      "に先立ち",
+      "に反し"
+    ],
+    "correct_answer": "に基づき",
+    "explanation": "「〜に基づき」は「〜を根拠として」(berdasarkan〜)で、契約書でよく使われます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-194",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【日記】「せっかく京都に来た（　　）、有名なお寺を全部回りたい。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "からには",
+      "からといって",
+      "からこそ",
+      "からして"
+    ],
+    "correct_answer": "からには",
+    "explanation": "「〜からには」は「〜した以上は」(karena sudah〜maka)という強い意志を表します。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-195",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【レポート】「データ（　　）、この地域の人口は減少傾向にある。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "によれば",
+      "にとって",
+      "について",
+      "に対して"
+    ],
+    "correct_answer": "によれば",
+    "explanation": "「〜によれば」は「〜の情報では」(menurut〜)という情報源を示す表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-196",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【提案書】「コスト削減（　　）、品質を維持することも重要です。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "もさることながら",
+      "はもとより",
+      "もさることなく",
+      "はおろか"
+    ],
+    "correct_answer": "もさることながら",
+    "explanation": "「〜もさることながら」は「〜も重要だが、それに加えて」(selain〜juga)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-197",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【掲示板】「落とし物をされた方は、事務局（　　）お問い合わせください。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "まで",
+      "へと",
+      "にて",
+      "より"
+    ],
+    "correct_answer": "まで",
+    "explanation": "「〜までお問い合わせください」は「〜に連絡してください」(silakan hubungi〜)という案内表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-198",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【面接】「御社の海外展開に（　　）、私の語学力を活かしたいと考えております。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "貢献すべく",
+      "貢献しつつ",
+      "貢献するので",
+      "貢献したら"
+    ],
+    "correct_answer": "貢献すべく",
+    "explanation": "「〜すべく」は「〜するために」(demi〜)というフォーマルな目的表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-199",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【通知】「下記の日程（　　）、システムメンテナンスを実施いたします。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にて",
+      "まで",
+      "より",
+      "から"
+    ],
+    "correct_answer": "にて",
+    "explanation": "「〜にて」は「〜で」のフォーマルな表現で、時間・場所に使います。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-200",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【招待状】「ご出席の（　　）は、同封のはがきにてご返送ください。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "可否",
+      "有無",
+      "是非",
+      "適否"
+    ],
+    "correct_answer": "可否",
+    "explanation": "「ご出席の可否」は「出席できるかどうか」(bisa hadir atau tidak)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-201",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【企画書】「この企画は、若者（　　）高齢者にも支持されるものである。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のみならず",
+      "のみでなく",
+      "ばかりに",
+      "ばかりでは"
+    ],
+    "correct_answer": "のみならず",
+    "explanation": "「〜のみならず」は「〜だけでなく」(tidak hanya〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-202",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【日常】「忙しさ（　　）、友人への連絡をすっかり忘れていた。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のあまり",
+      "のために",
+      "の結果",
+      "のせいで"
+    ],
+    "correct_answer": "のあまり",
+    "explanation": "「〜のあまり」は「〜しすぎて」(karena terlalu〜)という原因を表す表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-203",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【議事録】「出席者全員の賛成（　　）、本議案は可決された。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "をもって",
+      "をもとに",
+      "をめぐり",
+      "をこめて"
+    ],
+    "correct_answer": "をもって",
+    "explanation": "「〜をもって」は「〜によって」(dengan〜)というフォーマルな手段表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-204",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【職場】「先輩のアドバイス（　　）、プレゼンがうまくいった。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のおかげで",
+      "のせいで",
+      "にもかかわらず",
+      "に反して"
+    ],
+    "correct_answer": "のおかげで",
+    "explanation": "「〜のおかげで」は良い結果の原因を表す(berkat〜)表現です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-205",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【文学】「彼は若い（　　）、深い洞察力を持っている。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ながらも",
+      "ながら",
+      "つつも",
+      "つつ"
+    ],
+    "correct_answer": "ながらも",
+    "explanation": "「〜ながらも」は「〜であるが」(meskipun〜)という逆接の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-206",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【ビジネス】「新規事業の成功いかんに（　　）、会社の将来が決まる。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "よっては",
+      "かかわらず",
+      "おいては",
+      "あたっては"
+    ],
+    "correct_answer": "よっては",
+    "explanation": "「〜いかんによっては」は「〜の結果次第で」(tergantung pada〜)という条件表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-207",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【日常】「子供の教育（　　）、親同士の意見が対立することもある。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "をめぐって",
+      "をもとに",
+      "をもって",
+      "を通じて"
+    ],
+    "correct_answer": "をめぐって",
+    "explanation": "「〜をめぐって」は「〜について」(seputar〜)で、議論・対立の文脈で使われます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-208",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【学術】「この理論は、多くの実験データ（　　）構築されたものである。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に基づいて",
+      "に際して",
+      "に先立って",
+      "に伴って"
+    ],
+    "correct_answer": "に基づいて",
+    "explanation": "「〜に基づいて」は「〜を根拠として」(berdasarkan〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-209",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【手紙】「お体に気をつけて、（　　）お過ごしください。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "くれぐれも",
+      "めったに",
+      "いかにも",
+      "ろくに"
+    ],
+    "correct_answer": "くれぐれも",
+    "explanation": "「くれぐれも」は「十分に、どうか」(dengan sungguh-sungguh)という念押しの副詞です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-210",
+    "quiz_set_id": "pq-n2-application",
+    "question_type": "multiple_choice",
+    "question_text": "【社内通知】「来月（　　）、新しい勤務制度が導入されます。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "をもって",
+      "をもとに",
+      "を通じて",
+      "をめぐって"
+    ],
+    "correct_answer": "をもって",
+    "explanation": "「〜をもって」は「〜を区切りとして」(mulai dari〜)という時点を示すフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 30
+  },
+  {
+    "id": "pqq-n2-211",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「慌てる」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "あわてる",
+      "おどてる",
+      "くずてる",
+      "もだてる"
+    ],
+    "correct_answer": "あわてる",
+    "explanation": "「慌てる」(あわてる)は「急いで落ち着かない」(panik/terburu-buru)という意味です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 1
+  },
+  {
+    "id": "pqq-n2-212",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "彼は約束の時間に（　　）来なかった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "とうとう",
+      "やっと",
+      "ようやく",
+      "ついに"
+    ],
+    "correct_answer": "とうとう",
+    "explanation": "「とうとう〜なかった」は否定的な結果を表す(akhirnya tidak〜)副詞の使い方です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "vocabulary",
+      "grammar",
+      "n2"
+    ],
+    "order_index": 2
+  },
+  {
+    "id": "pqq-n2-213",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「恐縮ですが、少々お時間を（　　）よろしいでしょうか。」",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "いただいても",
+      "くださっても",
+      "なさっても",
+      "もらっても"
+    ],
+    "correct_answer": "いただいても",
+    "explanation": "「お時間をいただく」は謙譲語で「時間をもらう」(meminta waktu)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "grammar",
+      "n2"
+    ],
+    "order_index": 3
+  },
+  {
+    "id": "pqq-n2-214",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「綿密」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "めんみつ",
+      "めんびつ",
+      "わたみつ",
+      "わたびつ"
+    ],
+    "correct_answer": "めんみつ",
+    "explanation": "「綿密」(めんみつ)は「詳しく丁寧な」(teliti/cermat)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 4
+  },
+  {
+    "id": "pqq-n2-215",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】近年、キャッシュレス決済が急速に普及している。特にスマートフォンを使った決済は、若者を中心に広がっている。\n\n問：キャッシュレス決済について正しいのはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "若者を中心に広がっている",
+      "高齢者に最も人気がある",
+      "普及が遅れている",
+      "現金より不便だ"
+    ],
+    "correct_answer": "若者を中心に広がっている",
+    "explanation": "スマートフォン決済は若者を中心に広がっていると述べられています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "n2"
+    ],
+    "order_index": 5
+  },
+  {
+    "id": "pqq-n2-216",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "努力した（　　）、試験に不合格だった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にもかかわらず",
+      "おかげで",
+      "ために",
+      "結果"
+    ],
+    "correct_answer": "にもかかわらず",
+    "explanation": "「〜にもかかわらず」は逆接の表現で「〜なのに」(meskipun〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 6
+  },
+  {
+    "id": "pqq-n2-217",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "上司に対して「ご覧になってください」と言うのは（　　）。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "正しい尊敬語だ",
+      "間違った謙譲語だ",
+      "丁寧語にすぎない",
+      "失礼な表現だ"
+    ],
+    "correct_answer": "正しい尊敬語だ",
+    "explanation": "「ご覧になる」は「見る」の尊敬語で、上司に対して正しい表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "n2"
+    ],
+    "order_index": 7
+  },
+  {
+    "id": "pqq-n2-218",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「嫉妬」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "しっと",
+      "しつと",
+      "きっと",
+      "きつと"
+    ],
+    "correct_answer": "しっと",
+    "explanation": "「嫉妬」(しっと)は「うらやましく思い憎むこと」(iri hati/cemburu)です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 8
+  },
+  {
+    "id": "pqq-n2-219",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：今度の企画、自信ある？女：まあ、やるだけやってみるよ。\n\n問：女の人の態度はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "精一杯やろうとしている",
+      "全く自信がない",
+      "完璧な自信がある",
+      "やりたくない"
+    ],
+    "correct_answer": "精一杯やろうとしている",
+    "explanation": "「やるだけやってみる」は「できる限りのことをする」(melakukan yang terbaik)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "n2"
+    ],
+    "order_index": 9
+  },
+  {
+    "id": "pqq-n2-220",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "この地域は春から夏（　　）、多くの観光客でにぎわう。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にかけて",
+      "にかけ",
+      "について",
+      "にとって"
+    ],
+    "correct_answer": "にかけて",
+    "explanation": "「〜から〜にかけて」は期間の範囲を示す(dari〜sampai〜)表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 10
+  },
+  {
+    "id": "pqq-n2-221",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「御社」と「弊社」の使い分けで正しいのはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "御社は相手、弊社は自分の会社",
+      "御社は自分、弊社は相手の会社",
+      "どちらも同じ意味",
+      "どちらも自分の会社"
+    ],
+    "correct_answer": "御社は相手、弊社は自分の会社",
+    "explanation": "「御社」は相手の会社(perusahaan Anda)、「弊社」は自分の会社(perusahaan kami)です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 11
+  },
+  {
+    "id": "pqq-n2-222",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「妥当」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "だとう",
+      "たとう",
+      "だきょう",
+      "たきょう"
+    ],
+    "correct_answer": "だとう",
+    "explanation": "「妥当」(だとう)は「適切で正しい」(pantas/wajar)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 12
+  },
+  {
+    "id": "pqq-n2-223",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "退職する（　　）、お世話になった方々に挨拶をしたい。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に先立ち",
+      "に際し",
+      "に反し",
+      "に基づき"
+    ],
+    "correct_answer": "に先立ち",
+    "explanation": "「〜に先立ち」は「〜の前に」(sebelum〜)というフォーマルな表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 13
+  },
+  {
+    "id": "pqq-n2-224",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】最近、ペットを飼う人が増えている一方で、飼育放棄の問題も深刻化している。動物を飼うには、最後まで責任を持つ覚悟が必要だ。\n\n問：筆者の主張はどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "ペットを飼うには責任が必要だ",
+      "ペットは飼わない方がいい",
+      "飼育放棄は減っている",
+      "ペットは簡単に飼える"
+    ],
+    "correct_answer": "ペットを飼うには責任が必要だ",
+    "explanation": "筆者は動物を飼う際の責任の重要性を訴えています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "n2"
+    ],
+    "order_index": 14
+  },
+  {
+    "id": "pqq-n2-225",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "（　　）努力を重ねれば、必ず結果はついてくる。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "たゆまぬ",
+      "たゆまない",
+      "たゆまなく",
+      "たゆまず"
+    ],
+    "correct_answer": "たゆまぬ",
+    "explanation": "「たゆまぬ努力」は「怠らない努力」(usaha yang tiada henti)という連体形の使い方です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "vocabulary",
+      "grammar",
+      "n2"
+    ],
+    "order_index": 15
+  },
+  {
+    "id": "pqq-n2-226",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「拝読いたしました」は誰の動作に使うか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "自分",
+      "相手",
+      "第三者",
+      "誰でも"
+    ],
+    "correct_answer": "自分",
+    "explanation": "「拝読する」は「読む」の謙譲語で、自分の動作に使います。(Kenjougo untuk tindakan sendiri)",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "keigo",
+      "n2"
+    ],
+    "order_index": 16
+  },
+  {
+    "id": "pqq-n2-227",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "彼女の成功は、周囲の支え（　　）のことだ。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "あって",
+      "なくて",
+      "いて",
+      "して"
+    ],
+    "correct_answer": "あって",
+    "explanation": "「〜あってのこと」は「〜があったからこそ」(berkat adanya〜)という意味の表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 17
+  },
+  {
+    "id": "pqq-n2-228",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】女：明日の会議、資料は足りる？男：ぎりぎりだけど、なんとかなるよ。\n\n問：資料の状況はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "足りるがぎりぎりだ",
+      "大幅に不足している",
+      "十分に余っている",
+      "全くない"
+    ],
+    "correct_answer": "足りるがぎりぎりだ",
+    "explanation": "「ぎりぎり」は「かろうじて」(pas-pasan)、「なんとかなる」は「大丈夫だろう」です。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "listening",
+      "n2"
+    ],
+    "order_index": 18
+  },
+  {
+    "id": "pqq-n2-229",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「顕著」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "けんちょ",
+      "けんしょ",
+      "がんちょ",
+      "がんしょ"
+    ],
+    "correct_answer": "けんちょ",
+    "explanation": "「顕著」(けんちょ)は「はっきりと目立つ」(mencolok/jelas)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 19
+  },
+  {
+    "id": "pqq-n2-230",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "環境問題は、一国（　　）解決できる問題ではない。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のみで",
+      "だけに",
+      "ばかりで",
+      "しかで"
+    ],
+    "correct_answer": "のみで",
+    "explanation": "「〜のみで」は「〜だけで」(hanya dengan〜)というフォーマルな限定表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 20
+  },
+  {
+    "id": "pqq-n2-231",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「お見えになる」は何の尊敬語か。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "来る",
+      "見る",
+      "会う",
+      "行く"
+    ],
+    "correct_answer": "来る",
+    "explanation": "「お見えになる」は「来る」の尊敬語(sonkeigo dari 'datang')です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "n2"
+    ],
+    "order_index": 21
+  },
+  {
+    "id": "pqq-n2-232",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】日本のマンガは世界中で読まれており、「manga」として国際的に認知されている。翻訳版だけでなく、原語で読む外国人ファンも増加している。\n\n問：日本のマンガについて正しいのはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "原語で読む外国人も増えている",
+      "日本でしか読まれていない",
+      "翻訳はされていない",
+      "人気が衰えている"
+    ],
+    "correct_answer": "原語で読む外国人も増えている",
+    "explanation": "翻訳版だけでなく、原語で読む外国人ファンも増加しています。",
+    "hint": "",
+    "difficulty": 1,
+    "tags": [
+      "reading",
+      "n2"
+    ],
+    "order_index": 22
+  },
+  {
+    "id": "pqq-n2-233",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "天候の変化（　　）、体調を崩す人が増えている。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "に伴い",
+      "に反し",
+      "に先立ち",
+      "に際し"
+    ],
+    "correct_answer": "に伴い",
+    "explanation": "「〜に伴い」は「〜と一緒に」(bersamaan dengan〜)という変化の表現です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 23
+  },
+  {
+    "id": "pqq-n2-234",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "この製品の品質は他社の製品に（　　）ものがない。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "劣る",
+      "勝る",
+      "優る",
+      "負ける"
+    ],
+    "correct_answer": "劣る",
+    "explanation": "「劣るものがない」は「他に負けない」(tidak ada yang lebih rendah)＝最高品質という意味です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "vocabulary",
+      "n2"
+    ],
+    "order_index": 24
+  },
+  {
+    "id": "pqq-n2-235",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「遂行」の読み方は？",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "すいこう",
+      "ついこう",
+      "ずいこう",
+      "つうこう"
+    ],
+    "correct_answer": "すいこう",
+    "explanation": "「遂行」(すいこう)は「最後までやり遂げること」(pelaksanaan)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "kanji",
+      "reading",
+      "n2"
+    ],
+    "order_index": 25
+  },
+  {
+    "id": "pqq-n2-236",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【会話】男：今回のトラブル、どう収めるつもり？女：まずは関係者に頭を下げるしかないでしょう。\n\n問：女の人は何をするつもりか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "関係者に謝罪する",
+      "関係者を叱る",
+      "何もしない",
+      "辞める"
+    ],
+    "correct_answer": "関係者に謝罪する",
+    "explanation": "「頭を下げる」は「謝罪する」(meminta maaf)という意味の慣用句です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "listening",
+      "n2"
+    ],
+    "order_index": 26
+  },
+  {
+    "id": "pqq-n2-237",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "社長の指示（　　）、全社員が一丸となって取り組んだ。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "のもと",
+      "のため",
+      "のうえ",
+      "の間"
+    ],
+    "correct_answer": "のもと",
+    "explanation": "「〜のもと」は「〜の指導の下で」(di bawah〜)という意味です。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "application",
+      "n2"
+    ],
+    "order_index": 27
+  },
+  {
+    "id": "pqq-n2-238",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "「承知いたしました」と「かしこまりました」の違いで正しいのはどれか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "どちらもフォーマルな了解表現だ",
+      "承知は尊敬語だ",
+      "かしこまりましたはカジュアルだ",
+      "意味が全く違う"
+    ],
+    "correct_answer": "どちらもフォーマルな了解表現だ",
+    "explanation": "どちらも「わかりました」のフォーマルな表現で、ビジネスで使われます。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "keigo",
+      "n2"
+    ],
+    "order_index": 28
+  },
+  {
+    "id": "pqq-n2-239",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "彼女は困難な状況（　　）、前向きな姿勢を崩さなかった。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "にあっても",
+      "にとっても",
+      "によっても",
+      "としても"
+    ],
+    "correct_answer": "にあっても",
+    "explanation": "「〜にあっても」は「〜の状況でも」(bahkan dalam keadaan〜)という逆接の表現です。",
+    "hint": "",
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "n2"
+    ],
+    "order_index": 29
+  },
+  {
+    "id": "pqq-n2-240",
+    "quiz_set_id": "pq-n2-comprehensive",
+    "question_type": "multiple_choice",
+    "question_text": "【本文】「もったいない」という日本語は、環境活動家ワンガリ・マータイ氏によって国際的に広められた。物を大切にし、無駄をなくすこの概念は、SDGsの理念にも通じている。\n\n問：「もったいない」とSDGsの関係はどうか。",
+    "question_audio_url": "",
+    "question_image_url": "",
+    "options": [
+      "理念が共通している",
+      "全く関係がない",
+      "対立している",
+      "SDGsが先にある"
+    ],
+    "correct_answer": "理念が共通している",
+    "explanation": "「もったいない」の概念はSDGsの理念にも通じている(saling berkaitan)と述べられています。",
+    "hint": "",
+    "difficulty": 2,
+    "tags": [
+      "reading",
+      "n2"
+    ],
+    "order_index": 30
+  }
+]

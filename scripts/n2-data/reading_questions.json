@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rq-n2-001",
+    "passage_id": "reading-n2-001",
+    "question_text": "日本の少子化が始まったのはいつ頃ですか。",
+    "question_type": "multiple_choice",
+    "options": ["1950年代", "1970年代", "1990年代", "2000年代"],
+    "correct_answer": "1970年代",
+    "explanation": "本文に「出生率の低下は1970年代から始まり」と書かれています。",
+    "order_index": 1
+  },
+  {
+    "id": "rq-n2-002",
+    "passage_id": "reading-n2-001",
+    "question_text": "少子化の原因として本文で述べられていないものはどれですか。",
+    "question_type": "multiple_choice",
+    "options": ["晩婚化", "未婚率の上昇", "教育レベルの低下", "子育ての経済的負担"],
+    "correct_answer": "教育レベルの低下",
+    "explanation": "本文では晩婚化、未婚率の上昇、子育ての経済的負担が原因として挙げられていますが、教育レベルの低下は述べられていません。",
+    "order_index": 2
+  },
+  {
+    "id": "rq-n2-003",
+    "passage_id": "reading-n2-001",
+    "question_text": "筆者が最も伝えたいことは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["政府の対策は十分である", "社会全体で子育てを支援する必要がある", "出生率は回復する見込みがない", "労働力は外国人で補うべきだ"],
+    "correct_answer": "社会全体で子育てを支援する必要がある",
+    "explanation": "本文の最後に「社会全体で子育てを支援する仕組みづくりが求められている」と述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "rq-n2-004",
+    "passage_id": "reading-n2-002",
+    "question_text": "リモートワークが普及した主なきっかけは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["テクノロジーの発展", "新型コロナウイルスの感染拡大", "政府の政策変更", "労働力不足"],
+    "correct_answer": "新型コロナウイルスの感染拡大",
+    "explanation": "本文に「新型コロナウイルスの感染拡大を契機に、リモートワークが急速に普及した」と書かれています。",
+    "order_index": 1
+  },
+  {
+    "id": "rq-n2-005",
+    "passage_id": "reading-n2-002",
+    "question_text": "リモートワークの問題点として述べられていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["給料が下がる", "仕事とプライベートの境界が曖昧になる", "技術が追いつかない", "通勤費用がかかる"],
+    "correct_answer": "仕事とプライベートの境界が曖昧になる",
+    "explanation": "本文に「仕事とプライベートの境界が曖昧になり、長時間労働に陥りやすい」と指摘されています。",
+    "order_index": 2
+  },
+  {
+    "id": "rq-n2-006",
+    "passage_id": "reading-n2-002",
+    "question_text": "今後の働き方についてどのように予測されていますか。",
+    "question_type": "multiple_choice",
+    "options": ["完全なリモートワーク", "ハイブリッド型の働き方", "全員がオフィス勤務に戻る", "フリーランスが増加する"],
+    "correct_answer": "ハイブリッド型の働き方",
+    "explanation": "本文に「オフィス勤務とリモートワークを組み合わせたハイブリッド型の働き方が主流になる」と予測されています。",
+    "order_index": 3
+  },
+  {
+    "id": "rq-n2-007",
+    "passage_id": "reading-n2-003",
+    "question_text": "医療分野でのAIの活用例として述べられていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["手術の自動化", "画像診断の補助", "薬の自動処方", "患者の管理"],
+    "correct_answer": "画像診断の補助",
+    "explanation": "本文に「AIによる画像診断が医師の判断を補助し」と書かれています。",
+    "order_index": 1
+  },
+  {
+    "id": "rq-n2-008",
+    "passage_id": "reading-n2-003",
+    "question_text": "AI技術の課題として述べられていないものはどれですか。",
+    "question_type": "multiple_choice",
+    "options": ["一部の職種が不要になる懸念", "判断基準の不透明さ", "開発コストの高さ", "個人情報の倫理的問題"],
+    "correct_answer": "開発コストの高さ",
+    "explanation": "本文では職種の消滅、判断基準の不透明さ、個人情報の倫理的問題が課題として述べられていますが、開発コストについては言及されていません。",
+    "order_index": 2
+  },
+  {
+    "id": "rq-n2-009",
+    "passage_id": "reading-n2-003",
+    "question_text": "筆者はAI技術の導入にあたり何が重要だと考えていますか。",
+    "question_type": "multiple_choice",
+    "options": ["技術者だけで議論すること", "法的整備と倫理ガイドラインの策定", "AIの開発を一時停止すること", "政府がすべてを規制すること"],
+    "correct_answer": "法的整備と倫理ガイドラインの策定",
+    "explanation": "本文に「法的整備や倫理ガイドラインの策定が重要である」と述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "rq-n2-010",
+    "passage_id": "reading-n2-004",
+    "question_text": "環境問題と経済の関係についてどのように述べられていますか。",
+    "question_type": "multiple_choice",
+    "options": ["経済発展を優先すべきだ", "環境保護のために経済を犠牲にすべきだ", "環境保護と経済発展の両立が課題である", "環境問題は経済とは無関係である"],
+    "correct_answer": "環境保護と経済発展の両立が課題である",
+    "explanation": "本文に「環境保護と経済発展の両立が世界的な課題となっている」と書かれています。",
+    "order_index": 1
+  },
+  {
+    "id": "rq-n2-011",
+    "passage_id": "reading-n2-004",
+    "question_text": "日本のカーボンニュートラルの目標年はいつですか。",
+    "question_type": "multiple_choice",
+    "options": ["2030年", "2040年", "2050年", "2060年"],
+    "correct_answer": "2050年",
+    "explanation": "本文に「2050年までにカーボンニュートラルを実現するという目標」と書かれています。",
+    "order_index": 2
+  },
+  {
+    "id": "rq-n2-012",
+    "passage_id": "reading-n2-004",
+    "question_text": "持続可能な社会の実現のために筆者が重要だと考えていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["政府による強制的な規制", "一人ひとりの具体的な行動", "新しい技術の開発だけ", "経済活動の停止"],
+    "correct_answer": "一人ひとりの具体的な行動",
+    "explanation": "本文の最後に「一人ひとりが環境問題を自分事として捉え、日常生活の中で具体的な行動を取ること」が大切だと述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "rq-n2-013",
+    "passage_id": "reading-n2-005",
+    "question_text": "伝統文化の継承が困難になっている原因として述べられていないものはどれですか。",
+    "question_type": "multiple_choice",
+    "options": ["若い世代の関心の低下", "後継者不足", "政府の支援不足", "経済的な課題"],
+    "correct_answer": "政府の支援不足",
+    "explanation": "本文では若者の関心低下、後継者不足、経済的な課題が原因として挙げられていますが、政府の支援不足は述べられていません。",
+    "order_index": 1
+  },
+  {
+    "id": "rq-n2-014",
+    "passage_id": "reading-n2-005",
+    "question_text": "伝統文化を現代的に発信する試みとして述べられていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["テレビ番組の制作", "SNSを活用した情報発信", "学校教育への導入", "海外への輸出"],
+    "correct_answer": "SNSを活用した情報発信",
+    "explanation": "本文に「SNSを活用した情報発信」が現代的な発信の試みとして挙げられています。",
+    "order_index": 2
+  },
+  {
+    "id": "rq-n2-015",
+    "passage_id": "reading-n2-005",
+    "question_text": "筆者は伝統文化の継承について何が重要だと考えていますか。",
+    "question_type": "multiple_choice",
+    "options": ["過去の形式をそのまま保存すること", "伝統と革新のバランスを取ること", "すべて新しい形に変えること", "外国人に教えること"],
+    "correct_answer": "伝統と革新のバランスを取ること",
+    "explanation": "本文の最後に「伝統と革新のバランスを取りながら」文化的アイデンティティを守ることが求められると述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "rq-n2-016",
+    "passage_id": "reading-n2-006",
+    "question_text": "グローバル化において英語はどのような役割を果たしていますか。",
+    "question_type": "multiple_choice",
+    "options": ["学術分野でのみ使われている", "国際共通語としての地位を確立している", "重要性が低下している", "アジアでは使われていない"],
+    "correct_answer": "国際共通語としての地位を確立している",
+    "explanation": "本文に「英語が国際共通語としての地位を確立している」と書かれています。",
+    "order_index": 1
+  },
+  {
+    "id": "rq-n2-017",
+    "passage_id": "reading-n2-006",
+    "question_text": "英語の普及に対する懸念として述べられていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["英語教育のコストが高い", "少数言語の消滅の可能性", "英語の文法が難しい", "翻訳技術が不要になる"],
+    "correct_answer": "少数言語の消滅の可能性",
+    "explanation": "本文に「少数言語の消滅や、自国語の軽視につながるのではないかという懸念」と書かれています。",
+    "order_index": 2
+  },
+  {
+    "id": "rq-n2-018",
+    "passage_id": "reading-n2-006",
+    "question_text": "筆者が考える「真のグローバル人材」とはどのような人ですか。",
+    "question_type": "multiple_choice",
+    "options": ["英語が完璧に話せる人", "多くの言語を話せる人", "英語力と異文化への理解・尊重を持つ人", "海外での生活経験がある人"],
+    "correct_answer": "英語力と異文化への理解・尊重を持つ人",
+    "explanation": "本文の最後に「英語力だけでなく、異なる言語や文化への理解と尊重の精神を持つ人物」と述べられています。",
+    "order_index": 3
+  }
+]

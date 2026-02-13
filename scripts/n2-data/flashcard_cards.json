@@ -1,0 +1,4304 @@
+[
+  {
+    "id": "deck-n2-grammar-001",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に際して",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "pada saat; ketika",
+    "back_subtext": "Digunakan untuk situasi formal/penting",
+    "back_reading": "にさいして",
+    "back_example": "出発に際して注意事項を確認する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 2,
+    "order_index": 1
+  },
+  {
+    "id": "deck-n2-grammar-002",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜にあたって",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "pada kesempatan; ketika menghadapi",
+    "back_subtext": "Saat menghadapi momen penting",
+    "back_reading": "にあたって",
+    "back_example": "入学にあたって書類を準備する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 2,
+    "order_index": 2
+  },
+  {
+    "id": "deck-n2-grammar-003",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜をもとに",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "berdasarkan",
+    "back_subtext": "Berdasarkan sesuatu sebagai sumber",
+    "back_reading": "をもとに",
+    "back_example": "実話をもとに映画を作った。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "basis"
+    ],
+    "difficulty": 2,
+    "order_index": 3
+  },
+  {
+    "id": "deck-n2-grammar-004",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に基づいて",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "berdasarkan; sesuai dengan",
+    "back_subtext": "Lebih formal dari をもとに",
+    "back_reading": "にもとづいて",
+    "back_example": "法律に基づいて判断する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 2,
+    "order_index": 4
+  },
+  {
+    "id": "deck-n2-grammar-005",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に応じて",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sesuai dengan; tergantung pada",
+    "back_subtext": "Menyesuaikan berdasarkan kondisi",
+    "back_reading": "におうじて",
+    "back_example": "能力に応じて給料が決まる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "condition"
+    ],
+    "difficulty": 2,
+    "order_index": 5
+  },
+  {
+    "id": "deck-n2-grammar-006",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜次第で",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tergantung pada",
+    "back_subtext": "Hasil ditentukan oleh...",
+    "back_reading": "しだいで",
+    "back_example": "努力次第で結果が変わる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "condition"
+    ],
+    "difficulty": 2,
+    "order_index": 6
+  },
+  {
+    "id": "deck-n2-grammar-007",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜につれて",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "seiring dengan",
+    "back_subtext": "Perubahan yang terjadi bersamaan",
+    "back_reading": "につれて",
+    "back_example": "年をとるにつれて体力が落ちる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "change"
+    ],
+    "difficulty": 2,
+    "order_index": 7
+  },
+  {
+    "id": "deck-n2-grammar-008",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に伴って",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "beriringan dengan; seiring dengan",
+    "back_subtext": "Perubahan yang menyertai",
+    "back_reading": "にともなって",
+    "back_example": "人口増加に伴って住宅が不足する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "change"
+    ],
+    "difficulty": 2,
+    "order_index": 8
+  },
+  {
+    "id": "deck-n2-grammar-009",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜一方で",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "di sisi lain; sementara itu",
+    "back_subtext": "Menyatakan kontras",
+    "back_reading": "いっぽうで",
+    "back_example": "都市は便利な一方で自然が少ない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "contrast"
+    ],
+    "difficulty": 2,
+    "order_index": 9
+  },
+  {
+    "id": "deck-n2-grammar-010",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜反面",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sebaliknya; di sisi lain",
+    "back_subtext": "Sisi negatif/positif lain",
+    "back_reading": "はんめん",
+    "back_example": "彼は優しい反面厳しい。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "contrast"
+    ],
+    "difficulty": 2,
+    "order_index": 10
+  },
+  {
+    "id": "deck-n2-grammar-011",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜において",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "di; dalam; pada (formal)",
+    "back_subtext": "Penanda tempat/konteks formal",
+    "back_reading": "において",
+    "back_example": "国際会議において決定された。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 3,
+    "order_index": 11
+  },
+  {
+    "id": "deck-n2-grammar-012",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜における",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "di; dalam (modifier)",
+    "back_subtext": "Bentuk modifier dari において",
+    "back_reading": "における",
+    "back_example": "教育における問題点を議論する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 3,
+    "order_index": 12
+  },
+  {
+    "id": "deck-n2-grammar-013",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に関して",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "mengenai; tentang (formal)",
+    "back_subtext": "Topik pembicaraan formal",
+    "back_reading": "にかんして",
+    "back_example": "この件に関して説明します。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 2,
+    "order_index": 13
+  },
+  {
+    "id": "deck-n2-grammar-014",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に対して",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "terhadap; kepada",
+    "back_subtext": "Menunjukkan objek tindakan",
+    "back_reading": "にたいして",
+    "back_example": "お客様に対して丁寧に接する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 2,
+    "order_index": 14
+  },
+  {
+    "id": "deck-n2-grammar-015",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜として",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sebagai",
+    "back_subtext": "Peran atau kapasitas",
+    "back_reading": "として",
+    "back_example": "教師として働いている。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "role"
+    ],
+    "difficulty": 2,
+    "order_index": 15
+  },
+  {
+    "id": "deck-n2-grammar-016",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜上（じょう）",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "dari segi; dalam hal",
+    "back_subtext": "Aspek atau sudut pandang",
+    "back_reading": "じょう",
+    "back_example": "法律上それは認められない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "formal"
+    ],
+    "difficulty": 3,
+    "order_index": 16
+  },
+  {
+    "id": "deck-n2-grammar-017",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜を通じて",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "melalui; lewat",
+    "back_subtext": "Sarana atau media",
+    "back_reading": "をつうじて",
+    "back_example": "インターネットを通じて情報を集める。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "means"
+    ],
+    "difficulty": 2,
+    "order_index": 17
+  },
+  {
+    "id": "deck-n2-grammar-018",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜をはじめ",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "dimulai dari; termasuk",
+    "back_subtext": "Contoh representatif",
+    "back_reading": "をはじめ",
+    "back_example": "東京をはじめ大都市は物価が高い。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "example"
+    ],
+    "difficulty": 2,
+    "order_index": 18
+  },
+  {
+    "id": "deck-n2-grammar-019",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ものの",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "meskipun; walaupun",
+    "back_subtext": "Mengakui lalu menyangkal",
+    "back_reading": "ものの",
+    "back_example": "買ったものの一度も使っていない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "concession"
+    ],
+    "difficulty": 3,
+    "order_index": 19
+  },
+  {
+    "id": "deck-n2-grammar-020",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜とはいえ",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "walaupun dikatakan; meskipun begitu",
+    "back_subtext": "Mengakui fakta tapi...",
+    "back_reading": "とはいえ",
+    "back_example": "春とはいえまだ寒い日がある。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "concession"
+    ],
+    "difficulty": 3,
+    "order_index": 20
+  },
+  {
+    "id": "deck-n2-grammar-021",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜どころか",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "jangankan; bukan hanya",
+    "back_subtext": "Menyangkal ekspektasi",
+    "back_reading": "どころか",
+    "back_example": "休むどころか残業させられた。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "negation"
+    ],
+    "difficulty": 3,
+    "order_index": 21
+  },
+  {
+    "id": "deck-n2-grammar-022",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜はおろか",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "jangankan; apalagi",
+    "back_subtext": "Lebih formal dari どころか",
+    "back_reading": "はおろか",
+    "back_example": "漢字はおろかひらがなも読めない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "negation"
+    ],
+    "difficulty": 3,
+    "order_index": 22
+  },
+  {
+    "id": "deck-n2-grammar-023",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜からといって",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "hanya karena; bukan berarti",
+    "back_subtext": "Menolak kesimpulan",
+    "back_reading": "からといって",
+    "back_example": "安いからといって品質が悪いとは限らない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "reason"
+    ],
+    "difficulty": 3,
+    "order_index": 23
+  },
+  {
+    "id": "deck-n2-grammar-024",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜からには",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "karena sudah; selama",
+    "back_subtext": "Kewajiban karena keputusan",
+    "back_reading": "からには",
+    "back_example": "約束したからには守らなければならない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "obligation"
+    ],
+    "difficulty": 3,
+    "order_index": 24
+  },
+  {
+    "id": "deck-n2-grammar-025",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜にしても",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sekalipun; bahkan jika",
+    "back_subtext": "Hipotesis + tetap...",
+    "back_reading": "にしても",
+    "back_example": "忙しいにしても食事は取るべきだ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "concession"
+    ],
+    "difficulty": 3,
+    "order_index": 25
+  },
+  {
+    "id": "deck-n2-grammar-026",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜にせよ",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "meskipun; sekalipun",
+    "back_subtext": "Lebih formal dari にしても",
+    "back_reading": "にせよ",
+    "back_example": "理由は何にせよ遅刻は良くない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "concession"
+    ],
+    "difficulty": 3,
+    "order_index": 26
+  },
+  {
+    "id": "deck-n2-grammar-027",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ばかりか",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "bukan hanya; tidak hanya",
+    "back_subtext": "Menambah informasi",
+    "back_reading": "ばかりか",
+    "back_example": "英語ばかりか中国語も話せる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "addition"
+    ],
+    "difficulty": 2,
+    "order_index": 27
+  },
+  {
+    "id": "deck-n2-grammar-028",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜のみならず",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tidak hanya; bukan saja (formal)",
+    "back_subtext": "Versi formal ばかりか",
+    "back_reading": "のみならず",
+    "back_example": "国内のみならず海外でも人気がある。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "addition"
+    ],
+    "difficulty": 3,
+    "order_index": 28
+  },
+  {
+    "id": "deck-n2-grammar-029",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜わけにはいかない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tidak bisa; tidak mungkin",
+    "back_subtext": "Kewajiban moral/sosial",
+    "back_reading": "わけにはいかない",
+    "back_example": "ここで諦めるわけにはいかない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "obligation"
+    ],
+    "difficulty": 3,
+    "order_index": 29
+  },
+  {
+    "id": "deck-n2-grammar-030",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ざるを得ない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "terpaksa; tidak bisa tidak",
+    "back_subtext": "Tidak ada pilihan lain",
+    "back_reading": "ざるをえない",
+    "back_example": "事情により中止せざるを得ない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "obligation"
+    ],
+    "difficulty": 3,
+    "order_index": 30
+  },
+  {
+    "id": "deck-n2-grammar-031",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に限らず",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tidak terbatas pada",
+    "back_subtext": "Tidak hanya...",
+    "back_reading": "にかぎらず",
+    "back_example": "若者に限らず高齢者も利用する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "scope"
+    ],
+    "difficulty": 2,
+    "order_index": 31
+  },
+  {
+    "id": "deck-n2-grammar-032",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に限って",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "justru; khusus untuk",
+    "back_subtext": "Hanya dalam kasus ini",
+    "back_reading": "にかぎって",
+    "back_example": "急いでいる時に限って電車が遅れる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "scope"
+    ],
+    "difficulty": 3,
+    "order_index": 32
+  },
+  {
+    "id": "deck-n2-grammar-033",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜を問わず",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tanpa memandang",
+    "back_subtext": "Tidak peduli...",
+    "back_reading": "をとわず",
+    "back_example": "年齢を問わず参加できる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "scope"
+    ],
+    "difficulty": 2,
+    "order_index": 33
+  },
+  {
+    "id": "deck-n2-grammar-034",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜はともかく",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "terlepas dari; selain",
+    "back_subtext": "Mengesampingkan satu hal",
+    "back_reading": "はともかく",
+    "back_example": "味はともかく見た目は美しい。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "aside"
+    ],
+    "difficulty": 2,
+    "order_index": 34
+  },
+  {
+    "id": "deck-n2-grammar-035",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜つつある",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sedang (berlangsung)",
+    "back_subtext": "Proses yang sedang terjadi",
+    "back_reading": "つつある",
+    "back_example": "環境は改善しつつある。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "progressive"
+    ],
+    "difficulty": 3,
+    "order_index": 35
+  },
+  {
+    "id": "deck-n2-grammar-036",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜つつも",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "meskipun; sambil",
+    "back_subtext": "Mengakui tapi kontras",
+    "back_reading": "つつも",
+    "back_example": "悪いと知りつつも食べてしまう。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "concession"
+    ],
+    "difficulty": 3,
+    "order_index": 36
+  },
+  {
+    "id": "deck-n2-grammar-037",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に過ぎない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "hanya; tidak lebih dari",
+    "back_subtext": "Meremehkan/merendahkan",
+    "back_reading": "にすぎない",
+    "back_example": "推測に過ぎない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "limitation"
+    ],
+    "difficulty": 2,
+    "order_index": 37
+  },
+  {
+    "id": "deck-n2-grammar-038",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に他ならない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tidak lain adalah; pasti",
+    "back_subtext": "Menegaskan",
+    "back_reading": "にほかならない",
+    "back_example": "努力の結果に他ならない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "emphasis"
+    ],
+    "difficulty": 3,
+    "order_index": 38
+  },
+  {
+    "id": "deck-n2-grammar-039",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜てたまらない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sangat; tak tertahankan",
+    "back_subtext": "Perasaan sangat kuat",
+    "back_reading": "てたまらない",
+    "back_example": "暑くてたまらない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "emotion"
+    ],
+    "difficulty": 2,
+    "order_index": 39
+  },
+  {
+    "id": "deck-n2-grammar-040",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜てならない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sangat; tak bisa ditahan",
+    "back_subtext": "Perasaan alami",
+    "back_reading": "てならない",
+    "back_example": "心配でならない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "emotion"
+    ],
+    "difficulty": 2,
+    "order_index": 40
+  },
+  {
+    "id": "deck-n2-grammar-041",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜かねない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "mungkin; bisa saja (negatif)",
+    "back_subtext": "Kemungkinan buruk",
+    "back_reading": "かねない",
+    "back_example": "事故になりかねない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "possibility"
+    ],
+    "difficulty": 3,
+    "order_index": 41
+  },
+  {
+    "id": "deck-n2-grammar-042",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜かねる",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sulit untuk; tidak bisa",
+    "back_subtext": "Kesulitan melakukan",
+    "back_reading": "かねる",
+    "back_example": "その要求には応じかねます。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "difficulty"
+    ],
+    "difficulty": 3,
+    "order_index": 42
+  },
+  {
+    "id": "deck-n2-grammar-043",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜っぽい",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "cenderung; terlihat seperti",
+    "back_subtext": "Kesan/kecenderungan",
+    "back_reading": "っぽい",
+    "back_example": "彼は怒りっぽい性格だ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "tendency"
+    ],
+    "difficulty": 1,
+    "order_index": 43
+  },
+  {
+    "id": "deck-n2-grammar-044",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜気味",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sedikit; agak",
+    "back_subtext": "Kecenderungan ringan",
+    "back_reading": "ぎみ",
+    "back_example": "最近太り気味だ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "tendency"
+    ],
+    "difficulty": 2,
+    "order_index": 44
+  },
+  {
+    "id": "deck-n2-grammar-045",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜がち",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "cenderung; sering",
+    "back_subtext": "Kecenderungan negatif",
+    "back_reading": "がち",
+    "back_example": "病気がちで学校を休む。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "tendency"
+    ],
+    "difficulty": 2,
+    "order_index": 45
+  },
+  {
+    "id": "deck-n2-grammar-046",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜向き",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "cocok untuk; ditujukan untuk",
+    "back_subtext": "Target/kesesuaian",
+    "back_reading": "むき",
+    "back_example": "子供向きの番組だ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "suitability"
+    ],
+    "difficulty": 1,
+    "order_index": 46
+  },
+  {
+    "id": "deck-n2-grammar-047",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜向け",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "ditujukan untuk",
+    "back_subtext": "Target spesifik",
+    "back_reading": "むけ",
+    "back_example": "外国人向けのガイドブックだ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "target"
+    ],
+    "difficulty": 1,
+    "order_index": 47
+  },
+  {
+    "id": "deck-n2-grammar-048",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜だらけ",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "penuh dengan (negatif)",
+    "back_subtext": "Banyak sekali (buruk)",
+    "back_reading": "だらけ",
+    "back_example": "部屋はゴミだらけだ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "state"
+    ],
+    "difficulty": 1,
+    "order_index": 48
+  },
+  {
+    "id": "deck-n2-grammar-049",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜まみれ",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "berlumuran; penuh",
+    "back_subtext": "Tertutup oleh sesuatu",
+    "back_reading": "まみれ",
+    "back_example": "泥まみれになった。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "state"
+    ],
+    "difficulty": 2,
+    "order_index": 49
+  },
+  {
+    "id": "deck-n2-grammar-050",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜末に",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "setelah; akhirnya",
+    "back_subtext": "Setelah proses panjang",
+    "back_reading": "すえに",
+    "back_example": "悩んだ末に決断した。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "result"
+    ],
+    "difficulty": 3,
+    "order_index": 50
+  },
+  {
+    "id": "deck-n2-grammar-051",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜上で",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "setelah; dalam hal",
+    "back_subtext": "Setelah melakukan/dalam hal",
+    "back_reading": "うえで",
+    "back_example": "よく考えた上で決める。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "sequence"
+    ],
+    "difficulty": 2,
+    "order_index": 51
+  },
+  {
+    "id": "deck-n2-grammar-052",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜際に",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "pada saat; ketika",
+    "back_subtext": "Saat melakukan sesuatu",
+    "back_reading": "さいに",
+    "back_example": "お帰りの際にお寄りください。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "timing"
+    ],
+    "difficulty": 2,
+    "order_index": 52
+  },
+  {
+    "id": "deck-n2-grammar-053",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜たびに",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "setiap kali",
+    "back_subtext": "Setiap melakukan...",
+    "back_reading": "たびに",
+    "back_example": "会うたびに元気になる。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "frequency"
+    ],
+    "difficulty": 1,
+    "order_index": 53
+  },
+  {
+    "id": "deck-n2-grammar-054",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜最中に",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sedang di tengah-tengah",
+    "back_subtext": "Di tengah aktivitas",
+    "back_reading": "さいちゅうに",
+    "back_example": "食事の最中に電話が来た。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "timing"
+    ],
+    "difficulty": 2,
+    "order_index": 54
+  },
+  {
+    "id": "deck-n2-grammar-055",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜おかげで",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "berkat; karena (positif)",
+    "back_subtext": "Penyebab hasil positif",
+    "back_reading": "おかげで",
+    "back_example": "先生のおかげで合格した。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "cause"
+    ],
+    "difficulty": 1,
+    "order_index": 55
+  },
+  {
+    "id": "deck-n2-grammar-056",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜せいで",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "gara-gara; karena (negatif)",
+    "back_subtext": "Penyebab hasil negatif",
+    "back_reading": "せいで",
+    "back_example": "雨のせいで中止になった。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "cause"
+    ],
+    "difficulty": 1,
+    "order_index": 56
+  },
+  {
+    "id": "deck-n2-grammar-057",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜わりに",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "mengingat; meskipun",
+    "back_subtext": "Tidak sesuai ekspektasi",
+    "back_reading": "わりに",
+    "back_example": "値段のわりに美味しい。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "contrast"
+    ],
+    "difficulty": 2,
+    "order_index": 57
+  },
+  {
+    "id": "deck-n2-grammar-058",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜くせに",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "padahal; meskipun (negatif)",
+    "back_subtext": "Kritik/celaan",
+    "back_reading": "くせに",
+    "back_example": "知っているくせに教えない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "criticism"
+    ],
+    "difficulty": 2,
+    "order_index": 58
+  },
+  {
+    "id": "deck-n2-grammar-059",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ように",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "supaya; agar",
+    "back_subtext": "Tujuan (tidak disengaja)",
+    "back_reading": "ように",
+    "back_example": "忘れないようにメモする。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "purpose"
+    ],
+    "difficulty": 1,
+    "order_index": 59
+  },
+  {
+    "id": "deck-n2-grammar-060",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ために",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "untuk; demi",
+    "back_subtext": "Tujuan (disengaja)",
+    "back_reading": "ために",
+    "back_example": "健康のために運動する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "purpose"
+    ],
+    "difficulty": 1,
+    "order_index": 60
+  },
+  {
+    "id": "deck-n2-grammar-061",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜とともに",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "bersama dengan; seiring",
+    "back_subtext": "Bersamaan/seiring",
+    "back_reading": "とともに",
+    "back_example": "時代とともに変化する。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "accompaniment"
+    ],
+    "difficulty": 2,
+    "order_index": 61
+  },
+  {
+    "id": "deck-n2-grammar-062",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に沿って",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sepanjang; sesuai dengan",
+    "back_subtext": "Mengikuti garis/kebijakan",
+    "back_reading": "にそって",
+    "back_example": "川に沿って歩く。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "direction"
+    ],
+    "difficulty": 2,
+    "order_index": 62
+  },
+  {
+    "id": "deck-n2-grammar-063",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜を巡って",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "mengenai; seputar",
+    "back_subtext": "Tentang suatu isu",
+    "back_reading": "をめぐって",
+    "back_example": "領土を巡って争う。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "topic"
+    ],
+    "difficulty": 3,
+    "order_index": 63
+  },
+  {
+    "id": "deck-n2-grammar-064",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜にわたって",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "selama; sepanjang",
+    "back_subtext": "Rentang waktu/ruang",
+    "back_reading": "にわたって",
+    "back_example": "3日間にわたって会議が行われた。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "duration"
+    ],
+    "difficulty": 2,
+    "order_index": 64
+  },
+  {
+    "id": "deck-n2-grammar-065",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に先立って",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "sebelum; mendahului",
+    "back_subtext": "Sebelum acara penting",
+    "back_reading": "にさきだって",
+    "back_example": "開会に先立って挨拶がある。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "sequence"
+    ],
+    "difficulty": 3,
+    "order_index": 65
+  },
+  {
+    "id": "deck-n2-grammar-066",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜をきっかけに",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "dengan kesempatan; dipicu oleh",
+    "back_subtext": "Pemicu/momentum",
+    "back_reading": "をきっかけに",
+    "back_example": "留学をきっかけに日本語を学んだ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "trigger"
+    ],
+    "difficulty": 2,
+    "order_index": 66
+  },
+  {
+    "id": "deck-n2-grammar-067",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜を契機に",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "dengan momentum; dipicu oleh (formal)",
+    "back_subtext": "Versi formal をきっかけに",
+    "back_reading": "をけいきに",
+    "back_example": "事故を契機に安全対策を強化した。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "trigger"
+    ],
+    "difficulty": 3,
+    "order_index": 67
+  },
+  {
+    "id": "deck-n2-grammar-068",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜抜きで",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tanpa; tanpa membicarakan",
+    "back_subtext": "Mengeluarkan/mengecualikan",
+    "back_reading": "ぬきで",
+    "back_example": "冗談抜きで話しましょう。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "exclusion"
+    ],
+    "difficulty": 2,
+    "order_index": 68
+  },
+  {
+    "id": "deck-n2-grammar-069",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜を除いて",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "kecuali; selain",
+    "back_subtext": "Pengecualian",
+    "back_reading": "をのぞいて",
+    "back_example": "彼を除いて全員賛成だ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "exclusion"
+    ],
+    "difficulty": 2,
+    "order_index": 69
+  },
+  {
+    "id": "deck-n2-grammar-070",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜にかけては",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "dalam hal; soal",
+    "back_subtext": "Kemampuan khusus",
+    "back_reading": "にかけては",
+    "back_example": "料理にかけては彼女が一番だ。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "speciality"
+    ],
+    "difficulty": 2,
+    "order_index": 70
+  },
+  {
+    "id": "deck-n2-grammar-071",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜に限る",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "paling baik; terbaik adalah",
+    "back_subtext": "Rekomendasi kuat",
+    "back_reading": "にかぎる",
+    "back_example": "暑い日はビールに限る。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "recommendation"
+    ],
+    "difficulty": 1,
+    "order_index": 71
+  },
+  {
+    "id": "deck-n2-grammar-072",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜とは限らない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "belum tentu; tidak selalu",
+    "back_subtext": "Menyangkal generalisasi",
+    "back_reading": "とはかぎらない",
+    "back_example": "高いからといっていいとは限らない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "negation"
+    ],
+    "difficulty": 2,
+    "order_index": 72
+  },
+  {
+    "id": "deck-n2-grammar-073",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ことはない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tidak perlu",
+    "back_subtext": "Tidak ada keharusan",
+    "back_reading": "ことはない",
+    "back_example": "そんなに心配することはない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "negation"
+    ],
+    "difficulty": 1,
+    "order_index": 73
+  },
+  {
+    "id": "deck-n2-grammar-074",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ことから",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "karena; dari fakta bahwa",
+    "back_subtext": "Alasan/asal nama",
+    "back_reading": "ことから",
+    "back_example": "形が似ていることから名前がついた。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "reason"
+    ],
+    "difficulty": 2,
+    "order_index": 74
+  },
+  {
+    "id": "deck-n2-grammar-075",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ことなく",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tanpa (melakukan)",
+    "back_subtext": "Tanpa melakukan sesuatu",
+    "back_reading": "ことなく",
+    "back_example": "諦めることなく努力した。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "negation"
+    ],
+    "difficulty": 2,
+    "order_index": 75
+  },
+  {
+    "id": "deck-n2-grammar-076",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ないことには",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "kalau tidak; tanpa",
+    "back_subtext": "Syarat mutlak",
+    "back_reading": "ないことには",
+    "back_example": "やってみないことには分からない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "condition"
+    ],
+    "difficulty": 2,
+    "order_index": 76
+  },
+  {
+    "id": "deck-n2-grammar-077",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜得る／得ない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "mungkin / tidak mungkin",
+    "back_subtext": "Kemungkinan terjadi",
+    "back_reading": "うる／えない",
+    "back_example": "そんなことはあり得ない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "possibility"
+    ],
+    "difficulty": 2,
+    "order_index": 77
+  },
+  {
+    "id": "deck-n2-grammar-078",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜かと思うと",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "begitu...; baru saja",
+    "back_subtext": "Perubahan cepat",
+    "back_reading": "かとおもうと",
+    "back_example": "泣いたかと思うと笑い出した。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "change"
+    ],
+    "difficulty": 3,
+    "order_index": 78
+  },
+  {
+    "id": "deck-n2-grammar-079",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜てからでないと",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "kalau belum; sebelum",
+    "back_subtext": "Harus dulu baru bisa",
+    "back_reading": "てからでないと",
+    "back_example": "確認してからでないと送れない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "condition"
+    ],
+    "difficulty": 2,
+    "order_index": 79
+  },
+  {
+    "id": "deck-n2-grammar-080",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜たところで",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "meskipun; walau",
+    "back_subtext": "Tidak berpengaruh",
+    "back_reading": "たところで",
+    "back_example": "今更後悔したところで遅い。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "futility"
+    ],
+    "difficulty": 3,
+    "order_index": 80
+  },
+  {
+    "id": "deck-n2-grammar-081",
+    "deck_id": "deck-n2-grammar",
+    "front_text": "〜ようがない",
+    "front_subtext": "Tata Bahasa N2",
+    "front_image_url": "",
+    "back_text": "tidak ada cara untuk",
+    "back_subtext": "Tidak mungkin dilakukan",
+    "back_reading": "ようがない",
+    "back_example": "連絡先が分からなくて連絡しようがない。",
+    "audio_url": "",
+    "tags": [
+      "grammar",
+      "impossibility"
+    ],
+    "difficulty": 2,
+    "order_index": 81
+  },
+  {
+    "id": "deck-n2-vocab-001",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "握手",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "jabat tangan",
+    "back_subtext": "あくしゅ",
+    "back_reading": "あくしゅ",
+    "back_example": "握手をして挨拶する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "greeting"
+    ],
+    "difficulty": 1,
+    "order_index": 1
+  },
+  {
+    "id": "deck-n2-vocab-002",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "依頼",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "permintaan",
+    "back_subtext": "いらい",
+    "back_reading": "いらい",
+    "back_example": "仕事を依頼する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 2
+  },
+  {
+    "id": "deck-n2-vocab-003",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "維持",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pemeliharaan",
+    "back_subtext": "いじ",
+    "back_reading": "いじ",
+    "back_example": "健康を維持する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 3
+  },
+  {
+    "id": "deck-n2-vocab-004",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "違反",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pelanggaran",
+    "back_subtext": "いはん",
+    "back_reading": "いはん",
+    "back_example": "規則に違反する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "law"
+    ],
+    "difficulty": 2,
+    "order_index": 4
+  },
+  {
+    "id": "deck-n2-vocab-005",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "影響",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pengaruh",
+    "back_subtext": "えいきょう",
+    "back_reading": "えいきょう",
+    "back_example": "環境に影響を与える。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 5
+  },
+  {
+    "id": "deck-n2-vocab-006",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "援助",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "bantuan",
+    "back_subtext": "えんじょ",
+    "back_reading": "えんじょ",
+    "back_example": "経済的な援助を受ける。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "support"
+    ],
+    "difficulty": 2,
+    "order_index": 6
+  },
+  {
+    "id": "deck-n2-vocab-007",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "応募",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "melamar; mendaftar",
+    "back_subtext": "おうぼ",
+    "back_reading": "おうぼ",
+    "back_example": "コンテストに応募する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 7
+  },
+  {
+    "id": "deck-n2-vocab-008",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "汚染",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pencemaran",
+    "back_subtext": "おせん",
+    "back_reading": "おせん",
+    "back_example": "大気汚染が深刻だ。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "environment"
+    ],
+    "difficulty": 2,
+    "order_index": 8
+  },
+  {
+    "id": "deck-n2-vocab-009",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "穏やか",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "tenang; damai",
+    "back_subtext": "おだやか",
+    "back_reading": "おだやか",
+    "back_example": "穏やかな天気だ。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 1,
+    "order_index": 9
+  },
+  {
+    "id": "deck-n2-vocab-010",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "介護",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "perawatan",
+    "back_subtext": "かいご",
+    "back_reading": "かいご",
+    "back_example": "高齢者を介護する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "medical"
+    ],
+    "difficulty": 2,
+    "order_index": 10
+  },
+  {
+    "id": "deck-n2-vocab-011",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "概念",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "konsep",
+    "back_subtext": "がいねん",
+    "back_reading": "がいねん",
+    "back_example": "新しい概念を提案する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 3,
+    "order_index": 11
+  },
+  {
+    "id": "deck-n2-vocab-012",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "革命",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "revolusi",
+    "back_subtext": "かくめい",
+    "back_reading": "かくめい",
+    "back_example": "産業革命が起きた。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "history"
+    ],
+    "difficulty": 2,
+    "order_index": 12
+  },
+  {
+    "id": "deck-n2-vocab-013",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "活躍",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "keaktifan; kiprah",
+    "back_subtext": "かつやく",
+    "back_reading": "かつやく",
+    "back_example": "世界で活躍する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 13
+  },
+  {
+    "id": "deck-n2-vocab-014",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "環境",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "lingkungan",
+    "back_subtext": "かんきょう",
+    "back_reading": "かんきょう",
+    "back_example": "環境を守る。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "environment"
+    ],
+    "difficulty": 1,
+    "order_index": 14
+  },
+  {
+    "id": "deck-n2-vocab-015",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "企画",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "perencanaan",
+    "back_subtext": "きかく",
+    "back_reading": "きかく",
+    "back_example": "イベントを企画する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 15
+  },
+  {
+    "id": "deck-n2-vocab-016",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "貴重",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "berharga",
+    "back_subtext": "きちょう",
+    "back_reading": "きちょう",
+    "back_example": "貴重な経験だ。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 1,
+    "order_index": 16
+  },
+  {
+    "id": "deck-n2-vocab-017",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "義務",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kewajiban",
+    "back_subtext": "ぎむ",
+    "back_reading": "ぎむ",
+    "back_example": "義務を果たす。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "law"
+    ],
+    "difficulty": 2,
+    "order_index": 17
+  },
+  {
+    "id": "deck-n2-vocab-018",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "脅威",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "ancaman",
+    "back_subtext": "きょうい",
+    "back_reading": "きょうい",
+    "back_example": "安全への脅威だ。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 3,
+    "order_index": 18
+  },
+  {
+    "id": "deck-n2-vocab-019",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "協力",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kerja sama",
+    "back_subtext": "きょうりょく",
+    "back_reading": "きょうりょく",
+    "back_example": "チームで協力する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 19
+  },
+  {
+    "id": "deck-n2-vocab-020",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "勤務",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "bekerja; dinas",
+    "back_subtext": "きんむ",
+    "back_reading": "きんむ",
+    "back_example": "会社で勤務する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 1,
+    "order_index": 20
+  },
+  {
+    "id": "deck-n2-vocab-021",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "偶然",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kebetulan",
+    "back_subtext": "ぐうぜん",
+    "back_reading": "ぐうぜん",
+    "back_example": "偶然友達に会った。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 21
+  },
+  {
+    "id": "deck-n2-vocab-022",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "傾向",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kecenderungan",
+    "back_subtext": "けいこう",
+    "back_reading": "けいこう",
+    "back_example": "増加傾向にある。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 2,
+    "order_index": 22
+  },
+  {
+    "id": "deck-n2-vocab-023",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "契約",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kontrak",
+    "back_subtext": "けいやく",
+    "back_reading": "けいやく",
+    "back_example": "契約を結ぶ。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 23
+  },
+  {
+    "id": "deck-n2-vocab-024",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "権利",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "hak",
+    "back_subtext": "けんり",
+    "back_reading": "けんり",
+    "back_example": "権利を主張する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "law"
+    ],
+    "difficulty": 2,
+    "order_index": 24
+  },
+  {
+    "id": "deck-n2-vocab-025",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "貢献",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kontribusi",
+    "back_subtext": "こうけん",
+    "back_reading": "こうけん",
+    "back_example": "社会に貢献する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 25
+  },
+  {
+    "id": "deck-n2-vocab-026",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "交渉",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "negosiasi",
+    "back_subtext": "こうしょう",
+    "back_reading": "こうしょう",
+    "back_example": "交渉を進める。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 26
+  },
+  {
+    "id": "deck-n2-vocab-027",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "克服",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "mengatasi",
+    "back_subtext": "こくふく",
+    "back_reading": "こくふく",
+    "back_example": "困難を克服する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 27
+  },
+  {
+    "id": "deck-n2-vocab-028",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "雇用",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pekerjaan; tenaga kerja",
+    "back_subtext": "こよう",
+    "back_reading": "こよう",
+    "back_example": "雇用を創出する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 28
+  },
+  {
+    "id": "deck-n2-vocab-029",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "削減",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pengurangan",
+    "back_subtext": "さくげん",
+    "back_reading": "さくげん",
+    "back_example": "コストを削減する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 29
+  },
+  {
+    "id": "deck-n2-vocab-030",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "資源",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "sumber daya",
+    "back_subtext": "しげん",
+    "back_reading": "しげん",
+    "back_example": "天然資源を保護する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "environment"
+    ],
+    "difficulty": 2,
+    "order_index": 30
+  },
+  {
+    "id": "deck-n2-vocab-031",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "指摘",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "penunjukan masalah",
+    "back_subtext": "してき",
+    "back_reading": "してき",
+    "back_example": "問題点を指摘する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 31
+  },
+  {
+    "id": "deck-n2-vocab-032",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "実績",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "rekam jejak",
+    "back_subtext": "じっせき",
+    "back_reading": "じっせき",
+    "back_example": "実績を積む。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 32
+  },
+  {
+    "id": "deck-n2-vocab-033",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "充実",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "memenuhi; memuaskan",
+    "back_subtext": "じゅうじつ",
+    "back_reading": "じゅうじつ",
+    "back_example": "生活が充実している。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 33
+  },
+  {
+    "id": "deck-n2-vocab-034",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "従事",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "terlibat dalam pekerjaan",
+    "back_subtext": "じゅうじ",
+    "back_reading": "じゅうじ",
+    "back_example": "研究に従事する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 34
+  },
+  {
+    "id": "deck-n2-vocab-035",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "柔軟",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "fleksibel",
+    "back_subtext": "じゅうなん",
+    "back_reading": "じゅうなん",
+    "back_example": "柔軟に対応する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 2,
+    "order_index": 35
+  },
+  {
+    "id": "deck-n2-vocab-036",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "障害",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "hambatan; disabilitas",
+    "back_subtext": "しょうがい",
+    "back_reading": "しょうがい",
+    "back_example": "障害を乗り越える。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 36
+  },
+  {
+    "id": "deck-n2-vocab-037",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "奨励",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "dorongan; promosi",
+    "back_subtext": "しょうれい",
+    "back_reading": "しょうれい",
+    "back_example": "研究を奨励する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 3,
+    "order_index": 37
+  },
+  {
+    "id": "deck-n2-vocab-038",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "侵害",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pelanggaran; penyerangan",
+    "back_subtext": "しんがい",
+    "back_reading": "しんがい",
+    "back_example": "権利を侵害する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "law"
+    ],
+    "difficulty": 3,
+    "order_index": 38
+  },
+  {
+    "id": "deck-n2-vocab-039",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "診断",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "diagnosis",
+    "back_subtext": "しんだん",
+    "back_reading": "しんだん",
+    "back_example": "医師が診断する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "medical"
+    ],
+    "difficulty": 2,
+    "order_index": 39
+  },
+  {
+    "id": "deck-n2-vocab-040",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "慎重",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "hati-hati",
+    "back_subtext": "しんちょう",
+    "back_reading": "しんちょう",
+    "back_example": "慎重に判断する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 2,
+    "order_index": 40
+  },
+  {
+    "id": "deck-n2-vocab-041",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "推進",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "promosi; dorongan",
+    "back_subtext": "すいしん",
+    "back_reading": "すいしん",
+    "back_example": "計画を推進する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 41
+  },
+  {
+    "id": "deck-n2-vocab-042",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "世代",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "generasi",
+    "back_subtext": "せだい",
+    "back_reading": "せだい",
+    "back_example": "若い世代に伝える。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 42
+  },
+  {
+    "id": "deck-n2-vocab-043",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "促進",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "percepatan",
+    "back_subtext": "そくしん",
+    "back_reading": "そくしん",
+    "back_example": "交流を促進する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 43
+  },
+  {
+    "id": "deck-n2-vocab-044",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "対策",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "tindakan; langkah",
+    "back_subtext": "たいさく",
+    "back_reading": "たいさく",
+    "back_example": "対策を講じる。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 44
+  },
+  {
+    "id": "deck-n2-vocab-045",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "達成",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pencapaian",
+    "back_subtext": "たっせい",
+    "back_reading": "たっせい",
+    "back_example": "目標を達成する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 45
+  },
+  {
+    "id": "deck-n2-vocab-046",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "妥当",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "wajar; tepat",
+    "back_subtext": "だとう",
+    "back_reading": "だとう",
+    "back_example": "妥当な判断だ。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 2,
+    "order_index": 46
+  },
+  {
+    "id": "deck-n2-vocab-047",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "展望",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "prospek; pandangan",
+    "back_subtext": "てんぼう",
+    "back_reading": "てんぼう",
+    "back_example": "将来の展望を語る。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 47
+  },
+  {
+    "id": "deck-n2-vocab-048",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "統一",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "penyatuan",
+    "back_subtext": "とういつ",
+    "back_reading": "とういつ",
+    "back_example": "意見を統一する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 48
+  },
+  {
+    "id": "deck-n2-vocab-049",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "透明",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "transparan",
+    "back_subtext": "とうめい",
+    "back_reading": "とうめい",
+    "back_example": "透明性を確保する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 1,
+    "order_index": 49
+  },
+  {
+    "id": "deck-n2-vocab-050",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "独立",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kemandirian",
+    "back_subtext": "どくりつ",
+    "back_reading": "どくりつ",
+    "back_example": "独立して生活する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 1,
+    "order_index": 50
+  },
+  {
+    "id": "deck-n2-vocab-051",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "把握",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pemahaman; penguasaan",
+    "back_subtext": "はあく",
+    "back_reading": "はあく",
+    "back_example": "状況を把握する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 51
+  },
+  {
+    "id": "deck-n2-vocab-052",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "配慮",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pertimbangan",
+    "back_subtext": "はいりょ",
+    "back_reading": "はいりょ",
+    "back_example": "環境に配慮する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 52
+  },
+  {
+    "id": "deck-n2-vocab-053",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "発揮",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "menunjukkan kemampuan",
+    "back_subtext": "はっき",
+    "back_reading": "はっき",
+    "back_example": "実力を発揮する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 53
+  },
+  {
+    "id": "deck-n2-vocab-054",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "批判",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kritik",
+    "back_subtext": "ひはん",
+    "back_reading": "ひはん",
+    "back_example": "政策を批判する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 54
+  },
+  {
+    "id": "deck-n2-vocab-055",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "普及",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "penyebaran luas",
+    "back_subtext": "ふきゅう",
+    "back_reading": "ふきゅう",
+    "back_example": "技術が普及する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 55
+  },
+  {
+    "id": "deck-n2-vocab-056",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "復旧",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pemulihan",
+    "back_subtext": "ふっきゅう",
+    "back_reading": "ふっきゅう",
+    "back_example": "電力が復旧する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 56
+  },
+  {
+    "id": "deck-n2-vocab-057",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "分析",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "analisis",
+    "back_subtext": "ぶんせき",
+    "back_reading": "ぶんせき",
+    "back_example": "データを分析する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 2,
+    "order_index": 57
+  },
+  {
+    "id": "deck-n2-vocab-058",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "方針",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kebijakan; arahan",
+    "back_subtext": "ほうしん",
+    "back_reading": "ほうしん",
+    "back_example": "方針を決定する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 58
+  },
+  {
+    "id": "deck-n2-vocab-059",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "本質",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "esensi; hakikat",
+    "back_subtext": "ほんしつ",
+    "back_reading": "ほんしつ",
+    "back_example": "問題の本質を見る。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 3,
+    "order_index": 59
+  },
+  {
+    "id": "deck-n2-vocab-060",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "密接",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "erat; dekat",
+    "back_subtext": "みっせつ",
+    "back_reading": "みっせつ",
+    "back_example": "密接な関係がある。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 2,
+    "order_index": 60
+  },
+  {
+    "id": "deck-n2-vocab-061",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "矛盾",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kontradiksi",
+    "back_subtext": "むじゅん",
+    "back_reading": "むじゅん",
+    "back_example": "矛盾を感じる。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 61
+  },
+  {
+    "id": "deck-n2-vocab-062",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "明確",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "jelas; tegas",
+    "back_subtext": "めいかく",
+    "back_reading": "めいかく",
+    "back_example": "目標を明確にする。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adjective"
+    ],
+    "difficulty": 2,
+    "order_index": 62
+  },
+  {
+    "id": "deck-n2-vocab-063",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "模索",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pencarian; eksplorasi",
+    "back_subtext": "もさく",
+    "back_reading": "もさく",
+    "back_example": "解決策を模索する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 3,
+    "order_index": 63
+  },
+  {
+    "id": "deck-n2-vocab-064",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "要因",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "faktor",
+    "back_subtext": "よういん",
+    "back_reading": "よういん",
+    "back_example": "成功の要因を分析する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 2,
+    "order_index": 64
+  },
+  {
+    "id": "deck-n2-vocab-065",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "抑制",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pengendalian",
+    "back_subtext": "よくせい",
+    "back_reading": "よくせい",
+    "back_example": "支出を抑制する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 65
+  },
+  {
+    "id": "deck-n2-vocab-066",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "離脱",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "penarikan diri",
+    "back_subtext": "りだつ",
+    "back_reading": "りだつ",
+    "back_example": "組織を離脱する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 3,
+    "order_index": 66
+  },
+  {
+    "id": "deck-n2-vocab-067",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "了承",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "persetujuan; pemahaman",
+    "back_subtext": "りょうしょう",
+    "back_reading": "りょうしょう",
+    "back_example": "了承を得る。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 67
+  },
+  {
+    "id": "deck-n2-vocab-068",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "臨時",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "sementara; darurat",
+    "back_subtext": "りんじ",
+    "back_reading": "りんじ",
+    "back_example": "臨時休業する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 68
+  },
+  {
+    "id": "deck-n2-vocab-069",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "連携",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kerja sama; koordinasi",
+    "back_subtext": "れんけい",
+    "back_reading": "れんけい",
+    "back_example": "他部署と連携する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 69
+  },
+  {
+    "id": "deck-n2-vocab-070",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "論理",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "logika",
+    "back_subtext": "ろんり",
+    "back_reading": "ろんり",
+    "back_example": "論理的に考える。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "academic"
+    ],
+    "difficulty": 2,
+    "order_index": 70
+  },
+  {
+    "id": "deck-n2-vocab-071",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "枠組み",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "kerangka",
+    "back_subtext": "わくぐみ",
+    "back_reading": "わくぐみ",
+    "back_example": "新しい枠組みを作る。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "general"
+    ],
+    "difficulty": 2,
+    "order_index": 71
+  },
+  {
+    "id": "deck-n2-vocab-072",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "和解",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "rekonsiliasi",
+    "back_subtext": "わかい",
+    "back_reading": "わかい",
+    "back_example": "両者が和解する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "law"
+    ],
+    "difficulty": 2,
+    "order_index": 72
+  },
+  {
+    "id": "deck-n2-vocab-073",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "湾岸",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "pantai teluk",
+    "back_subtext": "わんがん",
+    "back_reading": "わんがん",
+    "back_example": "湾岸地域に住む。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "geography"
+    ],
+    "difficulty": 2,
+    "order_index": 73
+  },
+  {
+    "id": "deck-n2-vocab-074",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "一概に",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "secara umum",
+    "back_subtext": "いちがいに",
+    "back_reading": "いちがいに",
+    "back_example": "一概には言えない。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adverb"
+    ],
+    "difficulty": 2,
+    "order_index": 74
+  },
+  {
+    "id": "deck-n2-vocab-075",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "一斉に",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "serentak",
+    "back_subtext": "いっせいに",
+    "back_reading": "いっせいに",
+    "back_example": "一斉にスタートする。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adverb"
+    ],
+    "difficulty": 1,
+    "order_index": 75
+  },
+  {
+    "id": "deck-n2-vocab-076",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "辛うじて",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "dengan susah payah",
+    "back_subtext": "かろうじて",
+    "back_reading": "かろうじて",
+    "back_example": "辛うじて合格した。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adverb"
+    ],
+    "difficulty": 2,
+    "order_index": 76
+  },
+  {
+    "id": "deck-n2-vocab-077",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "敢えて",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "dengan sengaja; berani",
+    "back_subtext": "あえて",
+    "back_reading": "あえて",
+    "back_example": "敢えて挑戦する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adverb"
+    ],
+    "difficulty": 2,
+    "order_index": 77
+  },
+  {
+    "id": "deck-n2-vocab-078",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "強いて",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "jika dipaksa",
+    "back_subtext": "しいて",
+    "back_reading": "しいて",
+    "back_example": "強いて言えば問題ない。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adverb"
+    ],
+    "difficulty": 2,
+    "order_index": 78
+  },
+  {
+    "id": "deck-n2-vocab-079",
+    "deck_id": "deck-n2-vocab",
+    "front_text": "直ちに",
+    "front_subtext": "Kosakata N2",
+    "front_image_url": "",
+    "back_text": "segera; langsung",
+    "back_subtext": "ただちに",
+    "back_reading": "ただちに",
+    "back_example": "直ちに対応する。",
+    "audio_url": "",
+    "tags": [
+      "vocab",
+      "adverb"
+    ],
+    "difficulty": 2,
+    "order_index": 79
+  },
+  {
+    "id": "deck-n2-keigo-001",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "拝見する",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "melihat (merendahkan diri)",
+    "back_subtext": "謙譲語",
+    "back_reading": "はいけんする",
+    "back_example": "資料を拝見します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 2,
+    "order_index": 1
+  },
+  {
+    "id": "deck-n2-keigo-002",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "承知する",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "memahami (merendahkan diri)",
+    "back_subtext": "謙譲語",
+    "back_reading": "しょうちする",
+    "back_example": "承知いたしました。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 2,
+    "order_index": 2
+  },
+  {
+    "id": "deck-n2-keigo-003",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "申し上げる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "berkata (sangat merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "もうしあげる",
+    "back_example": "お詫び申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 3
+  },
+  {
+    "id": "deck-n2-keigo-004",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "伺う",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "bertanya/mengunjungi (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "うかがう",
+    "back_example": "明日伺います。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 2,
+    "order_index": 4
+  },
+  {
+    "id": "deck-n2-keigo-005",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "参る",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "pergi/datang (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "まいる",
+    "back_example": "すぐに参ります。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 2,
+    "order_index": 5
+  },
+  {
+    "id": "deck-n2-keigo-006",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "存じる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mengetahui (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "ぞんじる",
+    "back_example": "存じております。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 6
+  },
+  {
+    "id": "deck-n2-keigo-007",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "差し上げる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "memberikan (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "さしあげる",
+    "back_example": "プレゼントを差し上げる。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 2,
+    "order_index": 7
+  },
+  {
+    "id": "deck-n2-keigo-008",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "頂戴する",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menerima (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "ちょうだいする",
+    "back_example": "お名前を頂戴できますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 8
+  },
+  {
+    "id": "deck-n2-keigo-009",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "おっしゃる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "berkata (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "おっしゃる",
+    "back_example": "先生がおっしゃいました。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 9
+  },
+  {
+    "id": "deck-n2-keigo-010",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "いらっしゃる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "ada/pergi (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "いらっしゃる",
+    "back_example": "社長はいらっしゃいますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 10
+  },
+  {
+    "id": "deck-n2-keigo-011",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "召し上がる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "makan/minum (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "めしあがる",
+    "back_example": "どうぞ召し上がってください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 11
+  },
+  {
+    "id": "deck-n2-keigo-012",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご覧になる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "melihat (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "ごらんになる",
+    "back_example": "こちらをご覧ください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 12
+  },
+  {
+    "id": "deck-n2-keigo-013",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お越しになる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "datang (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "おこしになる",
+    "back_example": "ぜひお越しください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 13
+  },
+  {
+    "id": "deck-n2-keigo-014",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "くださる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "memberi (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "くださる",
+    "back_example": "先生がくださった本だ。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 14
+  },
+  {
+    "id": "deck-n2-keigo-015",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "なさる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "melakukan (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "なさる",
+    "back_example": "どうなさいますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 15
+  },
+  {
+    "id": "deck-n2-keigo-016",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご存じ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mengetahui (menghormati)",
+    "back_subtext": "尊敬語",
+    "back_reading": "ごぞんじ",
+    "back_example": "ご存じですか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 2,
+    "order_index": 16
+  },
+  {
+    "id": "deck-n2-keigo-017",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "恐れ入ります",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "maaf merepotkan",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おそれいります",
+    "back_example": "恐れ入りますが確認お願いします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 17
+  },
+  {
+    "id": "deck-n2-keigo-018",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "恐縮です",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "sungkan; tidak enak hati",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "きょうしゅくです",
+    "back_example": "恐縮ですがお時間いただけますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 18
+  },
+  {
+    "id": "deck-n2-keigo-019",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お手数ですが",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "maaf merepotkan",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おてすうですが",
+    "back_example": "お手数ですがご確認ください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 19
+  },
+  {
+    "id": "deck-n2-keigo-020",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご査収ください",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon diperiksa",
+    "back_subtext": "メール表現",
+    "back_reading": "ごさしゅうください",
+    "back_example": "添付資料をご査収ください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 3,
+    "order_index": 20
+  },
+  {
+    "id": "deck-n2-keigo-021",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご検討ください",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon dipertimbangkan",
+    "back_subtext": "メール表現",
+    "back_reading": "ごけんとうください",
+    "back_example": "ご検討いただければ幸いです。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 2,
+    "order_index": 21
+  },
+  {
+    "id": "deck-n2-keigo-022",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご了承ください",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon dimaklumi",
+    "back_subtext": "メール表現",
+    "back_reading": "ごりょうしょうください",
+    "back_example": "何卒ご了承ください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 2,
+    "order_index": 22
+  },
+  {
+    "id": "deck-n2-keigo-023",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お忙しいところ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "di saat Anda sibuk",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おいそがしいところ",
+    "back_example": "お忙しいところ恐れ入ります。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 23
+  },
+  {
+    "id": "deck-n2-keigo-024",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご多忙中",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "di saat sibuk (formal)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ごたぼうちゅう",
+    "back_example": "ご多忙中恐縮ですが。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 24
+  },
+  {
+    "id": "deck-n2-keigo-025",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "何卒",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon dengan sangat",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "なにとぞ",
+    "back_example": "何卒よろしくお願いします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "formal"
+    ],
+    "difficulty": 3,
+    "order_index": 25
+  },
+  {
+    "id": "deck-n2-keigo-026",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "拝啓",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "pembuka surat formal",
+    "back_subtext": "手紙表現",
+    "back_reading": "はいけい",
+    "back_example": "拝啓、時下ますますご清栄のこと。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 3,
+    "order_index": 26
+  },
+  {
+    "id": "deck-n2-keigo-027",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "敬具",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "penutup surat formal",
+    "back_subtext": "手紙表現",
+    "back_reading": "けいぐ",
+    "back_example": "よろしくお願いします。敬具",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 3,
+    "order_index": 27
+  },
+  {
+    "id": "deck-n2-keigo-028",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "御中",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "kepada (organisasi)",
+    "back_subtext": "手紙表現",
+    "back_reading": "おんちゅう",
+    "back_example": "株式会社○○御中",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 2,
+    "order_index": 28
+  },
+  {
+    "id": "deck-n2-keigo-029",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "各位",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "kepada semua",
+    "back_subtext": "手紙表現",
+    "back_reading": "かくい",
+    "back_example": "関係者各位",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 2,
+    "order_index": 29
+  },
+  {
+    "id": "deck-n2-keigo-030",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "かしこまりました",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "baik, saya mengerti (sangat sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "かしこまりました",
+    "back_example": "かしこまりました。すぐに手配します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 30
+  },
+  {
+    "id": "deck-n2-keigo-031",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "承る",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menerima (sangat merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "うけたまわる",
+    "back_example": "ご注文を承ります。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 31
+  },
+  {
+    "id": "deck-n2-keigo-032",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お目にかかる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "bertemu (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "おめにかかる",
+    "back_example": "お目にかかれて光栄です。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 32
+  },
+  {
+    "id": "deck-n2-keigo-033",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "申し伝える",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menyampaikan (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "もうしつたえる",
+    "back_example": "担当者に申し伝えます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 33
+  },
+  {
+    "id": "deck-n2-keigo-034",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お差し支えなければ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "jika tidak keberatan",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おさしつかえなければ",
+    "back_example": "お差し支えなければお聞かせください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 34
+  },
+  {
+    "id": "deck-n2-keigo-035",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご教示ください",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon diberi tahu",
+    "back_subtext": "メール表現",
+    "back_reading": "ごきょうじください",
+    "back_example": "ご教示いただけますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 3,
+    "order_index": 35
+  },
+  {
+    "id": "deck-n2-keigo-036",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご指導ください",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon bimbingannya",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ごしどうください",
+    "back_example": "今後ともご指導お願いします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 36
+  },
+  {
+    "id": "deck-n2-keigo-037",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "微力ながら",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "meski sedikit (merendah)",
+    "back_subtext": "謙虚表現",
+    "back_reading": "びりょくながら",
+    "back_example": "微力ながらお手伝いします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "humble"
+    ],
+    "difficulty": 3,
+    "order_index": 37
+  },
+  {
+    "id": "deck-n2-keigo-038",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "僭越ながら",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "dengan lancang (merendah)",
+    "back_subtext": "謙虚表現",
+    "back_reading": "せんえつながら",
+    "back_example": "僭越ながら申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "humble"
+    ],
+    "difficulty": 3,
+    "order_index": 38
+  },
+  {
+    "id": "deck-n2-keigo-039",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お取り計らい",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "pengaturan (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おとりはからい",
+    "back_example": "お取り計らいをお願いします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 39
+  },
+  {
+    "id": "deck-n2-keigo-040",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご尽力",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "usaha keras (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ごじんりょく",
+    "back_example": "ご尽力に感謝します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 40
+  },
+  {
+    "id": "deck-n2-keigo-041",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご厚意",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "kebaikan hati (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ごこうい",
+    "back_example": "ご厚意に甘えます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 41
+  },
+  {
+    "id": "deck-n2-keigo-042",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "光栄です",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "merasa terhormat",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "こうえいです",
+    "back_example": "お目にかかれて光栄です。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 42
+  },
+  {
+    "id": "deck-n2-keigo-043",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お見舞い",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "kunjungan simpati",
+    "back_subtext": "社交表現",
+    "back_reading": "おみまい",
+    "back_example": "お見舞いに伺います。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "social"
+    ],
+    "difficulty": 2,
+    "order_index": 43
+  },
+  {
+    "id": "deck-n2-keigo-044",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お悔やみ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "belasungkawa",
+    "back_subtext": "社交表現",
+    "back_reading": "おくやみ",
+    "back_example": "お悔やみ申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "social"
+    ],
+    "difficulty": 3,
+    "order_index": 44
+  },
+  {
+    "id": "deck-n2-keigo-045",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご健勝",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "semoga sehat (formal)",
+    "back_subtext": "手紙表現",
+    "back_reading": "ごけんしょう",
+    "back_example": "ご健勝をお祈りします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 3,
+    "order_index": 45
+  },
+  {
+    "id": "deck-n2-keigo-046",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご清栄",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "kemakmuran (surat)",
+    "back_subtext": "手紙表現",
+    "back_reading": "ごせいえい",
+    "back_example": "ますますご清栄のこと。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 3,
+    "order_index": 46
+  },
+  {
+    "id": "deck-n2-keigo-047",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "謹んで",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "dengan hormat",
+    "back_subtext": "手紙表現",
+    "back_reading": "つつしんで",
+    "back_example": "謹んでお祝い申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 3,
+    "order_index": 47
+  },
+  {
+    "id": "deck-n2-keigo-048",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "重ねて",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "sekali lagi (formal)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "かさねて",
+    "back_example": "重ねてお詫び申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 48
+  },
+  {
+    "id": "deck-n2-keigo-049",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "改めて",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "kembali; sekali lagi",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "あらためて",
+    "back_example": "改めてご連絡します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 49
+  },
+  {
+    "id": "deck-n2-keigo-050",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "早速",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "segera",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "さっそく",
+    "back_example": "早速ですが本題に入ります。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 1,
+    "order_index": 50
+  },
+  {
+    "id": "deck-n2-keigo-051",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "善処する",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menangani dengan baik",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ぜんしょする",
+    "back_example": "善処いたします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 51
+  },
+  {
+    "id": "deck-n2-keigo-052",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お力添え",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "bantuan (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おちからぞえ",
+    "back_example": "お力添えをお願いします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 52
+  },
+  {
+    "id": "deck-n2-keigo-053",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご容赦ください",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon dimaafkan",
+    "back_subtext": "メール表現",
+    "back_reading": "ごようしゃください",
+    "back_example": "何卒ご容赦ください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 3,
+    "order_index": 53
+  },
+  {
+    "id": "deck-n2-keigo-054",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "折り返し",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menelepon kembali",
+    "back_subtext": "電話表現",
+    "back_reading": "おりかえし",
+    "back_example": "折り返しお電話します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "phone"
+    ],
+    "difficulty": 2,
+    "order_index": 54
+  },
+  {
+    "id": "deck-n2-keigo-055",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "取り次ぐ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menyambungkan",
+    "back_subtext": "電話表現",
+    "back_reading": "とりつぐ",
+    "back_example": "担当者にお繋ぎします。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "phone"
+    ],
+    "difficulty": 2,
+    "order_index": 55
+  },
+  {
+    "id": "deck-n2-keigo-056",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "根回し",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "lobi informal",
+    "back_subtext": "ビジネス",
+    "back_reading": "ねまわし",
+    "back_example": "事前に根回しする。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 56
+  },
+  {
+    "id": "deck-n2-keigo-057",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "打ち合わせ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "rapat koordinasi",
+    "back_subtext": "ビジネス",
+    "back_reading": "うちあわせ",
+    "back_example": "打ち合わせを行う。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 1,
+    "order_index": 57
+  },
+  {
+    "id": "deck-n2-keigo-058",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "稟議",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "permohonan persetujuan",
+    "back_subtext": "ビジネス",
+    "back_reading": "りんぎ",
+    "back_example": "稟議書を回す。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 58
+  },
+  {
+    "id": "deck-n2-keigo-059",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "決裁",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "persetujuan resmi",
+    "back_subtext": "ビジネス",
+    "back_reading": "けっさい",
+    "back_example": "決裁を仰ぐ。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 59
+  },
+  {
+    "id": "deck-n2-keigo-060",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "所存です",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "berniat (formal merendah)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "しょぞんです",
+    "back_example": "改善する所存です。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 60
+  },
+  {
+    "id": "deck-n2-keigo-061",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "精一杯",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "sekuat tenaga",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "せいいっぱい",
+    "back_example": "精一杯努力します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 61
+  },
+  {
+    "id": "deck-n2-keigo-062",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご一報",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mohon kabari",
+    "back_subtext": "メール表現",
+    "back_reading": "ごいっぽう",
+    "back_example": "ご一報いただけますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 3,
+    "order_index": 62
+  },
+  {
+    "id": "deck-n2-keigo-063",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "賜る",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "menerima (sangat merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "たまわる",
+    "back_example": "ご支援を賜りたい。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 63
+  },
+  {
+    "id": "deck-n2-keigo-064",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "拝借",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "meminjam (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "はいしゃく",
+    "back_example": "お電話を拝借できますか。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 64
+  },
+  {
+    "id": "deck-n2-keigo-065",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "拝聴",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "mendengarkan (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "はいちょう",
+    "back_example": "ご意見を拝聴する。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 65
+  },
+  {
+    "id": "deck-n2-keigo-066",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "拝読",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "membaca (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "はいどく",
+    "back_example": "お手紙を拝読しました。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 3,
+    "order_index": 66
+  },
+  {
+    "id": "deck-n2-keigo-067",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "致す",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "melakukan (merendah)",
+    "back_subtext": "謙譲語",
+    "back_reading": "いたす",
+    "back_example": "私が致します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "kenjougo"
+    ],
+    "difficulty": 2,
+    "order_index": 67
+  },
+  {
+    "id": "deck-n2-keigo-068",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "おいでになる",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "ada/datang (sangat hormat)",
+    "back_subtext": "尊敬語",
+    "back_reading": "おいでになる",
+    "back_example": "会長がおいでになった。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "sonkeigo"
+    ],
+    "difficulty": 3,
+    "order_index": 68
+  },
+  {
+    "id": "deck-n2-keigo-069",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご足労",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "merepotkan datang (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ごそくろう",
+    "back_example": "ご足労いただき感謝します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 69
+  },
+  {
+    "id": "deck-n2-keigo-070",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "甚だ",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "sangat (formal)",
+    "back_subtext": "フォーマル表現",
+    "back_reading": "はなはだ",
+    "back_example": "甚だ申し訳ございません。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "formal"
+    ],
+    "difficulty": 3,
+    "order_index": 70
+  },
+  {
+    "id": "deck-n2-keigo-071",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "切に",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "dengan sangat (formal)",
+    "back_subtext": "フォーマル表現",
+    "back_reading": "せつに",
+    "back_example": "切にお願い申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "formal"
+    ],
+    "difficulty": 3,
+    "order_index": 71
+  },
+  {
+    "id": "deck-n2-keigo-072",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "衷心より",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "dari lubuk hati",
+    "back_subtext": "手紙表現",
+    "back_reading": "ちゅうしんより",
+    "back_example": "衷心よりお見舞い申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "letter"
+    ],
+    "difficulty": 3,
+    "order_index": 72
+  },
+  {
+    "id": "deck-n2-keigo-073",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "ご配慮",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "perhatian (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "ごはいりょ",
+    "back_example": "ご配慮ありがとうございます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 73
+  },
+  {
+    "id": "deck-n2-keigo-074",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お引き立て",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "dukungan (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おひきたて",
+    "back_example": "お引き立てに感謝します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 3,
+    "order_index": 74
+  },
+  {
+    "id": "deck-n2-keigo-075",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "お詫び",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "permintaan maaf (sopan)",
+    "back_subtext": "ビジネス表現",
+    "back_reading": "おわび",
+    "back_example": "心よりお詫び申し上げます。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "business"
+    ],
+    "difficulty": 2,
+    "order_index": 75
+  },
+  {
+    "id": "deck-n2-keigo-076",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "添付",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "lampiran",
+    "back_subtext": "メール表現",
+    "back_reading": "てんぷ",
+    "back_example": "ファイルを添付します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 1,
+    "order_index": 76
+  },
+  {
+    "id": "deck-n2-keigo-077",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "別紙",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "lampiran terpisah",
+    "back_subtext": "メール表現",
+    "back_reading": "べっし",
+    "back_example": "別紙をご参照ください。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 2,
+    "order_index": 77
+  },
+  {
+    "id": "deck-n2-keigo-078",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "送付",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "pengiriman",
+    "back_subtext": "メール表現",
+    "back_reading": "そうふ",
+    "back_example": "書類を送付します。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 2,
+    "order_index": 78
+  },
+  {
+    "id": "deck-n2-keigo-079",
+    "deck_id": "deck-n2-keigo",
+    "front_text": "受領",
+    "front_subtext": "Keigo N2",
+    "front_image_url": "",
+    "back_text": "penerimaan",
+    "back_subtext": "メール表現",
+    "back_reading": "じゅりょう",
+    "back_example": "書類を受領しました。",
+    "audio_url": "",
+    "tags": [
+      "keigo",
+      "email"
+    ],
+    "difficulty": 2,
+    "order_index": 79
+  }
+]

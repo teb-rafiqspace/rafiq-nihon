@@ -1,0 +1,7 @@
+id;script_id;speaker;speaker_role;japanese_text;reading_hiragana;meaning_id;audio_url;is_user_turn;acceptable_responses;response_hints;ai_response_variations;line_order;created_at
+cl-greet01-01;cs-greet-01;田中さん;coworker;あ、新しい研修生ですね。;あ、あたらしいけんしゅうせいですね。;Oh, Anda peserta magang baru ya.;;false;;;;1;2026-01-26 08:09:15.039815+00
+cl-greet01-02;cs-greet-01;user;trainee;;;;;true;{はい、そうです。,はい、＿＿です。};"{""Jawab dengan sopan"",""Perkenalkan nama""}";;2;2026-01-26 08:09:15.039815+00
+cl-greet01-03;cs-greet-01;田中さん;coworker;はじめまして。田中です。;はじめまして。たなかです。;Salam kenal. Saya Tanaka.;;false;;;;3;2026-01-26 08:09:15.039815+00
+cl-greet01-04;cs-greet-01;user;trainee;;;;;true;{はじめまして。＿＿です。よろしくお願いします。};"{""Balas dengan perkenalan diri""}";;4;2026-01-26 08:09:15.039815+00
+cl-greet01-05;cs-greet-01;田中さん;coworker;どこから来ましたか。;どこからきましたか。;Dari mana asalnya?;;false;;;;5;2026-01-26 08:09:15.039815+00
+cl-greet01-06;cs-greet-01;user;trainee;;;;;true;{インドネシアから来ました。,インドネシアです。};"{""Sebutkan negara asal""}";;6;2026-01-26 08:09:15.039815+00

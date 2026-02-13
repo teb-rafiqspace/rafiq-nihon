@@ -1,0 +1,9674 @@
+[
+  {
+    "id": "n2_001",
+    "character": "握",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "menggenggam",
+    "meanings_en": "",
+    "kun_readings": [
+      "にぎ.る"
+    ],
+    "on_readings": [
+      "アク"
+    ],
+    "example_words": [
+      {
+        "word": "握手",
+        "reading": "あくしゅ",
+        "meaning": "jabat tangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 1
+  },
+  {
+    "id": "n2_002",
+    "character": "扱",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "menangani",
+    "meanings_en": "",
+    "kun_readings": [
+      "あつか.う"
+    ],
+    "on_readings": [
+      "ソウ"
+    ],
+    "example_words": [
+      {
+        "word": "取扱",
+        "reading": "とりあつかい",
+        "meaning": "penanganan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 2
+  },
+  {
+    "id": "n2_003",
+    "character": "依",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "bergantung",
+    "meanings_en": "",
+    "kun_readings": [
+      "よ.る"
+    ],
+    "on_readings": [
+      "イ"
+    ],
+    "example_words": [
+      {
+        "word": "依頼",
+        "reading": "いらい",
+        "meaning": "permintaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 3
+  },
+  {
+    "id": "n2_004",
+    "character": "威",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "kekuatan; wibawa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "イ"
+    ],
+    "example_words": [
+      {
+        "word": "威力",
+        "reading": "いりょく",
+        "meaning": "kekuatan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 4
+  },
+  {
+    "id": "n2_005",
+    "character": "為",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "demi; untuk",
+    "meanings_en": "",
+    "kun_readings": [
+      "ため"
+    ],
+    "on_readings": [
+      "イ"
+    ],
+    "example_words": [
+      {
+        "word": "行為",
+        "reading": "こうい",
+        "meaning": "tindakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 5
+  },
+  {
+    "id": "n2_006",
+    "character": "維",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "memelihara",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "イ"
+    ],
+    "example_words": [
+      {
+        "word": "維持",
+        "reading": "いじ",
+        "meaning": "pemeliharaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 6
+  },
+  {
+    "id": "n2_007",
+    "character": "違",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "berbeda",
+    "meanings_en": "",
+    "kun_readings": [
+      "ちが.う"
+    ],
+    "on_readings": [
+      "イ"
+    ],
+    "example_words": [
+      {
+        "word": "違反",
+        "reading": "いはん",
+        "meaning": "pelanggaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 7
+  },
+  {
+    "id": "n2_008",
+    "character": "域",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "wilayah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "イキ"
+    ],
+    "example_words": [
+      {
+        "word": "地域",
+        "reading": "ちいき",
+        "meaning": "wilayah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 8
+  },
+  {
+    "id": "n2_009",
+    "character": "逸",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menyimpang",
+    "meanings_en": "",
+    "kun_readings": [
+      "そ.れる"
+    ],
+    "on_readings": [
+      "イツ"
+    ],
+    "example_words": [
+      {
+        "word": "逸脱",
+        "reading": "いつだつ",
+        "meaning": "penyimpangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 9
+  },
+  {
+    "id": "n2_010",
+    "character": "稲",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "padi",
+    "meanings_en": "",
+    "kun_readings": [
+      "いね"
+    ],
+    "on_readings": [
+      "トウ"
+    ],
+    "example_words": [
+      {
+        "word": "稲作",
+        "reading": "いなさく",
+        "meaning": "pertanian padi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 10
+  },
+  {
+    "id": "n2_011",
+    "character": "芋",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "ubi",
+    "meanings_en": "",
+    "kun_readings": [
+      "いも"
+    ],
+    "on_readings": [
+      "ウ"
+    ],
+    "example_words": [
+      {
+        "word": "芋",
+        "reading": "いも",
+        "meaning": "ubi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 11
+  },
+  {
+    "id": "n2_012",
+    "character": "姻",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "pernikahan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "イン"
+    ],
+    "example_words": [
+      {
+        "word": "婚姻",
+        "reading": "こんいん",
+        "meaning": "pernikahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 12
+  },
+  {
+    "id": "n2_013",
+    "character": "陰",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "bayangan",
+    "meanings_en": "",
+    "kun_readings": [
+      "かげ"
+    ],
+    "on_readings": [
+      "イン"
+    ],
+    "example_words": [
+      {
+        "word": "陰影",
+        "reading": "いんえい",
+        "meaning": "bayangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 13
+  },
+  {
+    "id": "n2_014",
+    "character": "隠",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "menyembunyikan",
+    "meanings_en": "",
+    "kun_readings": [
+      "かく.す"
+    ],
+    "on_readings": [
+      "イン"
+    ],
+    "example_words": [
+      {
+        "word": "隠居",
+        "reading": "いんきょ",
+        "meaning": "pensiun"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 14
+  },
+  {
+    "id": "n2_015",
+    "character": "影",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "bayangan; pengaruh",
+    "meanings_en": "",
+    "kun_readings": [
+      "かげ"
+    ],
+    "on_readings": [
+      "エイ"
+    ],
+    "example_words": [
+      {
+        "word": "影響",
+        "reading": "えいきょう",
+        "meaning": "pengaruh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 15
+  },
+  {
+    "id": "n2_016",
+    "character": "鋭",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "tajam",
+    "meanings_en": "",
+    "kun_readings": [
+      "するど.い"
+    ],
+    "on_readings": [
+      "エイ"
+    ],
+    "example_words": [
+      {
+        "word": "鋭利",
+        "reading": "えいり",
+        "meaning": "tajam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 16
+  },
+  {
+    "id": "n2_017",
+    "character": "液",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "cairan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "エキ"
+    ],
+    "example_words": [
+      {
+        "word": "液体",
+        "reading": "えきたい",
+        "meaning": "cairan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 17
+  },
+  {
+    "id": "n2_018",
+    "character": "越",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "melampaui",
+    "meanings_en": "",
+    "kun_readings": [
+      "こ.す"
+    ],
+    "on_readings": [
+      "エツ"
+    ],
+    "example_words": [
+      {
+        "word": "越境",
+        "reading": "えっきょう",
+        "meaning": "melewati batas"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 18
+  },
+  {
+    "id": "n2_019",
+    "character": "援",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "bantuan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "エン"
+    ],
+    "example_words": [
+      {
+        "word": "支援",
+        "reading": "しえん",
+        "meaning": "dukungan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 19
+  },
+  {
+    "id": "n2_020",
+    "character": "炎",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "api; radang",
+    "meanings_en": "",
+    "kun_readings": [
+      "ほのお"
+    ],
+    "on_readings": [
+      "エン"
+    ],
+    "example_words": [
+      {
+        "word": "炎症",
+        "reading": "えんしょう",
+        "meaning": "radang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 20
+  },
+  {
+    "id": "n2_021",
+    "character": "煙",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "asap",
+    "meanings_en": "",
+    "kun_readings": [
+      "けむり"
+    ],
+    "on_readings": [
+      "エン"
+    ],
+    "example_words": [
+      {
+        "word": "喫煙",
+        "reading": "きつえん",
+        "meaning": "merokok"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 21
+  },
+  {
+    "id": "n2_022",
+    "character": "縁",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "hubungan; pinggir",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふち"
+    ],
+    "on_readings": [
+      "エン"
+    ],
+    "example_words": [
+      {
+        "word": "縁起",
+        "reading": "えんぎ",
+        "meaning": "pertanda"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 22
+  },
+  {
+    "id": "n2_023",
+    "character": "鬼",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "setan; iblis",
+    "meanings_en": "",
+    "kun_readings": [
+      "おに"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "鬼才",
+        "reading": "きさい",
+        "meaning": "jenius"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 23
+  },
+  {
+    "id": "n2_024",
+    "character": "汚",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "kotor",
+    "meanings_en": "",
+    "kun_readings": [
+      "よご.す"
+    ],
+    "on_readings": [
+      "オ"
+    ],
+    "example_words": [
+      {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning": "pencemaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 24
+  },
+  {
+    "id": "n2_025",
+    "character": "押",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "menekan",
+    "meanings_en": "",
+    "kun_readings": [
+      "お.す"
+    ],
+    "on_readings": [
+      "オウ"
+    ],
+    "example_words": [
+      {
+        "word": "押印",
+        "reading": "おういん",
+        "meaning": "stempel"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 25
+  },
+  {
+    "id": "n2_026",
+    "character": "奥",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "bagian dalam",
+    "meanings_en": "",
+    "kun_readings": [
+      "おく"
+    ],
+    "on_readings": [
+      "オウ"
+    ],
+    "example_words": [
+      {
+        "word": "奥深い",
+        "reading": "おくぶかい",
+        "meaning": "mendalam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 26
+  },
+  {
+    "id": "n2_027",
+    "character": "届",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "menyampaikan",
+    "meanings_en": "",
+    "kun_readings": [
+      "とど.ける"
+    ],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "届出",
+        "reading": "とどけで",
+        "meaning": "pemberitahuan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 27
+  },
+  {
+    "id": "n2_028",
+    "character": "殴",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "memukul",
+    "meanings_en": "",
+    "kun_readings": [
+      "なぐ.る"
+    ],
+    "on_readings": [
+      "オウ"
+    ],
+    "example_words": [
+      {
+        "word": "殴打",
+        "reading": "おうだ",
+        "meaning": "pukulan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 28
+  },
+  {
+    "id": "n2_029",
+    "character": "翁",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "orang tua",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "オウ"
+    ],
+    "example_words": [
+      {
+        "word": "老翁",
+        "reading": "ろうおう",
+        "meaning": "pria tua"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 29
+  },
+  {
+    "id": "n2_030",
+    "character": "沖",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "lepas pantai",
+    "meanings_en": "",
+    "kun_readings": [
+      "おき"
+    ],
+    "on_readings": [
+      "チュウ"
+    ],
+    "example_words": [
+      {
+        "word": "沖縄",
+        "reading": "おきなわ",
+        "meaning": "Okinawa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 30
+  },
+  {
+    "id": "n2_031",
+    "character": "憶",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "mengingat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "オク"
+    ],
+    "example_words": [
+      {
+        "word": "記憶",
+        "reading": "きおく",
+        "meaning": "ingatan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 31
+  },
+  {
+    "id": "n2_032",
+    "character": "乙",
+    "jlpt_level": "N2",
+    "stroke_count": 1,
+    "meanings_id": "kedua; unik",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "オツ"
+    ],
+    "example_words": [
+      {
+        "word": "乙女",
+        "reading": "おとめ",
+        "meaning": "gadis"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 32
+  },
+  {
+    "id": "n2_033",
+    "character": "穏",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "tenang",
+    "meanings_en": "",
+    "kun_readings": [
+      "おだ.やか"
+    ],
+    "on_readings": [
+      "オン"
+    ],
+    "example_words": [
+      {
+        "word": "穏和",
+        "reading": "おんわ",
+        "meaning": "tenang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 33
+  },
+  {
+    "id": "n2_034",
+    "character": "架",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "memasang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カ"
+    ],
+    "example_words": [
+      {
+        "word": "架空",
+        "reading": "かくう",
+        "meaning": "fiktif"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 34
+  },
+  {
+    "id": "n2_035",
+    "character": "暇",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "waktu luang",
+    "meanings_en": "",
+    "kun_readings": [
+      "ひま"
+    ],
+    "on_readings": [
+      "カ"
+    ],
+    "example_words": [
+      {
+        "word": "休暇",
+        "reading": "きゅうか",
+        "meaning": "liburan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 35
+  },
+  {
+    "id": "n2_036",
+    "character": "菓",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "kue",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カ"
+    ],
+    "example_words": [
+      {
+        "word": "菓子",
+        "reading": "かし",
+        "meaning": "kue"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 36
+  },
+  {
+    "id": "n2_037",
+    "character": "華",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "bunga; megah",
+    "meanings_en": "",
+    "kun_readings": [
+      "はな"
+    ],
+    "on_readings": [
+      "カ"
+    ],
+    "example_words": [
+      {
+        "word": "豪華",
+        "reading": "ごうか",
+        "meaning": "mewah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 37
+  },
+  {
+    "id": "n2_038",
+    "character": "蚊",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "nyamuk",
+    "meanings_en": "",
+    "kun_readings": [
+      "か"
+    ],
+    "on_readings": [
+      "ブン"
+    ],
+    "example_words": [
+      {
+        "word": "蚊帳",
+        "reading": "かや",
+        "meaning": "kelambu"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 38
+  },
+  {
+    "id": "n2_039",
+    "character": "雅",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "elegan",
+    "meanings_en": "",
+    "kun_readings": [
+      "みやび"
+    ],
+    "on_readings": [
+      "ガ"
+    ],
+    "example_words": [
+      {
+        "word": "優雅",
+        "reading": "ゆうが",
+        "meaning": "elegan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 39
+  },
+  {
+    "id": "n2_040",
+    "character": "介",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "perantara",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "紹介",
+        "reading": "しょうかい",
+        "meaning": "perkenalan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 40
+  },
+  {
+    "id": "n2_041",
+    "character": "塊",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "gumpalan",
+    "meanings_en": "",
+    "kun_readings": [
+      "かたまり"
+    ],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "塊",
+        "reading": "かたまり",
+        "meaning": "gumpalan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 41
+  },
+  {
+    "id": "n2_042",
+    "character": "壊",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "menghancurkan",
+    "meanings_en": "",
+    "kun_readings": [
+      "こわ.す"
+    ],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "penghancuran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 42
+  },
+  {
+    "id": "n2_043",
+    "character": "怪",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "aneh",
+    "meanings_en": "",
+    "kun_readings": [
+      "あや.しい"
+    ],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "怪我",
+        "reading": "けが",
+        "meaning": "cedera"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 43
+  },
+  {
+    "id": "n2_044",
+    "character": "悔",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "menyesal",
+    "meanings_en": "",
+    "kun_readings": [
+      "く.いる"
+    ],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "後悔",
+        "reading": "こうかい",
+        "meaning": "penyesalan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 44
+  },
+  {
+    "id": "n2_045",
+    "character": "慨",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "mengeluh",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ガイ"
+    ],
+    "example_words": [
+      {
+        "word": "感慨",
+        "reading": "かんがい",
+        "meaning": "perasaan mendalam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 45
+  },
+  {
+    "id": "n2_046",
+    "character": "概",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "garis besar",
+    "meanings_en": "",
+    "kun_readings": [
+      "おおむ.ね"
+    ],
+    "on_readings": [
+      "ガイ"
+    ],
+    "example_words": [
+      {
+        "word": "概要",
+        "reading": "がいよう",
+        "meaning": "garis besar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 46
+  },
+  {
+    "id": "n2_047",
+    "character": "劾",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "mendakwa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ガイ"
+    ],
+    "example_words": [
+      {
+        "word": "弾劾",
+        "reading": "だんがい",
+        "meaning": "pemakzulan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 47
+  },
+  {
+    "id": "n2_048",
+    "character": "該",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "berkaitan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ガイ"
+    ],
+    "example_words": [
+      {
+        "word": "該当",
+        "reading": "がいとう",
+        "meaning": "sesuai"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 48
+  },
+  {
+    "id": "n2_049",
+    "character": "較",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "membandingkan",
+    "meanings_en": "",
+    "kun_readings": [
+      "くら.べる"
+    ],
+    "on_readings": [
+      "カク"
+    ],
+    "example_words": [
+      {
+        "word": "比較",
+        "reading": "ひかく",
+        "meaning": "perbandingan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 49
+  },
+  {
+    "id": "n2_050",
+    "character": "革",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "kulit; reformasi",
+    "meanings_en": "",
+    "kun_readings": [
+      "かわ"
+    ],
+    "on_readings": [
+      "カク"
+    ],
+    "example_words": [
+      {
+        "word": "改革",
+        "reading": "かいかく",
+        "meaning": "reformasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 50
+  },
+  {
+    "id": "n2_051",
+    "character": "掛",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menggantung",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.ける"
+    ],
+    "on_readings": [
+      "カイ"
+    ],
+    "example_words": [
+      {
+        "word": "掛算",
+        "reading": "かけざん",
+        "meaning": "perkalian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 51
+  },
+  {
+    "id": "n2_052",
+    "character": "潟",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "laguna",
+    "meanings_en": "",
+    "kun_readings": [
+      "かた"
+    ],
+    "on_readings": [
+      "セキ"
+    ],
+    "example_words": [
+      {
+        "word": "新潟",
+        "reading": "にいがた",
+        "meaning": "Niigata"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 52
+  },
+  {
+    "id": "n2_053",
+    "character": "喝",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "berteriak",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カツ"
+    ],
+    "example_words": [
+      {
+        "word": "喝采",
+        "reading": "かっさい",
+        "meaning": "tepuk tangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 53
+  },
+  {
+    "id": "n2_054",
+    "character": "渇",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "haus",
+    "meanings_en": "",
+    "kun_readings": [
+      "かわ.く"
+    ],
+    "on_readings": [
+      "カツ"
+    ],
+    "example_words": [
+      {
+        "word": "渇望",
+        "reading": "かつぼう",
+        "meaning": "kehausan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 54
+  },
+  {
+    "id": "n2_055",
+    "character": "滑",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "licin",
+    "meanings_en": "",
+    "kun_readings": [
+      "すべ.る"
+    ],
+    "on_readings": [
+      "カツ"
+    ],
+    "example_words": [
+      {
+        "word": "滑走",
+        "reading": "かっそう",
+        "meaning": "meluncur"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 55
+  },
+  {
+    "id": "n2_056",
+    "character": "括",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "merangkum",
+    "meanings_en": "",
+    "kun_readings": [
+      "くく.る"
+    ],
+    "on_readings": [
+      "カツ"
+    ],
+    "example_words": [
+      {
+        "word": "括弧",
+        "reading": "かっこ",
+        "meaning": "tanda kurung"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 56
+  },
+  {
+    "id": "n2_057",
+    "character": "株",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "saham",
+    "meanings_en": "",
+    "kun_readings": [
+      "かぶ"
+    ],
+    "on_readings": [
+      "シュ"
+    ],
+    "example_words": [
+      {
+        "word": "株式",
+        "reading": "かぶしき",
+        "meaning": "saham"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 57
+  },
+  {
+    "id": "n2_058",
+    "character": "刈",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "memotong",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.る"
+    ],
+    "on_readings": [
+      "ガイ"
+    ],
+    "example_words": [
+      {
+        "word": "刈取",
+        "reading": "かりとり",
+        "meaning": "panen"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 58
+  },
+  {
+    "id": "n2_059",
+    "character": "乾",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "kering",
+    "meanings_en": "",
+    "kun_readings": [
+      "かわ.く"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "乾燥",
+        "reading": "かんそう",
+        "meaning": "kering"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 59
+  },
+  {
+    "id": "n2_060",
+    "character": "冠",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "mahkota",
+    "meanings_en": "",
+    "kun_readings": [
+      "かんむり"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "冠婚",
+        "reading": "かんこん",
+        "meaning": "pernikahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 60
+  },
+  {
+    "id": "n2_061",
+    "character": "勧",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "menyarankan",
+    "meanings_en": "",
+    "kun_readings": [
+      "すす.める"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "勧告",
+        "reading": "かんこく",
+        "meaning": "rekomendasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 61
+  },
+  {
+    "id": "n2_062",
+    "character": "勘",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "intuisi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "勘違い",
+        "reading": "かんちがい",
+        "meaning": "kesalahpahaman"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 62
+  },
+  {
+    "id": "n2_063",
+    "character": "喚",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "memanggil",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "召喚",
+        "reading": "しょうかん",
+        "meaning": "pemanggilan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 63
+  },
+  {
+    "id": "n2_064",
+    "character": "堪",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "menahan",
+    "meanings_en": "",
+    "kun_readings": [
+      "た.える"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "堪能",
+        "reading": "たんのう",
+        "meaning": "mahir"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 64
+  },
+  {
+    "id": "n2_065",
+    "character": "寛",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "luas; toleran",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "寛大",
+        "reading": "かんだい",
+        "meaning": "murah hati"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 65
+  },
+  {
+    "id": "n2_066",
+    "character": "患",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menderita",
+    "meanings_en": "",
+    "kun_readings": [
+      "わずら.う"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "患者",
+        "reading": "かんじゃ",
+        "meaning": "pasien"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 66
+  },
+  {
+    "id": "n2_067",
+    "character": "憾",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "menyesal",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "遺憾",
+        "reading": "いかん",
+        "meaning": "penyesalan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 67
+  },
+  {
+    "id": "n2_068",
+    "character": "換",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "menukar",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.える"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "交換",
+        "reading": "こうかん",
+        "meaning": "pertukaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 68
+  },
+  {
+    "id": "n2_069",
+    "character": "敢",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "berani",
+    "meanings_en": "",
+    "kun_readings": [
+      "あ.えて"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "勇敢",
+        "reading": "ゆうかん",
+        "meaning": "berani"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 69
+  },
+  {
+    "id": "n2_070",
+    "character": "棺",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "peti mati",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "棺桶",
+        "reading": "かんおけ",
+        "meaning": "peti mati"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 70
+  },
+  {
+    "id": "n2_071",
+    "character": "款",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "pasal; klausa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "定款",
+        "reading": "ていかん",
+        "meaning": "anggaran dasar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 71
+  },
+  {
+    "id": "n2_072",
+    "character": "歓",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "sukacita",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "歓迎",
+        "reading": "かんげい",
+        "meaning": "penyambutan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 72
+  },
+  {
+    "id": "n2_073",
+    "character": "監",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "mengawasi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "監督",
+        "reading": "かんとく",
+        "meaning": "pengawasan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 73
+  },
+  {
+    "id": "n2_074",
+    "character": "緩",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "longgar",
+    "meanings_en": "",
+    "kun_readings": [
+      "ゆる.い"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "緩和",
+        "reading": "かんわ",
+        "meaning": "pelonggaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 74
+  },
+  {
+    "id": "n2_075",
+    "character": "缶",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "kaleng",
+    "meanings_en": "",
+    "kun_readings": [
+      "かん"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "缶詰",
+        "reading": "かんづめ",
+        "meaning": "makanan kaleng"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 75
+  },
+  {
+    "id": "n2_076",
+    "character": "肝",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "hati",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "肝心",
+        "reading": "かんじん",
+        "meaning": "penting"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 76
+  },
+  {
+    "id": "n2_077",
+    "character": "艦",
+    "jlpt_level": "N2",
+    "stroke_count": 21,
+    "meanings_id": "kapal perang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "軍艦",
+        "reading": "ぐんかん",
+        "meaning": "kapal perang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 77
+  },
+  {
+    "id": "n2_078",
+    "character": "貫",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menembus",
+    "meanings_en": "",
+    "kun_readings": [
+      "つらぬ.く"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "貫通",
+        "reading": "かんつう",
+        "meaning": "menembus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 78
+  },
+  {
+    "id": "n2_079",
+    "character": "還",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "kembali",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "返還",
+        "reading": "へんかん",
+        "meaning": "pengembalian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 79
+  },
+  {
+    "id": "n2_080",
+    "character": "鑑",
+    "jlpt_level": "N2",
+    "stroke_count": 23,
+    "meanings_id": "cermin; model",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "鑑賞",
+        "reading": "かんしょう",
+        "meaning": "apresiasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 80
+  },
+  {
+    "id": "n2_081",
+    "character": "閑",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "tenang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "閑静",
+        "reading": "かんせい",
+        "meaning": "tenang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 81
+  },
+  {
+    "id": "n2_082",
+    "character": "陥",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "jatuh",
+    "meanings_en": "",
+    "kun_readings": [
+      "おちい.る"
+    ],
+    "on_readings": [
+      "カン"
+    ],
+    "example_words": [
+      {
+        "word": "陥落",
+        "reading": "かんらく",
+        "meaning": "runtuh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 82
+  },
+  {
+    "id": "n2_083",
+    "character": "含",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "mengandung",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふく.む"
+    ],
+    "on_readings": [
+      "ガン"
+    ],
+    "example_words": [
+      {
+        "word": "含有",
+        "reading": "がんゆう",
+        "meaning": "mengandung"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 83
+  },
+  {
+    "id": "n2_084",
+    "character": "頑",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "keras kepala",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ガン"
+    ],
+    "example_words": [
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning": "berusaha keras"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 84
+  },
+  {
+    "id": "n2_085",
+    "character": "企",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "merencanakan",
+    "meanings_en": "",
+    "kun_readings": [
+      "くわだ.てる"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "企業",
+        "reading": "きぎょう",
+        "meaning": "perusahaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 85
+  },
+  {
+    "id": "n2_086",
+    "character": "奇",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "aneh",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "奇妙",
+        "reading": "きみょう",
+        "meaning": "aneh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 86
+  },
+  {
+    "id": "n2_087",
+    "character": "岐",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "bercabang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "岐路",
+        "reading": "きろ",
+        "meaning": "persimpangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 87
+  },
+  {
+    "id": "n2_088",
+    "character": "幾",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "berapa",
+    "meanings_en": "",
+    "kun_readings": [
+      "いく"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "幾何",
+        "reading": "きか",
+        "meaning": "geometri"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 88
+  },
+  {
+    "id": "n2_089",
+    "character": "忌",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "menghindari",
+    "meanings_en": "",
+    "kun_readings": [
+      "い.む"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "忌避",
+        "reading": "きひ",
+        "meaning": "penghindaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 89
+  },
+  {
+    "id": "n2_090",
+    "character": "既",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "sudah",
+    "meanings_en": "",
+    "kun_readings": [
+      "すで.に"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "既存",
+        "reading": "きそん",
+        "meaning": "sudah ada"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 90
+  },
+  {
+    "id": "n2_091",
+    "character": "棋",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "catur",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "将棋",
+        "reading": "しょうぎ",
+        "meaning": "catur Jepang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 91
+  },
+  {
+    "id": "n2_092",
+    "character": "棄",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "membuang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "廃棄",
+        "reading": "はいき",
+        "meaning": "pembuangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 92
+  },
+  {
+    "id": "n2_093",
+    "character": "畿",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "ibu kota",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "近畿",
+        "reading": "きんき",
+        "meaning": "wilayah Kinki"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 93
+  },
+  {
+    "id": "n2_094",
+    "character": "輝",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "bersinar",
+    "meanings_en": "",
+    "kun_readings": [
+      "かがや.く"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "輝く",
+        "reading": "かがやく",
+        "meaning": "bersinar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 94
+  },
+  {
+    "id": "n2_095",
+    "character": "飢",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "kelaparan",
+    "meanings_en": "",
+    "kun_readings": [
+      "う.える"
+    ],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "飢餓",
+        "reading": "きが",
+        "meaning": "kelaparan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 95
+  },
+  {
+    "id": "n2_096",
+    "character": "騎",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "menunggang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キ"
+    ],
+    "example_words": [
+      {
+        "word": "騎士",
+        "reading": "きし",
+        "meaning": "ksatria"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 96
+  },
+  {
+    "id": "n2_097",
+    "character": "偽",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "palsu",
+    "meanings_en": "",
+    "kun_readings": [
+      "いつわ.る"
+    ],
+    "on_readings": [
+      "ギ"
+    ],
+    "example_words": [
+      {
+        "word": "偽造",
+        "reading": "ぎぞう",
+        "meaning": "pemalsuan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 97
+  },
+  {
+    "id": "n2_098",
+    "character": "儀",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "upacara",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ギ"
+    ],
+    "example_words": [
+      {
+        "word": "儀式",
+        "reading": "ぎしき",
+        "meaning": "upacara"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 98
+  },
+  {
+    "id": "n2_099",
+    "character": "宜",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "pantas",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ギ"
+    ],
+    "example_words": [
+      {
+        "word": "適宜",
+        "reading": "てきぎ",
+        "meaning": "sesuai kebutuhan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 99
+  },
+  {
+    "id": "n2_100",
+    "character": "戯",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "bermain",
+    "meanings_en": "",
+    "kun_readings": [
+      "たわむ.れる"
+    ],
+    "on_readings": [
+      "ギ"
+    ],
+    "example_words": [
+      {
+        "word": "遊戯",
+        "reading": "ゆうぎ",
+        "meaning": "permainan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 100
+  },
+  {
+    "id": "n2_101",
+    "character": "擬",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "meniru",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ギ"
+    ],
+    "example_words": [
+      {
+        "word": "擬似",
+        "reading": "ぎじ",
+        "meaning": "semu"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 101
+  },
+  {
+    "id": "n2_102",
+    "character": "犠",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "korban",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ギ"
+    ],
+    "example_words": [
+      {
+        "word": "犠牲",
+        "reading": "ぎせい",
+        "meaning": "pengorbanan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 102
+  },
+  {
+    "id": "n2_103",
+    "character": "菊",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "krisan",
+    "meanings_en": "",
+    "kun_readings": [
+      "きく"
+    ],
+    "on_readings": [
+      "キク"
+    ],
+    "example_words": [
+      {
+        "word": "菊花",
+        "reading": "きくか",
+        "meaning": "bunga krisan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 103
+  },
+  {
+    "id": "n2_104",
+    "character": "吉",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "keberuntungan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キチ"
+    ],
+    "example_words": [
+      {
+        "word": "吉報",
+        "reading": "きっぽう",
+        "meaning": "kabar baik"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 104
+  },
+  {
+    "id": "n2_105",
+    "character": "喫",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "menyeruput",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キツ"
+    ],
+    "example_words": [
+      {
+        "word": "喫茶",
+        "reading": "きっさ",
+        "meaning": "minum teh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 105
+  },
+  {
+    "id": "n2_106",
+    "character": "詰",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "mengisi",
+    "meanings_en": "",
+    "kun_readings": [
+      "つ.める"
+    ],
+    "on_readings": [
+      "キツ"
+    ],
+    "example_words": [
+      {
+        "word": "詰問",
+        "reading": "きつもん",
+        "meaning": "pertanyaan tajam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 106
+  },
+  {
+    "id": "n2_107",
+    "character": "却",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "menolak",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キャク"
+    ],
+    "example_words": [
+      {
+        "word": "却下",
+        "reading": "きゃっか",
+        "meaning": "penolakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 107
+  },
+  {
+    "id": "n2_108",
+    "character": "虐",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "menganiaya",
+    "meanings_en": "",
+    "kun_readings": [
+      "しいた.げる"
+    ],
+    "on_readings": [
+      "ギャク"
+    ],
+    "example_words": [
+      {
+        "word": "虐待",
+        "reading": "ぎゃくたい",
+        "meaning": "penganiayaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 108
+  },
+  {
+    "id": "n2_109",
+    "character": "丘",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "bukit",
+    "meanings_en": "",
+    "kun_readings": [
+      "おか"
+    ],
+    "on_readings": [
+      "キュウ"
+    ],
+    "example_words": [
+      {
+        "word": "丘陵",
+        "reading": "きゅうりょう",
+        "meaning": "perbukitan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 109
+  },
+  {
+    "id": "n2_110",
+    "character": "及",
+    "jlpt_level": "N2",
+    "stroke_count": 3,
+    "meanings_id": "mencapai",
+    "meanings_en": "",
+    "kun_readings": [
+      "およ.ぶ"
+    ],
+    "on_readings": [
+      "キュウ"
+    ],
+    "example_words": [
+      {
+        "word": "普及",
+        "reading": "ふきゅう",
+        "meaning": "penyebaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 110
+  },
+  {
+    "id": "n2_111",
+    "character": "朽",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "membusuk",
+    "meanings_en": "",
+    "kun_readings": [
+      "く.ちる"
+    ],
+    "on_readings": [
+      "キュウ"
+    ],
+    "example_words": [
+      {
+        "word": "朽木",
+        "reading": "くちき",
+        "meaning": "kayu lapuk"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 111
+  },
+  {
+    "id": "n2_112",
+    "character": "拒",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "menolak",
+    "meanings_en": "",
+    "kun_readings": [
+      "こば.む"
+    ],
+    "on_readings": [
+      "キョ"
+    ],
+    "example_words": [
+      {
+        "word": "拒否",
+        "reading": "きょひ",
+        "meaning": "penolakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 112
+  },
+  {
+    "id": "n2_113",
+    "character": "距",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "jarak",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キョ"
+    ],
+    "example_words": [
+      {
+        "word": "距離",
+        "reading": "きょり",
+        "meaning": "jarak"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 113
+  },
+  {
+    "id": "n2_114",
+    "character": "漁",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "memancing",
+    "meanings_en": "",
+    "kun_readings": [
+      "あさ.る"
+    ],
+    "on_readings": [
+      "ギョ"
+    ],
+    "example_words": [
+      {
+        "word": "漁業",
+        "reading": "ぎょぎょう",
+        "meaning": "perikanan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 114
+  },
+  {
+    "id": "n2_115",
+    "character": "凶",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "jahat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "凶悪",
+        "reading": "きょうあく",
+        "meaning": "kejam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 115
+  },
+  {
+    "id": "n2_116",
+    "character": "叫",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "berteriak",
+    "meanings_en": "",
+    "kun_readings": [
+      "さけ.ぶ"
+    ],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "叫び",
+        "reading": "さけび",
+        "meaning": "teriakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 116
+  },
+  {
+    "id": "n2_117",
+    "character": "峡",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "lembah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "海峡",
+        "reading": "かいきょう",
+        "meaning": "selat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 117
+  },
+  {
+    "id": "n2_118",
+    "character": "恐",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "takut",
+    "meanings_en": "",
+    "kun_readings": [
+      "おそ.れる"
+    ],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "ketakutan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 118
+  },
+  {
+    "id": "n2_119",
+    "character": "恭",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "hormat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "恭敬",
+        "reading": "きょうけい",
+        "meaning": "penghormatan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 119
+  },
+  {
+    "id": "n2_120",
+    "character": "脅",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "mengancam",
+    "meanings_en": "",
+    "kun_readings": [
+      "おびや.かす"
+    ],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "脅威",
+        "reading": "きょうい",
+        "meaning": "ancaman"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 120
+  },
+  {
+    "id": "n2_121",
+    "character": "矯",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "meluruskan",
+    "meanings_en": "",
+    "kun_readings": [
+      "た.める"
+    ],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "矯正",
+        "reading": "きょうせい",
+        "meaning": "koreksi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 121
+  },
+  {
+    "id": "n2_122",
+    "character": "響",
+    "jlpt_level": "N2",
+    "stroke_count": 20,
+    "meanings_id": "bergema",
+    "meanings_en": "",
+    "kun_readings": [
+      "ひび.く"
+    ],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "影響",
+        "reading": "えいきょう",
+        "meaning": "pengaruh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 122
+  },
+  {
+    "id": "n2_123",
+    "character": "驚",
+    "jlpt_level": "N2",
+    "stroke_count": 22,
+    "meanings_id": "terkejut",
+    "meanings_en": "",
+    "kun_readings": [
+      "おどろ.く"
+    ],
+    "on_readings": [
+      "キョウ"
+    ],
+    "example_words": [
+      {
+        "word": "驚異",
+        "reading": "きょうい",
+        "meaning": "keajaiban"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 123
+  },
+  {
+    "id": "n2_124",
+    "character": "仰",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "menengadah",
+    "meanings_en": "",
+    "kun_readings": [
+      "あお.ぐ"
+    ],
+    "on_readings": [
+      "ギョウ"
+    ],
+    "example_words": [
+      {
+        "word": "仰天",
+        "reading": "ぎょうてん",
+        "meaning": "kaget"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 124
+  },
+  {
+    "id": "n2_125",
+    "character": "僅",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "sedikit",
+    "meanings_en": "",
+    "kun_readings": [
+      "わず.か"
+    ],
+    "on_readings": [
+      "キン"
+    ],
+    "example_words": [
+      {
+        "word": "僅差",
+        "reading": "きんさ",
+        "meaning": "selisih tipis"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 125
+  },
+  {
+    "id": "n2_126",
+    "character": "緊",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "tegang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キン"
+    ],
+    "example_words": [
+      {
+        "word": "緊張",
+        "reading": "きんちょう",
+        "meaning": "ketegangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 126
+  },
+  {
+    "id": "n2_127",
+    "character": "菌",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "bakteri",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "キン"
+    ],
+    "example_words": [
+      {
+        "word": "細菌",
+        "reading": "さいきん",
+        "meaning": "bakteri"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 127
+  },
+  {
+    "id": "n2_128",
+    "character": "襟",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "kerah",
+    "meanings_en": "",
+    "kun_readings": [
+      "えり"
+    ],
+    "on_readings": [
+      "キン"
+    ],
+    "example_words": [
+      {
+        "word": "襟元",
+        "reading": "えりもと",
+        "meaning": "kerah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 128
+  },
+  {
+    "id": "n2_129",
+    "character": "謹",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "berhati-hati",
+    "meanings_en": "",
+    "kun_readings": [
+      "つつし.む"
+    ],
+    "on_readings": [
+      "キン"
+    ],
+    "example_words": [
+      {
+        "word": "謹慎",
+        "reading": "きんしん",
+        "meaning": "berhati-hati"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 129
+  },
+  {
+    "id": "n2_130",
+    "character": "吟",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "bersyair",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ギン"
+    ],
+    "example_words": [
+      {
+        "word": "吟味",
+        "reading": "ぎんみ",
+        "meaning": "pemeriksaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 130
+  },
+  {
+    "id": "n2_131",
+    "character": "偶",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "kebetulan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "グウ"
+    ],
+    "example_words": [
+      {
+        "word": "偶然",
+        "reading": "ぐうぜん",
+        "meaning": "kebetulan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 131
+  },
+  {
+    "id": "n2_132",
+    "character": "遇",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "bertemu",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "グウ"
+    ],
+    "example_words": [
+      {
+        "word": "待遇",
+        "reading": "たいぐう",
+        "meaning": "perlakuan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 132
+  },
+  {
+    "id": "n2_133",
+    "character": "隅",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "sudut",
+    "meanings_en": "",
+    "kun_readings": [
+      "すみ"
+    ],
+    "on_readings": [
+      "グウ"
+    ],
+    "example_words": [
+      {
+        "word": "隅々",
+        "reading": "すみずみ",
+        "meaning": "setiap sudut"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 133
+  },
+  {
+    "id": "n2_134",
+    "character": "掘",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menggali",
+    "meanings_en": "",
+    "kun_readings": [
+      "ほ.る"
+    ],
+    "on_readings": [
+      "クツ"
+    ],
+    "example_words": [
+      {
+        "word": "発掘",
+        "reading": "はっくつ",
+        "meaning": "penggalian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 134
+  },
+  {
+    "id": "n2_135",
+    "character": "屈",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "membungkuk",
+    "meanings_en": "",
+    "kun_readings": [
+      "かが.む"
+    ],
+    "on_readings": [
+      "クツ"
+    ],
+    "example_words": [
+      {
+        "word": "屈服",
+        "reading": "くっぷく",
+        "meaning": "tunduk"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 135
+  },
+  {
+    "id": "n2_136",
+    "character": "繰",
+    "jlpt_level": "N2",
+    "stroke_count": 19,
+    "meanings_id": "mengulang",
+    "meanings_en": "",
+    "kun_readings": [
+      "く.る"
+    ],
+    "on_readings": [
+      "ソウ"
+    ],
+    "example_words": [
+      {
+        "word": "繰返す",
+        "reading": "くりかえす",
+        "meaning": "mengulang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 136
+  },
+  {
+    "id": "n2_137",
+    "character": "桑",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "murbei",
+    "meanings_en": "",
+    "kun_readings": [
+      "くわ"
+    ],
+    "on_readings": [
+      "ソウ"
+    ],
+    "example_words": [
+      {
+        "word": "桑畑",
+        "reading": "くわばたけ",
+        "meaning": "ladang murbei"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 137
+  },
+  {
+    "id": "n2_138",
+    "character": "勲",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "jasa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "クン"
+    ],
+    "example_words": [
+      {
+        "word": "勲章",
+        "reading": "くんしょう",
+        "meaning": "tanda jasa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 138
+  },
+  {
+    "id": "n2_139",
+    "character": "薫",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "harum",
+    "meanings_en": "",
+    "kun_readings": [
+      "かお.る"
+    ],
+    "on_readings": [
+      "クン"
+    ],
+    "example_words": [
+      {
+        "word": "薫風",
+        "reading": "くんぷう",
+        "meaning": "angin harum"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 139
+  },
+  {
+    "id": "n2_140",
+    "character": "傾",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "miring",
+    "meanings_en": "",
+    "kun_readings": [
+      "かたむ.く"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "傾向",
+        "reading": "けいこう",
+        "meaning": "kecenderungan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 140
+  },
+  {
+    "id": "n2_141",
+    "character": "刑",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "hukuman",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "刑罰",
+        "reading": "けいばつ",
+        "meaning": "hukuman"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 141
+  },
+  {
+    "id": "n2_142",
+    "character": "啓",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "membuka",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "啓発",
+        "reading": "けいはつ",
+        "meaning": "pencerahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 142
+  },
+  {
+    "id": "n2_143",
+    "character": "契",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "kontrak",
+    "meanings_en": "",
+    "kun_readings": [
+      "ちぎ.る"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "契約",
+        "reading": "けいやく",
+        "meaning": "kontrak"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 143
+  },
+  {
+    "id": "n2_144",
+    "character": "恵",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "berkah",
+    "meanings_en": "",
+    "kun_readings": [
+      "めぐ.む"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "恩恵",
+        "reading": "おんけい",
+        "meaning": "berkah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 144
+  },
+  {
+    "id": "n2_145",
+    "character": "慶",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "sukacita",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "慶祝",
+        "reading": "けいしゅく",
+        "meaning": "perayaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 145
+  },
+  {
+    "id": "n2_146",
+    "character": "憩",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "istirahat",
+    "meanings_en": "",
+    "kun_readings": [
+      "いこ.う"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "休憩",
+        "reading": "きゅうけい",
+        "meaning": "istirahat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 146
+  },
+  {
+    "id": "n2_147",
+    "character": "掲",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "memajang",
+    "meanings_en": "",
+    "kun_readings": [
+      "かか.げる"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "掲載",
+        "reading": "けいさい",
+        "meaning": "pemuatan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 147
+  },
+  {
+    "id": "n2_148",
+    "character": "携",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "membawa",
+    "meanings_en": "",
+    "kun_readings": [
+      "たずさ.える"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "携帯",
+        "reading": "けいたい",
+        "meaning": "membawa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 148
+  },
+  {
+    "id": "n2_149",
+    "character": "渓",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "lembah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "渓谷",
+        "reading": "けいこく",
+        "meaning": "lembah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 149
+  },
+  {
+    "id": "n2_150",
+    "character": "継",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "meneruskan",
+    "meanings_en": "",
+    "kun_readings": [
+      "つ.ぐ"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "継続",
+        "reading": "けいぞく",
+        "meaning": "kelanjutan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 150
+  },
+  {
+    "id": "n2_151",
+    "character": "茎",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "batang",
+    "meanings_en": "",
+    "kun_readings": [
+      "くき"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "茎",
+        "reading": "くき",
+        "meaning": "batang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 151
+  },
+  {
+    "id": "n2_152",
+    "character": "蛍",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "kunang-kunang",
+    "meanings_en": "",
+    "kun_readings": [
+      "ほたる"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "蛍光",
+        "reading": "けいこう",
+        "meaning": "fluoresen"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 152
+  },
+  {
+    "id": "n2_153",
+    "character": "鶏",
+    "jlpt_level": "N2",
+    "stroke_count": 19,
+    "meanings_id": "ayam",
+    "meanings_en": "",
+    "kun_readings": [
+      "にわとり"
+    ],
+    "on_readings": [
+      "ケイ"
+    ],
+    "example_words": [
+      {
+        "word": "鶏肉",
+        "reading": "とりにく",
+        "meaning": "daging ayam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 153
+  },
+  {
+    "id": "n2_154",
+    "character": "迎",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "menyambut",
+    "meanings_en": "",
+    "kun_readings": [
+      "むか.える"
+    ],
+    "on_readings": [
+      "ゲイ"
+    ],
+    "example_words": [
+      {
+        "word": "歓迎",
+        "reading": "かんげい",
+        "meaning": "penyambutan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 154
+  },
+  {
+    "id": "n2_155",
+    "character": "鯨",
+    "jlpt_level": "N2",
+    "stroke_count": 19,
+    "meanings_id": "paus",
+    "meanings_en": "",
+    "kun_readings": [
+      "くじら"
+    ],
+    "on_readings": [
+      "ゲイ"
+    ],
+    "example_words": [
+      {
+        "word": "鯨肉",
+        "reading": "くじらにく",
+        "meaning": "daging paus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 155
+  },
+  {
+    "id": "n2_156",
+    "character": "撃",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "menyerang",
+    "meanings_en": "",
+    "kun_readings": [
+      "う.つ"
+    ],
+    "on_readings": [
+      "ゲキ"
+    ],
+    "example_words": [
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "serangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 156
+  },
+  {
+    "id": "n2_157",
+    "character": "傑",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "orang hebat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケツ"
+    ],
+    "example_words": [
+      {
+        "word": "傑作",
+        "reading": "けっさく",
+        "meaning": "karya besar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 157
+  },
+  {
+    "id": "n2_158",
+    "character": "倹",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "hemat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "勤倹",
+        "reading": "きんけん",
+        "meaning": "hemat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 158
+  },
+  {
+    "id": "n2_159",
+    "character": "兼",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "merangkap",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.ねる"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "兼業",
+        "reading": "けんぎょう",
+        "meaning": "pekerjaan rangkap"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 159
+  },
+  {
+    "id": "n2_160",
+    "character": "剣",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "pedang",
+    "meanings_en": "",
+    "kun_readings": [
+      "つるぎ"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "剣道",
+        "reading": "けんどう",
+        "meaning": "kendo"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 160
+  },
+  {
+    "id": "n2_161",
+    "character": "圏",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "wilayah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "圏内",
+        "reading": "けんない",
+        "meaning": "dalam wilayah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 161
+  },
+  {
+    "id": "n2_162",
+    "character": "堅",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "kokoh",
+    "meanings_en": "",
+    "kun_readings": [
+      "かた.い"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "堅実",
+        "reading": "けんじつ",
+        "meaning": "kokoh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 162
+  },
+  {
+    "id": "n2_163",
+    "character": "嫌",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "benci",
+    "meanings_en": "",
+    "kun_readings": [
+      "きら.う"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "嫌悪",
+        "reading": "けんお",
+        "meaning": "kebencian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 163
+  },
+  {
+    "id": "n2_164",
+    "character": "懸",
+    "jlpt_level": "N2",
+    "stroke_count": 20,
+    "meanings_id": "menggantung",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.ける"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "懸念",
+        "reading": "けねん",
+        "meaning": "kekhawatiran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 164
+  },
+  {
+    "id": "n2_165",
+    "character": "献",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "persembahan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "貢献",
+        "reading": "こうけん",
+        "meaning": "kontribusi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 165
+  },
+  {
+    "id": "n2_166",
+    "character": "肩",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "bahu",
+    "meanings_en": "",
+    "kun_readings": [
+      "かた"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "肩書き",
+        "reading": "かたがき",
+        "meaning": "jabatan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 166
+  },
+  {
+    "id": "n2_167",
+    "character": "謙",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "rendah hati",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "謙虚",
+        "reading": "けんきょ",
+        "meaning": "rendah hati"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 167
+  },
+  {
+    "id": "n2_168",
+    "character": "賢",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "bijaksana",
+    "meanings_en": "",
+    "kun_readings": [
+      "かしこ.い"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "賢明",
+        "reading": "けんめい",
+        "meaning": "bijaksana"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 168
+  },
+  {
+    "id": "n2_169",
+    "character": "軒",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "rumah",
+    "meanings_en": "",
+    "kun_readings": [
+      "のき"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "軒先",
+        "reading": "のきさき",
+        "meaning": "tritisan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 169
+  },
+  {
+    "id": "n2_170",
+    "character": "遣",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "mengirim",
+    "meanings_en": "",
+    "kun_readings": [
+      "つか.う"
+    ],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "派遣",
+        "reading": "はけん",
+        "meaning": "pengiriman"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 170
+  },
+  {
+    "id": "n2_171",
+    "character": "顕",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "nyata",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ケン"
+    ],
+    "example_words": [
+      {
+        "word": "顕著",
+        "reading": "けんちょ",
+        "meaning": "mencolok"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 171
+  },
+  {
+    "id": "n2_172",
+    "character": "幻",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "ilusi",
+    "meanings_en": "",
+    "kun_readings": [
+      "まぼろし"
+    ],
+    "on_readings": [
+      "ゲン"
+    ],
+    "example_words": [
+      {
+        "word": "幻想",
+        "reading": "げんそう",
+        "meaning": "ilusi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 172
+  },
+  {
+    "id": "n2_173",
+    "character": "弦",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "tali busur",
+    "meanings_en": "",
+    "kun_readings": [
+      "つる"
+    ],
+    "on_readings": [
+      "ゲン"
+    ],
+    "example_words": [
+      {
+        "word": "弦楽",
+        "reading": "げんがく",
+        "meaning": "alat gesek"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 173
+  },
+  {
+    "id": "n2_174",
+    "character": "玄",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "misterius",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゲン"
+    ],
+    "example_words": [
+      {
+        "word": "玄関",
+        "reading": "げんかん",
+        "meaning": "pintu masuk"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 174
+  },
+  {
+    "id": "n2_175",
+    "character": "孤",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "sendirian",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コ"
+    ],
+    "example_words": [
+      {
+        "word": "孤独",
+        "reading": "こどく",
+        "meaning": "kesepian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 175
+  },
+  {
+    "id": "n2_176",
+    "character": "弧",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "busur",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コ"
+    ],
+    "example_words": [
+      {
+        "word": "括弧",
+        "reading": "かっこ",
+        "meaning": "tanda kurung"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 176
+  },
+  {
+    "id": "n2_177",
+    "character": "枯",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "layu",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.れる"
+    ],
+    "on_readings": [
+      "コ"
+    ],
+    "example_words": [
+      {
+        "word": "枯渇",
+        "reading": "こかつ",
+        "meaning": "kekeringan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 177
+  },
+  {
+    "id": "n2_178",
+    "character": "雇",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "mempekerjakan",
+    "meanings_en": "",
+    "kun_readings": [
+      "やと.う"
+    ],
+    "on_readings": [
+      "コ"
+    ],
+    "example_words": [
+      {
+        "word": "雇用",
+        "reading": "こよう",
+        "meaning": "pekerjaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 178
+  },
+  {
+    "id": "n2_179",
+    "character": "誇",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "membanggakan",
+    "meanings_en": "",
+    "kun_readings": [
+      "ほこ.る"
+    ],
+    "on_readings": [
+      "コ"
+    ],
+    "example_words": [
+      {
+        "word": "誇張",
+        "reading": "こちょう",
+        "meaning": "melebih-lebihkan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 179
+  },
+  {
+    "id": "n2_180",
+    "character": "鼓",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "gendang",
+    "meanings_en": "",
+    "kun_readings": [
+      "つづみ"
+    ],
+    "on_readings": [
+      "コ"
+    ],
+    "example_words": [
+      {
+        "word": "太鼓",
+        "reading": "たいこ",
+        "meaning": "gendang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 180
+  },
+  {
+    "id": "n2_181",
+    "character": "互",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "saling",
+    "meanings_en": "",
+    "kun_readings": [
+      "たが.い"
+    ],
+    "on_readings": [
+      "ゴ"
+    ],
+    "example_words": [
+      {
+        "word": "相互",
+        "reading": "そうご",
+        "meaning": "saling"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 181
+  },
+  {
+    "id": "n2_182",
+    "character": "呉",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "memberi",
+    "meanings_en": "",
+    "kun_readings": [
+      "く.れる"
+    ],
+    "on_readings": [
+      "ゴ"
+    ],
+    "example_words": [
+      {
+        "word": "呉服",
+        "reading": "ごふく",
+        "meaning": "kain kimono"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 182
+  },
+  {
+    "id": "n2_183",
+    "character": "娯",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "hiburan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゴ"
+    ],
+    "example_words": [
+      {
+        "word": "娯楽",
+        "reading": "ごらく",
+        "meaning": "hiburan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 183
+  },
+  {
+    "id": "n2_184",
+    "character": "御",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "terhormat",
+    "meanings_en": "",
+    "kun_readings": [
+      "おん"
+    ],
+    "on_readings": [
+      "ゴ"
+    ],
+    "example_words": [
+      {
+        "word": "御中",
+        "reading": "おんちゅう",
+        "meaning": "kepada"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 184
+  },
+  {
+    "id": "n2_185",
+    "character": "悟",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "menyadari",
+    "meanings_en": "",
+    "kun_readings": [
+      "さと.る"
+    ],
+    "on_readings": [
+      "ゴ"
+    ],
+    "example_words": [
+      {
+        "word": "悟り",
+        "reading": "さとり",
+        "meaning": "pencerahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 185
+  },
+  {
+    "id": "n2_186",
+    "character": "碁",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "go (permainan)",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゴ"
+    ],
+    "example_words": [
+      {
+        "word": "囲碁",
+        "reading": "いご",
+        "meaning": "permainan go"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 186
+  },
+  {
+    "id": "n2_187",
+    "character": "侯",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "marquis",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "諸侯",
+        "reading": "しょこう",
+        "meaning": "para bangsawan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 187
+  },
+  {
+    "id": "n2_188",
+    "character": "坑",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "tambang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "坑道",
+        "reading": "こうどう",
+        "meaning": "terowongan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 188
+  },
+  {
+    "id": "n2_189",
+    "character": "孔",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "lubang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "毛孔",
+        "reading": "けこう",
+        "meaning": "pori-pori"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 189
+  },
+  {
+    "id": "n2_190",
+    "character": "巧",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "terampil",
+    "meanings_en": "",
+    "kun_readings": [
+      "たく.み"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "巧妙",
+        "reading": "こうみょう",
+        "meaning": "cerdik"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 190
+  },
+  {
+    "id": "n2_191",
+    "character": "恒",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "tetap",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "恒久",
+        "reading": "こうきゅう",
+        "meaning": "permanen"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 191
+  },
+  {
+    "id": "n2_192",
+    "character": "慌",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "panik",
+    "meanings_en": "",
+    "kun_readings": [
+      "あわ.てる"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "慌張",
+        "reading": "こうちょう",
+        "meaning": "panik"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 192
+  },
+  {
+    "id": "n2_193",
+    "character": "抗",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "melawan",
+    "meanings_en": "",
+    "kun_readings": [
+      "あらが.う"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "抵抗",
+        "reading": "ていこう",
+        "meaning": "perlawanan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 193
+  },
+  {
+    "id": "n2_194",
+    "character": "拘",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "menahan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "拘束",
+        "reading": "こうそく",
+        "meaning": "penahanan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 194
+  },
+  {
+    "id": "n2_195",
+    "character": "控",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menahan diri",
+    "meanings_en": "",
+    "kun_readings": [
+      "ひか.える"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "控室",
+        "reading": "ひかえしつ",
+        "meaning": "ruang tunggu"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 195
+  },
+  {
+    "id": "n2_196",
+    "character": "攻",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "menyerang",
+    "meanings_en": "",
+    "kun_readings": [
+      "せ.める"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "serangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 196
+  },
+  {
+    "id": "n2_197",
+    "character": "更",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "memperbarui",
+    "meanings_en": "",
+    "kun_readings": [
+      "さら.に"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "変更",
+        "reading": "へんこう",
+        "meaning": "perubahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 197
+  },
+  {
+    "id": "n2_198",
+    "character": "江",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "teluk",
+    "meanings_en": "",
+    "kun_readings": [
+      "え"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "入江",
+        "reading": "いりえ",
+        "meaning": "teluk kecil"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 198
+  },
+  {
+    "id": "n2_199",
+    "character": "洪",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "banjir",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "洪水",
+        "reading": "こうずい",
+        "meaning": "banjir"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 199
+  },
+  {
+    "id": "n2_200",
+    "character": "溝",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "parit",
+    "meanings_en": "",
+    "kun_readings": [
+      "みぞ"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "溝",
+        "reading": "みぞ",
+        "meaning": "parit"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 200
+  },
+  {
+    "id": "n2_201",
+    "character": "甲",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "baju besi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "甲板",
+        "reading": "かんぱん",
+        "meaning": "dek kapal"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 201
+  },
+  {
+    "id": "n2_202",
+    "character": "硬",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "keras",
+    "meanings_en": "",
+    "kun_readings": [
+      "かた.い"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "硬貨",
+        "reading": "こうか",
+        "meaning": "koin"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 202
+  },
+  {
+    "id": "n2_203",
+    "character": "稿",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "naskah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "原稿",
+        "reading": "げんこう",
+        "meaning": "naskah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 203
+  },
+  {
+    "id": "n2_204",
+    "character": "絞",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "memeras",
+    "meanings_en": "",
+    "kun_readings": [
+      "しぼ.る"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "絞殺",
+        "reading": "こうさつ",
+        "meaning": "pencekikan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 204
+  },
+  {
+    "id": "n2_205",
+    "character": "綱",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "tali",
+    "meanings_en": "",
+    "kun_readings": [
+      "つな"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "綱領",
+        "reading": "こうりょう",
+        "meaning": "pedoman"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 205
+  },
+  {
+    "id": "n2_206",
+    "character": "肯",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "menyetujui",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "肯定",
+        "reading": "こうてい",
+        "meaning": "persetujuan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 206
+  },
+  {
+    "id": "n2_207",
+    "character": "荒",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "kasar",
+    "meanings_en": "",
+    "kun_readings": [
+      "あら.い"
+    ],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "荒野",
+        "reading": "こうや",
+        "meaning": "padang belantara"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 207
+  },
+  {
+    "id": "n2_208",
+    "character": "衡",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "timbangan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "均衡",
+        "reading": "きんこう",
+        "meaning": "keseimbangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 208
+  },
+  {
+    "id": "n2_209",
+    "character": "購",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "membeli",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "購入",
+        "reading": "こうにゅう",
+        "meaning": "pembelian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 209
+  },
+  {
+    "id": "n2_210",
+    "character": "郊",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "pinggiran",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "郊外",
+        "reading": "こうがい",
+        "meaning": "pinggiran kota"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 210
+  },
+  {
+    "id": "n2_211",
+    "character": "酵",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "fermentasi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "発酵",
+        "reading": "はっこう",
+        "meaning": "fermentasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 211
+  },
+  {
+    "id": "n2_212",
+    "character": "項",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "item",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コウ"
+    ],
+    "example_words": [
+      {
+        "word": "項目",
+        "reading": "こうもく",
+        "meaning": "item"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 212
+  },
+  {
+    "id": "n2_213",
+    "character": "剛",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "kuat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゴウ"
+    ],
+    "example_words": [
+      {
+        "word": "剛力",
+        "reading": "ごうりき",
+        "meaning": "kekuatan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 213
+  },
+  {
+    "id": "n2_214",
+    "character": "拷",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "menyiksa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゴウ"
+    ],
+    "example_words": [
+      {
+        "word": "拷問",
+        "reading": "ごうもん",
+        "meaning": "penyiksaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 214
+  },
+  {
+    "id": "n2_215",
+    "character": "豪",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "megah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゴウ"
+    ],
+    "example_words": [
+      {
+        "word": "豪華",
+        "reading": "ごうか",
+        "meaning": "mewah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 215
+  },
+  {
+    "id": "n2_216",
+    "character": "克",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "mengatasi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コク"
+    ],
+    "example_words": [
+      {
+        "word": "克服",
+        "reading": "こくふく",
+        "meaning": "mengatasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 216
+  },
+  {
+    "id": "n2_217",
+    "character": "酷",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "kejam",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コク"
+    ],
+    "example_words": [
+      {
+        "word": "酷暑",
+        "reading": "こくしょ",
+        "meaning": "panas ekstrem"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 217
+  },
+  {
+    "id": "n2_218",
+    "character": "獄",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "penjara",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゴク"
+    ],
+    "example_words": [
+      {
+        "word": "地獄",
+        "reading": "じごく",
+        "meaning": "neraka"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 218
+  },
+  {
+    "id": "n2_219",
+    "character": "腰",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "pinggang",
+    "meanings_en": "",
+    "kun_readings": [
+      "こし"
+    ],
+    "on_readings": [
+      "ヨウ"
+    ],
+    "example_words": [
+      {
+        "word": "腰痛",
+        "reading": "ようつう",
+        "meaning": "sakit pinggang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 219
+  },
+  {
+    "id": "n2_220",
+    "character": "込",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "masuk",
+    "meanings_en": "",
+    "kun_readings": [
+      "こ.む"
+    ],
+    "on_readings": [
+      "コミ"
+    ],
+    "example_words": [
+      {
+        "word": "込む",
+        "reading": "こむ",
+        "meaning": "penuh"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 220
+  },
+  {
+    "id": "n2_221",
+    "character": "墾",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "membuka lahan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "開墾",
+        "reading": "かいこん",
+        "meaning": "membuka lahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 221
+  },
+  {
+    "id": "n2_222",
+    "character": "婚",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "pernikahan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "結婚",
+        "reading": "けっこん",
+        "meaning": "pernikahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 222
+  },
+  {
+    "id": "n2_223",
+    "character": "恨",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "dendam",
+    "meanings_en": "",
+    "kun_readings": [
+      "うら.む"
+    ],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "恨み",
+        "reading": "うらみ",
+        "meaning": "dendam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 223
+  },
+  {
+    "id": "n2_224",
+    "character": "懇",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "akrab",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "懇親",
+        "reading": "こんしん",
+        "meaning": "keakraban"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 224
+  },
+  {
+    "id": "n2_225",
+    "character": "昆",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "serangga",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "昆虫",
+        "reading": "こんちゅう",
+        "meaning": "serangga"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 225
+  },
+  {
+    "id": "n2_226",
+    "character": "紺",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "biru tua",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "紺色",
+        "reading": "こんいろ",
+        "meaning": "biru tua"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 226
+  },
+  {
+    "id": "n2_227",
+    "character": "魂",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "jiwa",
+    "meanings_en": "",
+    "kun_readings": [
+      "たましい"
+    ],
+    "on_readings": [
+      "コン"
+    ],
+    "example_words": [
+      {
+        "word": "魂",
+        "reading": "たましい",
+        "meaning": "jiwa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 227
+  },
+  {
+    "id": "n2_228",
+    "character": "佐",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "asisten",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サ"
+    ],
+    "example_words": [
+      {
+        "word": "補佐",
+        "reading": "ほさ",
+        "meaning": "asisten"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 228
+  },
+  {
+    "id": "n2_229",
+    "character": "唆",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "menghasut",
+    "meanings_en": "",
+    "kun_readings": [
+      "そそのか.す"
+    ],
+    "on_readings": [
+      "サ"
+    ],
+    "example_words": [
+      {
+        "word": "示唆",
+        "reading": "しさ",
+        "meaning": "sugesti"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 229
+  },
+  {
+    "id": "n2_230",
+    "character": "詐",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "menipu",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サ"
+    ],
+    "example_words": [
+      {
+        "word": "詐欺",
+        "reading": "さぎ",
+        "meaning": "penipuan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 230
+  },
+  {
+    "id": "n2_231",
+    "character": "鎖",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "rantai",
+    "meanings_en": "",
+    "kun_readings": [
+      "くさり"
+    ],
+    "on_readings": [
+      "サ"
+    ],
+    "example_words": [
+      {
+        "word": "連鎖",
+        "reading": "れんさ",
+        "meaning": "rantai"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 231
+  },
+  {
+    "id": "n2_232",
+    "character": "債",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "utang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サイ"
+    ],
+    "example_words": [
+      {
+        "word": "負債",
+        "reading": "ふさい",
+        "meaning": "utang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 232
+  },
+  {
+    "id": "n2_233",
+    "character": "催",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "menyelenggarakan",
+    "meanings_en": "",
+    "kun_readings": [
+      "もよお.す"
+    ],
+    "on_readings": [
+      "サイ"
+    ],
+    "example_words": [
+      {
+        "word": "催促",
+        "reading": "さいそく",
+        "meaning": "desakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 233
+  },
+  {
+    "id": "n2_234",
+    "character": "削",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "menghapus",
+    "meanings_en": "",
+    "kun_readings": [
+      "けず.る"
+    ],
+    "on_readings": [
+      "サク"
+    ],
+    "example_words": [
+      {
+        "word": "削減",
+        "reading": "さくげん",
+        "meaning": "pengurangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 234
+  },
+  {
+    "id": "n2_235",
+    "character": "搾",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "memeras",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サク"
+    ],
+    "example_words": [
+      {
+        "word": "搾取",
+        "reading": "さくしゅ",
+        "meaning": "eksploitasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 235
+  },
+  {
+    "id": "n2_236",
+    "character": "策",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "strategi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サク"
+    ],
+    "example_words": [
+      {
+        "word": "対策",
+        "reading": "たいさく",
+        "meaning": "tindakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 236
+  },
+  {
+    "id": "n2_237",
+    "character": "酢",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "cuka",
+    "meanings_en": "",
+    "kun_readings": [
+      "す"
+    ],
+    "on_readings": [
+      "サク"
+    ],
+    "example_words": [
+      {
+        "word": "酢",
+        "reading": "す",
+        "meaning": "cuka"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 237
+  },
+  {
+    "id": "n2_238",
+    "character": "索",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "mencari",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サク"
+    ],
+    "example_words": [
+      {
+        "word": "検索",
+        "reading": "けんさく",
+        "meaning": "pencarian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 238
+  },
+  {
+    "id": "n2_239",
+    "character": "雑",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "campur",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ザツ"
+    ],
+    "example_words": [
+      {
+        "word": "雑誌",
+        "reading": "ざっし",
+        "meaning": "majalah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 239
+  },
+  {
+    "id": "n2_240",
+    "character": "傘",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "payung",
+    "meanings_en": "",
+    "kun_readings": [
+      "かさ"
+    ],
+    "on_readings": [
+      "サン"
+    ],
+    "example_words": [
+      {
+        "word": "傘",
+        "reading": "かさ",
+        "meaning": "payung"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 240
+  },
+  {
+    "id": "n2_241",
+    "character": "桟",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "dermaga",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "サン"
+    ],
+    "example_words": [
+      {
+        "word": "桟橋",
+        "reading": "さんばし",
+        "meaning": "dermaga"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 241
+  },
+  {
+    "id": "n2_242",
+    "character": "惨",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menyedihkan",
+    "meanings_en": "",
+    "kun_readings": [
+      "みじ.め"
+    ],
+    "on_readings": [
+      "サン"
+    ],
+    "example_words": [
+      {
+        "word": "悲惨",
+        "reading": "ひさん",
+        "meaning": "menyedihkan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 242
+  },
+  {
+    "id": "n2_243",
+    "character": "施",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "melaksanakan",
+    "meanings_en": "",
+    "kun_readings": [
+      "ほどこ.す"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "施設",
+        "reading": "しせつ",
+        "meaning": "fasilitas"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 243
+  },
+  {
+    "id": "n2_244",
+    "character": "旨",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "tujuan; lezat",
+    "meanings_en": "",
+    "kun_readings": [
+      "むね"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "趣旨",
+        "reading": "しゅし",
+        "meaning": "tujuan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 244
+  },
+  {
+    "id": "n2_245",
+    "character": "祉",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "kesejahteraan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "福祉",
+        "reading": "ふくし",
+        "meaning": "kesejahteraan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 245
+  },
+  {
+    "id": "n2_246",
+    "character": "紫",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "ungu",
+    "meanings_en": "",
+    "kun_readings": [
+      "むらさき"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "紫外線",
+        "reading": "しがいせん",
+        "meaning": "sinar ultraviolet"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 246
+  },
+  {
+    "id": "n2_247",
+    "character": "肢",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "anggota badan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "四肢",
+        "reading": "しし",
+        "meaning": "anggota badan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 247
+  },
+  {
+    "id": "n2_248",
+    "character": "脂",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "lemak",
+    "meanings_en": "",
+    "kun_readings": [
+      "あぶら"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "脂肪",
+        "reading": "しぼう",
+        "meaning": "lemak"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 248
+  },
+  {
+    "id": "n2_249",
+    "character": "諮",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "berunding",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "諮問",
+        "reading": "しもん",
+        "meaning": "konsultasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 249
+  },
+  {
+    "id": "n2_250",
+    "character": "賜",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "menganugerahi",
+    "meanings_en": "",
+    "kun_readings": [
+      "たまわ.る"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "賜物",
+        "reading": "たまもの",
+        "meaning": "anugerah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 250
+  },
+  {
+    "id": "n2_251",
+    "character": "雌",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "betina",
+    "meanings_en": "",
+    "kun_readings": [
+      "めす"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "雌雄",
+        "reading": "しゆう",
+        "meaning": "jantan betina"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 251
+  },
+  {
+    "id": "n2_252",
+    "character": "侍",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "samurai",
+    "meanings_en": "",
+    "kun_readings": [
+      "さむらい"
+    ],
+    "on_readings": [
+      "ジ"
+    ],
+    "example_words": [
+      {
+        "word": "侍",
+        "reading": "さむらい",
+        "meaning": "samurai"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 252
+  },
+  {
+    "id": "n2_253",
+    "character": "慈",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "kasih sayang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジ"
+    ],
+    "example_words": [
+      {
+        "word": "慈悲",
+        "reading": "じひ",
+        "meaning": "belas kasih"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 253
+  },
+  {
+    "id": "n2_254",
+    "character": "滋",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "bergizi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジ"
+    ],
+    "example_words": [
+      {
+        "word": "滋養",
+        "reading": "じよう",
+        "meaning": "bergizi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 254
+  },
+  {
+    "id": "n2_255",
+    "character": "璽",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "cap kekaisaran",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジ"
+    ],
+    "example_words": [
+      {
+        "word": "国璽",
+        "reading": "こくじ",
+        "meaning": "cap negara"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 255
+  },
+  {
+    "id": "n2_256",
+    "character": "軸",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "poros",
+    "meanings_en": "",
+    "kun_readings": [
+      "じく"
+    ],
+    "on_readings": [
+      "ジク"
+    ],
+    "example_words": [
+      {
+        "word": "中軸",
+        "reading": "ちゅうじく",
+        "meaning": "poros tengah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 256
+  },
+  {
+    "id": "n2_257",
+    "character": "漆",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "pernis",
+    "meanings_en": "",
+    "kun_readings": [
+      "うるし"
+    ],
+    "on_readings": [
+      "シツ"
+    ],
+    "example_words": [
+      {
+        "word": "漆器",
+        "reading": "しっき",
+        "meaning": "barang pernis"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 257
+  },
+  {
+    "id": "n2_258",
+    "character": "疾",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "penyakit",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シツ"
+    ],
+    "example_words": [
+      {
+        "word": "疾患",
+        "reading": "しっかん",
+        "meaning": "penyakit"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 258
+  },
+  {
+    "id": "n2_259",
+    "character": "芝",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "rumput",
+    "meanings_en": "",
+    "kun_readings": [
+      "しば"
+    ],
+    "on_readings": [
+      "シ"
+    ],
+    "example_words": [
+      {
+        "word": "芝生",
+        "reading": "しばふ",
+        "meaning": "rumput"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 259
+  },
+  {
+    "id": "n2_260",
+    "character": "赦",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "mengampuni",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シャ"
+    ],
+    "example_words": [
+      {
+        "word": "恩赦",
+        "reading": "おんしゃ",
+        "meaning": "pengampunan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 260
+  },
+  {
+    "id": "n2_261",
+    "character": "斜",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "miring",
+    "meanings_en": "",
+    "kun_readings": [
+      "なな.め"
+    ],
+    "on_readings": [
+      "シャ"
+    ],
+    "example_words": [
+      {
+        "word": "斜面",
+        "reading": "しゃめん",
+        "meaning": "lereng"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 261
+  },
+  {
+    "id": "n2_262",
+    "character": "煮",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "memasak",
+    "meanings_en": "",
+    "kun_readings": [
+      "に.る"
+    ],
+    "on_readings": [
+      "シャ"
+    ],
+    "example_words": [
+      {
+        "word": "煮物",
+        "reading": "にもの",
+        "meaning": "makanan rebus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 262
+  },
+  {
+    "id": "n2_263",
+    "character": "邪",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "jahat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジャ"
+    ],
+    "example_words": [
+      {
+        "word": "邪魔",
+        "reading": "じゃま",
+        "meaning": "gangguan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 263
+  },
+  {
+    "id": "n2_264",
+    "character": "爵",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "gelar bangsawan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シャク"
+    ],
+    "example_words": [
+      {
+        "word": "爵位",
+        "reading": "しゃくい",
+        "meaning": "gelar bangsawan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 264
+  },
+  {
+    "id": "n2_265",
+    "character": "酌",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "menuangkan",
+    "meanings_en": "",
+    "kun_readings": [
+      "く.む"
+    ],
+    "on_readings": [
+      "シャク"
+    ],
+    "example_words": [
+      {
+        "word": "晩酌",
+        "reading": "ばんしゃく",
+        "meaning": "minum malam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 265
+  },
+  {
+    "id": "n2_266",
+    "character": "朱",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "merah",
+    "meanings_en": "",
+    "kun_readings": [
+      "あけ"
+    ],
+    "on_readings": [
+      "シュ"
+    ],
+    "example_words": [
+      {
+        "word": "朱色",
+        "reading": "しゅいろ",
+        "meaning": "merah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 266
+  },
+  {
+    "id": "n2_267",
+    "character": "殊",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "khusus",
+    "meanings_en": "",
+    "kun_readings": [
+      "こと"
+    ],
+    "on_readings": [
+      "シュ"
+    ],
+    "example_words": [
+      {
+        "word": "特殊",
+        "reading": "とくしゅ",
+        "meaning": "khusus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 267
+  },
+  {
+    "id": "n2_268",
+    "character": "狩",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "berburu",
+    "meanings_en": "",
+    "kun_readings": [
+      "か.る"
+    ],
+    "on_readings": [
+      "シュ"
+    ],
+    "example_words": [
+      {
+        "word": "狩猟",
+        "reading": "しゅりょう",
+        "meaning": "berburu"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 268
+  },
+  {
+    "id": "n2_269",
+    "character": "珠",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "mutiara",
+    "meanings_en": "",
+    "kun_readings": [
+      "たま"
+    ],
+    "on_readings": [
+      "シュ"
+    ],
+    "example_words": [
+      {
+        "word": "真珠",
+        "reading": "しんじゅ",
+        "meaning": "mutiara"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 269
+  },
+  {
+    "id": "n2_270",
+    "character": "趣",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "selera; rasa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュ"
+    ],
+    "example_words": [
+      {
+        "word": "趣味",
+        "reading": "しゅみ",
+        "meaning": "hobi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 270
+  },
+  {
+    "id": "n2_271",
+    "character": "儒",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "konfusianisme",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジュ"
+    ],
+    "example_words": [
+      {
+        "word": "儒教",
+        "reading": "じゅきょう",
+        "meaning": "konfusianisme"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 271
+  },
+  {
+    "id": "n2_272",
+    "character": "寿",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "umur panjang",
+    "meanings_en": "",
+    "kun_readings": [
+      "ことぶき"
+    ],
+    "on_readings": [
+      "ジュ"
+    ],
+    "example_words": [
+      {
+        "word": "長寿",
+        "reading": "ちょうじゅ",
+        "meaning": "panjang umur"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 272
+  },
+  {
+    "id": "n2_273",
+    "character": "需",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "kebutuhan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジュ"
+    ],
+    "example_words": [
+      {
+        "word": "需要",
+        "reading": "じゅよう",
+        "meaning": "permintaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 273
+  },
+  {
+    "id": "n2_274",
+    "character": "囚",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "tahanan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "囚人",
+        "reading": "しゅうじん",
+        "meaning": "tahanan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 274
+  },
+  {
+    "id": "n2_275",
+    "character": "愁",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "kesedihan",
+    "meanings_en": "",
+    "kun_readings": [
+      "うれ.い"
+    ],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "哀愁",
+        "reading": "あいしゅう",
+        "meaning": "kesedihan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 275
+  },
+  {
+    "id": "n2_276",
+    "character": "秀",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "unggul",
+    "meanings_en": "",
+    "kun_readings": [
+      "ひい.でる"
+    ],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "秀才",
+        "reading": "しゅうさい",
+        "meaning": "jenius"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 276
+  },
+  {
+    "id": "n2_277",
+    "character": "臭",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "bau",
+    "meanings_en": "",
+    "kun_readings": [
+      "くさ.い"
+    ],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "悪臭",
+        "reading": "あくしゅう",
+        "meaning": "bau busuk"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 277
+  },
+  {
+    "id": "n2_278",
+    "character": "舟",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "perahu",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふね"
+    ],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "小舟",
+        "reading": "こぶね",
+        "meaning": "perahu kecil"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 278
+  },
+  {
+    "id": "n2_279",
+    "character": "襲",
+    "jlpt_level": "N2",
+    "stroke_count": 22,
+    "meanings_id": "menyerang",
+    "meanings_en": "",
+    "kun_readings": [
+      "おそ.う"
+    ],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "襲撃",
+        "reading": "しゅうげき",
+        "meaning": "serangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 279
+  },
+  {
+    "id": "n2_280",
+    "character": "酬",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "membalas",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "報酬",
+        "reading": "ほうしゅう",
+        "meaning": "imbalan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 280
+  },
+  {
+    "id": "n2_281",
+    "character": "醜",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "jelek",
+    "meanings_en": "",
+    "kun_readings": [
+      "みにく.い"
+    ],
+    "on_readings": [
+      "シュウ"
+    ],
+    "example_words": [
+      {
+        "word": "醜聞",
+        "reading": "しゅうぶん",
+        "meaning": "skandal"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 281
+  },
+  {
+    "id": "n2_282",
+    "character": "充",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "mengisi",
+    "meanings_en": "",
+    "kun_readings": [
+      "あ.てる"
+    ],
+    "on_readings": [
+      "ジュウ"
+    ],
+    "example_words": [
+      {
+        "word": "充実",
+        "reading": "じゅうじつ",
+        "meaning": "memuaskan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 282
+  },
+  {
+    "id": "n2_283",
+    "character": "柔",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "lembut",
+    "meanings_en": "",
+    "kun_readings": [
+      "やわ.らかい"
+    ],
+    "on_readings": [
+      "ジュウ"
+    ],
+    "example_words": [
+      {
+        "word": "柔軟",
+        "reading": "じゅうなん",
+        "meaning": "fleksibel"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 283
+  },
+  {
+    "id": "n2_284",
+    "character": "汁",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "kuah",
+    "meanings_en": "",
+    "kun_readings": [
+      "しる"
+    ],
+    "on_readings": [
+      "ジュウ"
+    ],
+    "example_words": [
+      {
+        "word": "味噌汁",
+        "reading": "みそしる",
+        "meaning": "sup miso"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 284
+  },
+  {
+    "id": "n2_285",
+    "character": "渋",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "pahit",
+    "meanings_en": "",
+    "kun_readings": [
+      "しぶ.い"
+    ],
+    "on_readings": [
+      "ジュウ"
+    ],
+    "example_words": [
+      {
+        "word": "渋滞",
+        "reading": "じゅうたい",
+        "meaning": "kemacetan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 285
+  },
+  {
+    "id": "n2_286",
+    "character": "銃",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "senjata api",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジュウ"
+    ],
+    "example_words": [
+      {
+        "word": "拳銃",
+        "reading": "けんじゅう",
+        "meaning": "pistol"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 286
+  },
+  {
+    "id": "n2_287",
+    "character": "叔",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "paman/bibi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュク"
+    ],
+    "example_words": [
+      {
+        "word": "叔父",
+        "reading": "おじ",
+        "meaning": "paman"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 287
+  },
+  {
+    "id": "n2_288",
+    "character": "淑",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "anggun",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュク"
+    ],
+    "example_words": [
+      {
+        "word": "淑女",
+        "reading": "しゅくじょ",
+        "meaning": "wanita anggun"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 288
+  },
+  {
+    "id": "n2_289",
+    "character": "粛",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "khidmat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュク"
+    ],
+    "example_words": [
+      {
+        "word": "粛清",
+        "reading": "しゅくせい",
+        "meaning": "pembersihan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 289
+  },
+  {
+    "id": "n2_290",
+    "character": "塾",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "kursus",
+    "meanings_en": "",
+    "kun_readings": [
+      "じゅく"
+    ],
+    "on_readings": [
+      "ジュク"
+    ],
+    "example_words": [
+      {
+        "word": "学習塾",
+        "reading": "がくしゅうじゅく",
+        "meaning": "bimbel"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 290
+  },
+  {
+    "id": "n2_291",
+    "character": "俊",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "cerdas",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シュン"
+    ],
+    "example_words": [
+      {
+        "word": "俊才",
+        "reading": "しゅんさい",
+        "meaning": "orang cerdas"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 291
+  },
+  {
+    "id": "n2_292",
+    "character": "瞬",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "berkedip",
+    "meanings_en": "",
+    "kun_readings": [
+      "またた.く"
+    ],
+    "on_readings": [
+      "シュン"
+    ],
+    "example_words": [
+      {
+        "word": "瞬間",
+        "reading": "しゅんかん",
+        "meaning": "sekejap"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 292
+  },
+  {
+    "id": "n2_293",
+    "character": "准",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "menyetujui",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジュン"
+    ],
+    "example_words": [
+      {
+        "word": "准教授",
+        "reading": "じゅんきょうじゅ",
+        "meaning": "asisten profesor"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 293
+  },
+  {
+    "id": "n2_294",
+    "character": "循",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "mengikuti",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジュン"
+    ],
+    "example_words": [
+      {
+        "word": "循環",
+        "reading": "じゅんかん",
+        "meaning": "sirkulasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 294
+  },
+  {
+    "id": "n2_295",
+    "character": "盾",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "perisai",
+    "meanings_en": "",
+    "kun_readings": [
+      "たて"
+    ],
+    "on_readings": [
+      "ジュン"
+    ],
+    "example_words": [
+      {
+        "word": "盾",
+        "reading": "たて",
+        "meaning": "perisai"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 295
+  },
+  {
+    "id": "n2_296",
+    "character": "庶",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "rakyat biasa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショ"
+    ],
+    "example_words": [
+      {
+        "word": "庶民",
+        "reading": "しょみん",
+        "meaning": "rakyat biasa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 296
+  },
+  {
+    "id": "n2_297",
+    "character": "緒",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "awal; tali",
+    "meanings_en": "",
+    "kun_readings": [
+      "お"
+    ],
+    "on_readings": [
+      "ショ"
+    ],
+    "example_words": [
+      {
+        "word": "一緒",
+        "reading": "いっしょ",
+        "meaning": "bersama"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 297
+  },
+  {
+    "id": "n2_298",
+    "character": "叙",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "bercerita",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョ"
+    ],
+    "example_words": [
+      {
+        "word": "叙述",
+        "reading": "じょじゅつ",
+        "meaning": "narasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 298
+  },
+  {
+    "id": "n2_299",
+    "character": "徐",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "perlahan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョ"
+    ],
+    "example_words": [
+      {
+        "word": "徐々に",
+        "reading": "じょじょに",
+        "meaning": "perlahan-lahan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 299
+  },
+  {
+    "id": "n2_300",
+    "character": "償",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "mengganti rugi",
+    "meanings_en": "",
+    "kun_readings": [
+      "つぐな.う"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "賠償",
+        "reading": "ばいしょう",
+        "meaning": "ganti rugi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 300
+  },
+  {
+    "id": "n2_301",
+    "character": "匠",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "pengrajin",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "匠",
+        "reading": "たくみ",
+        "meaning": "pengrajin"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 301
+  },
+  {
+    "id": "n2_302",
+    "character": "升",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "ukuran",
+    "meanings_en": "",
+    "kun_readings": [
+      "ます"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "一升",
+        "reading": "いっしょう",
+        "meaning": "satu sho"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 302
+  },
+  {
+    "id": "n2_303",
+    "character": "召",
+    "jlpt_level": "N2",
+    "stroke_count": 5,
+    "meanings_id": "memanggil",
+    "meanings_en": "",
+    "kun_readings": [
+      "め.す"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "召集",
+        "reading": "しょうしゅう",
+        "meaning": "pengumpulan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 303
+  },
+  {
+    "id": "n2_304",
+    "character": "奨",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "mendorong",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "奨学金",
+        "reading": "しょうがくきん",
+        "meaning": "beasiswa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 304
+  },
+  {
+    "id": "n2_305",
+    "character": "宵",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "malam",
+    "meanings_en": "",
+    "kun_readings": [
+      "よい"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "宵",
+        "reading": "よい",
+        "meaning": "malam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 305
+  },
+  {
+    "id": "n2_306",
+    "character": "尚",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "masih; terhormat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "高尚",
+        "reading": "こうしょう",
+        "meaning": "luhur"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 306
+  },
+  {
+    "id": "n2_307",
+    "character": "床",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "lantai",
+    "meanings_en": "",
+    "kun_readings": [
+      "ゆか"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "床",
+        "reading": "ゆか",
+        "meaning": "lantai"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 307
+  },
+  {
+    "id": "n2_308",
+    "character": "彰",
+    "jlpt_level": "N2",
+    "stroke_count": 14,
+    "meanings_id": "menampakkan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "表彰",
+        "reading": "ひょうしょう",
+        "meaning": "penghargaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 308
+  },
+  {
+    "id": "n2_309",
+    "character": "抄",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "menyalin",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "抄録",
+        "reading": "しょうろく",
+        "meaning": "ringkasan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 309
+  },
+  {
+    "id": "n2_310",
+    "character": "掌",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "telapak tangan",
+    "meanings_en": "",
+    "kun_readings": [
+      "てのひら"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "掌握",
+        "reading": "しょうあく",
+        "meaning": "penguasaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 310
+  },
+  {
+    "id": "n2_311",
+    "character": "昇",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "naik",
+    "meanings_en": "",
+    "kun_readings": [
+      "のぼ.る"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "昇進",
+        "reading": "しょうしん",
+        "meaning": "promosi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 311
+  },
+  {
+    "id": "n2_312",
+    "character": "晶",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "kristal",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "結晶",
+        "reading": "けっしょう",
+        "meaning": "kristal"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 312
+  },
+  {
+    "id": "n2_313",
+    "character": "沼",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "rawa",
+    "meanings_en": "",
+    "kun_readings": [
+      "ぬま"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "沼地",
+        "reading": "ぬまち",
+        "meaning": "rawa"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 313
+  },
+  {
+    "id": "n2_314",
+    "character": "渉",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "menyeberangi",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "交渉",
+        "reading": "こうしょう",
+        "meaning": "negosiasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 314
+  },
+  {
+    "id": "n2_315",
+    "character": "焦",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "terbakar",
+    "meanings_en": "",
+    "kun_readings": [
+      "こ.げる"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "焦点",
+        "reading": "しょうてん",
+        "meaning": "fokus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 315
+  },
+  {
+    "id": "n2_316",
+    "character": "症",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "gejala",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "症状",
+        "reading": "しょうじょう",
+        "meaning": "gejala"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 316
+  },
+  {
+    "id": "n2_317",
+    "character": "硝",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "sendawa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "硝酸",
+        "reading": "しょうさん",
+        "meaning": "asam nitrat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 317
+  },
+  {
+    "id": "n2_318",
+    "character": "礁",
+    "jlpt_level": "N2",
+    "stroke_count": 17,
+    "meanings_id": "karang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "珊瑚礁",
+        "reading": "さんごしょう",
+        "meaning": "terumbu karang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 318
+  },
+  {
+    "id": "n2_319",
+    "character": "祥",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "pertanda baik",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "吉祥",
+        "reading": "きっしょう",
+        "meaning": "keberuntungan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 319
+  },
+  {
+    "id": "n2_320",
+    "character": "称",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "menyebut",
+    "meanings_en": "",
+    "kun_readings": [
+      "たた.える"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "名称",
+        "reading": "めいしょう",
+        "meaning": "nama"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 320
+  },
+  {
+    "id": "n2_321",
+    "character": "粧",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "rias",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "化粧",
+        "reading": "けしょう",
+        "meaning": "rias"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 321
+  },
+  {
+    "id": "n2_322",
+    "character": "紹",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "memperkenalkan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "紹介",
+        "reading": "しょうかい",
+        "meaning": "perkenalan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 322
+  },
+  {
+    "id": "n2_323",
+    "character": "肖",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "menyerupai",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "肖像",
+        "reading": "しょうぞう",
+        "meaning": "potret"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 323
+  },
+  {
+    "id": "n2_324",
+    "character": "衝",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "benturan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "衝突",
+        "reading": "しょうとつ",
+        "meaning": "tabrakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 324
+  },
+  {
+    "id": "n2_325",
+    "character": "訟",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "tuntutan hukum",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "訴訟",
+        "reading": "そしょう",
+        "meaning": "tuntutan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 325
+  },
+  {
+    "id": "n2_326",
+    "character": "詳",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "rinci",
+    "meanings_en": "",
+    "kun_readings": [
+      "くわ.しい"
+    ],
+    "on_readings": [
+      "ショウ"
+    ],
+    "example_words": [
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "detail"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 326
+  },
+  {
+    "id": "n2_327",
+    "character": "丈",
+    "jlpt_level": "N2",
+    "stroke_count": 3,
+    "meanings_id": "panjang",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "丈夫",
+        "reading": "じょうぶ",
+        "meaning": "kuat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 327
+  },
+  {
+    "id": "n2_328",
+    "character": "冗",
+    "jlpt_level": "N2",
+    "stroke_count": 4,
+    "meanings_id": "berlebih",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "冗談",
+        "reading": "じょうだん",
+        "meaning": "lelucon"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 328
+  },
+  {
+    "id": "n2_329",
+    "character": "剰",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "surplus",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "余剰",
+        "reading": "よじょう",
+        "meaning": "surplus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 329
+  },
+  {
+    "id": "n2_330",
+    "character": "壌",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "tanah",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "土壌",
+        "reading": "どじょう",
+        "meaning": "tanah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 330
+  },
+  {
+    "id": "n2_331",
+    "character": "嬢",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "nona",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "令嬢",
+        "reading": "れいじょう",
+        "meaning": "nona"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 331
+  },
+  {
+    "id": "n2_332",
+    "character": "浄",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "bersih",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "浄化",
+        "reading": "じょうか",
+        "meaning": "pembersihan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 332
+  },
+  {
+    "id": "n2_333",
+    "character": "畳",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "tatami",
+    "meanings_en": "",
+    "kun_readings": [
+      "たた.む"
+    ],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "畳",
+        "reading": "たたみ",
+        "meaning": "tatami"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 333
+  },
+  {
+    "id": "n2_334",
+    "character": "穣",
+    "jlpt_level": "N2",
+    "stroke_count": 18,
+    "meanings_id": "panen",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "豊穣",
+        "reading": "ほうじょう",
+        "meaning": "panen melimpah"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 334
+  },
+  {
+    "id": "n2_335",
+    "character": "蒸",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "mengukus",
+    "meanings_en": "",
+    "kun_readings": [
+      "む.す"
+    ],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "蒸気",
+        "reading": "じょうき",
+        "meaning": "uap"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 335
+  },
+  {
+    "id": "n2_336",
+    "character": "譲",
+    "jlpt_level": "N2",
+    "stroke_count": 20,
+    "meanings_id": "mengalah",
+    "meanings_en": "",
+    "kun_readings": [
+      "ゆず.る"
+    ],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "譲歩",
+        "reading": "じょうほ",
+        "meaning": "konsesi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 336
+  },
+  {
+    "id": "n2_337",
+    "character": "醸",
+    "jlpt_level": "N2",
+    "stroke_count": 20,
+    "meanings_id": "menyeduh",
+    "meanings_en": "",
+    "kun_readings": [
+      "かも.す"
+    ],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "醸造",
+        "reading": "じょうぞう",
+        "meaning": "penyeduhan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 337
+  },
+  {
+    "id": "n2_338",
+    "character": "錠",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "gembok",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジョウ"
+    ],
+    "example_words": [
+      {
+        "word": "錠剤",
+        "reading": "じょうざい",
+        "meaning": "tablet"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 338
+  },
+  {
+    "id": "n2_339",
+    "character": "飾",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "menghias",
+    "meanings_en": "",
+    "kun_readings": [
+      "かざ.る"
+    ],
+    "on_readings": [
+      "ショク"
+    ],
+    "example_words": [
+      {
+        "word": "装飾",
+        "reading": "そうしょく",
+        "meaning": "dekorasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 339
+  },
+  {
+    "id": "n2_340",
+    "character": "嘱",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "mempercayakan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ショク"
+    ],
+    "example_words": [
+      {
+        "word": "委嘱",
+        "reading": "いしょく",
+        "meaning": "kepercayaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 340
+  },
+  {
+    "id": "n2_341",
+    "character": "殖",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "berkembang biak",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふ.える"
+    ],
+    "on_readings": [
+      "ショク"
+    ],
+    "example_words": [
+      {
+        "word": "繁殖",
+        "reading": "はんしょく",
+        "meaning": "perkembangbiakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 341
+  },
+  {
+    "id": "n2_342",
+    "character": "触",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "menyentuh",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふ.れる"
+    ],
+    "on_readings": [
+      "ショク"
+    ],
+    "example_words": [
+      {
+        "word": "接触",
+        "reading": "せっしょく",
+        "meaning": "kontak"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 342
+  },
+  {
+    "id": "n2_343",
+    "character": "辱",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "aib",
+    "meanings_en": "",
+    "kun_readings": [
+      "はずかし.める"
+    ],
+    "on_readings": [
+      "ジョク"
+    ],
+    "example_words": [
+      {
+        "word": "屈辱",
+        "reading": "くつじょく",
+        "meaning": "penghinaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 343
+  },
+  {
+    "id": "n2_344",
+    "character": "伸",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "memanjang",
+    "meanings_en": "",
+    "kun_readings": [
+      "の.びる"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "伸長",
+        "reading": "しんちょう",
+        "meaning": "perpanjangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 344
+  },
+  {
+    "id": "n2_345",
+    "character": "審",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "memeriksa",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "審査",
+        "reading": "しんさ",
+        "meaning": "pemeriksaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 345
+  },
+  {
+    "id": "n2_346",
+    "character": "娠",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "hamil",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "妊娠",
+        "reading": "にんしん",
+        "meaning": "kehamilan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 346
+  },
+  {
+    "id": "n2_347",
+    "character": "寝",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "tidur",
+    "meanings_en": "",
+    "kun_readings": [
+      "ね.る"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "就寝",
+        "reading": "しゅうしん",
+        "meaning": "tidur"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 347
+  },
+  {
+    "id": "n2_348",
+    "character": "慎",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "berhati-hati",
+    "meanings_en": "",
+    "kun_readings": [
+      "つつし.む"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "慎重",
+        "reading": "しんちょう",
+        "meaning": "berhati-hati"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 348
+  },
+  {
+    "id": "n2_349",
+    "character": "振",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "mengayun",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふ.る"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "振動",
+        "reading": "しんどう",
+        "meaning": "getaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 349
+  },
+  {
+    "id": "n2_350",
+    "character": "浸",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "merendam",
+    "meanings_en": "",
+    "kun_readings": [
+      "ひた.す"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "浸透",
+        "reading": "しんとう",
+        "meaning": "perembesan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 350
+  },
+  {
+    "id": "n2_351",
+    "character": "紳",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "pria terhormat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "紳士",
+        "reading": "しんし",
+        "meaning": "pria terhormat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 351
+  },
+  {
+    "id": "n2_352",
+    "character": "薪",
+    "jlpt_level": "N2",
+    "stroke_count": 16,
+    "meanings_id": "kayu bakar",
+    "meanings_en": "",
+    "kun_readings": [
+      "たきぎ"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "薪",
+        "reading": "まき",
+        "meaning": "kayu bakar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 352
+  },
+  {
+    "id": "n2_353",
+    "character": "診",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "memeriksa",
+    "meanings_en": "",
+    "kun_readings": [
+      "み.る"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "診断",
+        "reading": "しんだん",
+        "meaning": "diagnosis"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 353
+  },
+  {
+    "id": "n2_354",
+    "character": "辛",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "pedas",
+    "meanings_en": "",
+    "kun_readings": [
+      "から.い"
+    ],
+    "on_readings": [
+      "シン"
+    ],
+    "example_words": [
+      {
+        "word": "辛抱",
+        "reading": "しんぼう",
+        "meaning": "kesabaran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 354
+  },
+  {
+    "id": "n2_355",
+    "character": "刃",
+    "jlpt_level": "N2",
+    "stroke_count": 3,
+    "meanings_id": "mata pisau",
+    "meanings_en": "",
+    "kun_readings": [
+      "は"
+    ],
+    "on_readings": [
+      "ジン"
+    ],
+    "example_words": [
+      {
+        "word": "刃物",
+        "reading": "はもの",
+        "meaning": "benda tajam"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 355
+  },
+  {
+    "id": "n2_356",
+    "character": "尋",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "menanyakan",
+    "meanings_en": "",
+    "kun_readings": [
+      "たず.ねる"
+    ],
+    "on_readings": [
+      "ジン"
+    ],
+    "example_words": [
+      {
+        "word": "尋問",
+        "reading": "じんもん",
+        "meaning": "interogasi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 356
+  },
+  {
+    "id": "n2_357",
+    "character": "甚",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "sangat",
+    "meanings_en": "",
+    "kun_readings": [
+      "はなは.だ"
+    ],
+    "on_readings": [
+      "ジン"
+    ],
+    "example_words": [
+      {
+        "word": "甚大",
+        "reading": "じんだい",
+        "meaning": "sangat besar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 357
+  },
+  {
+    "id": "n2_358",
+    "character": "陣",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "barisan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジン"
+    ],
+    "example_words": [
+      {
+        "word": "陣営",
+        "reading": "じんえい",
+        "meaning": "kubu"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 358
+  },
+  {
+    "id": "n2_359",
+    "character": "尽",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "menghabiskan",
+    "meanings_en": "",
+    "kun_readings": [
+      "つ.くす"
+    ],
+    "on_readings": [
+      "ジン"
+    ],
+    "example_words": [
+      {
+        "word": "尽力",
+        "reading": "じんりょく",
+        "meaning": "usaha"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 359
+  },
+  {
+    "id": "n2_360",
+    "character": "迅",
+    "jlpt_level": "N2",
+    "stroke_count": 6,
+    "meanings_id": "cepat",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ジン"
+    ],
+    "example_words": [
+      {
+        "word": "迅速",
+        "reading": "じんそく",
+        "meaning": "cepat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 360
+  },
+  {
+    "id": "n2_361",
+    "character": "吹",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "meniup",
+    "meanings_en": "",
+    "kun_readings": [
+      "ふ.く"
+    ],
+    "on_readings": [
+      "スイ"
+    ],
+    "example_words": [
+      {
+        "word": "吹奏",
+        "reading": "すいそう",
+        "meaning": "tiup"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 361
+  },
+  {
+    "id": "n2_362",
+    "character": "帥",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "komandan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "スイ"
+    ],
+    "example_words": [
+      {
+        "word": "元帥",
+        "reading": "げんすい",
+        "meaning": "marsekal"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 362
+  },
+  {
+    "id": "n2_363",
+    "character": "衰",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "melemah",
+    "meanings_en": "",
+    "kun_readings": [
+      "おとろ.える"
+    ],
+    "on_readings": [
+      "スイ"
+    ],
+    "example_words": [
+      {
+        "word": "衰退",
+        "reading": "すいたい",
+        "meaning": "kemunduran"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 363
+  },
+  {
+    "id": "n2_364",
+    "character": "粋",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "murni",
+    "meanings_en": "",
+    "kun_readings": [
+      "いき"
+    ],
+    "on_readings": [
+      "スイ"
+    ],
+    "example_words": [
+      {
+        "word": "純粋",
+        "reading": "じゅんすい",
+        "meaning": "murni"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 364
+  },
+  {
+    "id": "n2_365",
+    "character": "酔",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "mabuk",
+    "meanings_en": "",
+    "kun_readings": [
+      "よ.う"
+    ],
+    "on_readings": [
+      "スイ"
+    ],
+    "example_words": [
+      {
+        "word": "酔払い",
+        "reading": "よっぱらい",
+        "meaning": "pemabuk"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 365
+  },
+  {
+    "id": "n2_366",
+    "character": "随",
+    "jlpt_level": "N2",
+    "stroke_count": 12,
+    "meanings_id": "mengikuti",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ズイ"
+    ],
+    "example_words": [
+      {
+        "word": "随時",
+        "reading": "ずいじ",
+        "meaning": "kapan saja"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 366
+  },
+  {
+    "id": "n2_367",
+    "character": "髄",
+    "jlpt_level": "N2",
+    "stroke_count": 19,
+    "meanings_id": "sumsum",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ズイ"
+    ],
+    "example_words": [
+      {
+        "word": "骨髄",
+        "reading": "こつずい",
+        "meaning": "sumsum tulang"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 367
+  },
+  {
+    "id": "n2_368",
+    "character": "崇",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "memuja",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "スウ"
+    ],
+    "example_words": [
+      {
+        "word": "崇拝",
+        "reading": "すうはい",
+        "meaning": "pemujaan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 368
+  },
+  {
+    "id": "n2_369",
+    "character": "枢",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "engsel; poros",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "スウ"
+    ],
+    "example_words": [
+      {
+        "word": "中枢",
+        "reading": "ちゅうすう",
+        "meaning": "pusat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 369
+  },
+  {
+    "id": "n2_370",
+    "character": "据",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "memasang",
+    "meanings_en": "",
+    "kun_readings": [
+      "す.える"
+    ],
+    "on_readings": [
+      "キョ"
+    ],
+    "example_words": [
+      {
+        "word": "据付",
+        "reading": "すえつけ",
+        "meaning": "pemasangan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 370
+  },
+  {
+    "id": "n2_371",
+    "character": "杉",
+    "jlpt_level": "N2",
+    "stroke_count": 7,
+    "meanings_id": "cedar",
+    "meanings_en": "",
+    "kun_readings": [
+      "すぎ"
+    ],
+    "on_readings": [
+      "サン"
+    ],
+    "example_words": [
+      {
+        "word": "杉",
+        "reading": "すぎ",
+        "meaning": "pohon cedar"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 371
+  },
+  {
+    "id": "n2_372",
+    "character": "澄",
+    "jlpt_level": "N2",
+    "stroke_count": 15,
+    "meanings_id": "jernih",
+    "meanings_en": "",
+    "kun_readings": [
+      "す.む"
+    ],
+    "on_readings": [
+      "チョウ"
+    ],
+    "example_words": [
+      {
+        "word": "澄む",
+        "reading": "すむ",
+        "meaning": "menjadi jernih"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 372
+  },
+  {
+    "id": "n2_373",
+    "character": "瀬",
+    "jlpt_level": "N2",
+    "stroke_count": 19,
+    "meanings_id": "arus deras",
+    "meanings_en": "",
+    "kun_readings": [
+      "せ"
+    ],
+    "on_readings": [
+      "ライ"
+    ],
+    "example_words": [
+      {
+        "word": "瀬戸",
+        "reading": "せと",
+        "meaning": "selat"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 373
+  },
+  {
+    "id": "n2_374",
+    "character": "畝",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "bedengan",
+    "meanings_en": "",
+    "kun_readings": [
+      "うね"
+    ],
+    "on_readings": [
+      "ボウ"
+    ],
+    "example_words": [
+      {
+        "word": "畝",
+        "reading": "うね",
+        "meaning": "bedengan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 374
+  },
+  {
+    "id": "n2_375",
+    "character": "是",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "benar",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "ゼ"
+    ],
+    "example_words": [
+      {
+        "word": "是正",
+        "reading": "ぜせい",
+        "meaning": "koreksi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 375
+  },
+  {
+    "id": "n2_376",
+    "character": "征",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "menaklukkan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セイ"
+    ],
+    "example_words": [
+      {
+        "word": "遠征",
+        "reading": "えんせい",
+        "meaning": "ekspedisi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 376
+  },
+  {
+    "id": "n2_377",
+    "character": "牲",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "pengorbanan",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セイ"
+    ],
+    "example_words": [
+      {
+        "word": "犠牲",
+        "reading": "ぎせい",
+        "meaning": "pengorbanan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 377
+  },
+  {
+    "id": "n2_378",
+    "character": "盛",
+    "jlpt_level": "N2",
+    "stroke_count": 11,
+    "meanings_id": "ramai",
+    "meanings_en": "",
+    "kun_readings": [
+      "も.る"
+    ],
+    "on_readings": [
+      "セイ"
+    ],
+    "example_words": [
+      {
+        "word": "繁盛",
+        "reading": "はんじょう",
+        "meaning": "makmur"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 378
+  },
+  {
+    "id": "n2_379",
+    "character": "誠",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "tulus",
+    "meanings_en": "",
+    "kun_readings": [
+      "まこと"
+    ],
+    "on_readings": [
+      "セイ"
+    ],
+    "example_words": [
+      {
+        "word": "誠実",
+        "reading": "せいじつ",
+        "meaning": "tulus"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 379
+  },
+  {
+    "id": "n2_380",
+    "character": "聖",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "suci",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セイ"
+    ],
+    "example_words": [
+      {
+        "word": "聖人",
+        "reading": "せいじん",
+        "meaning": "orang suci"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 380
+  },
+  {
+    "id": "n2_381",
+    "character": "斉",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "serempak",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セイ"
+    ],
+    "example_words": [
+      {
+        "word": "一斉",
+        "reading": "いっせい",
+        "meaning": "serentak"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 381
+  },
+  {
+    "id": "n2_382",
+    "character": "隻",
+    "jlpt_level": "N2",
+    "stroke_count": 10,
+    "meanings_id": "perahu (penghitung)",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セキ"
+    ],
+    "example_words": [
+      {
+        "word": "一隻",
+        "reading": "いっせき",
+        "meaning": "satu kapal"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 382
+  },
+  {
+    "id": "n2_383",
+    "character": "拙",
+    "jlpt_level": "N2",
+    "stroke_count": 8,
+    "meanings_id": "buruk",
+    "meanings_en": "",
+    "kun_readings": [
+      "つたな.い"
+    ],
+    "on_readings": [
+      "セツ"
+    ],
+    "example_words": [
+      {
+        "word": "稚拙",
+        "reading": "ちせつ",
+        "meaning": "kekanak-kanakan"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 383
+  },
+  {
+    "id": "n2_384",
+    "character": "窃",
+    "jlpt_level": "N2",
+    "stroke_count": 9,
+    "meanings_id": "mencuri",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セツ"
+    ],
+    "example_words": [
+      {
+        "word": "窃盗",
+        "reading": "せっとう",
+        "meaning": "pencurian"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 384
+  },
+  {
+    "id": "n2_385",
+    "character": "摂",
+    "jlpt_level": "N2",
+    "stroke_count": 13,
+    "meanings_id": "mengambil",
+    "meanings_en": "",
+    "kun_readings": [],
+    "on_readings": [
+      "セツ"
+    ],
+    "example_words": [
+      {
+        "word": "摂取",
+        "reading": "せっしゅ",
+        "meaning": "konsumsi"
+      }
+    ],
+    "stroke_order_svg": "",
+    "radicals": [],
+    "mnemonic_id": "",
+    "mnemonic_en": "",
+    "order_index": 385
+  }
+]

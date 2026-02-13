@@ -1,0 +1,15 @@
+id;name;description;icon;requirement_type;requirement_value;created_at
+cdc5e3f8-dc95-4d1b-ae15-4ef6da7d853f;Pemula;Selesaikan pelajaran pertamamu;star;lessons_completed;1;2026-01-22 04:05:50.525627+00
+20d9a96a-0534-4a74-b7d1-c37c2a368a6a;Semangat Belajar;Raih streak 7 hari;flame;streak_days;7;2026-01-22 04:05:50.525627+00
+f73bd9fe-c4e0-414a-b0dc-73c3293c8de4;Rajin;Selesaikan 10 pelajaran;book;lessons_completed;10;2026-01-22 04:05:50.525627+00
+f2f1db22-be38-4177-a457-fbd0b54d6dfc;Master XP;Kumpulkan 1000 XP;trophy;total_xp;1000;2026-01-22 04:05:50.525627+00
+fd3c6f79-21f1-447e-a94f-15435b1b97a4;Konsisten;Raih streak 30 hari;medal;streak_days;30;2026-01-22 04:05:50.525627+00
+add868d0-9a9a-4d01-b460-a42f1eef501c;XP Hunter;Kumpulkan 500 XP;zap;total_xp;500;2026-02-06 13:35:14.362009+00
+cc863175-8791-4461-b96b-1a35fc5e6642;XP Champion;Kumpulkan 5000 XP;crown;total_xp;5000;2026-02-06 13:35:14.362009+00
+2f91613c-72be-41ae-ac77-4d02d98fa483;XP Legend;Kumpulkan 10000 XP;sparkles;total_xp;10000;2026-02-06 13:35:14.362009+00
+bbb1bd15-eec4-408f-a396-d3d22e2361dc;Mulai Perjalanan;Raih streak 3 hari;rocket;streak_days;3;2026-02-06 13:35:14.362009+00
+254259de-aaf5-40e3-b04f-c50c2d050338;Dua Minggu;Raih streak 14 hari;calendar;streak_days;14;2026-02-06 13:35:14.362009+00
+34aa238f-fba0-475e-9b63-f91a799b9a99;Dua Bulan;Raih streak 60 hari;award;streak_days;60;2026-02-06 13:35:14.362009+00
+381c3047-2b08-4e20-9b97-c3bcc395be40;Tekun;Selesaikan 25 pelajaran;graduation-cap;lessons_completed;25;2026-02-06 13:35:14.362009+00
+bb52c34b-cda9-4633-9a8d-e6cef04d6681;Ahli;Selesaikan 50 pelajaran;briefcase;lessons_completed;50;2026-02-06 13:35:14.362009+00
+8297ff9d-be6a-48c3-88c3-42aa371d9ba7;Guru;Selesaikan 100 pelajaran;school;lessons_completed;100;2026-02-06 13:35:14.362009+00

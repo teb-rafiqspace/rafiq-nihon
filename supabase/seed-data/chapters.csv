@@ -1,0 +1,17 @@
+id;track;chapter_number;title_jp;title_id;description;lesson_count;is_free;sort_order;created_at
+eb64def6-656d-4f5f-9883-df6d449aa077;kemnaker;1;あいさつ;Salam Sapaan;Pelajari salam dan sapaan dasar dalam bahasa Jepang;8;true;1;2026-01-22 07:43:10.395623+00
+16860596-f9a4-41d2-bdfc-c5d36a81e408;kemnaker;2;じこしょうかい;Perkenalan Diri;Cara memperkenalkan diri dalam bahasa Jepang;6;false;2;2026-01-22 07:43:10.395623+00
+667de6aa-3fdb-43cd-a464-57181d0aafbf;kemnaker;3;すうじ;Angka;Belajar angka dan berhitung dalam bahasa Jepang;8;false;3;2026-01-22 07:43:10.395623+00
+c1a2b3c4-3333-5678-9abc-def012345678;jlpt_n5;1;だい1か;Pelajaran 1 - Perkenalan;Belajar perkenalan diri dan kata ganti dasar;8;true;1;2026-01-22 13:54:23.615649+00
+a1b2c3d4-1234-5678-9abc-def012345678;jlpt_n5;2;だい2か;Pelajaran 2 - Waktu & Jadwal;Belajar tentang waktu, hari, dan jadwal sehari-hari;10;true;2;2026-01-22 13:49:50.572267+00
+b2c3d4e5-2345-6789-abcd-ef0123456789;jlpt_n5;3;だい3か;Pelajaran 3 - Lokasi & Arah;Belajar tentang lokasi, posisi, dan cara menanyakan arah;10;true;3;2026-01-22 14:07:45.872605+00
+487e724e-6865-49dd-8b29-ac3a6a866a13;jlpt_n4;1;可能形・意志形;Bentuk Kemampuan & Kemauan;Pelajari cara mengekspresikan kemampuan dan niat dalam bahasa Jepang;3;true;1;2026-02-06 13:02:17.909418+00
+fbc344a1-a8e2-4bce-b94e-fb2ad197ad56;jlpt_n4;2;受身形;Bentuk Pasif;Pelajari bentuk pasif untuk menggambarkan aksi yang diterima;3;false;2;2026-02-06 13:02:17.909418+00
+bf47de3a-6712-4433-87ba-7a32cec3693b;jlpt_n4;3;使役形;Bentuk Kausatif;Pelajari cara menyatakan meminta/menyuruh orang melakukan sesuatu;3;false;3;2026-02-06 13:02:17.909418+00
+e9b9865a-7125-4642-a5c1-cb33478f230c;jlpt_n4;4;敬語入門;Pengantar Keigo;Dasar-dasar bahasa sopan dan formal Jepang;4;false;4;2026-02-06 13:02:17.909418+00
+78ec55a6-bf40-42f7-b5b9-ef491cfe8472;jlpt_n4;5;条件形;Bentuk Kondisional;Pelajari ば, たら, なら, と untuk menyatakan kondisi;3;false;5;2026-02-06 13:02:17.909418+00
+981255d6-ad9f-4d51-825d-755026a9f069;jlpt_n3;1;複合動詞;Kata Kerja Majemuk;Pelajari kata kerja majemuk yang umum digunakan dalam bahasa sehari-hari;4;true;1;2026-02-06 13:02:17.909418+00
+342dc32f-726b-488e-a8b4-aa734a622b05;jlpt_n3;2;敬語・謙譲語;Keigo & Bahasa Merendah;Tingkatkan pemahaman bahasa sopan untuk situasi bisnis;4;false;2;2026-02-06 13:02:17.909418+00
+3296da6d-24a3-4cda-bf1f-d9bbf785a1b8;jlpt_n3;3;文型表現;Pola Kalimat Lanjutan;Kuasai pola kalimat N3 yang sering muncul di ujian;5;false;3;2026-02-06 13:02:17.909418+00
+579e81c9-eb1b-41cc-9437-090ca29cf666;jlpt_n3;4;文章読解;Pemahaman Bacaan;Latihan membaca artikel dan esai pendek;4;false;4;2026-02-06 13:02:17.909418+00
+247217ee-6f48-451c-b98e-a5d0db9d3813;jlpt_n3;5;ビジネス日本語;Bahasa Jepang Bisnis;Kosakata dan ungkapan untuk lingkungan kerja;4;false;5;2026-02-06 13:02:17.909418+00

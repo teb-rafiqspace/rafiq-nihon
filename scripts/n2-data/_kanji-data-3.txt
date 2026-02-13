@@ -1,0 +1,100 @@
+# JLPT N2 Kanji 193-288
+抗|7|melawan|あらが.う|コウ|抵抗|ていこう|perlawanan
+拘|8|menahan||コウ|拘束|こうそく|penahanan
+控|11|menahan diri|ひか.える|コウ|控室|ひかえしつ|ruang tunggu
+攻|7|menyerang|せ.める|コウ|攻撃|こうげき|serangan
+更|7|memperbarui|さら.に|コウ|変更|へんこう|perubahan
+江|6|teluk|え|コウ|入江|いりえ|teluk kecil
+洪|9|banjir||コウ|洪水|こうずい|banjir
+溝|13|parit|みぞ|コウ|溝|みぞ|parit
+甲|5|baju besi||コウ|甲板|かんぱん|dek kapal
+硬|12|keras|かた.い|コウ|硬貨|こうか|koin
+稿|15|naskah||コウ|原稿|げんこう|naskah
+絞|12|memeras|しぼ.る|コウ|絞殺|こうさつ|pencekikan
+綱|14|tali|つな|コウ|綱領|こうりょう|pedoman
+肯|8|menyetujui||コウ|肯定|こうてい|persetujuan
+荒|9|kasar|あら.い|コウ|荒野|こうや|padang belantara
+衡|16|timbangan||コウ|均衡|きんこう|keseimbangan
+購|17|membeli||コウ|購入|こうにゅう|pembelian
+郊|9|pinggiran||コウ|郊外|こうがい|pinggiran kota
+酵|14|fermentasi||コウ|発酵|はっこう|fermentasi
+項|12|item||コウ|項目|こうもく|item
+剛|10|kuat||ゴウ|剛力|ごうりき|kekuatan
+拷|9|menyiksa||ゴウ|拷問|ごうもん|penyiksaan
+豪|14|megah||ゴウ|豪華|ごうか|mewah
+克|7|mengatasi||コク|克服|こくふく|mengatasi
+酷|14|kejam||コク|酷暑|こくしょ|panas ekstrem
+獄|14|penjara||ゴク|地獄|じごく|neraka
+腰|13|pinggang|こし|ヨウ|腰痛|ようつう|sakit pinggang
+込|5|masuk|こ.む|コミ|込む|こむ|penuh
+墾|16|membuka lahan||コン|開墾|かいこん|membuka lahan
+婚|11|pernikahan||コン|結婚|けっこん|pernikahan
+恨|9|dendam|うら.む|コン|恨み|うらみ|dendam
+懇|17|akrab||コン|懇親|こんしん|keakraban
+昆|8|serangga||コン|昆虫|こんちゅう|serangga
+紺|11|biru tua||コン|紺色|こんいろ|biru tua
+魂|14|jiwa|たましい|コン|魂|たましい|jiwa
+佐|7|asisten||サ|補佐|ほさ|asisten
+唆|10|menghasut|そそのか.す|サ|示唆|しさ|sugesti
+詐|12|menipu||サ|詐欺|さぎ|penipuan
+鎖|18|rantai|くさり|サ|連鎖|れんさ|rantai
+債|13|utang||サイ|負債|ふさい|utang
+催|13|menyelenggarakan|もよお.す|サイ|催促|さいそく|desakan
+削|9|menghapus|けず.る|サク|削減|さくげん|pengurangan
+搾|13|memeras||サク|搾取|さくしゅ|eksploitasi
+策|12|strategi||サク|対策|たいさく|tindakan
+酢|12|cuka|す|サク|酢|す|cuka
+索|10|mencari||サク|検索|けんさく|pencarian
+雑|14|campur||ザツ|雑誌|ざっし|majalah
+傘|12|payung|かさ|サン|傘|かさ|payung
+桟|10|dermaga||サン|桟橋|さんばし|dermaga
+惨|11|menyedihkan|みじ.め|サン|悲惨|ひさん|menyedihkan
+施|9|melaksanakan|ほどこ.す|シ|施設|しせつ|fasilitas
+旨|6|tujuan; lezat|むね|シ|趣旨|しゅし|tujuan
+祉|8|kesejahteraan||シ|福祉|ふくし|kesejahteraan
+紫|12|ungu|むらさき|シ|紫外線|しがいせん|sinar ultraviolet
+肢|8|anggota badan||シ|四肢|しし|anggota badan
+脂|10|lemak|あぶら|シ|脂肪|しぼう|lemak
+諮|16|berunding||シ|諮問|しもん|konsultasi
+賜|15|menganugerahi|たまわ.る|シ|賜物|たまもの|anugerah
+雌|14|betina|めす|シ|雌雄|しゆう|jantan betina
+侍|8|samurai|さむらい|ジ|侍|さむらい|samurai
+慈|13|kasih sayang||ジ|慈悲|じひ|belas kasih
+滋|12|bergizi||ジ|滋養|じよう|bergizi
+璽|18|cap kekaisaran||ジ|国璽|こくじ|cap negara
+軸|12|poros|じく|ジク|中軸|ちゅうじく|poros tengah
+漆|14|pernis|うるし|シツ|漆器|しっき|barang pernis
+疾|10|penyakit||シツ|疾患|しっかん|penyakit
+芝|6|rumput|しば|シ|芝生|しばふ|rumput
+赦|11|mengampuni||シャ|恩赦|おんしゃ|pengampunan
+斜|11|miring|なな.め|シャ|斜面|しゃめん|lereng
+煮|12|memasak|に.る|シャ|煮物|にもの|makanan rebus
+邪|8|jahat||ジャ|邪魔|じゃま|gangguan
+爵|17|gelar bangsawan||シャク|爵位|しゃくい|gelar bangsawan
+酌|10|menuangkan|く.む|シャク|晩酌|ばんしゃく|minum malam
+朱|6|merah|あけ|シュ|朱色|しゅいろ|merah
+殊|10|khusus|こと|シュ|特殊|とくしゅ|khusus
+狩|9|berburu|か.る|シュ|狩猟|しゅりょう|berburu
+珠|10|mutiara|たま|シュ|真珠|しんじゅ|mutiara
+趣|15|selera; rasa||シュ|趣味|しゅみ|hobi
+儒|16|konfusianisme||ジュ|儒教|じゅきょう|konfusianisme
+寿|7|umur panjang|ことぶき|ジュ|長寿|ちょうじゅ|panjang umur
+需|14|kebutuhan||ジュ|需要|じゅよう|permintaan
+囚|5|tahanan||シュウ|囚人|しゅうじん|tahanan
+愁|13|kesedihan|うれ.い|シュウ|哀愁|あいしゅう|kesedihan
+秀|7|unggul|ひい.でる|シュウ|秀才|しゅうさい|jenius
+臭|9|bau|くさ.い|シュウ|悪臭|あくしゅう|bau busuk
+舟|6|perahu|ふね|シュウ|小舟|こぶね|perahu kecil
+襲|22|menyerang|おそ.う|シュウ|襲撃|しゅうげき|serangan
+酬|13|membalas||シュウ|報酬|ほうしゅう|imbalan
+醜|17|jelek|みにく.い|シュウ|醜聞|しゅうぶん|skandal
+充|6|mengisi|あ.てる|ジュウ|充実|じゅうじつ|memuaskan
+柔|9|lembut|やわ.らかい|ジュウ|柔軟|じゅうなん|fleksibel
+汁|5|kuah|しる|ジュウ|味噌汁|みそしる|sup miso
+渋|11|pahit|しぶ.い|ジュウ|渋滞|じゅうたい|kemacetan
+銃|14|senjata api||ジュウ|拳銃|けんじゅう|pistol
+叔|8|paman/bibi||シュク|叔父|おじ|paman
+淑|11|anggun||シュク|淑女|しゅくじょ|wanita anggun
+粛|11|khidmat||シュク|粛清|しゅくせい|pembersihan
+塾|14|kursus|じゅく|ジュク|学習塾|がくしゅうじゅく|bimbel
+俊|9|cerdas||シュン|俊才|しゅんさい|orang cerdas

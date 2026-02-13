@@ -1,0 +1,117 @@
+id;lesson_id;japanese_text;reading_hiragana;reading_romaji;meaning_id;meaning_en;audio_url;audio_slow_url;audio_duration_ms;pitch_pattern;pitch_visual;context_situation;formality_level;speaker_gender;pronunciation_tips;common_mistakes;order_index;created_at
+spi-greet-01;sp-shadow-greetings;おはようございます;おはようございます;ohayou gozaimasu;Selamat pagi (formal);;;;;LHHHHHHHHH;;;polite;neutral;"Ucapkan dengan nada naik di ""you""";"Terlalu cepat mengucapkan ""gozaimasu""";1;2026-01-26 08:08:16.186246+00
+spi-greet-02;sp-shadow-greetings;おはよう;おはよう;ohayou;Selamat pagi (casual);;;;;LHHH;;;casual;neutral;Lebih pendek dan santai;"Menambahkan ""gozaimasu"" saat bicara dengan teman";2;2026-01-26 08:08:16.186246+00
+spi-greet-03;sp-shadow-greetings;こんにちは;こんにちは;konnichiwa;Selamat siang;;;;;LHHLL;;;neutral;neutral;"Perhatikan ""nn"" ganda";"Mengucapkan ""konichiwa"" tanpa ""nn""";3;2026-01-26 08:08:16.186246+00
+spi-greet-04;sp-shadow-greetings;こんばんは;こんばんは;konbanwa;Selamat malam;;;;;LHHHH;;;neutral;neutral;"Perhatikan ""nb"" berubah jadi ""mb""";Terlalu terpisah;4;2026-01-26 08:08:16.186246+00
+spi-greet-05;sp-shadow-greetings;さようなら;さようなら;sayounara;Selamat tinggal;;;;;LHHHH;;;neutral;neutral;Ucapkan semua suku kata jelas;"Menjadi ""saynara""";5;2026-01-26 08:08:16.186246+00
+spi-greet-06;sp-shadow-greetings;おやすみなさい;おやすみなさい;oyasuminasai;Selamat tidur (formal);;;;;LHHHHHH;;;polite;neutral;Nada turun di akhir;"Lupa ""nasai""";6;2026-01-26 08:08:16.186246+00
+spi-greet-07;sp-shadow-greetings;おやすみ;おやすみ;oyasumi;Selamat tidur (casual);;;;;LHHH;;;casual;neutral;Versi pendek untuk teman;Menggunakan ke orang tua;7;2026-01-26 08:08:16.186246+00
+spi-greet-08;sp-shadow-greetings;いただきます;いただきます;itadakimasu;Selamat makan;;;;;LHHHHHH;;;polite;neutral;Ucapkan sebelum makan;"""ta"" tidak jelas";8;2026-01-26 08:08:16.186246+00
+spi-greet-09;sp-shadow-greetings;ごちそうさまでした;ごちそうさまでした;gochisousama deshita;Terima kasih atas makanannya;;;;;LHHHHHHHHH;;;polite;neutral;Setelah selesai makan;Terlalu cepat;9;2026-01-26 08:08:16.186246+00
+spi-greet-10;sp-shadow-greetings;いってきます;いってきます;ittekimasu;Aku pergi dulu;;;;;LHHHHH;;;neutral;neutral;Saat meninggalkan rumah;"Lupa ""tt"" ganda";10;2026-01-26 08:08:16.186246+00
+spi-greet-11;sp-shadow-greetings;いってらっしゃい;いってらっしゃい;itterasshai;Hati-hati di jalan;;;;;LHHHHHH;;;neutral;neutral;"Respons untuk ""ittekimasu""";"""ssh"" tidak jelas";11;2026-01-26 08:08:16.186246+00
+spi-greet-12;sp-shadow-greetings;ただいま;ただいま;tadaima;Aku pulang;;;;;LHHH;;;neutral;neutral;Saat pulang ke rumah;Terlalu formal;12;2026-01-26 08:08:16.186246+00
+spi-greet-13;sp-shadow-greetings;おかえりなさい;おかえりなさい;okaerinasai;Selamat datang kembali;;;;;LHHHHHH;;;polite;neutral;"Respons untuk ""tadaima""";Terlalu cepat;13;2026-01-26 08:08:16.186246+00
+spi-greet-14;sp-shadow-greetings;すみません;すみません;sumimasen;Permisi / Maaf;;;;;LHHHH;;;polite;neutral;Minta perhatian atau maaf;"""su"" terlalu keras";14;2026-01-26 08:08:16.186246+00
+spi-greet-15;sp-shadow-greetings;ありがとうございます;ありがとうございます;arigatou gozaimasu;Terima kasih (formal);;;;;LHHHHHHHHHH;;;polite;neutral;"Nada naik di ""ga""";"""gozaimasu"" tidak jelas";15;2026-01-26 08:08:16.186246+00
+spi-intro-01;sp-shadow-selfintro;はじめまして;はじめまして;hajimemashite;Salam kenal;;;;;;;Pertama kali bertemu;polite;neutral;"Jelas di ""ha""";;1;2026-01-26 08:08:27.189936+00
+spi-intro-02;sp-shadow-selfintro;私は＿＿です;わたしは＿＿です;watashi wa ___ desu;Saya adalah ___;;;;;;;Memperkenalkan nama;polite;neutral;Ganti ___ dengan nama;;2;2026-01-26 08:08:27.189936+00
+spi-intro-03;sp-shadow-selfintro;インドネシアから来ました;インドネシアからきました;indonesia kara kimashita;Saya dari Indonesia;;;;;;;Asal negara;polite;neutral;"Perhatikan ""ki""";;3;2026-01-26 08:08:27.189936+00
+spi-intro-04;sp-shadow-selfintro;＿＿歳です;＿＿さいです;___ sai desu;Umur saya ___ tahun;;;;;;;Memberitahu umur;polite;neutral;Ganti dengan angka;;4;2026-01-26 08:08:27.189936+00
+spi-intro-05;sp-shadow-selfintro;研修生です;けんしゅうせいです;kenshuusei desu;Saya peserta magang;;;;;;;Status pekerjaan;polite;neutral;"Bunyi panjang ""shuu""";;5;2026-01-26 08:08:27.189936+00
+spi-intro-06;sp-shadow-selfintro;趣味は＿＿です;しゅみは＿＿です;shumi wa ___ desu;Hobi saya adalah ___;;;;;;;Memperkenalkan hobi;polite;neutral;Ganti dengan hobi;;6;2026-01-26 08:08:27.189936+00
+spi-intro-07;sp-shadow-selfintro;よろしくお願いします;よろしくおねがいします;yoroshiku onegaishimasu;Mohon bantuannya;;;;;;;Mengakhiri perkenalan;polite;neutral;Ucapkan dengan tulus;;7;2026-01-26 08:08:27.189936+00
+spi-intro-08;sp-shadow-selfintro;どうぞよろしく;どうぞよろしく;douzo yoroshiku;Salam kenal (casual);;;;;;;Dengan teman sebaya;casual;neutral;Versi pendek;;8;2026-01-26 08:08:27.189936+00
+spi-intro-09;sp-shadow-selfintro;日本語を勉強しています;にほんごをべんきょうしています;nihongo wo benkyou shiteimasu;Saya sedang belajar bahasa Jepang;;;;;;;Menjelaskan kegiatan;polite;neutral;"Bunyi ""be"" jelas";;9;2026-01-26 08:08:27.189936+00
+spi-intro-10;sp-shadow-selfintro;まだ上手じゃありません;まだじょうずじゃありません;mada jouzu ja arimasen;Saya belum mahir;;;;;;;Merendah sopan;polite;neutral;Nada rendah sopan;;10;2026-01-26 08:08:27.189936+00
+spi-work-01;sp-shadow-workplace;お疲れ様です;おつかれさまです;otsukaresama desu;Terima kasih kerja kerasnya;;;;;;;Salam di kantor;polite;neutral;Ucapkan dengan energi;;1;2026-01-26 08:08:44.3731+00
+spi-work-02;sp-shadow-workplace;お先に失礼します;おさきにしつれいします;osaki ni shitsurei shimasu;Permisi pulang duluan;;;;;;;Saat pulang lebih awal;polite;neutral;Nada sopan;;2;2026-01-26 08:08:44.3731+00
+spi-work-03;sp-shadow-workplace;分かりました;わかりました;wakarimashita;Saya mengerti;;;;;;;Merespons instruksi;polite;neutral;Tegas tapi sopan;;3;2026-01-26 08:08:44.3731+00
+spi-work-04;sp-shadow-workplace;かしこまりました;かしこまりました;kashikomarimashita;Baik, saya mengerti (sangat formal);;;;;;;Kepada atasan/pelanggan;formal;neutral;Sangat hormat;;4;2026-01-26 08:08:44.3731+00
+spi-work-05;sp-shadow-workplace;すみません、もう一度お願いします;すみません、もういちどおねがいします;sumimasen, mou ichido onegaishimasu;Maaf, tolong ulangi sekali lagi;;;;;;;Tidak dengar jelas;polite;neutral;Sopan meminta pengulangan;;5;2026-01-26 08:08:44.3731+00
+spi-work-06;sp-shadow-workplace;確認させてください;かくにんさせてください;kakunin sasete kudasai;Izinkan saya mengonfirmasi;;;;;;;Memastikan instruksi;polite;neutral;Profesional;;6;2026-01-26 08:08:44.3731+00
+spi-work-07;sp-shadow-workplace;頑張ります;がんばります;ganbarimasu;Saya akan berusaha;;;;;;;Menunjukkan semangat;polite;neutral;Dengan determinasi;;7;2026-01-26 08:08:44.3731+00
+spi-work-08;sp-shadow-workplace;お手伝いしましょうか;おてつだいしましょうか;otetsudai shimashou ka;Boleh saya bantu?;;;;;;;Menawarkan bantuan;polite;neutral;Ramah dan sopan;;8;2026-01-26 08:08:44.3731+00
+spi-work-09;sp-shadow-workplace;申し訳ありません;もうしわけありません;moushiwake arimasen;Saya mohon maaf (formal);;;;;;;Minta maaf serius;formal;neutral;Sangat sopan;;9;2026-01-26 08:08:44.3731+00
+spi-work-10;sp-shadow-workplace;遅れて申し訳ありません;おくれてもうしわけありません;okurete moushiwake arimasen;Maaf saya terlambat;;;;;;;Saat terlambat;formal;neutral;Menyesal tulus;;10;2026-01-26 08:08:44.3731+00
+spi-work-11;sp-shadow-workplace;報告があります;ほうこくがあります;houkoku ga arimasu;Saya ada laporan;;;;;;;Memulai laporan;polite;neutral;Profesional;;11;2026-01-26 08:08:44.3731+00
+spi-work-12;sp-shadow-workplace;質問があります;しつもんがあります;shitsumon ga arimasu;Saya ada pertanyaan;;;;;;;Ingin bertanya;polite;neutral;Sopan meminta waktu;;12;2026-01-26 08:08:44.3731+00
+spi-work-13;sp-shadow-workplace;少々お待ちください;しょうしょうおまちください;shoushou omachi kudasai;Mohon tunggu sebentar;;;;;;;Meminta waktu;polite;neutral;Formal dan sopan;;13;2026-01-26 08:08:44.3731+00
+spi-work-14;sp-shadow-workplace;失礼します;しつれいします;shitsurei shimasu;Permisi;;;;;;;Masuk/keluar ruangan;polite;neutral;Singkat tapi sopan;;14;2026-01-26 08:08:44.3731+00
+spi-work-15;sp-shadow-workplace;ご指導よろしくお願いします;ごしどうよろしくおねがいします;goshidou yoroshiku onegaishimasu;Mohon bimbingannya;;;;;;;Kepada senior/atasan;formal;neutral;Sangat hormat;;15;2026-01-26 08:08:44.3731+00
+spi-vowel-01;sp-pron-vowels;あ;;a;Vokal A;;;;;;;;;neutral;"Buka mulut lebar, seperti ""a"" dalam ""ayah""";Terlalu pendek;1;2026-01-26 08:08:49.788775+00
+spi-vowel-02;sp-pron-vowels;い;;i;Vokal I;;;;;;;;;neutral;"Tarik bibir ke samping, seperti ""i"" dalam ""ini""";Bibir tidak cukup tegang;2;2026-01-26 08:08:49.788775+00
+spi-vowel-03;sp-pron-vowels;う;;u;Vokal U;;;;;;;;;neutral;Bibir sedikit maju, tidak bulat penuh;"Terlalu bulat seperti ""u"" Indonesia";3;2026-01-26 08:08:49.788775+00
+spi-vowel-04;sp-pron-vowels;え;;e;Vokal E;;;;;;;;;neutral;"Mulut setengah terbuka, seperti ""e"" dalam ""enak""";Terlalu tertutup;4;2026-01-26 08:08:49.788775+00
+spi-vowel-05;sp-pron-vowels;お;;o;Vokal O;;;;;;;;;neutral;"Bibir bulat, seperti ""o"" dalam ""obat""";Tidak cukup bulat;5;2026-01-26 08:08:49.788775+00
+spi-vowel-06;sp-pron-vowels;あい;;ai;Kombinasi A-I;;;;;;;;;neutral;Dua vokal terpisah, bukan diftong;"Seperti ""ai"" Indonesia";6;2026-01-26 08:08:49.788775+00
+spi-vowel-07;sp-pron-vowels;あう;;au;Kombinasi A-U;;;;;;;;;neutral;Dua vokal terpisah;Menjadi satu bunyi;7;2026-01-26 08:08:49.788775+00
+spi-vowel-08;sp-pron-vowels;えい;;ei;Kombinasi E-I;;;;;;;;;neutral;"Sering diucapkan panjang ""ee""";"Terlalu jelas ""e-i""";8;2026-01-26 08:08:49.788775+00
+spi-vowel-09;sp-pron-vowels;おう;;ou;Kombinasi O-U;;;;;;;;;neutral;"Sering diucapkan panjang ""oo""";"Terlalu jelas ""o-u""";9;2026-01-26 08:08:49.788775+00
+spi-vowel-10;sp-pron-vowels;ああ;;aa;Vokal Panjang A;;;;;;;;;neutral;Tahan dua ketukan;Terlalu pendek;10;2026-01-26 08:08:49.788775+00
+spi-diff-01;sp-pron-difficult;つ;;tsu;Bunyi TSU;;;;;;;;;neutral;Lidah di belakang gigi atas, tiup udara;"Menjadi ""su"" atau ""tu""";1;2026-01-26 08:09:01.260301+00
+spi-diff-02;sp-pron-difficult;つき;;tsuki;Bulan;;;;;;;;;neutral;"Latihan ""tsu"" dalam kata";"Kehilangan bunyi ""t""";2;2026-01-26 08:09:01.260301+00
+spi-diff-03;sp-pron-difficult;ふ;;fu;Bunyi FU;;;;;;;;;neutral;Bibir hampir tertutup, tiup udara;"Menjadi ""hu""";3;2026-01-26 08:09:01.260301+00
+spi-diff-04;sp-pron-difficult;ふね;;fune;Kapal;;;;;;;;;neutral;"Latihan ""fu"" dalam kata";Bibir terlalu bulat;4;2026-01-26 08:09:01.260301+00
+spi-diff-05;sp-pron-difficult;ら;;ra;Bunyi RA;;;;;;;;;neutral;Ketuk lidah sekali (antara R dan L);"Terlalu seperti ""r"" atau ""l""";5;2026-01-26 08:09:01.260301+00
+spi-diff-06;sp-pron-difficult;りんご;;ringo;Apel;;;;;;;;;neutral;"Latihan ""ri"" dalam kata";R terlalu keras;6;2026-01-26 08:09:01.260301+00
+spi-diff-07;sp-pron-difficult;ん;;n;Bunyi N;;;;;;;;;neutral;Berubah tergantung bunyi setelahnya;Selalu sama;7;2026-01-26 08:09:01.260301+00
+spi-diff-08;sp-pron-difficult;さんぽ;;sanpo;Jalan-jalan;;;;;;;;;neutral;N sebelum P menjadi M;"Tetap ""n""";8;2026-01-26 08:09:01.260301+00
+spi-diff-09;sp-pron-difficult;しんぶん;;shinbun;Koran;;;;;;;;;neutral;N sebelum B menjadi M;"Tetap ""n""";9;2026-01-26 08:09:01.260301+00
+spi-diff-10;sp-pron-difficult;っ;;(small tsu);Bunyi Dobel;;;;;;;;;neutral;Jeda sebelum konsonan berikutnya;Tidak ada jeda;10;2026-01-26 08:09:01.260301+00
+spi-diff-11;sp-pron-difficult;がっこう;;gakkou;Sekolah;;;;;;;;;neutral;Jeda di っ, panjang di ou;Kehilangan jeda/panjang;11;2026-01-26 08:09:01.260301+00
+spi-diff-12;sp-pron-difficult;きって;;kitte;Perangko;;;;;;;;;neutral;"Jeda sebelum ""te""";"Menjadi ""kite""";12;2026-01-26 08:09:01.260301+00
+spi-n4-shop-1;sp-n4-daily-1;すみません、これはいくらですか。;すみません、これはいくらですか。;Sumimasen, kore wa ikura desu ka.;Permisi, berapa harganya?;;;;;;;Menanyakan harga barang;polite;neutral;;;1;2026-02-06 13:23:23.339055+00
+spi-n4-shop-2;sp-n4-daily-1;もう少し安くなりませんか。;もうすこしやすくなりませんか。;Mou sukoshi yasuku narimasen ka.;Bisa lebih murah sedikit?;;;;;;;Menawar harga;polite;neutral;;;2;2026-02-06 13:23:23.339055+00
+spi-n4-shop-3;sp-n4-daily-1;カードで払えますか。;カードではらえますか。;Kaado de haraemasu ka.;Bisa bayar pakai kartu?;;;;;;;Menanyakan metode pembayaran;polite;neutral;;;3;2026-02-06 13:23:23.339055+00
+spi-n4-shop-4;sp-n4-daily-1;袋に入れてください。;ふくろにいれてください。;Fukuro ni irete kudasai.;Tolong masukkan ke kantong.;;;;;;;Meminta kantong belanja;polite;neutral;;;4;2026-02-06 13:23:23.339055+00
+spi-n4-shop-5;sp-n4-daily-1;これと同じものはありますか。;これとおなじものはありますか。;Kore to onaji mono wa arimasu ka.;Ada yang sama dengan ini?;;;;;;;Mencari barang serupa;polite;neutral;;;5;2026-02-06 13:23:23.339055+00
+spi-n4-rest-1;sp-n4-daily-2;二人ですが、席はありますか。;ふたりですが、せきはありますか。;Futari desu ga, seki wa arimasu ka.;Kami berdua, ada tempat duduk?;;;;;;;Mencari meja di restoran;polite;neutral;;;1;2026-02-06 13:23:23.339055+00
+spi-n4-rest-2;sp-n4-daily-2;メニューを見せてください。;メニューをみせてください。;Menyuu wo misete kudasai.;Tolong tunjukkan menunya.;;;;;;;Meminta menu;polite;neutral;;;2;2026-02-06 13:23:23.339055+00
+spi-n4-rest-3;sp-n4-daily-2;おすすめは何ですか。;おすすめはなんですか。;Osusume wa nan desu ka.;Apa rekomendasinya?;;;;;;;Menanyakan rekomendasi;polite;neutral;;;3;2026-02-06 13:23:23.339055+00
+spi-n4-rest-4;sp-n4-daily-2;これをお願いします。;これをおねがいします。;Kore wo onegai shimasu.;Saya pesan ini.;;;;;;;Memesan makanan;polite;neutral;;;4;2026-02-06 13:23:23.339055+00
+spi-n4-rest-5;sp-n4-daily-2;お会計をお願いします。;おかいけいをおねがいします。;Okaikei wo onegai shimasu.;Minta bonnya.;;;;;;;Meminta tagihan;polite;neutral;;;5;2026-02-06 13:23:23.339055+00
+spi-n4-hosp-1;sp-n4-daily-3;頭が痛いです。;あたまがいたいです。;Atama ga itai desu.;Kepala saya sakit.;;;;;;;Menjelaskan gejala;polite;neutral;;;1;2026-02-06 13:23:23.339055+00
+spi-n4-hosp-2;sp-n4-daily-3;昨日から熱があります。;きのうからねつがあります。;Kinou kara netsu ga arimasu.;Saya demam sejak kemarin.;;;;;;;Menjelaskan durasi gejala;polite;neutral;;;2;2026-02-06 13:23:23.339055+00
+spi-n4-hosp-3;sp-n4-daily-3;薬にアレルギーがあります。;くすりにアレルギーがあります。;Kusuri ni arerugii ga arimasu.;Saya alergi obat.;;;;;;;Memberitahu alergi;polite;neutral;;;3;2026-02-06 13:23:23.339055+00
+spi-n4-hosp-4;sp-n4-daily-3;この薬は一日何回飲みますか。;このくすりはいちにちなんかいのみますか。;Kono kusuri wa ichinichi nankai nomimasu ka.;Obat ini diminum berapa kali sehari?;;;;;;;Menanyakan dosis obat;polite;neutral;;;4;2026-02-06 13:23:23.339055+00
+spi-n4-work-1;sp-n4-work-1;報告があります。;ほうこくがあります。;Houkoku ga arimasu.;Ada yang ingin saya laporkan.;;;;;;;Memulai laporan;polite;neutral;;;1;2026-02-06 13:23:23.339055+00
+spi-n4-work-2;sp-n4-work-1;作業が終わりました。;さぎょうがおわりました。;Sagyou ga owarimashita.;Pekerjaan sudah selesai.;;;;;;;Melaporkan penyelesaian;polite;neutral;;;2;2026-02-06 13:23:23.339055+00
+spi-n4-work-3;sp-n4-work-1;少し遅れそうです。;すこしおくれそうです。;Sukoshi okure sou desu.;Sepertinya akan sedikit terlambat.;;;;;;;Melaporkan keterlambatan;polite;neutral;;;3;2026-02-06 13:23:23.339055+00
+spi-n4-work-4;sp-n4-work-1;確認していただけますか。;かくにんしていただけますか。;Kakunin shite itadakemasu ka.;Bisakah Anda memeriksanya?;;;;;;;Meminta konfirmasi;polite;neutral;;;4;2026-02-06 13:23:23.339055+00
+spi-n4-req-1;sp-n4-work-2;お願いがあるのですが。;おねがいがあるのですが。;Onegai ga aru no desu ga.;Ada yang ingin saya minta.;;;;;;;Memulai permintaan;polite;neutral;;;1;2026-02-06 13:23:37.482619+00
+spi-n4-req-2;sp-n4-work-2;手伝っていただけませんか。;てつだっていただけませんか。;Tetsudatte itadakemasen ka.;Bisakah Anda membantu saya?;;;;;;;Meminta bantuan sopan;polite;neutral;;;2;2026-02-06 13:23:37.482619+00
+spi-n4-req-3;sp-n4-work-2;もう一度説明していただけますか。;もういちどせつめいしていただけますか。;Mou ichido setsumei shite itadakemasu ka.;Bisakah Anda menjelaskan sekali lagi?;;;;;;;Meminta penjelasan ulang;polite;neutral;;;3;2026-02-06 13:23:37.482619+00
+spi-n4-req-4;sp-n4-work-2;お時間があるときでいいのですが。;おじかんがあるときでいいのですが。;Ojikan ga aru toki de ii no desu ga.;Kapan pun Anda punya waktu.;;;;;;;Permintaan fleksibel;polite;neutral;;;4;2026-02-06 13:23:37.482619+00
+spi-n4-soc-1;sp-n4-social-1;今度一緒に食事しませんか。;こんどいっしょにしょくじしませんか。;Kondo issho ni shokuji shimasen ka.;Mau makan bersama kapan-kapan?;;;;;;;Mengundang makan;polite;neutral;;;1;2026-02-06 13:23:37.482619+00
+spi-n4-soc-2;sp-n4-social-1;行きたいですが、その日は予定があります。;いきたいですが、そのひはよていがあります。;Ikitai desu ga, sono hi wa yotei ga arimasu.;Ingin pergi, tapi hari itu ada jadwal.;;;;;;;Menolak dengan sopan;polite;neutral;;;2;2026-02-06 13:23:37.482619+00
+spi-n4-soc-3;sp-n4-social-1;残念ですが、また誘ってください。;ざんねんですが、またさそってください。;Zannen desu ga, mata sasotte kudasai.;Sayang sekali, tolong ajak lagi ya.;;;;;;;Menolak dan menjaga hubungan;polite;neutral;;;3;2026-02-06 13:23:37.482619+00
+spi-n4-dir-1;sp-n4-travel-1;駅はどこですか。;えきはどこですか。;Eki wa doko desu ka.;Stasiunnya di mana?;;;;;;;Menanyakan lokasi;polite;neutral;;;1;2026-02-06 13:23:37.482619+00
+spi-n4-dir-2;sp-n4-travel-1;まっすぐ行って、二つ目の角を右に曲がってください。;まっすぐいって、ふたつめのかどをみぎにまがってください。;Massugu itte, futatsu-me no kado wo migi ni magatte kudasai.;Jalan lurus, belok kanan di perempatan kedua.;;;;;;;Memberikan petunjuk arah;polite;neutral;;;2;2026-02-06 13:23:37.482619+00
+spi-n4-dir-3;sp-n4-travel-1;歩いてどのくらいかかりますか。;あるいてどのくらいかかりますか。;Aruite dono kurai kakarimasu ka.;Berapa lama kalau jalan kaki?;;;;;;;Menanyakan waktu tempuh;polite;neutral;;;3;2026-02-06 13:23:37.482619+00
+spi-n3-meet-1;sp-n3-business-1;本日の議題について説明させていただきます。;ほんじつのぎだいについてせつめいさせていただきます。;Honjitsu no gidai ni tsuite setsumei sasete itadakimasu.;Izinkan saya menjelaskan agenda hari ini.;;;;;;;Memulai rapat;formal;neutral;;;1;2026-02-06 13:23:58.8022+00
+spi-n3-meet-2;sp-n3-business-1;ご意見をいただけますでしょうか。;ごいけんをいただけますでしょうか。;Goiken wo itadakemasu deshou ka.;Bolehkah saya meminta pendapat Anda?;;;;;;;Meminta pendapat;formal;neutral;;;2;2026-02-06 13:23:58.8022+00
+spi-n3-meet-3;sp-n3-business-1;その件については検討させていただきます。;そのけんについてはけんとうさせていただきます。;Sono ken ni tsuite wa kentou sasete itadakimasu.;Mengenai hal itu, izinkan kami mempertimbangkan.;;;;;;;Menangguhkan keputusan;formal;neutral;;;3;2026-02-06 13:23:58.8022+00
+spi-n3-meet-4;sp-n3-business-1;次回までに資料をご用意いたします。;じかいまでにしりょうをごよういいたします。;Jikai made ni shiryou wo goyoui itashimasu.;Saya akan menyiapkan dokumen untuk pertemuan berikutnya.;;;;;;;Berjanji menyiapkan;formal;neutral;;;4;2026-02-06 13:23:58.8022+00
+spi-n3-pres-1;sp-n3-business-2;本日は貴重なお時間をいただき、ありがとうございます。;ほんじつはきちょうなおじかんをいただき、ありがとうございます。;Honjitsu wa kichou na ojikan wo itadaki, arigatou gozaimasu.;Terima kasih atas waktu berharga Anda hari ini.;;;;;;;Pembukaan presentasi;formal;neutral;;;1;2026-02-06 13:23:58.8022+00
+spi-n3-pres-2;sp-n3-business-2;まず、背景からご説明いたします。;まず、はいけいからごせつめいいたします。;Mazu, haikei kara gosetsumei itashimasu.;Pertama, izinkan saya menjelaskan latar belakangnya.;;;;;;;Memulai penjelasan;formal;neutral;;;2;2026-02-06 13:23:58.8022+00
+spi-n3-pres-3;sp-n3-business-2;こちらのグラフをご覧ください。;こちらのグラフをごらんください。;Kochira no gurafu wo goran kudasai.;Silakan lihat grafik ini.;;;;;;;Menunjukkan visual;formal;neutral;;;3;2026-02-06 13:23:58.8022+00
+spi-n3-pres-4;sp-n3-business-2;ご質問があれば、お受けいたします。;ごしつもんがあれば、おうけいたします。;Goshitsumon ga areba, ouke itashimasu.;Jika ada pertanyaan, silakan.;;;;;;;Membuka sesi tanya jawab;formal;neutral;;;4;2026-02-06 13:23:58.8022+00
+spi-n3-nego-1;sp-n3-business-3;ご提案について、いくつか確認させていただきたいのですが。;ごていあんについて、いくつかかくにんさせていただきたいのですが。;Goteian ni tsuite, ikutsuka kakunin sasete itadakitai no desu ga.;Mengenai proposal Anda, ada beberapa hal yang ingin saya konfirmasi.;;;;;;;Memulai negosiasi;formal;neutral;;;1;2026-02-06 13:23:58.8022+00
+spi-n3-nego-2;sp-n3-business-3;もう少し条件を調整していただくことは可能でしょうか。;もうすこしじょうけんをちょうせいしていただくことはかのうでしょうか。;Mou sukoshi jouken wo chousei shite itadaku koto wa kanou deshou ka.;Apakah mungkin untuk menyesuaikan syaratnya sedikit?;;;;;;;Meminta penyesuaian;formal;neutral;;;2;2026-02-06 13:23:58.8022+00
+spi-n3-nego-3;sp-n3-business-3;双方にとってメリットのある形で進められればと思います。;そうほうにとってメリットのあるかたちですすめられればとおもいます。;Souhou ni totte meritto no aru katachi de susumerareba to omoimasu.;Saya berharap kita bisa melanjutkan dengan cara yang menguntungkan kedua belah pihak.;;;;;;;Mencari win-win solution;formal;neutral;;;3;2026-02-06 13:23:58.8022+00
+spi-n3-son-1;sp-n3-keigo-1;社長がいらっしゃいます。;しゃちょうがいらっしゃいます。;Shachou ga irasshaimasu.;Direktur akan datang.;;;;;;;Sonkeigo untuk datang;formal;neutral;;;1;2026-02-06 13:24:17.294695+00
+spi-n3-son-2;sp-n3-keigo-1;先生がおっしゃったことを覚えています。;せんせいがおっしゃったことをおぼえています。;Sensei ga osshatta koto wo oboete imasu.;Saya ingat apa yang guru katakan.;;;;;;;Sonkeigo untuk mengatakan;formal;neutral;;;2;2026-02-06 13:24:17.294695+00
+spi-n3-son-3;sp-n3-keigo-1;お客様はもうお帰りになりました。;おきゃくさまはもうおかえりになりました。;Okyakusama wa mou okaeri ni narimashita.;Tamu sudah pulang.;;;;;;;Sonkeigo untuk pulang;formal;neutral;;;3;2026-02-06 13:24:17.294695+00
+spi-n3-son-4;sp-n3-keigo-1;部長はこの資料をご覧になりましたか。;ぶちょうはこのしりょうをごらんになりましたか。;Buchou wa kono shiryou wo goran ni narimashita ka.;Apakah manajer sudah melihat dokumen ini?;;;;;;;Sonkeigo untuk melihat;formal;neutral;;;4;2026-02-06 13:24:17.294695+00
+spi-n3-ken-1;sp-n3-keigo-2;私がご案内いたします。;わたしがごあんないいたします。;Watashi ga goannai itashimasu.;Saya akan mengantar Anda.;;;;;;;Kenjougo untuk mengantar;formal;neutral;;;1;2026-02-06 13:24:17.294695+00
+spi-n3-ken-2;sp-n3-keigo-2;資料をお持ちいたしました。;しりょうをおもちいたしました。;Shiryou wo omochi itashimashita.;Saya membawakan dokumennya.;;;;;;;Kenjougo untuk membawa;formal;neutral;;;2;2026-02-06 13:24:17.294695+00
+spi-n3-ken-3;sp-n3-keigo-2;詳細については、後ほどご連絡申し上げます。;しょうさいについては、のちほどごれんらくもうしあげます。;Shousai ni tsuite wa, nochihodo gorenraku moushiagemasu.;Mengenai detailnya, saya akan menghubungi nanti.;;;;;;;Kenjougo untuk menghubungi;formal;neutral;;;3;2026-02-06 13:24:17.294695+00
+spi-n3-ken-4;sp-n3-keigo-2;ご質問がございましたら、何なりとお申し付けください。;ごしつもんがございましたら、なんなりとおもうしつけください。;Goshitsumon ga gozaimashitara, nan nari to omoushitsuke kudasai.;Jika ada pertanyaan, silakan beritahu saya.;;;;;;;Menawarkan bantuan formal;formal;neutral;;;4;2026-02-06 13:24:17.294695+00
+spi-n3-opi-1;sp-n3-opinion-1;私の考えでは、この方法がいいと思います。;わたしのかんがえでは、このほうほうがいいとおもいます。;Watashi no kangae de wa, kono houhou ga ii to omoimasu.;Menurut pendapat saya, cara ini bagus.;;;;;;;Menyatakan pendapat;polite;neutral;;;1;2026-02-06 13:24:17.294695+00
+spi-n3-opi-2;sp-n3-opinion-1;おっしゃることはごもっともですが、別の見方もあるかと思います。;おっしゃることはごもっともですが、べつのみかたもあるかとおもいます。;Ossharu koto wa gomottomo desu ga, betsu no mikata mo aru ka to omoimasu.;Apa yang Anda katakan benar, tapi mungkin ada sudut pandang lain.;;;;;;;Tidak setuju dengan sopan;polite;neutral;;;2;2026-02-06 13:24:17.294695+00
+spi-n3-opi-3;sp-n3-opinion-1;その点については、賛成いたします。;そのてんについては、さんせいいたします。;Sono ten ni tsuite wa, sansei itashimasu.;Mengenai poin itu, saya setuju.;;;;;;;Menyatakan persetujuan;formal;neutral;;;3;2026-02-06 13:24:17.294695+00
+spi-n3-comp-1;sp-n3-problem-1;大変申し訳ございません。;たいへんもうしわけございません。;Taihen moushiwake gozaimasen.;Kami sangat minta maaf.;;;;;;;Meminta maaf formal;formal;neutral;;;1;2026-02-06 13:24:17.294695+00
+spi-n3-comp-2;sp-n3-problem-1;すぐに確認させていただきます。;すぐにかくにんさせていただきます。;Sugu ni kakunin sasete itadakimasu.;Saya akan segera memeriksanya.;;;;;;;Menawarkan solusi;formal;neutral;;;2;2026-02-06 13:24:17.294695+00
+spi-n3-comp-3;sp-n3-problem-1;ご不便をおかけして、誠に申し訳ございません。;ごふべんをおかけして、まことにもうしわけございません。;Gofuben wo okake shite, makoto ni moushiwake gozaimasen.;Kami mohon maaf atas ketidaknyamanannya.;;;;;;;Meminta maaf atas ketidaknyamanan;formal;neutral;;;3;2026-02-06 13:24:17.294695+00
+spi-n3-comp-4;sp-n3-problem-1;今後このようなことがないよう、改善いたします。;こんごこのようなことがないよう、かいぜんいたします。;Kongo kono you na koto ga nai you, kaizen itashimasu.;Kami akan memperbaiki agar hal ini tidak terjadi lagi.;;;;;;;Menjanjikan perbaikan;formal;neutral;;;4;2026-02-06 13:24:17.294695+00

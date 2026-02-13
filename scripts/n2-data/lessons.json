@@ -1,0 +1,262 @@
+[
+  {
+    "id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "chapter_id": "e56442ee-3c13-4009-8e18-9ee0470fac29",
+    "lesson_number": 1,
+    "title_jp": "〜に際して・〜にあたって",
+    "title_id": "Pada Saat / Ketika Menghadapi",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜に際して", "meaning": "Pada saat; ketika", "example": "出発に際して、注意事項を確認してください。"}, {"pattern": "〜にあたって", "meaning": "Pada kesempatan; ketika menghadapi", "example": "入学にあたって、必要な書類を準備しましょう。"}]},
+    "xp_reward": 35,
+    "sort_order": 1
+  },
+  {
+    "id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "chapter_id": "e56442ee-3c13-4009-8e18-9ee0470fac29",
+    "lesson_number": 2,
+    "title_jp": "〜をもとに・〜に基づいて",
+    "title_id": "Berdasarkan / Berlandaskan",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜をもとに", "meaning": "Berdasarkan; berlandaskan", "example": "この映画は実話をもとに作られた。"}, {"pattern": "〜に基づいて", "meaning": "Berdasarkan; sesuai dengan", "example": "法律に基づいて判断する。"}]},
+    "xp_reward": 35,
+    "sort_order": 2
+  },
+  {
+    "id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "chapter_id": "e56442ee-3c13-4009-8e18-9ee0470fac29",
+    "lesson_number": 3,
+    "title_jp": "〜に応じて・〜次第で",
+    "title_id": "Sesuai Dengan / Tergantung Pada",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜に応じて", "meaning": "Sesuai dengan; tergantung pada", "example": "能力に応じて給料が決まる。"}, {"pattern": "〜次第で", "meaning": "Tergantung pada", "example": "結果次第で、計画を変更する。"}]},
+    "xp_reward": 35,
+    "sort_order": 3
+  },
+  {
+    "id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "chapter_id": "e56442ee-3c13-4009-8e18-9ee0470fac29",
+    "lesson_number": 4,
+    "title_jp": "〜につれて・〜に伴って",
+    "title_id": "Seiring Dengan / Beriringan Dengan",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜につれて", "meaning": "Seiring dengan", "example": "年齢が上がるにつれて、体力が落ちる。"}, {"pattern": "〜に伴って", "meaning": "Beriringan dengan; seiring dengan", "example": "人口増加に伴って、住宅が不足している。"}]},
+    "xp_reward": 35,
+    "sort_order": 4
+  },
+  {
+    "id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "chapter_id": "e56442ee-3c13-4009-8e18-9ee0470fac29",
+    "lesson_number": 5,
+    "title_jp": "〜一方で・〜反面",
+    "title_id": "Di Sisi Lain / Sebaliknya",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜一方で", "meaning": "Di sisi lain; sementara itu", "example": "都市は便利な一方で、自然が少ない。"}, {"pattern": "〜反面", "meaning": "Sebaliknya; di sisi lain", "example": "彼は優しい反面、厳しいところもある。"}]},
+    "xp_reward": 35,
+    "sort_order": 5
+  },
+  {
+    "id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "chapter_id": "0fc145f8-da02-4b31-8fba-e692c7d07aaa",
+    "lesson_number": 1,
+    "title_jp": "〜において・〜における",
+    "title_id": "Di / Dalam (Formal)",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜において", "meaning": "Di; dalam; pada (formal)", "example": "国際会議において重要な決定が下された。"}, {"pattern": "〜における", "meaning": "Di; dalam (sebagai modifier)", "example": "教育における問題点を議論する。"}]},
+    "xp_reward": 35,
+    "sort_order": 6
+  },
+  {
+    "id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "chapter_id": "0fc145f8-da02-4b31-8fba-e692c7d07aaa",
+    "lesson_number": 2,
+    "title_jp": "〜に関して・〜に対して",
+    "title_id": "Mengenai / Terhadap",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜に関して", "meaning": "Mengenai; tentang (formal)", "example": "この件に関して、詳しく説明します。"}, {"pattern": "〜に対して", "meaning": "Terhadap; kepada", "example": "お客様に対して丁寧に接する。"}]},
+    "xp_reward": 35,
+    "sort_order": 7
+  },
+  {
+    "id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "chapter_id": "0fc145f8-da02-4b31-8fba-e692c7d07aaa",
+    "lesson_number": 3,
+    "title_jp": "〜として・〜上（じょう）",
+    "title_id": "Sebagai / Dari Segi",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜として", "meaning": "Sebagai", "example": "教師として働いている。"}, {"pattern": "〜上（じょう）", "meaning": "Dari segi; dalam hal", "example": "法律上、それは認められない。"}]},
+    "xp_reward": 35,
+    "sort_order": 8
+  },
+  {
+    "id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "chapter_id": "0fc145f8-da02-4b31-8fba-e692c7d07aaa",
+    "lesson_number": 4,
+    "title_jp": "〜を通じて・〜をはじめ",
+    "title_id": "Melalui / Dimulai Dari",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜を通じて", "meaning": "Melalui; lewat", "example": "インターネットを通じて情報を集める。"}, {"pattern": "〜をはじめ", "meaning": "Dimulai dari; termasuk", "example": "東京をはじめ、大都市は物価が高い。"}]},
+    "xp_reward": 35,
+    "sort_order": 9
+  },
+  {
+    "id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "chapter_id": "b7775f4b-faa7-4f73-b936-df294038d2bf",
+    "lesson_number": 1,
+    "title_jp": "〜ものの・〜とはいえ",
+    "title_id": "Meskipun / Walaupun",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜ものの", "meaning": "Meskipun; walaupun", "example": "買ったものの、一度も使っていない。"}, {"pattern": "〜とはいえ", "meaning": "Walaupun dikatakan; meskipun begitu", "example": "春とはいえ、まだ寒い日がある。"}]},
+    "xp_reward": 35,
+    "sort_order": 10
+  },
+  {
+    "id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "chapter_id": "b7775f4b-faa7-4f73-b936-df294038d2bf",
+    "lesson_number": 2,
+    "title_jp": "〜どころか・〜はおろか",
+    "title_id": "Jangankan / Apalagi",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜どころか", "meaning": "Jangankan; bukan hanya", "example": "休むどころか、残業までさせられた。"}, {"pattern": "〜はおろか", "meaning": "Jangankan; apalagi", "example": "漢字はおろか、ひらがなも読めない。"}]},
+    "xp_reward": 35,
+    "sort_order": 11
+  },
+  {
+    "id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "chapter_id": "b7775f4b-faa7-4f73-b936-df294038d2bf",
+    "lesson_number": 3,
+    "title_jp": "〜からといって・〜からには",
+    "title_id": "Hanya Karena / Karena Sudah",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜からといって", "meaning": "Hanya karena; bukan berarti", "example": "安いからといって、品質が悪いとは限らない。"}, {"pattern": "〜からには", "meaning": "Karena sudah; selama", "example": "約束したからには、守らなければならない。"}]},
+    "xp_reward": 35,
+    "sort_order": 12
+  },
+  {
+    "id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "chapter_id": "b7775f4b-faa7-4f73-b936-df294038d2bf",
+    "lesson_number": 4,
+    "title_jp": "〜にしても・〜にせよ",
+    "title_id": "Sekalipun / Meskipun",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜にしても", "meaning": "Sekalipun; bahkan jika", "example": "忙しいにしても、食事はきちんと取るべきだ。"}, {"pattern": "〜にせよ", "meaning": "Meskipun; sekalipun", "example": "理由は何にせよ、遅刻は良くない。"}]},
+    "xp_reward": 35,
+    "sort_order": 13
+  },
+  {
+    "id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "chapter_id": "b7775f4b-faa7-4f73-b936-df294038d2bf",
+    "lesson_number": 5,
+    "title_jp": "〜ばかりか・〜のみならず",
+    "title_id": "Bukan Hanya / Tidak Hanya",
+    "content": {"type": "grammar", "patterns": [{"pattern": "〜ばかりか", "meaning": "Bukan hanya; tidak hanya", "example": "彼は英語ばかりか、中国語も話せる。"}, {"pattern": "〜のみならず", "meaning": "Tidak hanya; bukan saja (formal)", "example": "国内のみならず、海外でも人気がある。"}]},
+    "xp_reward": 35,
+    "sort_order": 14
+  },
+  {
+    "id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "chapter_id": "b5a8b4b6-c76d-4293-893e-858354401cf3",
+    "lesson_number": 1,
+    "title_jp": "ビジネス敬語・メール表現",
+    "title_id": "Keigo Bisnis & Ekspresi Email",
+    "content": {"type": "grammar", "patterns": [{"pattern": "お/ご〜いただく", "meaning": "Menerima (merendahkan diri)", "example": "ご確認いただきありがとうございます。"}, {"pattern": "お/ご〜申し上げる", "meaning": "Melakukan (merendahkan diri, sangat formal)", "example": "心よりお詫び申し上げます。"}]},
+    "xp_reward": 35,
+    "sort_order": 15
+  },
+  {
+    "id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "chapter_id": "b5a8b4b6-c76d-4293-893e-858354401cf3",
+    "lesson_number": 2,
+    "title_jp": "二重敬語と敬語の誤用",
+    "title_id": "Keigo Ganda & Kesalahan Umum Keigo",
+    "content": {"type": "grammar", "patterns": [{"pattern": "二重敬語の例", "meaning": "Contoh keigo ganda (salah)", "example": "✗ おっしゃられる → ◯ おっしゃる"}, {"pattern": "正しい敬語の使い分け", "meaning": "Penggunaan keigo yang benar", "example": "部長がおっしゃったとおりにします。"}]},
+    "xp_reward": 35,
+    "sort_order": 16
+  },
+  {
+    "id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "chapter_id": "b5a8b4b6-c76d-4293-893e-858354401cf3",
+    "lesson_number": 3,
+    "title_jp": "電話・会議の敬語",
+    "title_id": "Keigo Telepon & Rapat",
+    "content": {"type": "grammar", "patterns": [{"pattern": "電話の定型表現", "meaning": "Ekspresi baku telepon", "example": "お電話ありがとうございます。○○会社でございます。"}, {"pattern": "会議の敬語表現", "meaning": "Ekspresi keigo dalam rapat", "example": "ご意見をお聞かせいただけますでしょうか。"}]},
+    "xp_reward": 35,
+    "sort_order": 17
+  },
+  {
+    "id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "chapter_id": "b5a8b4b6-c76d-4293-893e-858354401cf3",
+    "lesson_number": 4,
+    "title_jp": "手紙・公式文書の表現",
+    "title_id": "Ekspresi Surat & Dokumen Resmi",
+    "content": {"type": "grammar", "patterns": [{"pattern": "時候の挨拶", "meaning": "Salam pembuka musiman", "example": "拝啓　時下ますますご清栄のこととお慶び申し上げます。"}, {"pattern": "結びの表現", "meaning": "Ekspresi penutup surat", "example": "何卒よろしくお願い申し上げます。"}]},
+    "xp_reward": 35,
+    "sort_order": 18
+  },
+  {
+    "id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "chapter_id": "3b403076-383c-4541-9ac5-4555b859b1b6",
+    "lesson_number": 1,
+    "title_jp": "長文読解のテクニック",
+    "title_id": "Teknik Membaca Teks Panjang",
+    "content": {"type": "grammar", "patterns": [{"pattern": "段落の構造理解", "meaning": "Memahami struktur paragraf", "example": "主題文→展開→結論の流れを把握する。"}, {"pattern": "指示語の追跡", "meaning": "Melacak kata penunjuk", "example": "「それ」「この」が何を指すか確認する。"}]},
+    "xp_reward": 35,
+    "sort_order": 19
+  },
+  {
+    "id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "chapter_id": "3b403076-383c-4541-9ac5-4555b859b1b6",
+    "lesson_number": 2,
+    "title_jp": "意見文・評論の読解",
+    "title_id": "Membaca Opini & Kritik",
+    "content": {"type": "grammar", "patterns": [{"pattern": "筆者の主張を読み取る", "meaning": "Memahami argumen penulis", "example": "「〜と考える」「〜べきだ」などの表現に注目する。"}, {"pattern": "根拠と結論の関係", "meaning": "Hubungan bukti dan kesimpulan", "example": "「なぜなら」「したがって」で論理を追う。"}]},
+    "xp_reward": 35,
+    "sort_order": 20
+  },
+  {
+    "id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "chapter_id": "3b403076-383c-4541-9ac5-4555b859b1b6",
+    "lesson_number": 3,
+    "title_jp": "情報検索・図表の読み取り",
+    "title_id": "Pencarian Informasi & Membaca Grafik",
+    "content": {"type": "grammar", "patterns": [{"pattern": "必要な情報を素早く見つける", "meaning": "Menemukan informasi dengan cepat", "example": "見出し・太字・箇条書きに注目する。"}, {"pattern": "図表からデータを読む", "meaning": "Membaca data dari grafik/tabel", "example": "「増加している」「減少傾向」などの表現を使う。"}]},
+    "xp_reward": 35,
+    "sort_order": 21
+  },
+  {
+    "id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "chapter_id": "3b403076-383c-4541-9ac5-4555b859b1b6",
+    "lesson_number": 4,
+    "title_jp": "比較・対照の読解",
+    "title_id": "Membaca Perbandingan & Kontras",
+    "content": {"type": "grammar", "patterns": [{"pattern": "比較の表現", "meaning": "Ekspresi perbandingan", "example": "「一方」「それに対して」「〜に比べて」"}, {"pattern": "対照の読み取り", "meaning": "Memahami kontras", "example": "賛成意見と反対意見を整理する。"}]},
+    "xp_reward": 35,
+    "sort_order": 22
+  },
+  {
+    "id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "chapter_id": "c0abd299-f7a1-4f5a-bb29-c5552e8b4402",
+    "lesson_number": 1,
+    "title_jp": "ニュース日本語の表現",
+    "title_id": "Ekspresi Bahasa Jepang Berita",
+    "content": {"type": "grammar", "patterns": [{"pattern": "見出し語の特徴", "meaning": "Karakteristik bahasa judul berita", "example": "「〜へ」「〜か」「〜も」などの省略表現"}, {"pattern": "ニュース特有の語彙", "meaning": "Kosakata khas berita", "example": "「発表」「見通し」「方針」「検討」"}]},
+    "xp_reward": 35,
+    "sort_order": 23
+  },
+  {
+    "id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "chapter_id": "c0abd299-f7a1-4f5a-bb29-c5552e8b4402",
+    "lesson_number": 2,
+    "title_jp": "学術論文の表現",
+    "title_id": "Ekspresi Makalah Akademik",
+    "content": {"type": "grammar", "patterns": [{"pattern": "論文の構成表現", "meaning": "Ekspresi struktur makalah", "example": "「本稿では」「〜を考察する」「〜と結論づける」"}, {"pattern": "客観的な記述", "meaning": "Penulisan objektif", "example": "「〜と考えられる」「〜と推測される」"}]},
+    "xp_reward": 35,
+    "sort_order": 24
+  },
+  {
+    "id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "chapter_id": "c0abd299-f7a1-4f5a-bb29-c5552e8b4402",
+    "lesson_number": 3,
+    "title_jp": "社説・コラムの読解",
+    "title_id": "Membaca Editorial & Kolom",
+    "content": {"type": "grammar", "patterns": [{"pattern": "意見表明の表現", "meaning": "Ekspresi menyatakan pendapat", "example": "「〜ではないだろうか」「〜と言わざるを得ない」"}, {"pattern": "問題提起の表現", "meaning": "Ekspresi mengangkat masalah", "example": "「〜が問われている」「〜が課題である」"}]},
+    "xp_reward": 35,
+    "sort_order": 25
+  },
+  {
+    "id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "chapter_id": "c0abd299-f7a1-4f5a-bb29-c5552e8b4402",
+    "lesson_number": 4,
+    "title_jp": "統計・データの日本語",
+    "title_id": "Bahasa Jepang untuk Statistik & Data",
+    "content": {"type": "grammar", "patterns": [{"pattern": "数値の表現", "meaning": "Ekspresi angka/statistik", "example": "「約〜」「〜以上」「〜未満」「〜割」"}, {"pattern": "変化の表現", "meaning": "Ekspresi perubahan", "example": "「増加する」「減少する」「横ばい」「急増」"}]},
+    "xp_reward": 35,
+    "sort_order": 26
+  }
+]

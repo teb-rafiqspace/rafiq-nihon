@@ -1,0 +1,6 @@
+id;lesson_id;title_ja;title_id;scenario_description;location;participants;difficulty;estimated_turns;created_at
+cs-greet-01;sp-conv-greetings;初めての挨拶;Salam Pertama;Bertemu dengan rekan kerja baru di kantor;office;{あなた,田中さん};beginner;6;2026-01-26 08:09:15.039815+00
+cs-greet-02;sp-conv-greetings;朝の挨拶;Salam Pagi;Tiba di kantor pagi hari;office;{あなた,山田さん};beginner;4;2026-01-26 08:09:15.039815+00
+cs-shop-01;sp-conv-shopping;コンビニで;Di Konbini;Membeli makanan di convenience store;convenience_store;{あなた,店員};beginner;8;2026-01-26 08:09:15.039815+00
+cs-rest-01;sp-conv-restaurant;注文する;Memesan Makanan;Memesan makanan di restoran;restaurant;{あなた,ウェイター};intermediate;10;2026-01-26 08:09:15.039815+00
+cs-work-01;sp-conv-workplace;仕事の相談;Konsultasi Pekerjaan;Bertanya tentang tugas kepada atasan;office;{あなた,上司};intermediate;8;2026-01-26 08:09:15.039815+00

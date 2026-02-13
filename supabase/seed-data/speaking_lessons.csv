@@ -1,0 +1,37 @@
+id;title_ja;title_id;description;lesson_type;difficulty;track;category;estimated_minutes;xp_reward;order_index;is_premium;created_at
+sp-shadow-greetings;挨拶シャドーイング;Shadowing: Salam;Latihan meniru pengucapan salam dasar;shadowing;beginner;general;greetings;5;15;1;false;2026-01-26 08:07:59.362971+00
+sp-shadow-selfintro;自己紹介シャドーイング;Shadowing: Perkenalan Diri;Latihan meniru pengucapan perkenalan;shadowing;beginner;general;self_intro;7;20;2;false;2026-01-26 08:07:59.362971+00
+sp-shadow-daily;日常会話シャドーイング;Shadowing: Percakapan Harian;Latihan meniru percakapan sehari-hari;shadowing;beginner;general;daily;10;25;3;false;2026-01-26 08:07:59.362971+00
+sp-shadow-workplace;職場シャドーイング;Shadowing: Tempat Kerja;Latihan meniru ungkapan di tempat kerja;shadowing;intermediate;kemnaker;workplace;10;30;4;false;2026-01-26 08:07:59.362971+00
+sp-pron-vowels;母音の発音;Pengucapan Vokal;Latihan vokal Jepang: あ い う え お;pronunciation;beginner;general;sounds;5;15;10;false;2026-01-26 08:07:59.362971+00
+sp-pron-consonants;子音の発音;Pengucapan Konsonan;Latihan konsonan dasar Jepang;pronunciation;beginner;general;sounds;10;20;11;false;2026-01-26 08:07:59.362971+00
+sp-pron-difficult;難しい音;Bunyi Sulit;Latihan bunyi yang sulit: つ、ふ、ら行、ん;pronunciation;beginner;general;sounds;10;25;12;false;2026-01-26 08:07:59.362971+00
+sp-pron-double;促音と長音;Bunyi Dobel & Panjang;Latihan っ dan bunyi panjang;pronunciation;intermediate;general;sounds;8;25;13;false;2026-01-26 08:07:59.362971+00
+sp-conv-greetings;挨拶の会話;Percakapan: Salam;Latihan dialog salam dengan AI;conversation;beginner;general;greetings;5;20;20;false;2026-01-26 08:07:59.362971+00
+sp-conv-shopping;買い物の会話;Percakapan: Belanja;Latihan dialog belanja dengan AI;conversation;beginner;general;shopping;8;25;21;false;2026-01-26 08:07:59.362971+00
+sp-conv-restaurant;レストランの会話;Percakapan: Restoran;Latihan dialog di restoran dengan AI;conversation;intermediate;general;restaurant;10;30;22;false;2026-01-26 08:07:59.362971+00
+sp-conv-workplace;職場の会話;Percakapan: Kantor;Latihan dialog di tempat kerja dengan AI;conversation;intermediate;kemnaker;workplace;10;35;23;false;2026-01-26 08:07:59.362971+00
+sp-conv-hospital;病院の会話;Percakapan: Rumah Sakit;Latihan dialog di rumah sakit dengan AI;conversation;intermediate;kemnaker;hospital;10;35;24;false;2026-01-26 08:07:59.362971+00
+sp-role-jobinterview;面接ロールプレイ;Role-Play: Wawancara Kerja;Simulasi wawancara kerja Jepang;roleplay;intermediate;kemnaker;interview;15;50;30;false;2026-01-26 08:07:59.362971+00
+sp-role-askhelp;助けを求める;Role-Play: Minta Bantuan;Simulasi meminta bantuan di tempat kerja;roleplay;intermediate;kemnaker;workplace;10;35;31;false;2026-01-26 08:07:59.362971+00
+sp-role-report;報告する;Role-Play: Melaporkan;Simulasi melaporkan masalah ke atasan;roleplay;intermediate;kemnaker;workplace;10;35;32;false;2026-01-26 08:07:59.362971+00
+sp-role-phonecall;電話対応;Role-Play: Telepon;Simulasi menerima/membuat telepon;roleplay;advanced;kemnaker;workplace;12;40;33;false;2026-01-26 08:07:59.362971+00
+sp-read-hiragana;ひらがな音読;Baca Nyaring: Hiragana;Latihan membaca hiragana dengan keras;read_aloud;beginner;general;reading;5;15;40;false;2026-01-26 08:07:59.362971+00
+sp-read-katakana;カタカナ音読;Baca Nyaring: Katakana;Latihan membaca katakana dengan keras;read_aloud;beginner;general;reading;5;15;41;false;2026-01-26 08:07:59.362971+00
+sp-read-sentences;文章音読;Baca Nyaring: Kalimat;Latihan membaca kalimat dengan keras;read_aloud;intermediate;general;reading;10;25;42;false;2026-01-26 08:07:59.362971+00
+sp-pitch-basics;アクセント基礎;Dasar Pitch Accent;Pengenalan pitch accent Jepang;pitch_accent;intermediate;general;pitch;10;30;50;false;2026-01-26 08:07:59.362971+00
+sp-pitch-words;単語アクセント;Pitch Accent Kata;Latihan pitch accent untuk kata-kata umum;pitch_accent;advanced;general;pitch;15;40;51;false;2026-01-26 08:07:59.362971+00
+sp-n4-daily-1;日常会話：買い物;Percakapan Sehari-hari: Berbelanja;Latihan percakapan saat berbelanja di toko;shadowing;intermediate;jlpt_n4;daily_life;8;30;100;false;2026-02-06 13:23:02.87896+00
+sp-n4-daily-2;日常会話：レストラン;Percakapan Sehari-hari: Restoran;Latihan memesan makanan dan berkomunikasi di restoran;shadowing;intermediate;jlpt_n4;daily_life;8;30;101;false;2026-02-06 13:23:02.87896+00
+sp-n4-daily-3;日常会話：病院;Percakapan Sehari-hari: Rumah Sakit;Latihan menjelaskan gejala dan berkonsultasi dengan dokter;shadowing;intermediate;jlpt_n4;daily_life;10;35;102;false;2026-02-06 13:23:02.87896+00
+sp-n4-work-1;職場：報告と連絡;Tempat Kerja: Laporan dan Koordinasi;Latihan melaporkan kemajuan kerja dan berkoordinasi;conversation;intermediate;jlpt_n4;workplace;10;35;103;false;2026-02-06 13:23:02.87896+00
+sp-n4-work-2;職場：お願いと依頼;Tempat Kerja: Permintaan dan Permohonan;Latihan meminta bantuan dan membuat permintaan sopan;roleplay;intermediate;jlpt_n4;workplace;10;35;104;false;2026-02-06 13:23:02.87896+00
+sp-n4-social-1;社交：招待と断り;Sosial: Undangan dan Penolakan;Latihan mengundang dan menolak dengan sopan;conversation;intermediate;jlpt_n4;social;8;30;105;false;2026-02-06 13:23:02.87896+00
+sp-n4-travel-1;旅行：道案内;Perjalanan: Petunjuk Arah;Latihan menanyakan dan memberikan petunjuk arah;shadowing;intermediate;jlpt_n4;travel;8;30;106;false;2026-02-06 13:23:02.87896+00
+sp-n3-business-1;ビジネス：会議;Bisnis: Rapat;Latihan percakapan formal dalam rapat kerja;roleplay;advanced;jlpt_n3;business;12;40;200;false;2026-02-06 13:23:02.87896+00
+sp-n3-business-2;ビジネス：プレゼン;Bisnis: Presentasi;Latihan mempresentasikan ide dan menjawab pertanyaan;roleplay;advanced;jlpt_n3;business;12;40;201;false;2026-02-06 13:23:02.87896+00
+sp-n3-business-3;ビジネス：交渉;Bisnis: Negosiasi;Latihan bernegosiasi dengan sopan dan efektif;conversation;advanced;jlpt_n3;business;15;45;202;false;2026-02-06 13:23:02.87896+00
+sp-n3-keigo-1;敬語：尊敬語;Keigo: Bentuk Hormat;Latihan menggunakan bentuk hormat dalam percakapan;shadowing;advanced;jlpt_n3;keigo;10;35;203;false;2026-02-06 13:23:02.87896+00
+sp-n3-keigo-2;敬語：謙譲語;Keigo: Bentuk Merendah;Latihan menggunakan bentuk merendah diri;shadowing;advanced;jlpt_n3;keigo;10;35;204;false;2026-02-06 13:23:02.87896+00
+sp-n3-opinion-1;意見表明：賛成と反対;Menyatakan Pendapat: Setuju dan Tidak Setuju;Latihan menyatakan pendapat secara sopan;conversation;advanced;jlpt_n3;opinion;10;35;205;false;2026-02-06 13:23:02.87896+00
+sp-n3-problem-1;問題解決：クレーム対応;Penyelesaian Masalah: Menangani Keluhan;Latihan merespons dan menyelesaikan keluhan;roleplay;advanced;jlpt_n3;problem_solving;12;40;206;false;2026-02-06 13:23:02.87896+00

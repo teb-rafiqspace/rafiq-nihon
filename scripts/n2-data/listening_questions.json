@@ -1,0 +1,152 @@
+[
+  {
+    "id": "lq-n2-001",
+    "listening_id": "listening-n2-001",
+    "question_text": "来年度の予算案の総額はいくらですか。",
+    "question_type": "multiple_choice",
+    "options": ["約100兆円", "約115兆円", "約120兆円", "約130兆円"],
+    "correct_answer": "約115兆円",
+    "explanation": "ニュースで「総額は約115兆円」と述べられています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n2-002",
+    "listening_id": "listening-n2-001",
+    "question_text": "防衛費はどのくらい増額されましたか。",
+    "question_type": "multiple_choice",
+    "options": ["約5パーセント", "約10パーセント", "約15パーセント", "約20パーセント"],
+    "correct_answer": "約10パーセント",
+    "explanation": "「防衛費については前年度比で約10パーセントの増額」と述べられています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n2-003",
+    "listening_id": "listening-n2-001",
+    "question_text": "野党は何を批判していますか。",
+    "question_type": "multiple_choice",
+    "options": ["防衛費の増額", "社会保障費の削減", "財源の確保策が不十分", "予算の規模が小さい"],
+    "correct_answer": "財源の確保策が不十分",
+    "explanation": "「野党は、財源の確保策が不十分であると批判して」と述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n2-004",
+    "listening_id": "listening-n2-002",
+    "question_text": "今四半期の売上は前年同期比でどのくらい増えましたか。",
+    "question_type": "multiple_choice",
+    "options": ["10パーセント増", "15パーセント増", "20パーセント増", "25パーセント増"],
+    "correct_answer": "15パーセント増",
+    "explanation": "「前年同期比で15パーセント増の4億2千万円」と報告されています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n2-005",
+    "listening_id": "listening-n2-002",
+    "question_text": "課題として挙げられていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["人材不足", "原材料費の高騰", "製品の品質問題", "競合他社の参入"],
+    "correct_answer": "原材料費の高騰",
+    "explanation": "「原材料費の高騰が利益率に影響を及ぼしている点が課題」と述べられています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n2-006",
+    "listening_id": "listening-n2-002",
+    "question_text": "田中部長が次回の会議で求めていることは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["新製品の提案", "コスト削減策の具体的な提案", "海外市場のレポート", "売上目標の見直し"],
+    "correct_answer": "コスト削減策の具体的な提案",
+    "explanation": "「コスト削減策について、次回の会議で具体的な提案をお願いします」と求めています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n2-007",
+    "listening_id": "listening-n2-003",
+    "question_text": "日本の高度経済成長期はいつからいつまでですか。",
+    "question_type": "multiple_choice",
+    "options": ["1945年から1965年", "1950年から1970年", "1955年から1973年", "1960年から1980年"],
+    "correct_answer": "1955年から1973年",
+    "explanation": "「1955年から1973年にかけて」と講義で述べられています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n2-008",
+    "listening_id": "listening-n2-003",
+    "question_text": "経済成長を支えた要因として述べられていないものはどれですか。",
+    "question_type": "multiple_choice",
+    "options": ["勤勉な労働力", "技術革新", "外国からの投資", "政府の産業政策"],
+    "correct_answer": "外国からの投資",
+    "explanation": "勤勉な労働力、技術革新と設備投資、政府の産業政策が要因として挙げられていますが、外国からの投資は述べられていません。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n2-009",
+    "listening_id": "listening-n2-003",
+    "question_text": "急速な経済成長が引き起こした問題は何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["失業率の増加", "公害問題と人口集中", "食料不足", "教育水準の低下"],
+    "correct_answer": "公害問題と人口集中",
+    "explanation": "「公害問題や都市部への人口集中など、さまざまな社会問題も引き起こしました」と述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n2-010",
+    "listening_id": "listening-n2-004",
+    "question_text": "職人が伝統工芸を始めたきっかけは何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["大学で学んだ", "祖父の技術が失われることへの危機感", "お金が稼げると思った", "政府の補助金があった"],
+    "correct_answer": "祖父の技術が失われることへの危機感",
+    "explanation": "「祖父の技術が失われてしまうことに危機感を覚え」と述べられています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n2-011",
+    "listening_id": "listening-n2-004",
+    "question_text": "職人の祖父は何の職人でしたか。",
+    "question_type": "multiple_choice",
+    "options": ["陶器", "漆器", "織物", "木工"],
+    "correct_answer": "漆器",
+    "explanation": "「祖父が漆器の職人でして」と述べられています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n2-012",
+    "listening_id": "listening-n2-004",
+    "question_text": "職人が最も重要だと考えている使命は何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["新しい技術を開発すること", "技術を次の世代に伝えること", "海外に進出すること", "伝統を変えないこと"],
+    "correct_answer": "技術を次の世代に伝えること",
+    "explanation": "「技術を次の世代に伝えることは、私の最も重要な使命」と述べられています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n2-013",
+    "listening_id": "listening-n2-005",
+    "question_text": "明日の午後の天気はどうなりますか。",
+    "question_type": "multiple_choice",
+    "options": ["一日中晴れ", "午後から雲が広がり夕方以降雨", "午前中から雨", "一日中くもり"],
+    "correct_answer": "午後から雲が広がり夕方以降雨",
+    "explanation": "「午後から次第に雲が広がり、夕方以降は広い範囲で雨が降る見込み」と述べられています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n2-014",
+    "listening_id": "listening-n2-005",
+    "question_text": "渋滞の原因は何ですか。",
+    "question_type": "multiple_choice",
+    "options": ["工事", "事故", "天候", "イベント"],
+    "correct_answer": "事故",
+    "explanation": "「八王子インターチェンジ付近で発生した事故の影響」と述べられています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n2-015",
+    "listening_id": "listening-n2-005",
+    "question_text": "渋滞を通過するのにどのくらいかかる見込みですか。",
+    "question_type": "multiple_choice",
+    "options": ["約10分", "約20分", "約30分", "約60分"],
+    "correct_answer": "約30分",
+    "explanation": "「通過に約30分かかる見込み」と述べられています。",
+    "order_index": 3
+  }
+]

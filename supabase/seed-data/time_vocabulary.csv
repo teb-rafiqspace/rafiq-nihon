@@ -1,0 +1,17 @@
+id;type;japanese;reading;meaning_id;is_exception;exception_note;order_index;created_at
+hour-1;hour;1時;いちじ;jam 1;false;;1;2026-01-22 13:46:20.734284+00
+hour-4;hour;4時;よじ;jam 4;true;bukan しじ;4;2026-01-22 13:46:20.734284+00
+hour-7;hour;7時;しちじ;jam 7;true;;7;2026-01-22 13:46:20.734284+00
+hour-9;hour;9時;くじ;jam 9;true;bukan きゅうじ;9;2026-01-22 13:46:20.734284+00
+min-1;minute;1分;いっぷん;1 menit;true;;1;2026-01-22 13:46:20.734284+00
+min-3;minute;3分;さんぷん;3 menit;true;;3;2026-01-22 13:46:20.734284+00
+min-6;minute;6分;ろっぷん;6 menit;true;;6;2026-01-22 13:46:20.734284+00
+min-8;minute;8分;はっぷん;8 menit;true;;8;2026-01-22 13:46:20.734284+00
+min-10;minute;10分;じゅっぷん;10 menit;true;;10;2026-01-22 13:46:20.734284+00
+day-sun;day;日曜日;にちようび;Minggu;false;;0;2026-01-22 13:46:20.734284+00
+day-mon;day;月曜日;げつようび;Senin;false;;1;2026-01-22 13:46:20.734284+00
+day-tue;day;火曜日;かようび;Selasa;false;;2;2026-01-22 13:46:20.734284+00
+day-wed;day;水曜日;すいようび;Rabu;false;;3;2026-01-22 13:46:20.734284+00
+day-thu;day;木曜日;もくようび;Kamis;false;;4;2026-01-22 13:46:20.734284+00
+day-fri;day;金曜日;きんようび;Jumat;false;;5;2026-01-22 13:46:20.734284+00
+day-sat;day;土曜日;どようび;Sabtu;false;;6;2026-01-22 13:46:20.734284+00

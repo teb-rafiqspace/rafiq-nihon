@@ -1,0 +1,405 @@
+id;lesson_id;word_jp;reading;meaning_id;example_jp;example_id;audio_url;category;jlpt_level;created_at
+12a906e8-f7ec-4d3a-bb93-97a4fd174bbc;23805733-a636-4397-8818-c59c7ec3b821;おはようございます;ohayou gozaimasu;Selamat pagi (formal);おはようございます、先生。;Selamat pagi, Pak/Bu Guru.;;greeting;N5;2026-01-22 07:51:20.012833+00
+23cd992a-05c2-4792-b672-a70eae39abae;23805733-a636-4397-8818-c59c7ec3b821;おはよう;ohayou;Selamat pagi (informal);おはよう、田中さん。;Pagi, Tanaka.;;greeting;N5;2026-01-22 07:51:20.012833+00
+3cabb522-e2ed-48fd-8b7b-74921f9e2fcd;23805733-a636-4397-8818-c59c7ec3b821;こんにちは;konnichiwa;Selamat siang;こんにちは、お元気ですか。;Selamat siang, apa kabar?;;greeting;N5;2026-01-22 07:51:20.012833+00
+4248eb72-d15a-43fc-83f2-33ad0b80c84a;23805733-a636-4397-8818-c59c7ec3b821;お元気ですか;ogenki desu ka;Apa kabar?;お元気ですか。元気です。;Apa kabar? Baik.;;phrase;N5;2026-01-22 07:51:20.012833+00
+32e07398-f8ef-4c27-a812-5f126382acf6;23805733-a636-4397-8818-c59c7ec3b821;元気です;genki desu;Saya baik-baik saja;はい、元気です。;Ya, saya baik-baik saja.;;phrase;N5;2026-01-22 07:51:20.012833+00
+a1484d84-65c6-4f72-8fe6-3963e8693cff;08ae6695-7d7e-4aa4-803c-d39367a23306;こんばんは;konbanwa;Selamat malam;こんばんは、山田さん。;Selamat malam, Yamada.;;greeting;N5;2026-01-22 07:51:20.012833+00
+5d56c95d-0846-4a5c-a118-ec1ac3e47cd5;08ae6695-7d7e-4aa4-803c-d39367a23306;さようなら;sayounara;Selamat tinggal;さようなら、また明日。;Selamat tinggal, sampai besok.;;greeting;N5;2026-01-22 07:51:20.012833+00
+b914795f-d048-4c3a-a7f5-8f288c437058;08ae6695-7d7e-4aa4-803c-d39367a23306;おやすみなさい;oyasuminasai;Selamat tidur (formal);おやすみなさい、お母さん。;Selamat tidur, Ibu.;;greeting;N5;2026-01-22 07:51:20.012833+00
+f3012727-d4ef-4c41-aacf-3a6a35fcc718;08ae6695-7d7e-4aa4-803c-d39367a23306;おやすみ;oyasumi;Selamat tidur (informal);おやすみ、また明日ね。;Selamat tidur, sampai besok ya.;;greeting;N5;2026-01-22 07:51:20.012833+00
+f50abf9e-b38f-4bf3-ab95-bcc83e7693cb;08ae6695-7d7e-4aa4-803c-d39367a23306;また明日;mata ashita;Sampai besok;じゃ、また明日！;Kalau begitu, sampai besok!;;phrase;N5;2026-01-22 07:51:20.012833+00
+ef5e44f1-43cb-4629-8367-dbe3339a4345;9213f2d3-6215-487a-bfe9-12388279f452;ありがとうございます;arigatou gozaimasu;Terima kasih (formal);ありがとうございます、先生。;Terima kasih, Pak/Bu Guru.;;greeting;N5;2026-01-22 07:51:20.012833+00
+e89c9abd-4e0b-43c0-bf50-5b61634a77a1;9213f2d3-6215-487a-bfe9-12388279f452;ありがとう;arigatou;Terima kasih (informal);ありがとう、友達。;Terima kasih, teman.;;greeting;N5;2026-01-22 07:51:20.012833+00
+11e8ae21-bbe9-4f98-92ff-d41e6fb04dbf;9213f2d3-6215-487a-bfe9-12388279f452;どういたしまして;dou itashimashite;Sama-sama;どういたしまして、どうぞ。;Sama-sama, silakan.;;phrase;N5;2026-01-22 07:51:20.012833+00
+92196b12-4800-42f6-b7f1-31d5ee6dd1d4;9213f2d3-6215-487a-bfe9-12388279f452;どうも;doumo;Terima kasih (sangat informal);どうも！;Makasih!;;greeting;N5;2026-01-22 07:51:20.012833+00
+b7dd12dc-a323-4771-9e17-71239145bea6;35b7b218-a6a7-4c39-b82b-43e87ff1241b;はじめまして;hajimemashite;Salam kenal (saat pertama bertemu);はじめまして、田中と申します。;Salam kenal, nama saya Tanaka.;;phrase;N5;2026-01-22 11:16:52.321425+00
+57b35783-7c3f-4f93-91db-fa65aee0110c;35b7b218-a6a7-4c39-b82b-43e87ff1241b;よろしくおねがいします;yoroshiku onegaishimasu;Mohon bantuannya / Senang berkenalan;どうぞよろしくおねがいします。;Mohon bantuannya (sangat sopan).;;phrase;N5;2026-01-22 11:16:52.321425+00
+7cbcdf00-eed2-4416-98f0-6293ce48b0d0;35b7b218-a6a7-4c39-b82b-43e87ff1241b;こちらこそ;kochira koso;Saya juga / Sama-sama;こちらこそ、よろしくおねがいします。;Saya juga, mohon bantuannya.;;phrase;N5;2026-01-22 11:16:52.321425+00
+eda3cbae-314f-475c-a4f9-3e195f4f383f;35b7b218-a6a7-4c39-b82b-43e87ff1241b;どうぞ;douzo;Silakan;どうぞ、お座りください。;Silakan duduk.;;adverb;N5;2026-01-22 11:16:52.321425+00
+cc816173-4c76-434f-a258-8a21f2155e02;35b7b218-a6a7-4c39-b82b-43e87ff1241b;〜と申します;~to moushimasu;Nama saya adalah~ (sangat sopan);ブディと申します。;Nama saya Budi (sangat sopan).;;phrase;N5;2026-01-22 11:16:52.321425+00
+958cc06e-d809-448d-b91c-cac514ecd45a;35b7b218-a6a7-4c39-b82b-43e87ff1241b;〜です;~desu;adalah~ / saya adalah~;わたしはブディです。;Saya adalah Budi.;;copula;N5;2026-01-22 11:16:52.321425+00
+19033adb-a0f6-4139-8f73-9e465281a8ca;96335759-3131-45e4-a0d4-8b43475a8381;名前;namae;Nama;お名前は何ですか。;Siapa nama Anda?;;noun;N5;2026-01-22 11:17:12.753066+00
+e1e1c43b-9440-4a54-8e2c-33591ecbb4ef;96335759-3131-45e4-a0d4-8b43475a8381;わたし;watashi;Saya;わたしはインドネシア人です。;Saya orang Indonesia.;;pronoun;N5;2026-01-22 11:17:12.753066+00
+cadf6fad-9991-420f-aedf-92a5f50009d8;96335759-3131-45e4-a0d4-8b43475a8381;出身;shusshin;Asal (tempat kelahiran);ご出身はどちらですか。;Anda berasal dari mana?;;noun;N5;2026-01-22 11:17:12.753066+00
+0bf1791f-8aab-44ad-9e14-3c6e2806f427;96335759-3131-45e4-a0d4-8b43475a8381;〜から来ました;~kara kimashita;Datang dari~;インドネシアから来ました。;Saya datang dari Indonesia.;;phrase;N5;2026-01-22 11:17:12.753066+00
+c81615e9-bdeb-43a2-8fd2-fcb457c941cb;96335759-3131-45e4-a0d4-8b43475a8381;インドネシア;Indonesia;Indonesia;インドネシアのジャカルタから来ました。;Saya datang dari Jakarta, Indonesia.;;noun;N5;2026-01-22 11:17:12.753066+00
+40a02d60-347e-48a1-a5d5-6b22e1ec3041;96335759-3131-45e4-a0d4-8b43475a8381;〜人;~jin;Orang (kebangsaan);わたしはインドネシア人です。;Saya orang Indonesia.;;suffix;N5;2026-01-22 11:17:12.753066+00
+380af1db-449a-489e-a93a-9b094e1d27ee;96335759-3131-45e4-a0d4-8b43475a8381;どこ;doko;Dimana;どこから来ましたか。;Dari mana Anda datang?;;pronoun;N5;2026-01-22 11:17:12.753066+00
+980385a0-2ec2-4748-b5dd-7bd610035b30;96335759-3131-45e4-a0d4-8b43475a8381;どちら;dochira;Mana (sopan) / Arah mana;ご出身はどちらですか。;Anda berasal dari mana? (sopan);;pronoun;N5;2026-01-22 11:17:12.753066+00
+f519f942-8b9a-4153-8c61-6aa405e26d12;d2784789-02f7-49bf-8954-ddd4fd52acbe;仕事;shigoto;Pekerjaan;お仕事は何ですか。;Apa pekerjaan Anda?;;noun;N5;2026-01-22 11:17:43.798151+00
+c2595ced-814c-4459-a264-9e9892fd350f;d2784789-02f7-49bf-8954-ddd4fd52acbe;会社;kaisha;Perusahaan;会社で働いています。;Saya bekerja di perusahaan.;;noun;N5;2026-01-22 11:17:43.798151+00
+9862d4f0-8f92-4df3-91bd-44142d66d0f0;d2784789-02f7-49bf-8954-ddd4fd52acbe;会社員;kaishain;Karyawan perusahaan;わたしは会社員です。;Saya adalah karyawan.;;noun;N5;2026-01-22 11:17:43.798151+00
+6b08a002-4532-4e9a-bc6c-a930860f0ea5;d2784789-02f7-49bf-8954-ddd4fd52acbe;工場;koujou;Pabrik;工場で働いています。;Saya bekerja di pabrik.;;noun;N5;2026-01-22 11:17:43.798151+00
+614bc51f-1b38-4198-8035-700830162769;d2784789-02f7-49bf-8954-ddd4fd52acbe;研修生;kenshuusei;Peserta magang/pelatihan;わたしは研修生です。;Saya adalah peserta magang.;;noun;N4;2026-01-22 11:17:43.798151+00
+3ef7c882-5227-4fab-85eb-71f376e0fa9e;d2784789-02f7-49bf-8954-ddd4fd52acbe;技能実習生;ginou jisshuusei;Peserta magang teknis;技能実習生として日本に来ました。;Saya datang ke Jepang sebagai peserta magang teknis.;;noun;N4;2026-01-22 11:17:43.798151+00
+6c85e054-b628-40aa-ba0e-eee89e33ff2e;d2784789-02f7-49bf-8954-ddd4fd52acbe;働く;hataraku;Bekerja;毎日8時間働きます。;Saya bekerja 8 jam setiap hari.;;verb;N5;2026-01-22 11:17:43.798151+00
+818c68d2-bb42-4af3-8bfa-dd34c1f1e2dc;d2784789-02f7-49bf-8954-ddd4fd52acbe;〜で働いています;~de hataraite imasu;Bekerja di~;トヨタで働いています。;Saya bekerja di Toyota.;;phrase;N5;2026-01-22 11:17:43.798151+00
+78f9b1f9-34bd-4dff-a049-4326004ed167;d2784789-02f7-49bf-8954-ddd4fd52acbe;部署;busho;Departemen/Bagian;製造部署で働いています。;Saya bekerja di bagian produksi.;;noun;N4;2026-01-22 11:17:43.798151+00
+22ff43fc-fa68-4507-8b5d-53aa810e88a4;d2784789-02f7-49bf-8954-ddd4fd52acbe;製造;seizou;Produksi/Manufaktur;製造の仕事をしています。;Saya melakukan pekerjaan produksi.;;noun;N4;2026-01-22 11:17:43.798151+00
+3a61cc1d-2623-4396-819b-e7cb5323e9a6;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;一;いち;Satu (1);一つください。;Tolong satu.;;number;N5;2026-01-22 12:20:28.614568+00
+e8a440ae-e85a-46bf-a2f1-066f60621a18;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;二;に;Dua (2);りんごを二つ買いました。;Saya membeli dua apel.;;number;N5;2026-01-22 12:20:28.614568+00
+40b518f7-05cf-4e2a-8bd1-cfee43b16a84;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;三;さん;Tiga (3);三人で行きます。;Pergi bertiga.;;number;N5;2026-01-22 12:20:28.614568+00
+16ae71d1-602b-4602-a3cf-dcf4d1397bf5;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;四;し / よん;Empat (4);四時に会いましょう。;Mari bertemu jam 4.;;number;N5;2026-01-22 12:20:28.614568+00
+3f7f132d-ae0a-4e4f-93d1-f06b3b33108c;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;五;ご;Lima (5);五分待ってください。;Tolong tunggu 5 menit.;;number;N5;2026-01-22 12:20:28.614568+00
+98253109-ffb2-4339-9ae7-8003884ce1d8;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;六;ろく;Enam (6);六月に日本に行きます。;Saya pergi ke Jepang bulan Juni.;;number;N5;2026-01-22 12:20:28.614568+00
+e2d61792-12be-4136-8377-774b24d52ff5;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;七;しち / なな;Tujuh (7);七時に起きます。;Saya bangun jam 7.;;number;N5;2026-01-22 12:20:28.614568+00
+494b306b-7cc9-48de-b20c-1bdb9e6da1f3;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;八;はち;Delapan (8);八時から働きます。;Bekerja dari jam 8.;;number;N5;2026-01-22 12:20:28.614568+00
+51e09a95-3d01-409e-9c58-e3dedf39f1f5;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;九;きゅう / く;Sembilan (9);九月は秋です。;September adalah musim gugur.;;number;N5;2026-01-22 12:20:28.614568+00
+022b31c0-db15-4f1b-bf4b-1ed815febedc;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;十;じゅう;Sepuluh (10);十個あります。;Ada sepuluh buah.;;number;N5;2026-01-22 12:20:28.614568+00
+b92910d1-ed37-4a51-b5e4-032c2caf12d9;86d5aad8-975c-4a3a-ada1-bc0d6a8168ca;零/ゼロ;れい / ゼロ;Nol (0);今日は零度です。;Hari ini 0 derajat.;;number;N5;2026-01-22 12:20:28.614568+00
+6933b85c-5a94-4d06-a18c-298b09141cc2;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;十一;じゅういち;Sebelas (11);十一月です。;Ini bulan November.;;number;N5;2026-01-22 12:23:53.794966+00
+2c071945-8b73-4cb0-b984-099d31ee4a1c;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;十二;じゅうに;Dua belas (12);十二時に昼ご飯を食べます。;Makan siang jam 12.;;number;N5;2026-01-22 12:23:53.794966+00
+520761fb-90d8-4673-84d3-68f4453cf54b;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;二十;にじゅう;Dua puluh (20);わたしは二十歳です。;Saya berumur 20 tahun.;;number;N5;2026-01-22 12:23:53.794966+00
+e19e415c-525a-4e8a-893e-d7dc5b63a97b;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;二十一;にじゅういち;Dua puluh satu (21);二十一日に会いましょう。;Mari bertemu tanggal 21.;;number;N5;2026-01-22 12:23:53.794966+00
+628f6808-03ca-4a52-9699-fcc5aaab1eea;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;三十;さんじゅう;Tiga puluh (30);三十分かかります。;Memakan waktu 30 menit.;;number;N5;2026-01-22 12:23:53.794966+00
+6d37b87d-f5c4-406e-baee-cf64be33de31;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;四十;よんじゅう;Empat puluh (40);四十人います。;Ada 40 orang.;;number;N5;2026-01-22 12:23:53.794966+00
+5558ef7d-18f0-4e93-95b1-8ddd3a72fbec;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;五十;ごじゅう;Lima puluh (50);五十円です。;Harganya 50 yen.;;number;N5;2026-01-22 12:23:53.794966+00
+daae565a-8d76-4907-b7f9-f0628320ddc4;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;六十;ろくじゅう;Enam puluh (60);六十歳のおじいさん。;Kakek berumur 60 tahun.;;number;N5;2026-01-22 12:23:53.794966+00
+0113839f-3c4a-48e3-b910-b2f1b33111de;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;七十;ななじゅう;Tujuh puluh (70);七十パーセントです。;Ini 70 persen.;;number;N5;2026-01-22 12:23:53.794966+00
+95675ca9-ed8a-4f62-8bd4-37a710912d04;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;八十;はちじゅう;Delapan puluh (80);八十キロあります。;Ada 80 kilometer.;;number;N5;2026-01-22 12:23:53.794966+00
+fd6a26ab-d48b-4cba-b824-dd81ca23b09e;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;九十;きゅうじゅう;Sembilan puluh (90);九十点を取りました。;Saya mendapat nilai 90.;;number;N5;2026-01-22 12:23:53.794966+00
+569364ff-7fc6-45b1-80c5-6f8a71c15189;7e702dea-7d7e-44ff-a33e-cc48b7b1de42;百;ひゃく;Seratus (100);百円です。;Harganya 100 yen.;;number;N5;2026-01-22 12:23:53.794966+00
+e41c8af9-e1c0-4d45-b128-3cc28297b249;357d4e4f-8c50-453d-ae70-3aa6b102763a;百;ひゃく;Seratus (100);百円玉がありますか。;Apakah ada koin 100 yen?;;number;N5;2026-01-22 12:26:23.61342+00
+999e18c6-7d69-44cd-9cdf-57bcda95f5d7;357d4e4f-8c50-453d-ae70-3aa6b102763a;二百;にひゃく;Dua ratus (200);二百グラムください。;Tolong 200 gram.;;number;N5;2026-01-22 12:26:23.61342+00
+173c1025-358c-45ba-823d-5f2fa39c0d5b;357d4e4f-8c50-453d-ae70-3aa6b102763a;三百;さんびゃく;Tiga ratus (300);三百円です。;Harganya 300 yen.;;number;N5;2026-01-22 12:26:23.61342+00
+a8c30048-dd26-4404-a51b-8fcd6a981bac;357d4e4f-8c50-453d-ae70-3aa6b102763a;六百;ろっぴゃく;Enam ratus (600);六百人が来ました。;600 orang datang.;;number;N5;2026-01-22 12:26:23.61342+00
+9e9cab1d-312a-4123-b029-2e076e6b0843;357d4e4f-8c50-453d-ae70-3aa6b102763a;八百;はっぴゃく;Delapan ratus (800);八百円です。;Harganya 800 yen.;;number;N5;2026-01-22 12:26:23.61342+00
+70102ee7-d120-4e68-b7b2-0c07a0ba3ef2;357d4e4f-8c50-453d-ae70-3aa6b102763a;千;せん;Seribu (1.000);千円札をください。;Tolong uang kertas 1000 yen.;;number;N5;2026-01-22 12:26:23.61342+00
+971f77b7-d82f-4fff-835c-92194aa7702a;357d4e4f-8c50-453d-ae70-3aa6b102763a;三千;さんぜん;Tiga ribu (3.000);三千円かかります。;Biayanya 3000 yen.;;number;N5;2026-01-22 12:26:23.61342+00
+6875da8e-2d72-4b02-b2f3-08715b150a66;357d4e4f-8c50-453d-ae70-3aa6b102763a;八千;はっせん;Delapan ribu (8.000);八千歩歩きました。;Saya berjalan 8000 langkah.;;number;N5;2026-01-22 12:26:23.61342+00
+6f68f8c2-ab30-4767-b42a-ece6a62f6118;357d4e4f-8c50-453d-ae70-3aa6b102763a;一万;いちまん;Sepuluh ribu (10.000);一万円札しかありません。;Saya hanya punya uang 10.000 yen.;;number;N5;2026-01-22 12:26:23.61342+00
+2a1e8e45-e8f1-4a50-8af6-a0acc50df90e;357d4e4f-8c50-453d-ae70-3aa6b102763a;十万;じゅうまん;Seratus ribu (100.000);給料は十万円です。;Gajinya 100.000 yen.;;number;N5;2026-01-22 12:26:23.61342+00
+108631e2-395a-4c35-b6dc-2fb4fc90ffc2;40ab9f17-20cb-4803-ab51-d686c18c2a13;いくつ;いくつ;Berapa (jumlah benda);りんごはいくつありますか。;Ada berapa apel?;;pronoun;N5;2026-01-22 12:36:03.356403+00
+953b2a32-ef52-403c-8680-0d9701d03ef3;40ab9f17-20cb-4803-ab51-d686c18c2a13;何個;なんこ;Berapa buah (benda kecil);たまごは何個ありますか。;Ada berapa butir telur?;;pronoun;N5;2026-01-22 12:36:03.356403+00
+de1aa4d6-6bd9-4375-8ed3-cd82c117b878;40ab9f17-20cb-4803-ab51-d686c18c2a13;何人;なんにん;Berapa orang;何人いますか。;Ada berapa orang?;;pronoun;N5;2026-01-22 12:36:03.356403+00
+53774f94-e1b4-4d31-a620-37a151a8f1cb;40ab9f17-20cb-4803-ab51-d686c18c2a13;何本;なんぼん;Berapa batang (benda panjang);ペンは何本ありますか。;Ada berapa pulpen?;;pronoun;N5;2026-01-22 12:36:03.356403+00
+1daff5aa-ee09-4f07-8f34-43430355f17b;40ab9f17-20cb-4803-ab51-d686c18c2a13;何枚;なんまい;Berapa lembar (benda tipis);紙は何枚いりますか。;Butuh berapa lembar kertas?;;pronoun;N5;2026-01-22 12:36:03.356403+00
+a50edeb8-9368-4cbf-8bc6-65187811f61e;40ab9f17-20cb-4803-ab51-d686c18c2a13;何台;なんだい;Berapa unit (mesin/kendaraan);車は何台ありますか。;Ada berapa mobil?;;pronoun;N5;2026-01-22 12:36:03.356403+00
+b216d823-ddac-4712-a0fa-bbe98e0a0a75;40ab9f17-20cb-4803-ab51-d686c18c2a13;ある;ある;Ada (untuk benda mati);ここにペンがあります。;Di sini ada pulpen.;;verb;N5;2026-01-22 12:36:03.356403+00
+4cf9b92a-f863-4778-b4a4-4745f2ea05aa;40ab9f17-20cb-4803-ab51-d686c18c2a13;いる;いる;Ada (untuk makhluk hidup);部屋に人がいます。;Di kamar ada orang.;;verb;N5;2026-01-22 12:36:03.356403+00
+3173fa5a-e8a1-4f3d-8553-c994cca9dd61;40ab9f17-20cb-4803-ab51-d686c18c2a13;要る;いる;Butuh / Perlu;ペンが要ります。;Saya butuh pulpen.;;verb;N5;2026-01-22 12:36:03.356403+00
+a20561cf-69df-4891-9a5b-fc3d9e10a2a8;40ab9f17-20cb-4803-ab51-d686c18c2a13;足りる;たりる;Cukup;お金が足りません。;Uangnya tidak cukup.;;verb;N5;2026-01-22 12:36:03.356403+00
+4c02cc62-627c-4ff5-b604-eb6c980c317f;40ab9f17-20cb-4803-ab51-d686c18c2a13;たくさん;たくさん;Banyak;りんごがたくさんあります。;Ada banyak apel.;;adverb;N5;2026-01-22 12:36:03.356403+00
+11057f31-5417-41b1-a3d7-75458579bd80;40ab9f17-20cb-4803-ab51-d686c18c2a13;少し;すこし;Sedikit;少しください。;Tolong sedikit saja.;;adverb;N5;2026-01-22 12:36:03.356403+00
+e716f13b-6006-4cd2-aec8-96779fb93d87;40ab9f17-20cb-4803-ab51-d686c18c2a13;全部;ぜんぶ;Semua / Seluruhnya;全部でいくらですか。;Totalnya berapa?;;noun;N5;2026-01-22 12:36:03.356403+00
+2017315d-5374-46c3-b3a3-3a9f5489a6ca;40ab9f17-20cb-4803-ab51-d686c18c2a13;半分;はんぶん;Setengah;半分ください。;Tolong setengahnya.;;noun;N5;2026-01-22 12:36:03.356403+00
+f23763dc-895d-4637-bad2-12ce05d0a2c2;cb56d1ce-f315-4182-a236-0b641ff05a29;一つ;ひとつ;Satu (benda);りんごを一つください。;Tolong satu apel.;;counter;N5;2026-01-22 12:39:24.434844+00
+68e9be66-8d8a-4a6b-8b99-6136551af0db;cb56d1ce-f315-4182-a236-0b641ff05a29;二つ;ふたつ;Dua (benda);二つ買いました。;Saya beli dua.;;counter;N5;2026-01-22 12:39:24.434844+00
+0ce8facc-90fd-4bf0-b0c5-5ed447457faa;cb56d1ce-f315-4182-a236-0b641ff05a29;三つ;みっつ;Tiga (benda);みかんを三つください。;Tolong tiga jeruk.;;counter;N5;2026-01-22 12:39:24.434844+00
+644df2c1-ef2e-428a-8d6c-a0b0c8cb24ad;cb56d1ce-f315-4182-a236-0b641ff05a29;四つ;よっつ;Empat (benda);四つあります。;Ada empat.;;counter;N5;2026-01-22 12:39:24.434844+00
+80ba65c4-b979-4e16-a3e4-e6b7ec8c2b7f;cb56d1ce-f315-4182-a236-0b641ff05a29;五つ;いつつ;Lima (benda);五つ要ります。;Butuh lima.;;counter;N5;2026-01-22 12:39:24.434844+00
+9c14028a-1fab-48e0-a2df-47400c085d26;cb56d1ce-f315-4182-a236-0b641ff05a29;一人;ひとり;Satu orang;一人で行きます。;Pergi sendiri.;;counter;N5;2026-01-22 12:39:24.434844+00
+045934b5-9f95-43d3-a101-6190e4b6baa2;cb56d1ce-f315-4182-a236-0b641ff05a29;二人;ふたり;Dua orang;二人で食べます。;Makan berdua.;;counter;N5;2026-01-22 12:39:24.434844+00
+c27f8d5e-19c4-4dad-aa0d-6d5aa9883ac3;cb56d1ce-f315-4182-a236-0b641ff05a29;三人;さんにん;Tiga orang;三人で働きます。;Bekerja bertiga.;;counter;N5;2026-01-22 12:39:24.434844+00
+00a6a2d6-3ae4-466b-98e2-f1fd06368ab5;cb56d1ce-f315-4182-a236-0b641ff05a29;一個;いっこ;Satu buah;たまごを一個ください。;Tolong satu telur.;;counter;N5;2026-01-22 12:39:24.434844+00
+5a2e688f-79d9-4d7e-b2de-4fc27faf0bb1;cb56d1ce-f315-4182-a236-0b641ff05a29;六個;ろっこ;Enam buah;六個買いました。;Saya beli enam.;;counter;N5;2026-01-22 12:39:24.434844+00
+a5d1f9bc-d0a9-4ff3-be58-4ebc7797aaec;cb56d1ce-f315-4182-a236-0b641ff05a29;一本;いっぽん;Satu batang;ペンを一本ください。;Tolong satu pulpen.;;counter;N5;2026-01-22 12:39:24.434844+00
+c55be446-e9f9-4b42-a65d-622a66575daa;cb56d1ce-f315-4182-a236-0b641ff05a29;三本;さんぼん;Tiga batang;傘を三本持っています。;Saya punya tiga payung.;;counter;N5;2026-01-22 12:39:24.434844+00
+7114c3ab-0ffc-4595-b7d3-eaf634101bf5;cb56d1ce-f315-4182-a236-0b641ff05a29;一枚;いちまい;Satu lembar;紙を一枚ください。;Tolong satu lembar kertas.;;counter;N5;2026-01-22 12:39:24.434844+00
+62b7b795-0553-4c0b-9818-c6322585700b;cb56d1ce-f315-4182-a236-0b641ff05a29;五枚;ごまい;Lima lembar;コピーを五枚お願いします。;Tolong fotokopi lima lembar.;;counter;N5;2026-01-22 12:39:24.434844+00
+70ebfa2e-30b4-4768-8e17-0e018ebe496f;cb56d1ce-f315-4182-a236-0b641ff05a29;一台;いちだい;Satu unit;機械が一台あります。;Ada satu mesin.;;counter;N5;2026-01-22 12:39:24.434844+00
+ff61cc50-7751-487e-8c0f-5380f7ed9c7d;cb56d1ce-f315-4182-a236-0b641ff05a29;二台;にだい;Dua unit;車が二台あります。;Ada dua mobil.;;counter;N5;2026-01-22 12:39:24.434844+00
+1a307ea8-7090-49ea-b727-1c7eff9d2b51;2198cfcd-a9e1-4573-9e61-df8ec66abda4;円;えん;Yen (mata uang Jepang);これは五百円です。;Ini harganya 500 yen.;;noun;N5;2026-01-22 12:41:10.507067+00
+f5c0c5ba-30de-4977-b5f2-b4d877b5ea88;2198cfcd-a9e1-4573-9e61-df8ec66abda4;いくら;いくら;Berapa (harga);これはいくらですか。;Ini berapa harganya?;;pronoun;N5;2026-01-22 12:41:10.507067+00
+92de55fe-87fb-4270-b569-794423e388d0;2198cfcd-a9e1-4573-9e61-df8ec66abda4;値段;ねだん;Harga;値段を教えてください。;Tolong beritahu harganya.;;noun;N5;2026-01-22 12:41:10.507067+00
+08f8d6a7-24da-49ba-ba32-429bc2aad83a;2198cfcd-a9e1-4573-9e61-df8ec66abda4;高い;たかい;Mahal;ちょっと高いですね。;Agak mahal ya.;;adjective;N5;2026-01-22 12:41:10.507067+00
+55a6c8bf-ff01-4786-a380-b0ab0cb33853;2198cfcd-a9e1-4573-9e61-df8ec66abda4;安い;やすい;Murah;これは安いです。;Ini murah.;;adjective;N5;2026-01-22 12:41:10.507067+00
+a5009782-be54-444b-a31f-0efa8175bd74;2198cfcd-a9e1-4573-9e61-df8ec66abda4;お金;おかね;Uang;お金が足りません。;Uangnya tidak cukup.;;noun;N5;2026-01-22 12:41:10.507067+00
+e570971e-be2d-48f3-8610-3ffc17934a10;2198cfcd-a9e1-4573-9e61-df8ec66abda4;おつり;おつり;Kembalian;おつりをください。;Tolong kembaliannya.;;noun;N5;2026-01-22 12:41:10.507067+00
+1e600610-ee5c-43e9-86db-b7b30f934f6f;2198cfcd-a9e1-4573-9e61-df8ec66abda4;払う;はらう;Membayar;カードで払います。;Saya bayar dengan kartu.;;verb;N5;2026-01-22 12:41:10.507067+00
+066a5d6e-666c-4385-a8ba-3f532a947918;2198cfcd-a9e1-4573-9e61-df8ec66abda4;買う;かう;Membeli;これを買います。;Saya beli ini.;;verb;N5;2026-01-22 12:41:10.507067+00
+cf81fa5e-178d-44ba-96d6-a5b7e0e11728;2198cfcd-a9e1-4573-9e61-df8ec66abda4;全部で;ぜんぶで;Total / Semuanya;全部でいくらですか。;Totalnya berapa?;;phrase;N5;2026-01-22 12:41:10.507067+00
+50610b58-5df2-47d0-88fe-23eab21882e3;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;いらっしゃいませ;いらっしゃいませ;Selamat datang (di toko);いらっしゃいませ、何名様ですか。;Selamat datang, berapa orang?;;phrase;N5;2026-01-22 12:43:29.690346+00
+583f2458-7755-4631-9131-f628c574b691;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;かしこまりました;かしこまりました;Baik, saya mengerti (sangat sopan);かしこまりました、少々お待ちください。;Baik, mohon tunggu sebentar.;;phrase;N4;2026-01-22 12:43:29.690346+00
+b63017fe-2f5a-4921-bd79-f101400c83a4;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;おにぎり;おにぎり;Nasi kepal;おにぎりを二つください。;Tolong dua nasi kepal.;;noun;N5;2026-01-22 12:43:29.690346+00
+d8b0809f-40e5-4b80-81ef-e9a78e964bcf;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;お茶;おちゃ;Teh;お茶を飲みます。;Saya minum teh.;;noun;N5;2026-01-22 12:43:29.690346+00
+2547b406-291f-4a5e-9a75-5fcf2d8902f0;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;コンビニ;こんびに;Minimarket;コンビニで買い物します。;Belanja di minimarket.;;noun;N5;2026-01-22 12:43:29.690346+00
+32b91b19-e844-4a75-9e0c-3aa9dcdf1d06;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;あと;あと;Dan juga / Selain itu;あと、水もください。;Dan juga, tolong air.;;adverb;N5;2026-01-22 12:43:29.690346+00
+9604a383-f423-4faa-bd4b-7c1f1c1fefed;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;〜でお願いします;でおねがいします;Dengan ~ (cara bayar);千円でお願いします。;Dengan uang 1000 yen.;;phrase;N5;2026-01-22 12:43:29.690346+00
+42b1ed9b-5f11-4c07-bdd7-15e7dbc31c5f;9d2de7ac-3ad5-4fcd-b7bf-b77b4a40195e;それ;それ;Itu (dekat lawan bicara);それはいくらですか。;Itu berapa?;;pronoun;N5;2026-01-22 12:43:29.690346+00
+5f608656-90a5-48b7-b899-703da8720e0b;b1b2c3d4-0001-5678-9abc-def012345678;一時;いちじ;Jam 1;今、一時です。;Sekarang jam 1.;;time;N5;2026-01-22 13:50:24.846909+00
+fb9f916c-c1ba-4993-a6ce-ac8bc9d5e68c;b1b2c3d4-0001-5678-9abc-def012345678;二時;にじ;Jam 2;二時に会いましょう。;Mari bertemu jam 2.;;time;N5;2026-01-22 13:50:24.846909+00
+78d62376-aad8-4183-8564-095902ec2b55;b1b2c3d4-0001-5678-9abc-def012345678;三時;さんじ;Jam 3;三時に休憩します。;Istirahat jam 3.;;time;N5;2026-01-22 13:50:24.846909+00
+a9a79f8d-3952-497e-af6b-0ae6612a8921;b1b2c3d4-0001-5678-9abc-def012345678;四時;よじ;Jam 4;四時に終わります。;Selesai jam 4.;;time;N5;2026-01-22 13:50:24.846909+00
+edad356d-f470-4bd8-8fbc-896eb027a73f;b1b2c3d4-0001-5678-9abc-def012345678;五時;ごじ;Jam 5;五時に帰ります。;Pulang jam 5.;;time;N5;2026-01-22 13:50:24.846909+00
+bea7707f-277a-442a-8035-3d848792a524;b1b2c3d4-0001-5678-9abc-def012345678;六時;ろくじ;Jam 6;六時に起きます。;Bangun jam 6.;;time;N5;2026-01-22 13:50:24.846909+00
+0a450147-59f1-4490-be33-42f46d3c29e1;b1b2c3d4-0001-5678-9abc-def012345678;七時;しちじ;Jam 7;七時に朝ごはんを食べます。;Makan pagi jam 7.;;time;N5;2026-01-22 13:50:24.846909+00
+0bfdeb09-9570-470e-a7eb-0d78a0305427;b1b2c3d4-0001-5678-9abc-def012345678;八時;はちじ;Jam 8;八時から仕事です。;Kerja dari jam 8.;;time;N5;2026-01-22 13:50:24.846909+00
+05fb7c1d-3332-4c39-a0f2-8597716a13d2;b1b2c3d4-0001-5678-9abc-def012345678;九時;くじ;Jam 9;九時に会議があります。;Ada rapat jam 9.;;time;N5;2026-01-22 13:50:24.846909+00
+ab17b54e-4b89-4a79-b021-97cd6a4850cb;b1b2c3d4-0001-5678-9abc-def012345678;十時;じゅうじ;Jam 10;十時に休憩です。;Istirahat jam 10.;;time;N5;2026-01-22 13:50:24.846909+00
+ed8ca697-324b-412d-bf4e-3f5ea563b7a1;b1b2c3d4-0001-5678-9abc-def012345678;十一時;じゅういちじ;Jam 11;十一時半に昼ごはんです。;Makan siang jam 11:30.;;time;N5;2026-01-22 13:50:24.846909+00
+5dad3a50-0616-454d-b783-ccc32439dbd1;b1b2c3d4-0001-5678-9abc-def012345678;十二時;じゅうにじ;Jam 12;十二時に昼休みです。;Istirahat siang jam 12.;;time;N5;2026-01-22 13:50:24.846909+00
+5804e3c0-ea4c-4e0e-8471-144494688417;b1b2c3d4-0001-5678-9abc-def012345678;何時;なんじ;Jam berapa;今、何時ですか。;Sekarang jam berapa?;;time;N5;2026-01-22 13:50:24.846909+00
+24429f3e-7bb9-4767-8ac0-1ab3d9e605e2;b1b2c3d4-0001-5678-9abc-def012345678;〜時半;〜じはん;Jam ~ lebih 30 menit;三時半に来てください。;Tolong datang jam 3:30.;;time;N5;2026-01-22 13:50:24.846909+00
+2abc86b3-addc-462d-b24e-ea526bd63e7b;b1b2c3d4-0001-5678-9abc-def012345678;午前;ごぜん;Pagi (AM);午前八時に始まります。;Mulai jam 8 pagi.;;time;N5;2026-01-22 13:50:24.846909+00
+e630e4bd-1e6e-40f5-9858-cddddfa409fe;b1b2c3d4-0001-5678-9abc-def012345678;午後;ごご;Siang/Sore (PM);午後五時に終わります。;Selesai jam 5 sore.;;time;N5;2026-01-22 13:50:24.846909+00
+b9b7d74e-b875-4f0b-bc39-070f182dc5cc;b1b2c3d4-0002-5678-9abc-def012345678;一分;いっぷん;1 menit;一分待ってください。;Tolong tunggu 1 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+59b0fe9a-ce7d-4516-877f-194cc2cd3551;b1b2c3d4-0002-5678-9abc-def012345678;二分;にふん;2 menit;二分で終わります。;Selesai dalam 2 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+5c036e27-fe37-4ab9-9c5e-60b3ca0392fe;b1b2c3d4-0002-5678-9abc-def012345678;三分;さんぷん;3 menit;三分かかります。;Memakan waktu 3 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+a562fbcb-776e-4827-b2dc-d81f55f130e0;b1b2c3d4-0002-5678-9abc-def012345678;四分;よんぷん;4 menit;あと四分です。;Tinggal 4 menit lagi.;;time;N5;2026-01-22 13:50:36.464692+00
+75d9bc7b-8a57-444f-8a00-c25f6b608375;b1b2c3d4-0002-5678-9abc-def012345678;五分;ごふん;5 menit;五分前に来てください。;Tolong datang 5 menit sebelumnya.;;time;N5;2026-01-22 13:50:36.464692+00
+7622ad5f-d0b7-4d05-8735-c705c17a7f4d;b1b2c3d4-0002-5678-9abc-def012345678;六分;ろっぷん;6 menit;六分遅れます。;Terlambat 6 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+b71c6d94-347a-4944-ab8a-ac724ad65b46;b1b2c3d4-0002-5678-9abc-def012345678;七分;ななふん;7 menit;七分ぐらいです。;Sekitar 7 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+8315fd94-d50b-4fad-abb3-dc069d53d544;b1b2c3d4-0002-5678-9abc-def012345678;八分;はっぷん;8 menit;八分歩きます。;Jalan kaki 8 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+76d9e1cf-d1cd-42f4-8cfb-733e84a5b869;b1b2c3d4-0002-5678-9abc-def012345678;九分;きゅうふん;9 menit;九分で着きます。;Sampai dalam 9 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+6d83a245-3b86-4bdd-b1f7-9ff4d4b14349;b1b2c3d4-0002-5678-9abc-def012345678;十分;じゅっぷん;10 menit;十分休憩しましょう。;Mari istirahat 10 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+ebb347b3-72ec-401a-b050-4c471d50c15e;b1b2c3d4-0002-5678-9abc-def012345678;十五分;じゅうごふん;15 menit;十五分後に会議です。;Rapat 15 menit lagi.;;time;N5;2026-01-22 13:50:36.464692+00
+00245686-0da6-4df2-a5c7-dd83c8d80bfb;b1b2c3d4-0002-5678-9abc-def012345678;三十分;さんじゅっぷん;30 menit;三十分かかります。;Memakan waktu 30 menit.;;time;N5;2026-01-22 13:50:36.464692+00
+fd3dd19c-b2e4-4d29-994c-150ed4f56b8f;b1b2c3d4-0002-5678-9abc-def012345678;何分;なんぷん;Berapa menit;何分かかりますか。;Berapa menit?;;time;N5;2026-01-22 13:50:36.464692+00
+666c1d6a-cf10-41fe-ada3-96bd5438f374;b1b2c3d4-0003-5678-9abc-def012345678;日曜日;にちようび;Hari Minggu;日曜日は休みです。;Hari Minggu libur.;;days;N5;2026-01-22 13:50:40.843135+00
+6bd7da3d-eb93-4c7e-bbe2-4579d26432fd;b1b2c3d4-0003-5678-9abc-def012345678;月曜日;げつようび;Hari Senin;月曜日から仕事です。;Kerja dari hari Senin.;;days;N5;2026-01-22 13:50:40.843135+00
+d4ce9267-d71b-4652-aaa0-7b1ec527a1ab;b1b2c3d4-0003-5678-9abc-def012345678;火曜日;かようび;Hari Selasa;火曜日に会議があります。;Ada rapat hari Selasa.;;days;N5;2026-01-22 13:50:40.843135+00
+62c9d03b-061b-4448-864d-f3b53f0c3b1c;b1b2c3d4-0003-5678-9abc-def012345678;水曜日;すいようび;Hari Rabu;水曜日は定休日です。;Hari Rabu tutup.;;days;N5;2026-01-22 13:50:40.843135+00
+a663c150-b8a6-4afd-b6d3-29dab3f90e8e;b1b2c3d4-0003-5678-9abc-def012345678;木曜日;もくようび;Hari Kamis;木曜日に届きます。;Sampai hari Kamis.;;days;N5;2026-01-22 13:50:40.843135+00
+3a96859d-3550-4176-b12b-d6fd8b674985;b1b2c3d4-0003-5678-9abc-def012345678;金曜日;きんようび;Hari Jumat;金曜日に飲み会があります。;Ada acara minum hari Jumat.;;days;N5;2026-01-22 13:50:40.843135+00
+aae2acc1-0d93-45dd-891d-7a3bb95625b1;b1b2c3d4-0003-5678-9abc-def012345678;土曜日;どようび;Hari Sabtu;土曜日に買い物します。;Belanja hari Sabtu.;;days;N5;2026-01-22 13:50:40.843135+00
+56ad62fe-0623-4710-885d-8bda8bdfef9f;b1b2c3d4-0003-5678-9abc-def012345678;何曜日;なんようび;Hari apa;今日は何曜日ですか。;Hari ini hari apa?;;days;N5;2026-01-22 13:50:40.843135+00
+bcc95906-cced-4d3c-807a-feaa01c97015;b1b2c3d4-0003-5678-9abc-def012345678;毎日;まいにち;Setiap hari;毎日八時間働きます。;Bekerja 8 jam setiap hari.;;days;N5;2026-01-22 13:50:40.843135+00
+c3a474b8-0cab-4cce-841f-bdd0a6c6f7ef;b1b2c3d4-0003-5678-9abc-def012345678;毎週;まいしゅう;Setiap minggu;毎週月曜日に会議です。;Rapat setiap Senin.;;days;N5;2026-01-22 13:50:40.843135+00
+243639ff-e70c-4342-9778-899041ab0b15;b1b2c3d4-0004-5678-9abc-def012345678;今日;きょう;Hari ini;今日は忙しいです。;Hari ini sibuk.;;time;N5;2026-01-22 13:50:48.328305+00
+3cb06aff-c4ef-4dc3-ac5d-dd4679e31f17;b1b2c3d4-0004-5678-9abc-def012345678;明日;あした;Besok;明日会いましょう。;Bertemu besok.;;time;N5;2026-01-22 13:50:48.328305+00
+cafa11df-301d-40e0-b1e9-1e849405a6d8;b1b2c3d4-0004-5678-9abc-def012345678;昨日;きのう;Kemarin;昨日は疲れました。;Kemarin capek.;;time;N5;2026-01-22 13:50:48.328305+00
+d19588d9-403c-4ac7-bcf6-77e2f1f1f344;b1b2c3d4-0004-5678-9abc-def012345678;今;いま;Sekarang;今、何時ですか。;Sekarang jam berapa?;;time;N5;2026-01-22 13:50:48.328305+00
+74325213-1053-4459-b991-529cd56eaa7b;b1b2c3d4-0004-5678-9abc-def012345678;朝;あさ;Pagi;朝六時に起きます。;Bangun jam 6 pagi.;;time;N5;2026-01-22 13:50:48.328305+00
+01ccf7be-d5d2-4ddb-9e25-925402681c56;b1b2c3d4-0004-5678-9abc-def012345678;昼;ひる;Siang;昼ごはんを食べます。;Makan siang.;;time;N5;2026-01-22 13:50:48.328305+00
+9a0e9885-5e38-46d1-9249-f775c15cabb5;b1b2c3d4-0004-5678-9abc-def012345678;夜;よる;Malam;夜十時に寝ます。;Tidur jam 10 malam.;;time;N5;2026-01-22 13:50:48.328305+00
+bed94c3f-4f11-4cc7-abfb-8a065cfc5916;b1b2c3d4-0004-5678-9abc-def012345678;晩;ばん;Malam (untuk makan);晩ごはんは何ですか。;Makan malam apa?;;time;N5;2026-01-22 13:50:48.328305+00
+4f94f9bf-ce4b-4ca4-af47-79174687aa2d;b1b2c3d4-0004-5678-9abc-def012345678;〜前;〜まえ;Sebelum ~;会議の前に準備します。;Persiapan sebelum rapat.;;time;N5;2026-01-22 13:50:48.328305+00
+cdcb2c2a-acca-4bf6-8f1e-5376bc6043f4;b1b2c3d4-0004-5678-9abc-def012345678;〜後;〜ご/あと;Setelah ~;仕事の後で食べます。;Makan setelah kerja.;;time;N5;2026-01-22 13:50:48.328305+00
+b4de5a6e-f405-4c77-99bc-cbc4615bc096;b1b2c3d4-0005-5678-9abc-def012345678;起きます;おきます;Bangun;六時に起きます。;Bangun jam 6.;;verb;N5;2026-01-22 13:51:01.51211+00
+e65312c0-f224-44e2-a717-6221122f85d1;b1b2c3d4-0005-5678-9abc-def012345678;寝ます;ねます;Tidur;十一時に寝ます。;Tidur jam 11.;;verb;N5;2026-01-22 13:51:01.51211+00
+b7945ca0-a5cf-48b1-aa9b-b56f0f627fa6;b1b2c3d4-0005-5678-9abc-def012345678;食べます;たべます;Makan;朝ごはんを食べます。;Makan sarapan.;;verb;N5;2026-01-22 13:51:01.51211+00
+180645c9-4d3f-4693-8cb8-f67b131b464c;b1b2c3d4-0005-5678-9abc-def012345678;飲みます;のみます;Minum;コーヒーを飲みます。;Minum kopi.;;verb;N5;2026-01-22 13:51:01.51211+00
+9f951922-af9a-425a-bc60-074f87b17652;b1b2c3d4-0005-5678-9abc-def012345678;行きます;いきます;Pergi;会社に行きます。;Pergi ke kantor.;;verb;N5;2026-01-22 13:51:01.51211+00
+c80be174-588c-4a9a-ad85-e3838caf4f24;b1b2c3d4-0005-5678-9abc-def012345678;来ます;きます;Datang;八時に来ます。;Datang jam 8.;;verb;N5;2026-01-22 13:51:01.51211+00
+c2202108-a734-4f65-b964-ccde296c97a4;b1b2c3d4-0005-5678-9abc-def012345678;帰ります;かえります;Pulang;五時に帰ります。;Pulang jam 5.;;verb;N5;2026-01-22 13:51:01.51211+00
+9f945ba3-1fab-4d19-ae14-46c59eda25e7;b1b2c3d4-0005-5678-9abc-def012345678;働きます;はたらきます;Bekerja;工場で働きます。;Bekerja di pabrik.;;verb;N5;2026-01-22 13:51:01.51211+00
+9b369572-83bd-40e6-9df2-54161f829a22;b1b2c3d4-0005-5678-9abc-def012345678;休みます;やすみます;Istirahat/Libur;日曜日に休みます。;Libur hari Minggu.;;verb;N5;2026-01-22 13:51:01.51211+00
+cc5b26d8-7534-4777-b1c7-64cabf339d19;b1b2c3d4-0005-5678-9abc-def012345678;始まります;はじまります;Mulai;会議は九時に始まります。;Rapat mulai jam 9.;;verb;N5;2026-01-22 13:51:01.51211+00
+2bcb1788-68d7-495c-9a40-85a7698e8a10;b1b2c3d4-0005-5678-9abc-def012345678;終わります;おわります;Selesai;仕事は五時に終わります。;Kerja selesai jam 5.;;verb;N5;2026-01-22 13:51:01.51211+00
+245b30e9-d4f0-447b-a10c-dc7770d8c814;b1b2c3d4-0005-5678-9abc-def012345678;勉強します;べんきょうします;Belajar;日本語を勉強します。;Belajar bahasa Jepang.;;verb;N5;2026-01-22 13:51:01.51211+00
+af260b91-d881-462b-80ee-daa37f130444;b1b2c3d4-0005-5678-9abc-def012345678;見ます;みます;Melihat/Menonton;テレビを見ます。;Menonton TV.;;verb;N5;2026-01-22 13:51:01.51211+00
+cfd90b58-5e55-47d2-b232-2c435752d860;b1b2c3d4-0005-5678-9abc-def012345678;聞きます;ききます;Mendengar;音楽を聞きます。;Mendengarkan musik.;;verb;N5;2026-01-22 13:51:01.51211+00
+22b10618-8b4f-4517-8244-c2f9ac3ed692;b1b2c3d4-0005-5678-9abc-def012345678;読みます;よみます;Membaca;本を読みます。;Membaca buku.;;verb;N5;2026-01-22 13:51:01.51211+00
+983bedc3-dba1-4839-ae79-5d12bc4060d8;b1b2c3d4-0005-5678-9abc-def012345678;書きます;かきます;Menulis;レポートを書きます。;Menulis laporan.;;verb;N5;2026-01-22 13:51:01.51211+00
+4c182369-95b3-4dd9-9ec8-d5351a77c0cb;b1b2c3d4-0005-5678-9abc-def012345678;買います;かいます;Membeli;お弁当を買います。;Membeli bento.;;verb;N5;2026-01-22 13:51:01.51211+00
+d4c662d8-e457-488a-b843-a809c01421fe;b1b2c3d4-0005-5678-9abc-def012345678;会います;あいます;Bertemu;友達に会います。;Bertemu teman.;;verb;N5;2026-01-22 13:51:01.51211+00
+c722e5aa-254c-4855-bfda-0ff02256efe9;b1b2c3d4-0005-5678-9abc-def012345678;します;します;Melakukan;仕事をします。;Melakukan pekerjaan.;;verb;N5;2026-01-22 13:51:01.51211+00
+89cb7d2c-b517-4a76-a852-b08cfeccb025;d1a2b3c4-3001-5678-9abc-def012345678;わたし;わたし;saya;わたしは学生です。;Saya adalah siswa.;;pronoun;N5;2026-01-22 13:55:04.689659+00
+71d5b3ef-d262-4d89-9a41-40b84b688efc;d1a2b3c4-3001-5678-9abc-def012345678;あなた;あなた;kamu/Anda;あなたは先生ですか。;Apakah Anda guru?;;pronoun;N5;2026-01-22 13:55:04.689659+00
+f64c6ab2-3838-427c-8e22-40177e603dca;d1a2b3c4-3001-5678-9abc-def012345678;これ;これ;ini;これは本です。;Ini adalah buku.;;pronoun;N5;2026-01-22 13:55:04.689659+00
+f219f430-2b8a-49f6-9fea-a1eebcb87141;d1a2b3c4-3001-5678-9abc-def012345678;それ;それ;itu (dekat lawan bicara);それは何ですか。;Itu apa?;;pronoun;N5;2026-01-22 13:55:04.689659+00
+70e42eab-bab1-4e39-b479-c2e2a6e4b0da;d1a2b3c4-3001-5678-9abc-def012345678;あれ;あれ;itu (jauh);あれは山です。;Itu adalah gunung.;;pronoun;N5;2026-01-22 13:55:04.689659+00
+70d36990-2c82-40aa-9ad1-938617a6b8d7;d1a2b3c4-3001-5678-9abc-def012345678;何;なに/なん;apa;これは何ですか。;Ini apa?;;pronoun;N5;2026-01-22 13:55:04.689659+00
+a5250454-3d98-4445-92d1-6c4a70600bf4;d1a2b3c4-3002-5678-9abc-def012345678;学生;がくせい;siswa/mahasiswa;田中さんは学生です。;Tanaka adalah siswa.;;occupation;N5;2026-01-22 13:55:04.689659+00
+ac771c54-9317-45e2-adfc-d2f5df075373;d1a2b3c4-3002-5678-9abc-def012345678;先生;せんせい;guru/dokter;山田先生は優しいです。;Guru Yamada baik hati.;;occupation;N5;2026-01-22 13:55:04.689659+00
+d3ffd3d0-2c25-4428-bf93-286acb8e5931;d1a2b3c4-3002-5678-9abc-def012345678;会社員;かいしゃいん;karyawan;父は会社員です。;Ayah saya karyawan.;;occupation;N5;2026-01-22 13:55:04.689659+00
+3d4149f0-68fc-4a1f-b4cd-fd60f4cb1cac;d1a2b3c4-3002-5678-9abc-def012345678;医者;いしゃ;dokter;母は医者です。;Ibu saya dokter.;;occupation;N5;2026-01-22 13:55:04.689659+00
+08d03cbe-fff6-4965-94a0-33844d44b025;d1a2b3c4-3002-5678-9abc-def012345678;研修生;けんしゅうせい;peserta magang;わたしは研修生です。;Saya peserta magang.;;occupation;N4;2026-01-22 13:55:04.689659+00
+07a65d0b-abeb-43f7-af03-519635e5e8bb;d1a2b3c4-3003-5678-9abc-def012345678;日本;にほん;Jepang;日本は美しい国です。;Jepang negara yang indah.;;country;N5;2026-01-22 13:55:04.689659+00
+8a3b4cd1-0590-496b-969e-4173eb17f49d;d1a2b3c4-3003-5678-9abc-def012345678;日本人;にほんじん;orang Jepang;田中さんは日本人です。;Tanaka orang Jepang.;;country;N5;2026-01-22 13:55:04.689659+00
+f1270a9d-7fd8-4d7a-a6bb-cf15fde1eb1a;d1a2b3c4-3003-5678-9abc-def012345678;インドネシア;インドネシア;Indonesia;インドネシアから来ました。;Saya dari Indonesia.;;country;N5;2026-01-22 13:55:04.689659+00
+afb7f3a2-448d-43e6-beff-0f60998c2c97;d1a2b3c4-3003-5678-9abc-def012345678;日本語;にほんご;bahasa Jepang;日本語を勉強しています。;Saya belajar bahasa Jepang.;;language;N5;2026-01-22 13:55:04.689659+00
+780f0fb2-1b85-446f-aa41-798bf9467b46;d1a2b3c4-3003-5678-9abc-def012345678;名前;なまえ;nama;お名前は何ですか。;Siapa nama Anda?;;noun;N5;2026-01-22 13:55:04.689659+00
+6a340920-aa52-42f9-bc74-df46cbb5665e;;わたし;watashi;saya;わたしは学生です。;Saya adalah siswa.;;pronoun;N5;2026-01-22 13:26:58.376332+00
+5beebaf9-3991-4b5e-8c05-dad6c01a6336;;あなた;anata;kamu/Anda;あなたは先生ですか。;Apakah Anda guru?;;pronoun;N5;2026-01-22 13:26:58.376332+00
+e07f8cab-2536-443f-ad66-a472780759fd;;学生;gakusei;siswa/mahasiswa;田中さんは学生です。;Tanaka adalah mahasiswa.;;noun;N5;2026-01-22 13:26:58.376332+00
+86165553-aaa0-4094-bfe9-3f59c27d9ca5;;先生;sensei;guru/dokter;山田先生はやさしいです。;Guru Yamada baik hati.;;noun;N5;2026-01-22 13:26:58.376332+00
+9cbc6bff-927e-4d9c-9552-84a14c988015;;会社員;kaishain;karyawan;父は会社員です。;Ayah saya karyawan.;;noun;N5;2026-01-22 13:26:58.376332+00
+fc500323-0392-4333-9e73-20eb12c3c7ac;;医者;isha;dokter;母は医者です。;Ibu saya dokter.;;noun;N5;2026-01-22 13:26:58.376332+00
+927c4283-f7e5-4e9c-8cf2-537eaa095b46;;日本;nihon;Jepang;日本は美しい国です。;Jepang adalah negara yang indah.;;noun;N5;2026-01-22 13:26:58.376332+00
+9e8a8b68-f65c-4549-96ed-7743280116a0;;日本語;nihongo;bahasa Jepang;日本語を勉強しています。;Saya sedang belajar bahasa Jepang.;;noun;N5;2026-01-22 13:26:58.376332+00
+0d80fc02-1459-41f9-aade-92337135ccff;;インドネシア;indonesia;Indonesia;インドネシアから来ました。;Saya datang dari Indonesia.;;noun;N5;2026-01-22 13:26:58.376332+00
+93c02d47-dbe8-48b6-8a33-f97b38807e19;;名前;namae;nama;お名前は何ですか。;Siapa nama Anda?;;noun;N5;2026-01-22 13:26:58.376332+00
+b992eb0c-8122-4ccb-8115-804ad138a912;;何;nan/nani;apa;これは何ですか。;Ini apa?;;pronoun;N5;2026-01-22 13:26:58.376332+00
+de853438-79a0-403d-ab75-75d44ad0c749;;はい;hai;ya;はい、そうです。;Ya, benar.;;interjection;N5;2026-01-22 13:26:58.376332+00
+fcc289c3-ba95-4dd4-94c2-8fef0eac13cc;;いいえ;iie;tidak;いいえ、違います。;Tidak, salah.;;interjection;N5;2026-01-22 13:26:58.376332+00
+7ea4133d-fec1-4869-8c24-d91fa27233a6;;これ;kore;ini;これは本です。;Ini adalah buku.;;pronoun;N5;2026-01-22 13:26:58.376332+00
+f18c34a0-61a5-40b4-9021-97fc462555c6;;それ;sore;itu (dekat lawan bicara);それは何ですか。;Itu apa?;;pronoun;N5;2026-01-22 13:26:58.376332+00
+e4f5a6b7-3001-0001-0001-000000000001;d3e4f5a6-0001-1111-aaaa-000000000001;ここ;koko;Di sini (dekat pembicara);ここはトイレです。;Di sini adalah toilet.;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000002;d3e4f5a6-0001-1111-aaaa-000000000001;そこ;soko;Di situ (dekat lawan bicara);そこに座ってください。;Silakan duduk di situ.;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000003;d3e4f5a6-0001-1111-aaaa-000000000001;あそこ;asoko;Di sana (jauh dari keduanya);あそこは食堂です。;Di sana adalah kantin.;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000004;d3e4f5a6-0001-1111-aaaa-000000000001;どこ;doko;Di mana;トイレはどこですか。;Toilet di mana?;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000005;d3e4f5a6-0001-1111-aaaa-000000000001;こちら;kochira;Arah sini (sopan);こちらへどうぞ。;Silakan ke sini.;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000006;d3e4f5a6-0001-1111-aaaa-000000000001;そちら;sochira;Arah situ (sopan);そちらは何ですか。;Itu apa?;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000007;d3e4f5a6-0001-1111-aaaa-000000000001;あちら;achira;Arah sana (sopan);あちらが出口です。;Sebelah sana adalah pintu keluar.;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3001-0001-0001-000000000008;d3e4f5a6-0001-1111-aaaa-000000000001;どちら;dochira;Arah mana (sopan);どちらからいらっしゃいましたか。;Anda datang dari mana?;;demonstrative;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000001;d3e4f5a6-0001-1111-aaaa-000000000002;上;ue;Atas;机の上に本があります。;Ada buku di atas meja.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000002;d3e4f5a6-0001-1111-aaaa-000000000002;下;shita;Bawah;机の下に猫がいます。;Ada kucing di bawah meja.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000003;d3e4f5a6-0001-1111-aaaa-000000000002;前;mae;Depan;駅の前にコンビニがあります。;Ada minimarket di depan stasiun.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000004;d3e4f5a6-0001-1111-aaaa-000000000002;後ろ;ushiro;Belakang;私の後ろに誰かいます。;Ada seseorang di belakang saya.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000005;d3e4f5a6-0001-1111-aaaa-000000000002;中;naka;Dalam;箱の中に何がありますか。;Ada apa di dalam kotak?;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000006;d3e4f5a6-0001-1111-aaaa-000000000002;外;soto;Luar;外は寒いです。;Di luar dingin.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000007;d3e4f5a6-0001-1111-aaaa-000000000002;右;migi;Kanan;右に曲がってください。;Tolong belok kanan.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000008;d3e4f5a6-0001-1111-aaaa-000000000002;左;hidari;Kiri;左に銀行があります。;Ada bank di sebelah kiri.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000009;d3e4f5a6-0001-1111-aaaa-000000000002;横;yoko;Samping;私の横に座ってください。;Silakan duduk di samping saya.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000010;d3e4f5a6-0001-1111-aaaa-000000000002;隣;tonari;Sebelah (bersebelahan);隣の部屋は空いています。;Kamar sebelah kosong.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000011;d3e4f5a6-0001-1111-aaaa-000000000002;近く;chikaku;Dekat;駅の近くに住んでいます。;Saya tinggal dekat stasiun.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000012;d3e4f5a6-0001-1111-aaaa-000000000002;遠く;tooku;Jauh;遠くに山が見えます。;Gunung terlihat di kejauhan.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000013;d3e4f5a6-0001-1111-aaaa-000000000002;間;aida;Antara;銀行と郵便局の間にあります。;Ada di antara bank dan kantor pos.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000014;d3e4f5a6-0001-1111-aaaa-000000000002;向こう;mukou;Seberang;道の向こうにあります。;Ada di seberang jalan.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3002-0001-0001-000000000015;d3e4f5a6-0001-1111-aaaa-000000000002;角;kado;Sudut/Pojok;角を右に曲がってください。;Tolong belok kanan di sudut.;;position;N5;2026-01-22 14:08:12.029703+00
+e4f5a6b7-3003-0001-0001-000000000001;d3e4f5a6-0001-1111-aaaa-000000000003;駅;eki;Stasiun;駅はどこですか。;Stasiun di mana?;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000002;d3e4f5a6-0001-1111-aaaa-000000000003;銀行;ginkou;Bank;銀行は九時に開きます。;Bank buka jam 9.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000003;d3e4f5a6-0001-1111-aaaa-000000000003;郵便局;yuubinkyoku;Kantor Pos;郵便局で切手を買います。;Beli perangko di kantor pos.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000004;d3e4f5a6-0001-1111-aaaa-000000000003;病院;byouin;Rumah Sakit;病院に行きます。;Pergi ke rumah sakit.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000005;d3e4f5a6-0001-1111-aaaa-000000000003;コンビニ;konbini;Minimarket;コンビニでお弁当を買います。;Beli bento di minimarket.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000006;d3e4f5a6-0001-1111-aaaa-000000000003;スーパー;suupaa;Supermarket;スーパーで野菜を買います。;Beli sayuran di supermarket.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000007;d3e4f5a6-0001-1111-aaaa-000000000003;デパート;depaato;Department Store;デパートは十時に開きます。;Dept. store buka jam 10.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000008;d3e4f5a6-0001-1111-aaaa-000000000003;レストラン;resutoran;Restoran;レストランで食べましょう。;Mari makan di restoran.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000009;d3e4f5a6-0001-1111-aaaa-000000000003;工場;koujou;Pabrik;工場で働いています。;Bekerja di pabrik.;;place;N4;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000010;d3e4f5a6-0001-1111-aaaa-000000000003;会社;kaisha;Kantor/Perusahaan;会社は駅の近くです。;Kantor dekat stasiun.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000011;d3e4f5a6-0001-1111-aaaa-000000000003;事務所;jimusho;Kantor (ruangan);事務所は二階にあります。;Kantor ada di lantai 2.;;place;N4;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000012;d3e4f5a6-0001-1111-aaaa-000000000003;食堂;shokudou;Kantin;食堂でお昼を食べます。;Makan siang di kantin.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000013;d3e4f5a6-0001-1111-aaaa-000000000003;トイレ;toire;Toilet;トイレはどこですか。;Toilet di mana?;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000014;d3e4f5a6-0001-1111-aaaa-000000000003;更衣室;kouishitsu;Ruang Ganti;更衣室は一階にあります。;Ruang ganti di lantai 1.;;place;N4;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000015;d3e4f5a6-0001-1111-aaaa-000000000003;休憩室;kyuukeishitsu;Ruang Istirahat;休憩室でコーヒーを飲みます。;Minum kopi di ruang istirahat.;;place;N4;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000016;d3e4f5a6-0001-1111-aaaa-000000000003;部屋;heya;Kamar;部屋は広いです。;Kamarnya luas.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000017;d3e4f5a6-0001-1111-aaaa-000000000003;入口;iriguchi;Pintu Masuk;入口はあちらです。;Pintu masuk di sebelah sana.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000018;d3e4f5a6-0001-1111-aaaa-000000000003;出口;deguchi;Pintu Keluar;出口は右にあります。;Pintu keluar di sebelah kanan.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000019;d3e4f5a6-0001-1111-aaaa-000000000003;階段;kaidan;Tangga;階段は左にあります。;Tangga di sebelah kiri.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000020;d3e4f5a6-0001-1111-aaaa-000000000003;エレベーター;erebeetaa;Lift/Elevator;エレベーターで三階に行きます。;Naik lift ke lantai 3.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000021;d3e4f5a6-0001-1111-aaaa-000000000003;道;michi;Jalan;この道をまっすぐ行ってください。;Tolong jalan lurus di jalan ini.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000022;d3e4f5a6-0001-1111-aaaa-000000000003;橋;hashi;Jembatan;橋を渡ってください。;Tolong seberangi jembatan.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000023;d3e4f5a6-0001-1111-aaaa-000000000003;信号;shingou;Lampu Lalu Lintas;信号を右に曲がってください。;Belok kanan di lampu lalu lintas.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000024;d3e4f5a6-0001-1111-aaaa-000000000003;交差点;kousaten;Persimpangan;交差点を左に曲がります。;Belok kiri di persimpangan.;;place;N4;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3003-0001-0001-000000000025;d3e4f5a6-0001-1111-aaaa-000000000003;公園;kouen;Taman;公園の前にあります。;Ada di depan taman.;;place;N5;2026-01-22 14:08:35.7955+00
+e4f5a6b7-3004-0001-0001-000000000001;d3e4f5a6-0001-1111-aaaa-000000000004;北;kita;Utara;北に行ってください。;Tolong pergi ke utara.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000002;d3e4f5a6-0001-1111-aaaa-000000000004;南;minami;Selatan;南口から出ます。;Keluar dari pintu selatan.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000003;d3e4f5a6-0001-1111-aaaa-000000000004;東;higashi;Timur;東京は東にあります。;Tokyo ada di timur.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000004;d3e4f5a6-0001-1111-aaaa-000000000004;西;nishi;Barat;西に曲がってください。;Tolong belok ke barat.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000005;d3e4f5a6-0001-1111-aaaa-000000000004;まっすぐ;massugu;Lurus;まっすぐ行ってください。;Tolong jalan lurus.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000006;d3e4f5a6-0001-1111-aaaa-000000000004;〜を渡る;~wo wataru;Menyeberang ~;橋を渡ってください。;Tolong seberangi jembatan.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000007;d3e4f5a6-0001-1111-aaaa-000000000004;〜を曲がる;~wo magaru;Belok di ~;角を右に曲がります。;Belok kanan di sudut.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3004-0001-0001-000000000008;d3e4f5a6-0001-1111-aaaa-000000000004;〜を通る;~wo tooru;Melewati ~;公園を通ります。;Melewati taman.;;direction;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000001;d3e4f5a6-0001-1111-aaaa-000000000005;行きます;ikimasu;Pergi;会社に行きます。;Pergi ke kantor.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000002;d3e4f5a6-0001-1111-aaaa-000000000005;来ます;kimasu;Datang;日本に来ました。;Datang ke Jepang.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000003;d3e4f5a6-0001-1111-aaaa-000000000005;帰ります;kaerimasu;Pulang;家に帰ります。;Pulang ke rumah.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000004;d3e4f5a6-0001-1111-aaaa-000000000005;入ります;hairimasu;Masuk;部屋に入ります。;Masuk ke kamar.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000005;d3e4f5a6-0001-1111-aaaa-000000000005;出ます;demasu;Keluar;部屋を出ます。;Keluar dari kamar.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000006;d3e4f5a6-0001-1111-aaaa-000000000005;乗ります;norimasu;Naik (kendaraan);バスに乗ります。;Naik bus.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000007;d3e4f5a6-0001-1111-aaaa-000000000005;降ります;orimasu;Turun (kendaraan);駅で降ります。;Turun di stasiun.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000008;d3e4f5a6-0001-1111-aaaa-000000000005;歩きます;arukimasu;Berjalan kaki;駅まで歩きます。;Jalan kaki sampai stasiun.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000009;d3e4f5a6-0001-1111-aaaa-000000000005;走ります;hashirimasu;Berlari;会社まで走ります。;Lari sampai kantor.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000010;d3e4f5a6-0001-1111-aaaa-000000000005;着きます;tsukimasu;Tiba/Sampai;何時に着きますか。;Sampai jam berapa?;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000011;d3e4f5a6-0001-1111-aaaa-000000000005;止まります;tomarimasu;Berhenti;ここで止まってください。;Tolong berhenti di sini.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000012;d3e4f5a6-0001-1111-aaaa-000000000005;座ります;suwarimasu;Duduk;ここに座ってください。;Silakan duduk di sini.;;verb;N5;2026-01-22 14:08:54.434154+00
+e4f5a6b7-3005-0001-0001-000000000013;d3e4f5a6-0001-1111-aaaa-000000000005;立ちます;tachimasu;Berdiri;ここに立ってください。;Silakan berdiri di sini.;;verb;N5;2026-01-22 14:08:54.434154+00
+0dad2cb2-c0f2-46a2-a001-2bb29d5da6d7;b904af26-f934-4480-85be-1bd6412201c3;書ける;かける;bisa menulis;漢字が書けますか？;Apakah kamu bisa menulis kanji?;;verb;N4;2026-02-06 13:06:17.746294+00
+45bfa7ae-c438-4e5e-a529-b5299438245e;b904af26-f934-4480-85be-1bd6412201c3;読める;よめる;bisa membaca;この本が読めます;Saya bisa membaca buku ini;;verb;N4;2026-02-06 13:06:17.746294+00
+80076afd-8b9f-4e41-a875-17e0a5883984;b904af26-f934-4480-85be-1bd6412201c3;話せる;はなせる;bisa berbicara;英語が話せます;Saya bisa berbicara bahasa Inggris;;verb;N4;2026-02-06 13:06:17.746294+00
+b8c039cd-3653-43ec-824b-6506d93bbb15;b904af26-f934-4480-85be-1bd6412201c3;食べられる;たべられる;bisa makan;辛い物が食べられます;Saya bisa makan makanan pedas;;verb;N4;2026-02-06 13:06:17.746294+00
+50af6153-f00d-4f63-b36d-d4dbb195625a;b904af26-f934-4480-85be-1bd6412201c3;見られる;みられる;bisa melihat;富士山が見られます;Bisa melihat Gunung Fuji;;verb;N4;2026-02-06 13:06:17.746294+00
+7a2f0cba-fe70-4e7f-b013-815ebfbf9402;06dfccea-f73b-4f69-a903-d8c0f4cc9a5a;泳げる;およげる;bisa berenang;50メートル泳げます;Saya bisa berenang 50 meter;;verb;N4;2026-02-06 13:06:17.746294+00
+36d15259-9f42-4255-bc0f-601880426587;06dfccea-f73b-4f69-a903-d8c0f4cc9a5a;起きられる;おきられる;bisa bangun;朝早く起きられません;Tidak bisa bangun pagi;;verb;N4;2026-02-06 13:06:17.746294+00
+f0371753-c38a-4363-a317-197079a2080c;06dfccea-f73b-4f69-a903-d8c0f4cc9a5a;弾ける;ひける;bisa memainkan (alat musik);ピアノが弾けます;Bisa memainkan piano;;verb;N4;2026-02-06 13:06:17.746294+00
+8ec886ad-94d6-4255-a419-f1d852c9bfe4;06dfccea-f73b-4f69-a903-d8c0f4cc9a5a;運転できる;うんてんできる;bisa menyetir;車の運転ができます;Saya bisa menyetir mobil;;verb;N4;2026-02-06 13:06:17.746294+00
+cad9a6da-c423-4d1d-b2c6-09cc34d37612;60d0658e-7be7-4f35-9225-91f9a596e7fd;行こう;いこう;ayo pergi;一緒に行こう;Ayo pergi bersama;;verb;N4;2026-02-06 13:06:17.746294+00
+d2648e6a-dc34-4810-96f3-6ccef243ec86;60d0658e-7be7-4f35-9225-91f9a596e7fd;食べよう;たべよう;ayo makan;昼ごはんを食べよう;Ayo makan siang;;verb;N4;2026-02-06 13:06:17.746294+00
+8e03f482-f3b2-4370-bb95-3b8edce553f6;60d0658e-7be7-4f35-9225-91f9a596e7fd;見よう;みよう;ayo lihat;映画を見よう;Ayo nonton film;;verb;N4;2026-02-06 13:06:17.746294+00
+10a5e49a-6f99-4aee-ac45-c2b8c7a1ee28;60d0658e-7be7-4f35-9225-91f9a596e7fd;勉強しよう;べんきょうしよう;ayo belajar;日本語を勉強しよう;Ayo belajar bahasa Jepang;;verb;N4;2026-02-06 13:06:17.746294+00
+eeb6e59c-05b6-4623-8bd9-1de0bfb00ba1;6b72966f-b086-4d99-a909-3bcd9857c9d8;思う;おもう;berpikir/berniat;来年結婚しようと思う;Berniat menikah tahun depan;;verb;N4;2026-02-06 13:06:17.746294+00
+8cd2b7eb-0d23-490d-9b3e-a9ed8c461335;6b72966f-b086-4d99-a909-3bcd9857c9d8;決める;きめる;memutuskan;留学しようと決めた;Memutuskan untuk studi ke luar negeri;;verb;N4;2026-02-06 13:06:17.746294+00
+54917ea8-f279-4e47-a733-d44812ab89b5;6b72966f-b086-4d99-a909-3bcd9857c9d8;努力する;どりょくする;berusaha;合格しようと努力する;Berusaha untuk lulus;;verb;N4;2026-02-06 13:06:17.746294+00
+fb285e5f-825d-4a93-a605-02bd8ab3c9b6;1f621b93-6ca6-4600-8bf2-926a71e35f72;読まれる;よまれる;dibaca;この本は世界中で読まれている;Buku ini dibaca di seluruh dunia;;verb;N4;2026-02-06 13:06:17.746294+00
+3f172890-5968-46a5-815a-4d4edd6bd047;1f621b93-6ca6-4600-8bf2-926a71e35f72;書かれる;かかれる;ditulis;この詩は有名な詩人に書かれた;Puisi ini ditulis oleh penyair terkenal;;verb;N4;2026-02-06 13:06:17.746294+00
+462bb210-9931-4f49-b425-e82cfb9ef08a;1f621b93-6ca6-4600-8bf2-926a71e35f72;招待される;しょうたいされる;diundang;パーティーに招待された;Diundang ke pesta;;verb;N4;2026-02-06 13:06:17.746294+00
+d4391c11-e0fe-447e-8256-b3da793024a5;1f621b93-6ca6-4600-8bf2-926a71e35f72;愛される;あいされる;dicintai;彼女はみんなに愛されている;Dia dicintai semua orang;;verb;N4;2026-02-06 13:06:17.746294+00
+68ba2b5b-69d1-4dab-9fc8-d96af99c8ece;a26e3d9f-7c36-4f92-8ef4-4be1fdd98f10;褒める;ほめる;memuji;先生に褒められた;Dipuji oleh guru;;verb;N4;2026-02-06 13:06:17.746294+00
+29a85fe6-84ca-428a-b0e6-edb8e8643490;a26e3d9f-7c36-4f92-8ef4-4be1fdd98f10;選ぶ;えらぶ;memilih;キャプテンに選ばれた;Dipilih menjadi kapten;;verb;N4;2026-02-06 13:06:17.746294+00
+1067192a-2e2e-4695-b5be-2a38d1668804;a26e3d9f-7c36-4f92-8ef4-4be1fdd98f10;叱る;しかる;memarahi;父に叱られた;Dimarahi ayah;;verb;N4;2026-02-06 13:06:17.746294+00
+052ed13e-8108-4946-8768-e52d1c02c054;ee107ce2-6d6c-4a9f-8073-03f420e9c1fd;降る;ふる;turun (hujan);雨に降られて濡れた;Basah karena kehujanan;;verb;N4;2026-02-06 13:06:17.746294+00
+52dad843-fd2a-493d-8143-6f756ebf8604;ee107ce2-6d6c-4a9f-8073-03f420e9c1fd;踏む;ふむ;menginjak;足を踏まれた;Kaki diinjak;;verb;N4;2026-02-06 13:06:17.746294+00
+fcc6eee6-84b7-4302-a92a-ab61e54fdfe8;ee107ce2-6d6c-4a9f-8073-03f420e9c1fd;泣く;なく;menangis;赤ちゃんに泣かれて眠れなかった;Tidak bisa tidur karena bayi menangis;;verb;N4;2026-02-06 13:06:17.746294+00
+f8b7edb8-6828-40ad-9086-02504936b0b4;f73a9975-9bd4-43fd-baab-f450a3ad3044;書かせる;かかせる;menyuruh menulis;生徒に作文を書かせる;Menyuruh siswa menulis karangan;;verb;N4;2026-02-06 13:06:17.746294+00
+d93d4594-130f-471b-9517-e2c2ceebfc3a;f73a9975-9bd4-43fd-baab-f450a3ad3044;読ませる;よませる;menyuruh membaca;子供に本を読ませる;Menyuruh anak membaca buku;;verb;N4;2026-02-06 13:06:17.746294+00
+1238d464-d31e-414d-a2f3-17423a1a54be;f73a9975-9bd4-43fd-baab-f450a3ad3044;食べさせる;たべさせる;menyuruh makan;野菜を食べさせる;Menyuruh makan sayur;;verb;N4;2026-02-06 13:06:17.746294+00
+d1d850a9-3da8-45a8-bb1d-2ed7eb2ee84e;7b02ad4f-9e49-43f9-9493-326fc5557eec;待たせる;またせる;membuat menunggu;すみません、お待たせしました;Maaf membuat Anda menunggu;;verb;N4;2026-02-06 13:06:17.746294+00
+35e4714c-af32-4eef-b479-6bd127de4ce2;7b02ad4f-9e49-43f9-9493-326fc5557eec;笑わせる;わらわせる;membuat tertawa;彼はいつもみんなを笑わせる;Dia selalu membuat semua orang tertawa;;verb;N4;2026-02-06 13:06:17.746294+00
+dbb44153-64c2-483a-84a7-2261038fe7ab;7b02ad4f-9e49-43f9-9493-326fc5557eec;泣かせる;なかせる;membuat menangis;あの映画は人を泣かせる;Film itu membuat orang menangis;;verb;N4;2026-02-06 13:06:17.746294+00
+78ee152f-646c-4019-866e-253ba7f6940d;78ce51cb-8c58-45d4-a9d6-bd2209aca95e;働かせられる;はたらかせられる;dipaksa bekerja;毎日残業させられる;Dipaksa lembur setiap hari;;verb;N4;2026-02-06 13:06:17.746294+00
+45489657-5c43-4e9e-91b9-df0b76a979cd;78ce51cb-8c58-45d4-a9d6-bd2209aca95e;飲ませられる;のませられる;dipaksa minum;お酒を飲ませられた;Dipaksa minum alkohol;;verb;N4;2026-02-06 13:06:17.746294+00
+64895f53-5afa-4ea2-b9f6-b4fd8914e194;78ce51cb-8c58-45d4-a9d6-bd2209aca95e;歌わせられる;うたわせられる;dipaksa menyanyi;カラオケで歌わせられた;Dipaksa menyanyi di karaoke;;verb;N4;2026-02-06 13:06:17.746294+00
+5039dd22-5cb7-4042-98ea-b6925fc89ecc;4f8cd93b-e9ae-4d51-80fa-c2277d836e88;いらっしゃる;いらっしゃる;ada/pergi/datang (hormat);社長はいらっしゃいますか;Apakah presdir ada?;;verb;N4;2026-02-06 13:06:17.746294+00
+90600ff0-8b61-4ca4-948c-727fb43a4337;4f8cd93b-e9ae-4d51-80fa-c2277d836e88;おっしゃる;おっしゃる;berkata (hormat);先生がおっしゃった;Guru berkata;;verb;N4;2026-02-06 13:06:17.746294+00
+e2dc579b-7ae1-4978-a6e5-0a06d86a1c8c;4f8cd93b-e9ae-4d51-80fa-c2277d836e88;召し上がる;めしあがる;makan/minum (hormat);どうぞ召し上がってください;Silakan makan;;verb;N4;2026-02-06 13:06:17.746294+00
+7168c0bd-348b-4cb2-8626-2099c562414c;4f8cd93b-e9ae-4d51-80fa-c2277d836e88;ご覧になる;ごらんになる;melihat (hormat);この資料をご覧になりましたか;Apakah Anda sudah melihat dokumen ini?;;verb;N4;2026-02-06 13:06:17.746294+00
+fdc5b7c7-676f-452e-87c8-56f3f6099838;a8104776-c431-4eee-a826-236d33cc37f9;参る;まいる;pergi/datang (rendah diri);明日参ります;Saya akan datang besok;;verb;N4;2026-02-06 13:06:17.746294+00
+1a8c01d9-3984-4f39-ac97-f607b69580c4;a8104776-c431-4eee-a826-236d33cc37f9;申す;もうす;berkata (rendah diri);田中と申します;Nama saya Tanaka;;verb;N4;2026-02-06 13:06:17.746294+00
+926b3d2b-f3a0-4c9a-8106-c0570635ec14;a8104776-c431-4eee-a826-236d33cc37f9;いただく;いただく;menerima (rendah diri);ご意見をいただきたい;Saya ingin menerima pendapat Anda;;verb;N4;2026-02-06 13:06:17.746294+00
+40e9a310-4940-4e4b-b0fd-cd9e0771bed7;a8104776-c431-4eee-a826-236d33cc37f9;拝見する;はいけんする;melihat (rendah diri);資料を拝見しました;Saya sudah melihat dokumennya;;verb;N4;2026-02-06 13:06:17.746294+00
+b67af66b-8970-467d-9757-45edda7f4f47;7afa4720-946b-48b1-be47-5de872bdbf99;ございます;ございます;ada (sangat sopan);こちらにございます;Ada di sini;;verb;N4;2026-02-06 13:06:17.746294+00
+bb904e5a-e93f-46a3-bfd0-08c119da6410;7afa4720-946b-48b1-be47-5de872bdbf99;お名前;おなまえ;nama (sopan);お名前は何ですか;Siapa nama Anda?;;noun;N4;2026-02-06 13:06:17.746294+00
+406b7842-6a55-4d1c-bd42-caadabcb1825;7afa4720-946b-48b1-be47-5de872bdbf99;ご住所;ごじゅうしょ;alamat (sopan);ご住所をお願いします;Tolong alamat Anda;;noun;N4;2026-02-06 13:06:17.746294+00
+4bd03fbb-f9b2-4489-80a8-f67bc7beefdd;639375ed-d667-4c1e-9006-884b87101747;行けば;いけば;kalau pergi;早く行けば間に合う;Kalau pergi cepat akan sempat;;grammar;N4;2026-02-06 13:06:17.746294+00
+386629c3-95ee-49cc-a310-d27f4c6e3493;639375ed-d667-4c1e-9006-884b87101747;見れば;みれば;kalau melihat;見ればわかる;Kalau lihat akan mengerti;;grammar;N4;2026-02-06 13:06:17.746294+00
+ca77e5c8-b79f-464d-a087-9b2a298e7ff3;639375ed-d667-4c1e-9006-884b87101747;安ければ;やすければ;kalau murah;安ければ買います;Kalau murah saya beli;;grammar;N4;2026-02-06 13:06:17.746294+00
+0ec37252-0039-4837-a024-3f3fabe7a6bd;cc39b00f-9dad-45de-b8aa-aed961a4de48;着いたら;ついたら;kalau sampai;駅に着いたら電話して;Kalau sampai stasiun, telepon ya;;grammar;N4;2026-02-06 13:06:17.746294+00
+d0ff982e-7c8e-4df5-aa1f-50ae44954fd0;cc39b00f-9dad-45de-b8aa-aed961a4de48;終わったら;おわったら;kalau selesai;仕事が終わったら飲みに行こう;Kalau kerja selesai, ayo minum;;grammar;N4;2026-02-06 13:06:17.746294+00
+2d00d130-d399-44af-996d-d73dce41c1ee;cc39b00f-9dad-45de-b8aa-aed961a4de48;暇だったら;ひまだったら;kalau senggang;暇だったら手伝ってください;Kalau senggang tolong bantu;;grammar;N4;2026-02-06 13:06:17.746294+00
+ea248967-2125-4de4-b690-108ddb86dcd4;af0436eb-25b3-491d-b0e4-c095160c8da5;春になると;はるになると;kalau jadi musim semi;春になると花が咲く;Kalau musim semi bunga mekar;;grammar;N4;2026-02-06 13:06:17.746294+00
+f90d596f-f1df-4302-a182-2637182ebdf3;af0436eb-25b3-491d-b0e4-c095160c8da5;このボタンを押すと;このボタンをおすと;kalau tekan tombol ini;このボタンを押すとドアが開く;Kalau tekan tombol ini pintu terbuka;;grammar;N4;2026-02-06 13:06:17.746294+00
+413e35ce-9845-4f62-a3a0-7a410c6dafe3;af0436eb-25b3-491d-b0e4-c095160c8da5;日本に行くなら;にほんにいくなら;kalau mau ke Jepang;日本に行くなら秋がいい;Kalau mau ke Jepang, musim gugur bagus;;grammar;N4;2026-02-06 13:06:17.746294+00
+0c8a28e0-8b5c-400b-b711-c09d1f0e7fc8;9c13073f-494c-44d1-83a9-3466336ca1a6;条件;じょうけん;kondisi/syarat;条件によって使い分ける;Digunakan sesuai kondisi;;noun;N4;2026-02-06 13:06:17.746294+00
+e70f5d41-a56f-44c7-b68d-07d38dc739bc;9c13073f-494c-44d1-83a9-3466336ca1a6;仮定;かてい;asumsi/hipotesis;仮定の話です;Ini pembicaraan hipotesis;;noun;N4;2026-02-06 13:06:17.746294+00
+e69d9d10-5def-4853-8ff6-2d2ce3b42895;9c13073f-494c-44d1-83a9-3466336ca1a6;結果;けっか;hasil;結果がどうなるか;Bagaimana hasilnya;;noun;N4;2026-02-06 13:06:17.746294+00
+16247efa-34a3-4b39-84a2-5cd1efb5a27f;801913e2-25d2-4f9b-9758-e5f9be8b4a39;降り始める;ふりはじめる;mulai turun (hujan);雨が降り始めた;Hujan mulai turun;;verb;N3;2026-02-06 13:08:43.445085+00
+9850e85b-2cc5-4aab-99c0-b8eaf11db0f3;801913e2-25d2-4f9b-9758-e5f9be8b4a39;読み終わる;よみおわる;selesai membaca;やっと本を読み終わった;Akhirnya selesai membaca buku;;verb;N3;2026-02-06 13:08:43.445085+00
+e2141ff6-9db3-4820-af41-535984711508;801913e2-25d2-4f9b-9758-e5f9be8b4a39;食べ始める;たべはじめる;mulai makan;赤ちゃんが離乳食を食べ始めた;Bayi mulai makan makanan padat;;verb;N3;2026-02-06 13:08:43.445085+00
+2a170b2f-2d65-49aa-8c62-1ad33bd9e086;801913e2-25d2-4f9b-9758-e5f9be8b4a39;書き終わる;かきおわる;selesai menulis;レポートを書き終わった;Selesai menulis laporan;;verb;N3;2026-02-06 13:08:43.445085+00
+fed782e6-960b-4cdb-9ef6-806303e21ef3;626ac351-e253-438d-bfcc-213e5b5d2cd6;走り続ける;はしりつづける;terus berlari;10キロ走り続けた;Terus berlari 10 km;;verb;N3;2026-02-06 13:08:43.445085+00
+ed9ffeb3-7f0d-4fed-a86c-8fdb41d38d4a;626ac351-e253-438d-bfcc-213e5b5d2cd6;泣き出す;なきだす;mulai menangis;子供が急に泣き出した;Anak tiba-tiba mulai menangis;;verb;N3;2026-02-06 13:08:43.445085+00
+6122699a-803a-41b1-94fa-a3c3367a494a;626ac351-e253-438d-bfcc-213e5b5d2cd6;考え続ける;かんがえつづける;terus berpikir;ずっと考え続けている;Terus berpikir;;verb;N3;2026-02-06 13:08:43.445085+00
+d12230a9-1673-4c4b-9ffa-039c3f323a61;626ac351-e253-438d-bfcc-213e5b5d2cd6;笑い出す;わらいだす;mulai tertawa;彼は突然笑い出した;Dia tiba-tiba mulai tertawa;;verb;N3;2026-02-06 13:08:43.445085+00
+b6b5753d-96d6-4d0c-ad7b-e092e2a2f0ed;2a3a8380-b029-47a8-9310-e48fa10e446d;飛び込む;とびこむ;melompat masuk;プールに飛び込んだ;Melompat masuk ke kolam;;verb;N3;2026-02-06 13:08:43.445085+00
+240a0e02-4dd3-46b6-b615-d95693d6734b;2a3a8380-b029-47a8-9310-e48fa10e446d;助け合う;たすけあう;saling membantu;困ったときは助け合おう;Saat kesulitan mari saling membantu;;verb;N3;2026-02-06 13:08:43.445085+00
+c8e85201-e6b1-4bef-ad25-d32b6f6c2099;2a3a8380-b029-47a8-9310-e48fa10e446d;思い込む;おもいこむ;yakin/percaya sepenuhnya;彼が犯人だと思い込んでいた;Yakin dia pelakunya;;verb;N3;2026-02-06 13:08:43.445085+00
+54b22c72-1f33-4ec3-a53f-3b993fa2729d;2a3a8380-b029-47a8-9310-e48fa10e446d;話し合う;はなしあう;berdiskusi;この問題について話し合おう;Mari berdiskusi tentang masalah ini;;verb;N3;2026-02-06 13:08:43.445085+00
+d2946d2a-a0a4-4f05-983d-471f3b95ad69;caf1d4e2-3652-4789-a1ee-53c1845b2566;やり直す;やりなおす;mengulang/memperbaiki;最初からやり直す;Mengulang dari awal;;verb;N3;2026-02-06 13:08:43.445085+00
+5c61441d-edd7-465e-8737-94529d42bb24;caf1d4e2-3652-4789-a1ee-53c1845b2566;食べ過ぎる;たべすぎる;makan berlebihan;昨日食べ過ぎた;Kemarin makan berlebihan;;verb;N3;2026-02-06 13:08:43.445085+00
+173fc4ca-6569-4835-8b35-c30e078339f6;caf1d4e2-3652-4789-a1ee-53c1845b2566;考え直す;かんがえなおす;mempertimbangkan ulang;もう一度考え直してください;Tolong pertimbangkan lagi;;verb;N3;2026-02-06 13:08:43.445085+00
+2d10c5f1-50bd-4094-a466-8b285881b3ca;caf1d4e2-3652-4789-a1ee-53c1845b2566;飲み過ぎる;のみすぎる;minum berlebihan;お酒を飲み過ぎた;Minum alkohol berlebihan;;verb;N3;2026-02-06 13:08:43.445085+00
+fd15dc95-d002-4c96-a454-5a181fa6a8e1;088b72ab-3cf8-4c07-88e9-41cc25e367bb;お読みになる;およみになる;membaca (sangat hormat);資料をお読みになりましたか;Apakah Anda sudah membaca dokumennya?;;keigo;N3;2026-02-06 13:08:43.445085+00
+ccb1e88c-6646-4749-98c3-f3cf1b388860;088b72ab-3cf8-4c07-88e9-41cc25e367bb;ご覧くださる;ごらんくださる;melihat (hormat);こちらをご覧ください;Silakan lihat yang ini;;keigo;N3;2026-02-06 13:08:43.445085+00
+fac53135-ec1f-4cab-9b99-473f26ddb209;088b72ab-3cf8-4c07-88e9-41cc25e367bb;お越しになる;おこしになる;datang (hormat);ようこそお越しくださいました;Selamat datang;;keigo;N3;2026-02-06 13:08:43.445085+00
+56c2f450-2e73-4e17-8378-63df55874c6b;55b5d5cd-782a-4703-9148-917d5bdeb4e2;ご連絡いたす;ごれんらくいたす;menghubungi (rendah diri);後ほどご連絡いたします;Saya akan menghubungi nanti;;keigo;N3;2026-02-06 13:08:43.445085+00
+ba58ae2a-87bd-462b-8ed1-e0c935154253;55b5d5cd-782a-4703-9148-917d5bdeb4e2;お礼申し上げる;おれいもうしあげる;mengucapkan terima kasih (sangat rendah diri);心よりお礼申し上げます;Saya mengucapkan terima kasih dari hati;;keigo;N3;2026-02-06 13:08:43.445085+00
+c4000f65-d3bc-42b3-921d-8b0a6bafed00;55b5d5cd-782a-4703-9148-917d5bdeb4e2;お待ちする;おまちする;menunggu (rendah diri);お待ちしております;Saya menunggu Anda;;keigo;N3;2026-02-06 13:08:43.445085+00
+1616bb9e-076c-4ea9-8fa2-02f9caf4ac95;220d26db-d131-4155-861d-ed4e4ad148a9;二重敬語;にじゅうけいご;keigo ganda (kesalahan);お召し上がりになられる は二重敬語;お召し上がりになられる adalah keigo ganda;;keigo;N3;2026-02-06 13:08:43.445085+00
+42c57caf-4a18-48fb-a554-f61c2ce7e66d;220d26db-d131-4155-861d-ed4e4ad148a9;場面;ばめん;situasi/adegan;場面に応じて使い分ける;Gunakan sesuai situasi;;noun;N3;2026-02-06 13:08:43.445085+00
+e25a7492-bbb2-40ca-b549-b7b043646f83;220d26db-d131-4155-861d-ed4e4ad148a9;適切;てきせつ;tepat/sesuai;適切な敬語を使う;Menggunakan keigo yang tepat;;adjective;N3;2026-02-06 13:08:43.445085+00
+c73884a3-4bec-4a8f-8280-b62b1a049e90;576c9e55-1127-48f6-99fa-69449aa66a39;努力する;どりょくする;berusaha;毎日努力している;Berusaha setiap hari;;verb;N3;2026-02-06 13:08:43.445085+00
+71037e2c-7a91-40e1-b52a-29437b29d3a8;576c9e55-1127-48f6-99fa-69449aa66a39;決心する;けっしんする;bertekad;転職を決心した;Bertekad pindah kerja;;verb;N3;2026-02-06 13:08:43.445085+00
+c53ad5a3-8e4a-4f7d-893e-67227dc61bfa;576c9e55-1127-48f6-99fa-69449aa66a39;心がける;こころがける;berusaha/berniat;健康に心がける;Berusaha menjaga kesehatan;;verb;N3;2026-02-06 13:08:43.445085+00
+7bc56315-e78e-4bd2-b700-b326e6ad6c3c;070ad1ab-34fa-40ea-9336-4af56554f8d1;仕方ない;しかたない;tidak ada cara lain;仕方なく残業した;Terpaksa lembur;;phrase;N3;2026-02-06 13:08:43.445085+00
+577c4aed-b7cf-4bee-b95b-38fd525b775a;070ad1ab-34fa-40ea-9336-4af56554f8d1;諦める;あきらめる;menyerah;諦めるわけにはいかない;Tidak bisa menyerah;;verb;N3;2026-02-06 13:08:43.445085+00
+58f4c72f-8b52-46f3-bd2e-ced61d820a95;070ad1ab-34fa-40ea-9336-4af56554f8d1;責任;せきにん;tanggung jawab;責任を取らざるを得ない;Terpaksa bertanggung jawab;;noun;N3;2026-02-06 13:08:43.445085+00
+527c1dd6-f0c6-4c47-8ee1-b62052ca756e;52b534d9-5837-442d-abe8-f28c571f37f6;意見;いけん;pendapat;この問題に対して意見がある;Punya pendapat tentang masalah ini;;noun;N3;2026-02-06 13:08:43.445085+00
+3e4ac0bd-18a8-456b-9120-9ce2b387468d;52b534d9-5837-442d-abe8-f28c571f37f6;研究;けんきゅう;penelitian;日本語について研究する;Meneliti tentang bahasa Jepang;;noun;N3;2026-02-06 13:08:43.445085+00
+f650017b-5af2-4a5b-a79c-577d655ef2ce;52b534d9-5837-442d-abe8-f28c571f37f6;態度;たいど;sikap;態度に対して不満がある;Tidak puas dengan sikapnya;;noun;N3;2026-02-06 13:08:43.445085+00
+0dc5d8e8-5252-4d19-94ac-be2b6f17e5ce;d1dcb62d-96c8-4c9f-b283-36cff5a9053c;通訳;つうやく;penerjemah lisan;通訳として働く;Bekerja sebagai penerjemah;;noun;N3;2026-02-06 13:08:43.445085+00
+32fe92a1-12bc-4545-9aca-d9576f329e20;d1dcb62d-96c8-4c9f-b283-36cff5a9053c;経験;けいけん;pengalaman;いい経験になった;Menjadi pengalaman baik;;noun;N3;2026-02-06 13:08:43.445085+00
+dbd08f75-9432-4672-a243-4b67f94e01ba;d1dcb62d-96c8-4c9f-b283-36cff5a9053c;重要;じゅうよう;penting;私にとって重要なこと;Hal penting bagi saya;;adjective;N3;2026-02-06 13:08:43.445085+00
+2406173e-0c19-42a8-b305-e9f3017c8fd4;c10b6d3a-92e2-49aa-9078-d0235055d3dd;したがって;したがって;oleh karena itu;したがって、計画を変更する;Oleh karena itu, mengubah rencana;;conjunction;N3;2026-02-06 13:08:43.445085+00
+547bf17a-52c5-41bd-a7c3-10e37aefe279;c10b6d3a-92e2-49aa-9078-d0235055d3dd;それにもかかわらず;それにもかかわらず;meskipun demikian;それにもかかわらず失敗した;Meskipun demikian tetap gagal;;conjunction;N3;2026-02-06 13:08:43.445085+00
+b90386f0-8df1-4740-bdfa-29c47707c864;c10b6d3a-92e2-49aa-9078-d0235055d3dd;一方;いっぽう;di sisi lain;一方、反対意見もある;Di sisi lain, ada pendapat yang bertentangan;;conjunction;N3;2026-02-06 13:08:43.445085+00
+b2902e39-c720-4321-bfae-51f2400ac470;16283f16-c49a-4ff4-963f-433f99d66013;文脈;ぶんみゃく;konteks;文脈から意味を理解する;Memahami makna dari konteks;;noun;N3;2026-02-06 13:08:43.445085+00
+e9281976-5716-493e-91eb-9ee3b29398ad;16283f16-c49a-4ff4-963f-433f99d66013;指す;さす;menunjuk/merujuk;この言葉は何を指すか;Kata ini merujuk ke apa?;;verb;N3;2026-02-06 13:08:43.445085+00
+205118f6-7695-4602-9e30-16f453a0e407;16283f16-c49a-4ff4-963f-433f99d66013;参照;さんしょう;referensi;前の文を参照する;Merujuk ke kalimat sebelumnya;;noun;N3;2026-02-06 13:08:43.445085+00
+c14298db-daec-40fb-a53f-2218149aa47f;de304c34-4ae9-4de7-9af6-d77ec5eaaea2;筆者;ひっしゃ;penulis;筆者の主張を理解する;Memahami argumen penulis;;noun;N3;2026-02-06 13:08:43.445085+00
+57e1496f-198a-4d82-b6df-f45c6f2377fc;de304c34-4ae9-4de7-9af6-d77ec5eaaea2;要点;ようてん;poin utama;要点をまとめる;Merangkum poin utama;;noun;N3;2026-02-06 13:08:43.445085+00
+78a4109b-c8dd-41e8-a753-036274d11197;de304c34-4ae9-4de7-9af6-d77ec5eaaea2;つまり;つまり;dengan kata lain;つまり、賛成ということだ;Dengan kata lain, berarti setuju;;conjunction;N3;2026-02-06 13:08:43.445085+00
+84da7ad8-d260-4602-8d1a-e57c4243afce;771b81d5-0d97-41be-a071-a9c221f37408;お世話になる;おせわになる;menerima bantuan/berhutang budi;いつもお世話になっております;Terima kasih atas bantuannya selama ini;;business;N3;2026-02-06 13:08:43.445085+00
+9fa64753-3533-4988-9f41-17173e08d73b;771b81d5-0d97-41be-a071-a9c221f37408;添付;てんぷ;lampiran;添付ファイルをご確認ください;Mohon periksa file terlampir;;business;N3;2026-02-06 13:08:43.445085+00
+56287a63-e6b7-4954-b95e-6fd48eecefe5;771b81d5-0d97-41be-a071-a9c221f37408;ご査収;ごさしゅう;mohon diperiksa dan diterima;ご査収のほどよろしくお願いいたします;Mohon periksa dan terima;;business;N3;2026-02-06 13:08:43.445085+00
+09e89771-0cd5-43be-8170-17b9db93b301;53e3068e-9903-4743-a772-60324009e696;担当;たんとう;penanggung jawab;担当者に代わります;Saya sambungkan dengan penanggung jawab;;business;N3;2026-02-06 13:08:43.445085+00
+3ae3eeeb-6eeb-4220-aa4d-2d590fd1a277;53e3068e-9903-4743-a772-60324009e696;折り返す;おりかえす;menelepon balik;折り返しお電話いたします;Saya akan menelepon balik;;business;N3;2026-02-06 13:08:43.445085+00
+ed99ac22-1c61-443f-ae84-8331d0773a7d;53e3068e-9903-4743-a772-60324009e696;伝言;でんごん;pesan;伝言をお願いできますか;Boleh saya titip pesan?;;business;N3;2026-02-06 13:08:43.445085+00
+124dd13a-2c50-47ef-b1e6-9b6f0e06069a;8c50836e-81ff-406c-b604-0427069b4fb9;提案;ていあん;usulan/proposal;新しい提案があります;Ada usulan baru;;business;N3;2026-02-06 13:08:43.445085+00
+d893a783-9547-4e41-904e-bcdf67a6ffe6;8c50836e-81ff-406c-b604-0427069b4fb9;検討;けんとう;pertimbangan;ご検討をお願いします;Mohon pertimbangannya;;business;N3;2026-02-06 13:08:43.445085+00
+3bf4be33-a6f1-4338-b522-edbd49913b3e;8c50836e-81ff-406c-b604-0427069b4fb9;賛成;さんせい;setuju;この提案に賛成です;Saya setuju dengan usulan ini;;business;N3;2026-02-06 13:08:43.445085+00
+e8b611c9-74f3-49b8-8283-d763474afa26;4a6e7bd3-56ac-4060-96aa-f20670c556c2;発表;はっぴょう;presentasi/pengumuman;本日の発表テーマは;Tema presentasi hari ini adalah;;business;N3;2026-02-06 13:08:43.445085+00
+60c938cf-caa3-4ddc-8861-b5930d6c6291;4a6e7bd3-56ac-4060-96aa-f20670c556c2;グラフ;ぐらふ;grafik;このグラフをご覧ください;Silakan lihat grafik ini;;business;N3;2026-02-06 13:08:43.445085+00
+5b724ade-e34c-4e23-9742-933cd356e0ba;4a6e7bd3-56ac-4060-96aa-f20670c556c2;結論;けつろん;kesimpulan;結論として;Sebagai kesimpulan;;business;N3;2026-02-06 13:08:43.445085+00
+592066ee-4487-49c4-aa5c-c769cd729a6c;4a6e7bd3-56ac-4060-96aa-f20670c556c2;ご清聴;ごせいちょう;perhatian (hormat);ご清聴ありがとうございました;Terima kasih atas perhatiannya;;business;N3;2026-02-06 13:08:43.445085+00

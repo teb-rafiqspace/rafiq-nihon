@@ -1,0 +1,323 @@
+# Chapter 5: 読解ストラテジー (Reading Comprehension Strategies)
+
+=== 406705da-f9d2-422a-a42e-d24562bd5e0a ===
+段落|だんらく|paragraf|段落ごとに要点をまとめる。|Merangkum poin utama per paragraf.|noun
+要旨|ようし|garis besar; inti|文章の要旨を把握する。|Memahami inti tulisan.|noun
+要約|ようやく|ringkasan|文章を要約する。|Meringkas tulisan.|noun
+論点|ろんてん|poin diskusi|論点を整理する。|Menyusun poin diskusi.|noun
+趣旨|しゅし|maksud; tujuan|趣旨を理解する。|Memahami maksud.|noun
+概要|がいよう|garis besar|概要を説明する。|Menjelaskan garis besar.|noun
+骨子|こっし|kerangka inti|計画の骨子を示す。|Menunjukkan kerangka inti rencana.|noun
+脈絡|みゃくらく|konteks; alur|話の脈絡をたどる。|Mengikuti alur pembicaraan.|noun
+文脈|ぶんみゃく|konteks|文脈から判断する。|Menilai dari konteks.|noun
+論理|ろんり|logika|論理的に考える。|Berpikir secara logis.|noun
+展開|てんかい|pengembangan|議論が展開する。|Diskusi berkembang.|noun
+構成|こうせい|susunan; komposisi|文章の構成を分析する。|Menganalisis susunan tulisan.|noun
+冒頭|ぼうとう|bagian awal|冒頭で述べる。|Menyatakan di bagian awal.|noun
+末尾|まつび|bagian akhir|末尾に結論がある。|Kesimpulan ada di bagian akhir.|noun
+前述|ぜんじゅつ|disebutkan sebelumnya|前述の通りだ。|Seperti disebutkan sebelumnya.|noun
+後述|こうじゅつ|dibahas kemudian|詳細は後述する。|Detailnya dibahas kemudian.|noun
+上記|じょうき|tersebut di atas|上記の内容を確認する。|Mengonfirmasi isi yang tersebut di atas.|noun
+下記|かき|tersebut di bawah|下記の項目を参照する。|Merujuk item yang tersebut di bawah.|noun
+接続詞|せつぞくし|kata penghubung|接続詞に注目する。|Memperhatikan kata penghubung.|noun
+指示語|しじご|kata penunjuk|指示語の指す内容を確認する。|Mengonfirmasi isi yang ditunjuk kata penunjuk.|noun
+筆者|ひっしゃ|penulis|筆者の主張を読み取る。|Memahami klaim penulis.|noun
+著者|ちょしゃ|pengarang|著者の意図を考える。|Memikirkan niat pengarang.|noun
+読者|どくしゃ|pembaca|読者に語りかける。|Berbicara kepada pembaca.|noun
+引用|いんよう|kutipan|引用文を確認する。|Mengonfirmasi kutipan.|noun
+比喩|ひゆ|perumpamaan|比喩的な表現だ。|Ekspresi yang bersifat perumpamaan.|noun
+暗示|あんじ|petunjuk tersirat|結末を暗示する。|Memberi petunjuk tersirat tentang akhir.|noun
+含意|がんい|implikasi|言葉の含意を読む。|Membaca implikasi kata.|noun
+明示|めいじ|pernyataan eksplisit|条件を明示する。|Menyatakan syarat secara eksplisit.|noun
+黙示|もくし|secara tersirat|黙示的な合意だ。|Kesepakatan secara tersirat.|noun
+行間|ぎょうかん|makna tersirat|行間を読む。|Membaca yang tersirat.|noun
+把握|はあく|pemahaman; penguasaan|要点を把握する。|Memahami poin utama.|noun
+精読|せいどく|membaca cermat|精読して分析する。|Membaca cermat dan menganalisis.|noun
+速読|そくどく|membaca cepat|速読の技術を学ぶ。|Mempelajari teknik membaca cepat.|noun
+通読|つうどく|membaca keseluruhan|一度通読する。|Membaca keseluruhan sekali.|noun
+斜め読み|ななめよみ|membaca sekilas|斜め読みで要点を掴む。|Menangkap poin utama dengan membaca sekilas.|noun
+拾い読み|ひろいよみ|membaca pilihan|キーワードを拾い読みする。|Membaca kata-kata kunci saja.|noun
+読解|どっかい|pemahaman bacaan|読解力を高める。|Meningkatkan kemampuan pemahaman bacaan.|noun
+解釈|かいしゃく|interpretasi|文章を解釈する。|Menginterpretasikan tulisan.|noun
+
+=== dfb75a03-f713-45ed-9973-b50de7027947 ===
+主張|しゅちょう|klaim; pendapat|主張を述べる。|Menyampaikan pendapat.|noun
+根拠|こんきょ|landasan; bukti|根拠を挙げる。|Menyebutkan bukti.|noun
+反論|はんろん|sanggahan|反論を述べる。|Menyampaikan sanggahan.|noun
+賛成|さんせい|persetujuan|賛成の意見を述べる。|Menyatakan pendapat setuju.|noun
+反対|はんたい|penolakan|反対の立場を取る。|Mengambil posisi menentang.|noun
+論拠|ろんきょ|dasar argumentasi|論拠を明確にする。|Memperjelas dasar argumentasi.|noun
+論証|ろんしょう|pembuktian argumen|論証を行う。|Melakukan pembuktian argumen.|noun
+立証|りっしょう|pembuktian|事実を立証する。|Membuktikan fakta.|noun
+裏付ける|うらづける|membuktikan|データで裏付ける。|Membuktikan dengan data.|verb
+覆す|くつがえす|membatalkan; membalikkan|定説を覆す。|Membalikkan teori yang mapan.|verb
+論じる|ろんじる|membahas; berdebat|問題を論じる。|Membahas masalah.|verb
+述べる|のべる|menyatakan|意見を述べる。|Menyatakan pendapat.|verb
+唱える|となえる|mengemukakan|新説を唱える。|Mengemukakan teori baru.|verb
+提唱|ていしょう|pengajuan gagasan|新理論を提唱する。|Mengajukan teori baru.|noun
+言及|げんきゅう|penyebutan|問題に言及する。|Menyebutkan masalah.|noun
+示唆|しさ|sugesti; petunjuk|結果が示唆する。|Hasil memberikan petunjuk.|noun
+推論|すいろん|penalaran|推論を展開する。|Mengembangkan penalaran.|noun
+帰結|きけつ|konsekuensi|議論の帰結だ。|Konsekuensi dari diskusi.|noun
+結論|けつろん|kesimpulan|結論を導く。|Menarik kesimpulan.|noun
+要するに|ようするに|singkatnya|要するに反対だ。|Singkatnya, menentang.|adverb
+すなわち|すなわち|yaitu; dengan kata lain|すなわち不可能だ。|Yaitu, tidak mungkin.|conjunction
+つまり|つまり|dengan kata lain|つまり同意しない。|Dengan kata lain, tidak setuju.|conjunction
+したがって|したがって|oleh karena itu|したがって延期する。|Oleh karena itu, ditunda.|conjunction
+ゆえに|ゆえに|oleh sebab itu (formal)|ゆえに対策が必要だ。|Oleh sebab itu diperlukan tindakan.|conjunction
+もっとも|もっとも|namun; meskipun|もっとも例外はある。|Namun ada pengecualian.|conjunction
+ただし|ただし|namun; dengan catatan|ただし条件がある。|Namun ada syarat.|conjunction
+なお|なお|selain itu; catatan|なお詳細は別途連絡する。|Selain itu, detail akan dikabari terpisah.|conjunction
+ちなみに|ちなみに|ngomong-ngomong|ちなみに去年は成功した。|Ngomong-ngomong, tahun lalu berhasil.|conjunction
+仮に|かりに|misalnya|仮にそうだとしても。|Misalnya, kalaupun begitu.|adverb
+換言|かんげん|dengan kata lain|換言すれば問題がある。|Dengan kata lain, ada masalah.|noun
+敷衍|ふえん|pengembangan penjelasan|もう少し敷衍して説明する。|Menjelaskan lebih detail.|noun
+逆説|ぎゃくせつ|paradoks|逆説的な結果だ。|Hasil yang paradoks.|noun
+矛盾|むじゅん|kontradiksi|矛盾点を指摘する。|Menunjukkan kontradiksi.|noun
+飛躍|ひやく|lompatan logika|論理の飛躍がある。|Ada lompatan logika.|noun
+妥当|だとう|wajar; valid|妥当な結論だ。|Kesimpulan yang valid.|na_adjective
+説得力|せっとくりょく|daya persuasi|説得力がある。|Memiliki daya persuasi.|noun
+信憑性|しんぴょうせい|kredibilitas|信憑性に欠ける。|Kurang kredibel.|noun
+客観的|きゃっかんてき|objektif|客観的な分析だ。|Analisis yang objektif.|na_adjective
+
+=== c6477837-68b3-42a3-8715-39da762bb0e1 ===
+見出し|みだし|judul; tajuk|見出しを読む。|Membaca judul.|noun
+項目|こうもく|item; butir|項目ごとに確認する。|Mengonfirmasi per item.|noun
+索引|さくいん|indeks|索引で調べる。|Mencari di indeks.|noun
+目次|もくじ|daftar isi|目次を確認する。|Mengonfirmasi daftar isi.|noun
+図表|ずひょう|grafik dan tabel|図表を分析する。|Menganalisis grafik dan tabel.|noun
+グラフ|グラフ|grafik|グラフから読み取る。|Membaca dari grafik.|noun
+棒グラフ|ぼうグラフ|diagram batang|棒グラフで示す。|Menunjukkan dengan diagram batang.|noun
+円グラフ|えんグラフ|diagram lingkaran|円グラフで割合を示す。|Menunjukkan proporsi dengan diagram lingkaran.|noun
+折れ線|おれせん|garis patah|折れ線グラフで推移を見る。|Melihat perubahan dengan grafik garis.|noun
+表|ひょう|tabel|表にまとめる。|Merangkum dalam tabel.|noun
+凡例|はんれい|legenda; keterangan|凡例を確認する。|Mengonfirmasi legenda.|noun
+横軸|よこじく|sumbu horizontal|横軸は時間を表す。|Sumbu horizontal menunjukkan waktu.|noun
+縦軸|たてじく|sumbu vertikal|縦軸は金額を表す。|Sumbu vertikal menunjukkan jumlah uang.|noun
+単位|たんい|satuan|単位を確認する。|Mengonfirmasi satuan.|noun
+割合|わりあい|proporsi; rasio|割合を計算する。|Menghitung proporsi.|noun
+数値|すうち|nilai angka|数値を比較する。|Membandingkan nilai angka.|noun
+百分率|ひゃくぶんりつ|persentase|百分率で表す。|Menyatakan dalam persentase.|noun
+平均|へいきん|rata-rata|平均値を求める。|Mencari nilai rata-rata.|noun
+最高|さいこう|tertinggi|最高値を記録する。|Mencatat nilai tertinggi.|noun
+最低|さいてい|terendah|最低値を下回る。|Turun di bawah nilai terendah.|noun
+推移|すいい|perubahan bertahap|推移を確認する。|Mengonfirmasi perubahan bertahap.|noun
+傾向|けいこう|kecenderungan|上昇傾向にある。|Cenderung naik.|noun
+ピーク|ピーク|puncak|ピークに達する。|Mencapai puncak.|noun
+底|そこ|dasar; titik terendah|底を打つ。|Mencapai titik terendah.|noun
+横ばい|よこばい|stagnan; datar|横ばい状態が続く。|Keadaan stagnan berlanjut.|noun
+急増|きゅうぞう|peningkatan tajam|利用者が急増する。|Pengguna meningkat tajam.|noun
+急減|きゅうげん|penurunan tajam|売上が急減する。|Penjualan menurun tajam.|noun
+微増|びぞう|sedikit meningkat|微増にとどまる。|Hanya sedikit meningkat.|noun
+微減|びげん|sedikit menurun|前年比で微減した。|Sedikit menurun dibanding tahun lalu.|noun
+回復|かいふく|pemulihan|景気が回復する。|Ekonomi pulih.|noun
+変動|へんどう|fluktuasi|価格が変動する。|Harga berfluktuasi.|noun
+安定|あんてい|stabilitas|状態が安定する。|Keadaan stabil.|noun
+不安定|ふあんてい|tidak stabil|情勢が不安定だ。|Situasi tidak stabil.|na_adjective
+一定|いってい|konstan; tetap|一定の水準を保つ。|Menjaga standar tetap.|noun
+顕著|けんちょ|nyata; menonjol|顕著な変化が見られる。|Terlihat perubahan yang nyata.|na_adjective
+大幅|おおはば|besar; signifikan|大幅に増加する。|Meningkat secara signifikan.|na_adjective
+著しい|いちじるしい|mencolok|著しい変化だ。|Perubahan yang mencolok.|i_adjective
+漸増|ぜんぞう|peningkatan bertahap|漸増の傾向がある。|Ada kecenderungan meningkat bertahap.|noun
+
+=== 996b5d0c-bfc7-49f8-b82b-68e7e3238ed3 ===
+比較|ひかく|perbandingan|比較して分析する。|Menganalisis dengan membandingkan.|noun
+対照|たいしょう|kontras|対照的な結果だ。|Hasil yang kontras.|noun
+類似|るいじ|kemiripan|類似点が多い。|Banyak kemiripan.|noun
+相違|そうい|perbedaan|意見の相違がある。|Ada perbedaan pendapat.|noun
+共通|きょうつう|kesamaan|共通点を見つける。|Menemukan kesamaan.|noun
+対比|たいひ|perbandingan kontras|二つの意見を対比する。|Membandingkan dua pendapat.|noun
+相関|そうかん|korelasi|相関関係を調べる。|Menyelidiki korelasi.|noun
+因果|いんが|sebab-akibat|因果関係を分析する。|Menganalisis hubungan sebab-akibat.|noun
+一致|いっち|kesesuaian|意見が一致する。|Pendapat sesuai.|noun
+不一致|ふいっち|ketidaksesuaian|データが不一致だ。|Data tidak sesuai.|noun
+対等|たいとう|setara|対等な関係だ。|Hubungan yang setara.|na_adjective
+優位|ゆうい|unggul|優位に立つ。|Berada di posisi unggul.|noun
+劣位|れつい|inferior|劣位に置かれる。|Ditempatkan di posisi inferior.|noun
+同等|どうとう|setara; sama|同等の価値がある。|Memiliki nilai yang setara.|na_adjective
+格段|かくだん|jauh lebih baik|格段に向上した。|Meningkat jauh lebih baik.|na_adjective
+遥か|はるか|jauh; sangat|遥かに優れている。|Jauh lebih unggul.|na_adjective
+際立つ|きわだつ|menonjol|際立った特徴がある。|Ada ciri khas yang menonjol.|verb
+目立つ|めだつ|menonjol; mencolok|違いが目立つ。|Perbedaannya mencolok.|verb
+区別|くべつ|pembedaan|区別がつかない。|Tidak bisa dibedakan.|noun
+識別|しきべつ|identifikasi|正確に識別する。|Mengidentifikasi dengan tepat.|noun
+分類|ぶんるい|klasifikasi|分類して整理する。|Mengklasifikasi dan menyusun.|noun
+仕分け|しわけ|pemilahan|仕分け作業を行う。|Melakukan pekerjaan pemilahan.|noun
+特徴|とくちょう|ciri khas|特徴を把握する。|Memahami ciri khas.|noun
+特性|とくせい|karakteristik|材料の特性を調べる。|Menyelidiki karakteristik bahan.|noun
+性質|せいしつ|sifat; karakter|物質の性質を分析する。|Menganalisis sifat zat.|noun
+属性|ぞくせい|atribut|属性を分類する。|Mengklasifikasi atribut.|noun
+固有|こゆう|khas; unik|固有の文化を持つ。|Memiliki budaya yang khas.|na_adjective
+独自|どくじ|sendiri; orisinal|独自の方法を開発する。|Mengembangkan metode sendiri.|na_adjective
+独特|どくとく|unik; khas|独特の雰囲気がある。|Ada suasana yang unik.|na_adjective
+特異|とくい|luar biasa; anomali|特異な現象だ。|Fenomena yang luar biasa.|na_adjective
+普遍的|ふへんてき|universal|普遍的な真理だ。|Kebenaran yang universal.|na_adjective
+相対的|そうたいてき|relatif|相対的に評価する。|Mengevaluasi secara relatif.|na_adjective
+絶対的|ぜったいてき|absolut|絶対的な基準はない。|Tidak ada standar absolut.|na_adjective
+客観的|きゃっかんてき|objektif|客観的に比較する。|Membandingkan secara objektif.|na_adjective
+主観的|しゅかんてき|subjektif|主観的な評価だ。|Evaluasi yang subjektif.|na_adjective
+全般的|ぜんぱんてき|secara keseluruhan|全般的に良好だ。|Secara keseluruhan baik.|na_adjective
+部分的|ぶぶんてき|sebagian|部分的に修正する。|Merevisi sebagian.|na_adjective
+総体的|そうたいてき|secara menyeluruh|総体的に見て良い。|Secara menyeluruh dilihat baik.|na_adjective
+
+# Chapter 6: ニュース・学術日本語 (News & Academic Japanese)
+
+=== 22e9cc41-1d45-44b6-9ab9-443c3baaa244 ===
+報道|ほうどう|pemberitaan|事件を報道する。|Memberitakan peristiwa.|noun
+速報|そくほう|berita kilat|速報が入った。|Ada berita kilat masuk.|noun
+容疑|ようぎ|dugaan kriminal|容疑者が逮捕された。|Tersangka ditangkap.|noun
+逮捕|たいほ|penangkapan|犯人を逮捕する。|Menangkap pelaku.|noun
+起訴|きそ|dakwaan|容疑者を起訴する。|Mendakwa tersangka.|noun
+判決|はんけつ|putusan pengadilan|判決が下される。|Putusan dijatuhkan.|noun
+裁判|さいばん|pengadilan|裁判が始まる。|Pengadilan dimulai.|noun
+被告|ひこく|terdakwa|被告が証言する。|Terdakwa bersaksi.|noun
+原告|げんこく|penggugat|原告が訴える。|Penggugat mengajukan gugatan.|noun
+証言|しょうげん|kesaksian|証言を聞く。|Mendengarkan kesaksian.|noun
+疑惑|ぎわく|kecurigaan|疑惑が浮上する。|Kecurigaan muncul.|noun
+汚職|おしょく|korupsi|汚職事件が発覚した。|Kasus korupsi terungkap.|noun
+不正|ふせい|kecurangan|不正が発覚する。|Kecurangan terungkap.|noun
+摘発|てきはつ|pengungkapan|不正を摘発する。|Mengungkap kecurangan.|noun
+捜査|そうさ|penyelidikan|警察が捜査する。|Polisi menyelidiki.|noun
+発表|はっぴょう|pengumuman|結果を発表する。|Mengumumkan hasil.|noun
+見通し|みとおし|prospek; perkiraan|景気の見通しは明るい。|Prospek ekonomi cerah.|noun
+方針|ほうしん|kebijakan|方針を発表する。|Mengumumkan kebijakan.|noun
+検討|けんとう|pertimbangan|対策を検討する。|Mempertimbangkan tindakan.|noun
+協定|きょうてい|perjanjian|協定を締結する。|Membuat perjanjian.|noun
+締結|ていけつ|penutupan perjanjian|条約を締結する。|Menandatangani perjanjian.|noun
+批准|ひじゅん|ratifikasi|条約を批准する。|Meratifikasi perjanjian.|noun
+調印|ちょういん|penandatanganan|調印式を行う。|Melakukan upacara penandatanganan.|noun
+選挙|せんきょ|pemilihan|選挙が行われる。|Pemilihan dilaksanakan.|noun
+投票|とうひょう|pemungutan suara|投票率が低い。|Tingkat partisipasi pemilu rendah.|noun
+当選|とうせん|terpilih|当選が確定する。|Terpilih dipastikan.|noun
+落選|らくせん|kalah pemilu|落選した候補者だ。|Kandidat yang kalah.|noun
+候補|こうほ|kandidat|候補者が出馬する。|Kandidat mencalonkan diri.|noun
+世論|せろん|opini publik|世論調査を行う。|Melakukan survei opini publik.|noun
+支持率|しじりつ|tingkat dukungan|支持率が下がる。|Tingkat dukungan menurun.|noun
+景気|けいき|kondisi ekonomi|景気が低迷する。|Ekonomi lesu.|noun
+株価|かぶか|harga saham|株価が下落する。|Harga saham turun.|noun
+為替|かわせ|kurs valuta|為替レートが変動する。|Kurs valuta berfluktuasi.|noun
+貿易|ぼうえき|perdagangan|貿易赤字が拡大する。|Defisit perdagangan meluas.|noun
+輸出|ゆしゅつ|ekspor|輸出が増加する。|Ekspor meningkat.|noun
+輸入|ゆにゅう|impor|輸入品が増える。|Barang impor bertambah.|noun
+関税|かんぜい|bea cukai|関税を引き下げる。|Menurunkan bea cukai.|noun
+規制|きせい|regulasi|規制を緩和する。|Melonggarkan regulasi.|noun
+
+=== c6588d63-c26f-4f68-b329-b3a7925b02b1 ===
+仮説|かせつ|hipotesis|仮説を検証する。|Memverifikasi hipotesis.|noun
+検証|けんしょう|verifikasi|実験で検証する。|Memverifikasi dengan eksperimen.|noun
+考察|こうさつ|pembahasan|結果を考察する。|Membahas hasil.|noun
+結論|けつろん|kesimpulan|結論を述べる。|Menyatakan kesimpulan.|noun
+論文|ろんぶん|makalah; tesis|論文を発表する。|Mempublikasikan makalah.|noun
+学説|がくせつ|teori akademik|学説を提唱する。|Mengemukakan teori akademik.|noun
+定説|ていせつ|teori yang mapan|定説を覆す研究だ。|Penelitian yang membalikkan teori mapan.|noun
+通説|つうせつ|pendapat umum|通説では正しいとされる。|Menurut pendapat umum dianggap benar.|noun
+新説|しんせつ|teori baru|新説を発表する。|Mempublikasikan teori baru.|noun
+異説|いせつ|pendapat berbeda|異説を唱える学者もいる。|Ada juga akademisi yang berpendapat berbeda.|noun
+序論|じょろん|pendahuluan|序論で問題を提起する。|Mengangkat masalah di pendahuluan.|noun
+本論|ほんろん|pembahasan utama|本論に入る。|Masuk ke pembahasan utama.|noun
+結語|けつご|penutup|結語でまとめる。|Merangkum di bagian penutup.|noun
+注釈|ちゅうしゃく|catatan kaki|注釈を付ける。|Menambahkan catatan kaki.|noun
+脚注|きゃくちゅう|catatan kaki|脚注を参照する。|Merujuk catatan kaki.|noun
+参考文献|さんこうぶんけん|daftar pustaka|参考文献を列挙する。|Mencantumkan daftar pustaka.|noun
+先行研究|せんこうけんきゅう|penelitian terdahulu|先行研究を調べる。|Menyelidiki penelitian terdahulu.|noun
+実証|じっしょう|pembuktian empiris|実証的な研究だ。|Penelitian yang bersifat empiris.|noun
+概念|がいねん|konsep|概念を定義する。|Mendefinisikan konsep.|noun
+定義|ていぎ|definisi|用語を定義する。|Mendefinisikan istilah.|noun
+範疇|はんちゅう|kategori|同じ範疇に属する。|Termasuk dalam kategori yang sama.|noun
+体系|たいけい|sistem|理論体系を構築する。|Membangun sistem teori.|noun
+枠組み|わくぐみ|kerangka|理論的な枠組みを示す。|Menunjukkan kerangka teoritis.|noun
+方法論|ほうほうろん|metodologi|方法論を説明する。|Menjelaskan metodologi.|noun
+標本|ひょうほん|sampel|標本を採取する。|Mengambil sampel.|noun
+被験者|ひけんしゃ|subjek penelitian|被験者を募集する。|Merekrut subjek penelitian.|noun
+変数|へんすう|variabel|変数を制御する。|Mengendalikan variabel.|noun
+有意|ゆうい|signifikan (statistik)|有意な差が見られた。|Terlihat perbedaan yang signifikan.|na_adjective
+妥当性|だとうせい|validitas|妥当性を確認する。|Mengonfirmasi validitas.|noun
+信頼性|しんらいせい|reliabilitas|信頼性が高い。|Reliabilitasnya tinggi.|noun
+普遍性|ふへんせい|universalitas|普遍性のある理論だ。|Teori yang memiliki universalitas.|noun
+再現性|さいげんせい|reprodusibilitas|再現性を確認する。|Mengonfirmasi reprodusibilitas.|noun
+蓋然性|がいぜんせい|probabilitas|蓋然性が高い結論だ。|Kesimpulan dengan probabilitas tinggi.|noun
+帰納|きのう|induksi|帰納法で分析する。|Menganalisis dengan metode induksi.|noun
+演繹|えんえき|deduksi|演繹法で推論する。|Menalar dengan metode deduksi.|noun
+抽出|ちゅうしゅつ|ekstraksi|データを抽出する。|Mengekstrak data.|noun
+算定|さんてい|perhitungan|費用を算定する。|Menghitung biaya.|noun
+査読|さどく|peer review|査読付き論文だ。|Makalah yang sudah di-peer review.|noun
+
+=== 16199097-5f9a-4643-a21e-48c0b11ebb5d ===
+社説|しゃせつ|editorial|社説を読む。|Membaca editorial.|noun
+論説|ろんせつ|artikel opini|論説を書く。|Menulis artikel opini.|noun
+世論|よろん|opini publik|世論を反映する。|Mencerminkan opini publik.|noun
+批評|ひひょう|kritik; ulasan|映画を批評する。|Mengkritik film.|noun
+書評|しょひょう|resensi buku|書評を掲載する。|Memuat resensi buku.|noun
+論評|ろんぴょう|komentar kritis|論評を加える。|Menambahkan komentar kritis.|noun
+風刺|ふうし|satir|風刺を込めた作品だ。|Karya yang mengandung satir.|noun
+皮肉|ひにく|sarkasme; ironi|皮肉を込めて言う。|Berkata dengan sarkasme.|noun
+寄稿|きこう|kontribusi tulisan|雑誌に寄稿する。|Berkontribusi tulisan di majalah.|noun
+連載|れんさい|serial; bersambung|コラムを連載する。|Menulis kolom bersambung.|noun
+掲載|けいさい|pemuatan|記事を掲載する。|Memuat artikel.|noun
+紙面|しめん|halaman koran|紙面で報じる。|Memberitakan di halaman koran.|noun
+誌面|しめん|halaman majalah|誌面を飾る。|Menghiasi halaman majalah.|noun
+特集|とくしゅう|edisi khusus|特集を組む。|Menyusun edisi khusus.|noun
+取材|しゅざい|liputan|現地を取材する。|Meliput di lokasi.|noun
+報じる|ほうじる|memberitakan|事件を報じる。|Memberitakan peristiwa.|verb
+伝える|つたえる|menyampaikan|情報を伝える。|Menyampaikan informasi.|verb
+訴える|うったえる|mengimbau|平和を訴える。|Mengimbau perdamaian.|verb
+問いかける|といかける|mengajukan pertanyaan|読者に問いかける。|Mengajukan pertanyaan kepada pembaca.|verb
+呼びかける|よびかける|menyerukan|参加を呼びかける。|Menyerukan partisipasi.|verb
+警鐘|けいしょう|peringatan|警鐘を鳴らす。|Membunyikan peringatan.|noun
+提言|ていげん|rekomendasi|政策提言をする。|Memberikan rekomendasi kebijakan.|noun
+助言|じょげん|saran; nasihat|専門家が助言する。|Pakar memberikan nasihat.|noun
+忠告|ちゅうこく|peringatan; nasihat|忠告を無視する。|Mengabaikan peringatan.|noun
+啓発|けいはつ|pencerahan|意識を啓発する。|Mencerahkan kesadaran.|noun
+喚起|かんき|pembangkitan|注意を喚起する。|Membangkitkan perhatian.|noun
+世相|せそう|kondisi masyarakat|世相を反映する。|Mencerminkan kondisi masyarakat.|noun
+時事|じじ|berita terkini|時事問題を論じる。|Membahas berita terkini.|noun
+動静|どうせい|gerak-gerik|政界の動静を追う。|Mengikuti gerak-gerik dunia politik.|noun
+潮流|ちょうりゅう|arus; tren|時代の潮流に乗る。|Mengikuti arus zaman.|noun
+風潮|ふうちょう|tren; suasana|社会の風潮を反映する。|Mencerminkan tren masyarakat.|noun
+機運|きうん|momentum|改革の機運が高まる。|Momentum reformasi meningkat.|noun
+兆候|ちょうこう|tanda; gejala|回復の兆候が見える。|Terlihat tanda pemulihan.|noun
+顕在化|けんざいか|menjadi nyata|問題が顕在化する。|Masalah menjadi nyata.|noun
+浮き彫り|うきぼり|terungkap jelas|問題が浮き彫りになる。|Masalah terungkap jelas.|noun
+懸案|けんあん|masalah yang menggantung|懸案事項を解決する。|Menyelesaikan masalah yang menggantung.|noun
+争点|そうてん|poin perdebatan|選挙の争点は何か。|Apa poin perdebatan pemilu.|noun
+焦点|しょうてん|fokus; titik perhatian|焦点を当てる。|Memfokuskan perhatian.|noun
+
+=== 399ca45d-ddcc-409c-9f8e-02555a10afec ===
+統計|とうけい|statistik|統計を取る。|Mengambil statistik.|noun
+割合|わりあい|proporsi; persentase|割合を示す。|Menunjukkan proporsi.|noun
+平均|へいきん|rata-rata|平均を上回る。|Melampaui rata-rata.|noun
+推移|すいい|perubahan bertahap|推移を観察する。|Mengamati perubahan bertahap.|noun
+数値|すうち|nilai angka|数値を確認する。|Mengonfirmasi nilai angka.|noun
+指標|しひょう|indikator|重要な指標だ。|Indikator penting.|noun
+指数|しすう|indeks|消費者物価指数が上がる。|Indeks harga konsumen naik.|noun
+基準値|きじゅんち|nilai standar|基準値を超える。|Melebihi nilai standar.|noun
+偏差値|へんさち|nilai deviasi|偏差値が高い。|Nilai deviasinya tinggi.|noun
+中央値|ちゅうおうち|nilai median|中央値を算出する。|Menghitung nilai median.|noun
+概算|がいさん|perkiraan kasar|概算で計算する。|Menghitung secara kasar.|noun
+精算|せいさん|perhitungan tepat|費用を精算する。|Menghitung biaya secara tepat.|noun
+試算|しさん|perhitungan percobaan|試算を行う。|Melakukan perhitungan percobaan.|noun
+見積もり|みつもり|perkiraan biaya|見積もりを出す。|Mengeluarkan perkiraan biaya.|noun
+算出|さんしゅつ|perhitungan; penghitungan|コストを算出する。|Menghitung biaya.|noun
+約|やく|sekitar; kira-kira|約3割が賛成だ。|Sekitar 30% setuju.|adverb
+およそ|およそ|kira-kira|およそ100人が参加した。|Kira-kira 100 orang berpartisipasi.|adverb
+以上|いじょう|lebih dari; di atas|100人以上が参加した。|Lebih dari 100 orang berpartisipasi.|noun
+以下|いか|kurang dari; di bawah|10度以下に下がる。|Turun di bawah 10 derajat.|noun
+未満|みまん|kurang dari; belum|18歳未満は禁止だ。|Dilarang untuk yang belum 18 tahun.|noun
+前年比|ぜんねんひ|dibanding tahun lalu|前年比10%増だ。|Naik 10% dibanding tahun lalu.|noun
+前月比|ぜんげつひ|dibanding bulan lalu|前月比で減少した。|Menurun dibanding bulan lalu.|noun
+対前年|たいぜんねん|terhadap tahun lalu|対前年度比で増加した。|Meningkat terhadap tahun lalu.|noun
+増減|ぞうげん|kenaikan dan penurunan|増減を確認する。|Mengonfirmasi kenaikan dan penurunan.|noun
+上回る|うわまわる|melampaui|予想を上回る結果だ。|Hasil yang melampaui perkiraan.|verb
+下回る|したまわる|di bawah|目標を下回る。|Di bawah target.|verb
+超える|こえる|melampaui; melebihi|1万人を超える。|Melebihi 10.000 orang.|verb
+達する|たっする|mencapai|目標に達する。|Mencapai target.|verb
+占める|しめる|menempati; memiliki porsi|全体の3割を占める。|Menempati 30% dari keseluruhan.|verb
+構成|こうせい|komposisi|年齢構成を調べる。|Menyelidiki komposisi usia.|noun
+分布|ぶんぷ|distribusi|人口の分布を見る。|Melihat distribusi penduduk.|noun
+偏り|かたより|ketimpangan|データに偏りがある。|Ada ketimpangan dalam data.|noun
+ばらつき|ばらつき|variasi; sebaran|ばらつきが大きい。|Variasinya besar.|noun
+格差|かくさ|kesenjangan|格差が生じる。|Terjadi kesenjangan.|noun
+乖離|かいり|penyimpangan; gap|理想と現実の乖離がある。|Ada gap antara ideal dan kenyataan.|noun
+相関|そうかん|korelasi|相関が見られる。|Terlihat korelasi.|noun
+母集団|ぼしゅうだん|populasi (statistik)|母集団からサンプルを取る。|Mengambil sampel dari populasi.|noun
+有意差|ゆういさ|perbedaan signifikan|有意差が認められた。|Perbedaan signifikan diakui.|noun

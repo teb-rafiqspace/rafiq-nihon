@@ -1,0 +1,98 @@
+# JLPT N2 Kanji 289-385
+瞬|18|berkedip|またた.く|シュン|瞬間|しゅんかん|sekejap
+准|10|menyetujui||ジュン|准教授|じゅんきょうじゅ|asisten profesor
+循|12|mengikuti||ジュン|循環|じゅんかん|sirkulasi
+盾|9|perisai|たて|ジュン|盾|たて|perisai
+庶|11|rakyat biasa||ショ|庶民|しょみん|rakyat biasa
+緒|14|awal; tali|お|ショ|一緒|いっしょ|bersama
+叙|9|bercerita||ジョ|叙述|じょじゅつ|narasi
+徐|10|perlahan||ジョ|徐々に|じょじょに|perlahan-lahan
+償|17|mengganti rugi|つぐな.う|ショウ|賠償|ばいしょう|ganti rugi
+匠|6|pengrajin||ショウ|匠|たくみ|pengrajin
+升|4|ukuran|ます|ショウ|一升|いっしょう|satu sho
+召|5|memanggil|め.す|ショウ|召集|しょうしゅう|pengumpulan
+奨|13|mendorong||ショウ|奨学金|しょうがくきん|beasiswa
+宵|10|malam|よい|ショウ|宵|よい|malam
+尚|8|masih; terhormat||ショウ|高尚|こうしょう|luhur
+床|7|lantai|ゆか|ショウ|床|ゆか|lantai
+彰|14|menampakkan||ショウ|表彰|ひょうしょう|penghargaan
+抄|7|menyalin||ショウ|抄録|しょうろく|ringkasan
+掌|12|telapak tangan|てのひら|ショウ|掌握|しょうあく|penguasaan
+昇|8|naik|のぼ.る|ショウ|昇進|しょうしん|promosi
+晶|12|kristal||ショウ|結晶|けっしょう|kristal
+沼|8|rawa|ぬま|ショウ|沼地|ぬまち|rawa
+渉|11|menyeberangi||ショウ|交渉|こうしょう|negosiasi
+焦|12|terbakar|こ.げる|ショウ|焦点|しょうてん|fokus
+症|10|gejala||ショウ|症状|しょうじょう|gejala
+硝|12|sendawa||ショウ|硝酸|しょうさん|asam nitrat
+礁|17|karang||ショウ|珊瑚礁|さんごしょう|terumbu karang
+祥|10|pertanda baik||ショウ|吉祥|きっしょう|keberuntungan
+称|10|menyebut|たた.える|ショウ|名称|めいしょう|nama
+粧|12|rias||ショウ|化粧|けしょう|rias
+紹|11|memperkenalkan||ショウ|紹介|しょうかい|perkenalan
+肖|7|menyerupai||ショウ|肖像|しょうぞう|potret
+衝|15|benturan||ショウ|衝突|しょうとつ|tabrakan
+訟|11|tuntutan hukum||ショウ|訴訟|そしょう|tuntutan
+詳|13|rinci|くわ.しい|ショウ|詳細|しょうさい|detail
+丈|3|panjang||ジョウ|丈夫|じょうぶ|kuat
+冗|4|berlebih||ジョウ|冗談|じょうだん|lelucon
+剰|11|surplus||ジョウ|余剰|よじょう|surplus
+壌|16|tanah||ジョウ|土壌|どじょう|tanah
+嬢|16|nona||ジョウ|令嬢|れいじょう|nona
+浄|9|bersih||ジョウ|浄化|じょうか|pembersihan
+畳|12|tatami|たた.む|ジョウ|畳|たたみ|tatami
+穣|18|panen||ジョウ|豊穣|ほうじょう|panen melimpah
+蒸|13|mengukus|む.す|ジョウ|蒸気|じょうき|uap
+譲|20|mengalah|ゆず.る|ジョウ|譲歩|じょうほ|konsesi
+醸|20|menyeduh|かも.す|ジョウ|醸造|じょうぞう|penyeduhan
+錠|16|gembok||ジョウ|錠剤|じょうざい|tablet
+飾|13|menghias|かざ.る|ショク|装飾|そうしょく|dekorasi
+嘱|15|mempercayakan||ショク|委嘱|いしょく|kepercayaan
+殖|12|berkembang biak|ふ.える|ショク|繁殖|はんしょく|perkembangbiakan
+触|13|menyentuh|ふ.れる|ショク|接触|せっしょく|kontak
+辱|10|aib|はずかし.める|ジョク|屈辱|くつじょく|penghinaan
+伸|7|memanjang|の.びる|シン|伸長|しんちょう|perpanjangan
+審|15|memeriksa||シン|審査|しんさ|pemeriksaan
+娠|10|hamil||シン|妊娠|にんしん|kehamilan
+寝|13|tidur|ね.る|シン|就寝|しゅうしん|tidur
+慎|13|berhati-hati|つつし.む|シン|慎重|しんちょう|berhati-hati
+振|10|mengayun|ふ.る|シン|振動|しんどう|getaran
+浸|10|merendam|ひた.す|シン|浸透|しんとう|perembesan
+紳|11|pria terhormat||シン|紳士|しんし|pria terhormat
+薪|16|kayu bakar|たきぎ|シン|薪|まき|kayu bakar
+診|12|memeriksa|み.る|シン|診断|しんだん|diagnosis
+辛|7|pedas|から.い|シン|辛抱|しんぼう|kesabaran
+刃|3|mata pisau|は|ジン|刃物|はもの|benda tajam
+尋|12|menanyakan|たず.ねる|ジン|尋問|じんもん|interogasi
+甚|9|sangat|はなは.だ|ジン|甚大|じんだい|sangat besar
+陣|10|barisan||ジン|陣営|じんえい|kubu
+尽|6|menghabiskan|つ.くす|ジン|尽力|じんりょく|usaha
+迅|6|cepat||ジン|迅速|じんそく|cepat
+吹|7|meniup|ふ.く|スイ|吹奏|すいそう|tiup
+帥|9|komandan||スイ|元帥|げんすい|marsekal
+衰|10|melemah|おとろ.える|スイ|衰退|すいたい|kemunduran
+粋|10|murni|いき|スイ|純粋|じゅんすい|murni
+酔|11|mabuk|よ.う|スイ|酔払い|よっぱらい|pemabuk
+随|12|mengikuti||ズイ|随時|ずいじ|kapan saja
+髄|19|sumsum||ズイ|骨髄|こつずい|sumsum tulang
+崇|11|memuja||スウ|崇拝|すうはい|pemujaan
+枢|8|engsel; poros||スウ|中枢|ちゅうすう|pusat
+据|11|memasang|す.える|キョ|据付|すえつけ|pemasangan
+杉|7|cedar|すぎ|サン|杉|すぎ|pohon cedar
+澄|15|jernih|す.む|チョウ|澄む|すむ|menjadi jernih
+瀬|19|arus deras|せ|ライ|瀬戸|せと|selat
+畝|10|bedengan|うね|ボウ|畝|うね|bedengan
+是|9|benar||ゼ|是正|ぜせい|koreksi
+征|8|menaklukkan||セイ|遠征|えんせい|ekspedisi
+牲|9|pengorbanan||セイ|犠牲|ぎせい|pengorbanan
+盛|11|ramai|も.る|セイ|繁盛|はんじょう|makmur
+誠|13|tulus|まこと|セイ|誠実|せいじつ|tulus
+聖|13|suci||セイ|聖人|せいじん|orang suci
+斉|8|serempak||セイ|一斉|いっせい|serentak
+隻|10|perahu (penghitung)||セキ|一隻|いっせき|satu kapal
+拙|8|buruk|つたな.い|セツ|稚拙|ちせつ|kekanak-kanakan
+窃|9|mencuri||セツ|窃盗|せっとう|pencurian
+摂|13|mengambil||セツ|摂取|せっしゅ|konsumsi
+仙|5|pertapa||セン|仙人|せんにん|pertapa
+占|5|meramal|うらな.う|セン|占領|せんりょう|pendudukan
+扇|10|kipas|おうぎ|セン|扇風機|せんぷうき|kipas angin

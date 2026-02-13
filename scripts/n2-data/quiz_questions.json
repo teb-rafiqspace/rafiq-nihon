@@ -1,0 +1,2914 @@
+[
+  {
+    "id": "18a2e053-a5ce-4891-8237-38694372a4ea",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「出発（　）際して、注意事項を確認してください。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に際して」は「〜するときに」という意味で、「に」が正しい助詞です。"
+  },
+  {
+    "id": "0e2ef0b7-e3be-46d0-90c5-8b3b422d30d7",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に際して」の意味として正しいものは？",
+    "options": [
+      "〜するときに",
+      "〜した後で",
+      "〜する前に",
+      "〜しないで"
+    ],
+    "correct_answer": "〜するときに",
+    "explanation": "「〜に際して」は「〜の機会に・〜するときに」という意味のフォーマルな表現です。"
+  },
+  {
+    "id": "687a6420-e20b-4f43-97ab-f4a44d435898",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「新しいプロジェクトを始める（　）、チーム全員で目標を確認した。」に入る表現は？",
+    "options": [
+      "にあたって",
+      "にとって",
+      "について",
+      "にかけて"
+    ],
+    "correct_answer": "にあたって",
+    "explanation": "「〜にあたって」は「〜する際に（準備として）」という意味です。新しいことを始めるときに使います。"
+  },
+  {
+    "id": "6baf6d1e-ab75-4188-8702-3b009633025d",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にあたって」と「〜に際して」の違いについて正しいものは？",
+    "options": [
+      "「にあたって」は準備の意味が強い",
+      "「に際して」はカジュアルな表現",
+      "両方とも過去のことにしか使えない",
+      "「にあたって」は否定文にしか使えない"
+    ],
+    "correct_answer": "「にあたって」は準備の意味が強い",
+    "explanation": "「〜にあたって」は何かに備えて準備するニュアンスが強く、「〜に際して」はその場面・タイミングを示します。"
+  },
+  {
+    "id": "87cd9587-a207-45fd-ab60-df0473bbcc0d",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「転職（　）際して、履歴書を新しく作成した。」に入るのは？",
+    "options": [
+      "に",
+      "の",
+      "と",
+      "へ"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に際して」の「に」は固定の助詞です。名詞＋に際して、の形で使います。"
+  },
+  {
+    "id": "a3a0be69-731a-4f1b-881f-4788a8b32bc3",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜にあたって」の使い方として正しい文は？",
+    "options": [
+      "留学するにあたって、ビザを申請した。",
+      "昨日にあたって、雨が降った。",
+      "友達にあたって、プレゼントをもらった。",
+      "電車にあたって、遅刻した。"
+    ],
+    "correct_answer": "留学するにあたって、ビザを申請した。",
+    "explanation": "「〜にあたって」は重要な行為に備えて何かをするときに使います。留学の準備としてビザを申請するのは正しい用法です。"
+  },
+  {
+    "id": "f74c908c-08ae-4f00-8391-808c5e51fd71",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「開会（　）あたり、一言ご挨拶申し上げます。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "は"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜にあたり」は「〜にあたって」の書き言葉版で、「に」が入ります。"
+  },
+  {
+    "id": "032dbf65-97d2-451f-8e6c-cbf7a13be4e0",
+    "lesson_id": "bc4ffa95-fc0b-4aac-b81f-f6fbcce6537a",
+    "question_type": "multiple_choice",
+    "question_text": "「際して」の読み方は？",
+    "options": [
+      "さいして",
+      "きわして",
+      "ぎわして",
+      "まじして"
+    ],
+    "correct_answer": "さいして",
+    "explanation": "「際」は「さい」と読みます。「〜に際して（にさいして）」が正しい読み方です。"
+  },
+  {
+    "id": "820f952d-c81e-40dc-bcdc-99e0278c77e9",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「実際のデータ（　）基づいて、レポートを書いた。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に基づいて」は「に」を使います。「〜を基に」と混同しないようにしましょう。"
+  },
+  {
+    "id": "97862e41-488c-44b8-92c0-2566525cc84a",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に基づいて」の意味は？",
+    "options": [
+      "〜を根拠にして",
+      "〜と反対に",
+      "〜の代わりに",
+      "〜とは関係なく"
+    ],
+    "correct_answer": "〜を根拠にして",
+    "explanation": "「〜に基づいて」は「〜を根拠・土台にして」という意味で、何かを拠り所にする表現です。"
+  },
+  {
+    "id": "e6436fef-7c66-45b7-8e75-32d2791e56fe",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「この映画は実話（　）もとに制作された。」に入る言葉は？",
+    "options": [
+      "を",
+      "に",
+      "が",
+      "で"
+    ],
+    "correct_answer": "を",
+    "explanation": "「〜をもとに」は助詞「を」を使います。「実話をもとに」で「実話を材料にして」の意味です。"
+  },
+  {
+    "id": "feab1191-e1ce-4790-a0da-f077624e05f7",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「〜をもとに」と「〜に基づいて」の違いとして正しいものは？",
+    "options": [
+      "「をもとに」は素材、「に基づいて」は根拠のニュアンスが強い",
+      "「をもとに」のほうがフォーマル",
+      "「に基づいて」は口語的",
+      "両方とも全く同じ意味で違いはない"
+    ],
+    "correct_answer": "「をもとに」は素材、「に基づいて」は根拠のニュアンスが強い",
+    "explanation": "「〜をもとに」は参考・素材のニュアンス、「〜に基づいて」は規則・根拠に従うニュアンスが強いです。"
+  },
+  {
+    "id": "3808bc9a-1949-4147-9b7d-27ec52f1dfa5",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「法律（　）基づき、処分が決定された。」に入るのは？",
+    "options": [
+      "に",
+      "を",
+      "と",
+      "から"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に基づき」は「〜に基づいて」の書き言葉版で、助詞は同じ「に」です。"
+  },
+  {
+    "id": "2096b50e-cd07-472f-bc08-f2c098fe964a",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「根拠」の意味は？",
+    "options": [
+      "Dasar/bukti",
+      "Pendapat",
+      "Kesimpulan",
+      "Perkiraan"
+    ],
+    "correct_answer": "Dasar/bukti",
+    "explanation": "「根拠（こんきょ）」は「dasar」や「bukti」の意味です。「根拠に基づく」で「berdasarkan bukti」です。"
+  },
+  {
+    "id": "96f24ebb-23ce-4994-b309-c0c97b0faa88",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "次の文のうち「〜をもとに」の使い方が正しいものは？",
+    "options": [
+      "アンケート結果をもとに、新商品を開発した。",
+      "天気をもとに、今日は暑い。",
+      "友達をもとに、遊びに行った。",
+      "電車をもとに、駅に着いた。"
+    ],
+    "correct_answer": "アンケート結果をもとに、新商品を開発した。",
+    "explanation": "「〜をもとに」はある情報・素材を参考にして何かをするときに使います。"
+  },
+  {
+    "id": "94583b27-8577-407c-8ea0-9c57ca07cccd",
+    "lesson_id": "07f22711-3d47-43c2-a05b-2e7487681056",
+    "question_type": "multiple_choice",
+    "question_text": "「彼の経験談（　）もとにした小説が出版された。」に入る助詞は？",
+    "options": [
+      "を",
+      "に",
+      "が",
+      "の"
+    ],
+    "correct_answer": "を",
+    "explanation": "「〜をもとにした＋名詞」の形で、「〜を」が正しいです。"
+  },
+  {
+    "id": "94be0dfb-a40c-4f2f-bb98-c85d0379413c",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「お客様のご要望（　）応じて、プランを変更いたします。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に応じて」は「に」を使います。「要望に応じて」で「sesuai dengan permintaan」の意味です。"
+  },
+  {
+    "id": "494034aa-e79a-4d95-b33f-5b186b86dcaf",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に応じて」の意味として正しいものは？",
+    "options": [
+      "〜に合わせて/〜に従って",
+      "〜に反して",
+      "〜の前に",
+      "〜とは違って"
+    ],
+    "correct_answer": "〜に合わせて/〜に従って",
+    "explanation": "「〜に応じて」は状況や相手に合わせて対応する意味です。"
+  },
+  {
+    "id": "4db99382-2105-402d-905a-a98e499f8282",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「結果（　）次第で、今後の方針が決まる。」に入るのは？",
+    "options": [
+      "次第で（助詞不要）",
+      "に",
+      "を",
+      "が"
+    ],
+    "correct_answer": "次第で（助詞不要）",
+    "explanation": "「名詞＋次第で」は名詞に直接つきます。「結果次第で」が正しい形です。"
+  },
+  {
+    "id": "f1a4fa1c-5ec5-48a3-bd35-513a96b47880",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「〜次第で」の意味は？",
+    "options": [
+      "〜によって決まる",
+      "〜の後すぐに",
+      "〜しながら",
+      "〜にもかかわらず"
+    ],
+    "correct_answer": "〜によって決まる",
+    "explanation": "「〜次第で」は「〜がどうなるかで（結果が）変わる」という意味です。"
+  },
+  {
+    "id": "cbc3e4c7-2655-4aa7-b337-6ef101bd36be",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「能力に応じて給料が（　）。」に入る適切な言葉は？",
+    "options": [
+      "異なる",
+      "走る",
+      "飛ぶ",
+      "寝る"
+    ],
+    "correct_answer": "異なる",
+    "explanation": "能力に応じて給料が「異なる（berbeda）」のが自然な文です。"
+  },
+  {
+    "id": "0c133783-c317-4b1c-8f88-8bafc3e4526a",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「天候次第（　）、イベントは中止になる可能性がある。」に入るのは？",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "correct_answer": "で",
+    "explanation": "「〜次第で」の「で」が必要です。「天候次第で」は「tergantung cuaca」の意味です。"
+  },
+  {
+    "id": "84084a8d-df67-47b3-9408-02653c8d8b8b",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "「応じる」の読み方は？",
+    "options": [
+      "おうじる",
+      "こたじる",
+      "のうじる",
+      "とうじる"
+    ],
+    "correct_answer": "おうじる",
+    "explanation": "「応じる」は「おうじる」と読みます。「応（おう）」＋「じる」です。"
+  },
+  {
+    "id": "cf7eb5be-7293-4073-9ea2-fa6eb2b7a2cc",
+    "lesson_id": "a2fc2a82-a116-4ecd-abf9-a46097808033",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜に応じて」の使い方として正しい文は？",
+    "options": [
+      "年齢に応じて、参加費が異なります。",
+      "明日に応じて、学校に行く。",
+      "友達に応じて、楽しかった。",
+      "駅に応じて、電車に乗る。"
+    ],
+    "correct_answer": "年齢に応じて、参加費が異なります。",
+    "explanation": "「〜に応じて」は基準（年齢）に合わせて結果（参加費）が変わることを示します。"
+  },
+  {
+    "id": "7529f7cc-2f51-4657-9235-bb0d3ed7f3b1",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「年を取る（　）、体力が落ちてきた。」に入る表現は？",
+    "options": [
+      "につれて",
+      "にとって",
+      "について",
+      "にかけて"
+    ],
+    "correct_answer": "につれて",
+    "explanation": "「〜につれて」は一方の変化に伴ってもう一方も変化する意味です。「年を取るにつれて」が正しいです。"
+  },
+  {
+    "id": "988b78e8-e8bd-489e-af18-bae7bfcaa619",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「〜につれて」の意味として正しいものは？",
+    "options": [
+      "〜が変わるのと一緒に",
+      "〜した後で",
+      "〜する前に",
+      "〜とは関係なく"
+    ],
+    "correct_answer": "〜が変わるのと一緒に",
+    "explanation": "「〜につれて」は二つの変化が並行して起こることを示します。seiring dengan の意味です。"
+  },
+  {
+    "id": "f173e9df-c822-41b4-a987-20859ed0190d",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「経済の発展（　）伴って、環境問題も深刻化した。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に伴って」は「に」を使います。「発展に伴って」で「seiring perkembangan」の意味です。"
+  },
+  {
+    "id": "4f9a2029-e127-4ced-8206-de384d4e4715",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に伴って」と「〜につれて」の違いとして正しいものは？",
+    "options": [
+      "「に伴って」はフォーマルで、原因と結果のニュアンスが強い",
+      "「につれて」のほうがフォーマル",
+      "「に伴って」は日常会話でのみ使う",
+      "両方とも否定文でしか使えない"
+    ],
+    "correct_answer": "「に伴って」はフォーマルで、原因と結果のニュアンスが強い",
+    "explanation": "「〜に伴って」は書き言葉的でフォーマル。「〜につれて」は徐々の変化を表します。"
+  },
+  {
+    "id": "e9eb136c-2ee2-481d-a2cf-e831b7a66656",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「技術が進歩する（　）、生活が便利になった。」に入るのは？",
+    "options": [
+      "につれて",
+      "にしても",
+      "にかけて",
+      "において"
+    ],
+    "correct_answer": "につれて",
+    "explanation": "技術の進歩と生活の利便化が並行する変化なので「につれて」が適切です。"
+  },
+  {
+    "id": "989da0ea-c221-4fb6-9a17-5e20adacc0ad",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「伴う」の読み方は？",
+    "options": [
+      "ともなう",
+      "したがう",
+      "あつかう",
+      "うかがう"
+    ],
+    "correct_answer": "ともなう",
+    "explanation": "「伴う」は「ともなう」と読みます。「伴（ばん・とも）」の訓読みです。"
+  },
+  {
+    "id": "4835af9b-e15f-4d00-8330-9faf352c8038",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "「人口の増加に伴い、住宅問題が（　）。」に入る適切な表現は？",
+    "options": [
+      "深刻になった",
+      "楽しくなった",
+      "簡単になった",
+      "静かになった"
+    ],
+    "correct_answer": "深刻になった",
+    "explanation": "人口増加に伴う問題として「住宅問題が深刻になった」が最も自然です。"
+  },
+  {
+    "id": "447a8c3f-70cc-4d31-96d9-4f300df4a97d",
+    "lesson_id": "183c8d6d-6309-4d3f-9c3e-9e3918c58dcb",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜につれて」を使った正しい文は？",
+    "options": [
+      "日本語を勉強するにつれて、漢字が読めるようになった。",
+      "駅につれて、電車が来た。",
+      "友達につれて、映画を見た。",
+      "朝につれて、起きた。"
+    ],
+    "correct_answer": "日本語を勉強するにつれて、漢字が読めるようになった。",
+    "explanation": "「〜につれて」は動詞辞書形＋につれて、の形で、並行する変化を表します。"
+  },
+  {
+    "id": "6339f376-7f00-46cc-ba55-be56e5b4ce8f",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「彼は優しい（　）、少し頑固なところもある。」に入る表現は？",
+    "options": [
+      "一方で",
+      "一方に",
+      "一方が",
+      "一方を"
+    ],
+    "correct_answer": "一方で",
+    "explanation": "「〜一方で」は対比を表す接続表現で、「で」が正しいです。"
+  },
+  {
+    "id": "6687df51-8080-4bca-9ddf-54e669a61eb5",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「〜一方で」の意味として正しいものは？",
+    "options": [
+      "〜だけれども/その反対に",
+      "〜だから",
+      "〜するために",
+      "〜した後で"
+    ],
+    "correct_answer": "〜だけれども/その反対に",
+    "explanation": "「〜一方で」は二つの対照的な面を述べるときに使います。di sisi lain の意味です。"
+  },
+  {
+    "id": "3a4edcce-59b8-4669-a8e7-b0dab999f929",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「この薬は効果がある（　）、副作用もある。」に入る表現は？",
+    "options": [
+      "反面",
+      "反対",
+      "反応",
+      "反省"
+    ],
+    "correct_answer": "反面",
+    "explanation": "「〜反面」は良い面と悪い面の両方を述べるときに使います。"
+  },
+  {
+    "id": "13d15800-ba6e-4c25-9a83-4591c75d41ec",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「反面」の読み方は？",
+    "options": [
+      "はんめん",
+      "たんめん",
+      "そとめん",
+      "うらめん"
+    ],
+    "correct_answer": "はんめん",
+    "explanation": "「反面」は「はんめん」と読みます。「反（はん）＋面（めん）」です。"
+  },
+  {
+    "id": "db91dc23-0f19-4521-b2ae-87cc561b1096",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「都会は便利な一方で、（　）。」に入る最も適切な表現は？",
+    "options": [
+      "物価が高い",
+      "とても便利だ",
+      "みんな喜んでいる",
+      "交通が便利だ"
+    ],
+    "correct_answer": "物価が高い",
+    "explanation": "「〜一方で」は対比なので、「便利」に対して「物価が高い」というマイナス面が適切です。"
+  },
+  {
+    "id": "144c149d-c3aa-48b1-8d92-2621b39f5362",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「インターネットは便利な反面、（　）。」に入る表現は？",
+    "options": [
+      "個人情報の流出リスクがある",
+      "とても楽しい",
+      "みんなが使っている",
+      "無料で使える"
+    ],
+    "correct_answer": "個人情報の流出リスクがある",
+    "explanation": "「〜反面」は対照を示すので、便利さの裏にあるリスクを述べるのが適切です。"
+  },
+  {
+    "id": "03b3e994-5a81-4837-8857-97a117195356",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜一方で」を使った正しい文は？",
+    "options": [
+      "彼女は厳しい一方で、思いやりがある。",
+      "一方で雨が降った。",
+      "一方で食べた。",
+      "彼は一方で走った。"
+    ],
+    "correct_answer": "彼女は厳しい一方で、思いやりがある。",
+    "explanation": "「〜一方で」は二つの対照的な性質を比べるときに使います。形容詞・動詞＋一方で、の形です。"
+  },
+  {
+    "id": "8cd3a4e6-36e2-4ea5-abef-047ad1be870d",
+    "lesson_id": "057e22b9-f0e0-437e-9c30-ea7031dd93c9",
+    "question_type": "multiple_choice",
+    "question_text": "「頑固」の意味は？",
+    "options": [
+      "Keras kepala",
+      "Rajin",
+      "Malas",
+      "Jujur"
+    ],
+    "correct_answer": "Keras kepala",
+    "explanation": "「頑固（がんこ）」は「keras kepala」という意味です。"
+  },
+  {
+    "id": "0660d1a1-3000-4287-8b04-46901f3fdf7f",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「国際会議（　）おいて、環境問題が議論された。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜において」は「に」を使います。「で」のフォーマル版です。"
+  },
+  {
+    "id": "1761e3ae-3a41-45be-90e6-911b19beac6e",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「〜において」の意味として正しいものは？",
+    "options": [
+      "〜で（場所・場面のフォーマル表現）",
+      "〜のために",
+      "〜とともに",
+      "〜によると"
+    ],
+    "correct_answer": "〜で（場所・場面のフォーマル表現）",
+    "explanation": "「〜において」は場所・分野・場面を示す「で」のフォーマル版です。"
+  },
+  {
+    "id": "24c42f18-ca82-4b59-8a90-3e8128817eb4",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「現代社会（　）おける最大の課題は何か。」に入るのは？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜における」も「に」を使います。名詞を修飾する形です。"
+  },
+  {
+    "id": "f5103ef4-28fc-481f-bc5d-b69b797c39fc",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「〜において」と「〜における」の違いは？",
+    "options": [
+      "「における」は名詞の前に置く修飾形",
+      "「において」は名詞の前に置く修飾形",
+      "意味が全く違う",
+      "「において」はカジュアル"
+    ],
+    "correct_answer": "「における」は名詞の前に置く修飾形",
+    "explanation": "「〜における＋名詞」の形で修飾し、「〜において」は文末や述語の前に使います。"
+  },
+  {
+    "id": "2185564f-5244-4637-ab1e-9a01a201a068",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「日本（　）おいて、お花見は春の風物詩である。」に入るのは？",
+    "options": [
+      "に",
+      "を",
+      "と",
+      "から"
+    ],
+    "correct_answer": "に",
+    "explanation": "「日本において」で「日本では」のフォーマルな表現です。"
+  },
+  {
+    "id": "2e7627a7-5deb-4d3a-a274-661fe4ccb6f5",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「教育における（　）の役割は大きい。」に入る最も適切な言葉は？",
+    "options": [
+      "教師",
+      "天気",
+      "料理",
+      "旅行"
+    ],
+    "correct_answer": "教師",
+    "explanation": "「教育における教師の役割」で「peran guru dalam pendidikan」の意味です。"
+  },
+  {
+    "id": "7e4fcbda-16de-4f14-ba7b-98ed175bd537",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜において」の使い方が正しいものは？",
+    "options": [
+      "この分野において、彼は第一人者だ。",
+      "友達において、遊んだ。",
+      "昨日において、寝た。",
+      "ご飯において、食べた。"
+    ],
+    "correct_answer": "この分野において、彼は第一人者だ。",
+    "explanation": "「〜において」は分野・場所・場面を示すフォーマルな表現です。"
+  },
+  {
+    "id": "0ed3f4dc-19d4-4e82-b47e-4f890d5bf8fa",
+    "lesson_id": "bd00617b-7bf0-4d6a-9ad0-1298c1aeef39",
+    "question_type": "multiple_choice",
+    "question_text": "「議論」の読み方は？",
+    "options": [
+      "ぎろん",
+      "ぎうん",
+      "きろん",
+      "ぎろう"
+    ],
+    "correct_answer": "ぎろん",
+    "explanation": "「議論」は「ぎろん」と読みます。「議（ぎ）＋論（ろん）」です。"
+  },
+  {
+    "id": "0a2f7e0a-6eb4-4776-b4df-0ef2c46a9aa2",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「この件（　）関して、ご意見をお聞かせください。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に関して」は「に」を使います。「〜について」のフォーマル版です。"
+  },
+  {
+    "id": "083ca568-9abe-4b30-a375-ffc8ead53857",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に関して」の意味は？",
+    "options": [
+      "〜について（mengenai）",
+      "〜のために",
+      "〜に反して",
+      "〜にもかかわらず"
+    ],
+    "correct_answer": "〜について（mengenai）",
+    "explanation": "「〜に関して」は「〜について」のフォーマル表現で、「mengenai」の意味です。"
+  },
+  {
+    "id": "2ebdc0d3-1efb-4c98-bc06-65554d0b6444",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「彼の意見（　）対して、反論が出た。」に入るのは？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜に対して」は「に」を使います。「彼の意見に対して」で「terhadap pendapatnya」です。"
+  },
+  {
+    "id": "523ee824-100f-4214-b196-40e77dffbd7a",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に対して」の意味として正しいものは？",
+    "options": [
+      "〜に向かって/〜に対する（terhadap）",
+      "〜と一緒に",
+      "〜によると",
+      "〜のおかげで"
+    ],
+    "correct_answer": "〜に向かって/〜に対する（terhadap）",
+    "explanation": "「〜に対して」は対象・相手に向かう意味で「terhadap」に当たります。"
+  },
+  {
+    "id": "8f862de2-5d82-4c69-855b-2c8c46cdfc60",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「環境問題に関する（　）が増えている。」に入る最も適切な言葉は？",
+    "options": [
+      "研究",
+      "天気",
+      "食事",
+      "睡眠"
+    ],
+    "correct_answer": "研究",
+    "explanation": "「環境問題に関する研究」で「penelitian mengenai masalah lingkungan」の意味です。"
+  },
+  {
+    "id": "128e3013-9efd-42a3-a341-773cd8340283",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「先生は学生に対して（　）態度で接する。」に入る適切な表現は？",
+    "options": [
+      "公平な",
+      "眠い",
+      "暗い",
+      "遠い"
+    ],
+    "correct_answer": "公平な",
+    "explanation": "「学生に対して公平な態度」で「sikap adil terhadap mahasiswa」の意味です。"
+  },
+  {
+    "id": "2410afa9-ee12-4b2a-b45a-ee22de468270",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に関して」と「〜に対して」の違いとして正しいものは？",
+    "options": [
+      "「に関して」は話題、「に対して」は対象を示す",
+      "「に関して」は口語的",
+      "「に対して」は話題を示す",
+      "両方とも全く同じ意味"
+    ],
+    "correct_answer": "「に関して」は話題、「に対して」は対象を示す",
+    "explanation": "「〜に関して」は話題（mengenai）、「〜に対して」は向かう対象（terhadap）を示します。"
+  },
+  {
+    "id": "01d7414c-de38-4c05-8cb6-4b4494f10b08",
+    "lesson_id": "a6af9976-643f-4b6b-9ff9-09ebb6622d26",
+    "question_type": "multiple_choice",
+    "question_text": "「公平」の読み方は？",
+    "options": [
+      "こうへい",
+      "こうびょう",
+      "くうへい",
+      "こうべい"
+    ],
+    "correct_answer": "こうへい",
+    "explanation": "「公平」は「こうへい」と読みます。意味は「adil/fair」です。"
+  },
+  {
+    "id": "b19bd158-5ad3-43ca-b4d5-3623d5fdb730",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「彼は医者（　）、この問題に詳しい。」に入る表現は？",
+    "options": [
+      "として",
+      "にして",
+      "とって",
+      "にとり"
+    ],
+    "correct_answer": "として",
+    "explanation": "「〜として」は資格・立場を表します。「医者として」で「sebagai dokter」の意味です。"
+  },
+  {
+    "id": "083d004c-4b69-41d2-b796-e09ce0d1dad0",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「〜として」の意味は？",
+    "options": [
+      "〜の立場で（sebagai）",
+      "〜の代わりに",
+      "〜した後で",
+      "〜にもかかわらず"
+    ],
+    "correct_answer": "〜の立場で（sebagai）",
+    "explanation": "「〜として」は立場・資格・役割を表す表現です。"
+  },
+  {
+    "id": "cd2940d6-1d77-41f7-9611-ca9644490c14",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「教育（　）、これは重要な問題だ。」に入る言葉は？",
+    "options": [
+      "上",
+      "下",
+      "中",
+      "外"
+    ],
+    "correct_answer": "上",
+    "explanation": "「教育上」で「dari segi pendidikan」の意味です。「〜上」は分野・観点を示します。"
+  },
+  {
+    "id": "a963d12f-65d2-4cec-a28b-7622e491af50",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「〜上（じょう）」の意味として正しいものは？",
+    "options": [
+      "〜の面から見て（dari segi）",
+      "〜の上に置いて",
+      "〜より高い",
+      "〜を超えて"
+    ],
+    "correct_answer": "〜の面から見て（dari segi）",
+    "explanation": "「〜上」は「〜の観点から」「〜の面では」という意味で、分野・側面を示します。"
+  },
+  {
+    "id": "419deeab-0ce1-478d-b87a-56786b42be63",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「安全上の理由（　）、この道は通れません。」に入るのは？",
+    "options": [
+      "から",
+      "に",
+      "を",
+      "が"
+    ],
+    "correct_answer": "から",
+    "explanation": "「安全上の理由から」で「karena alasan keamanan」の意味です。理由を示す「から」が適切です。"
+  },
+  {
+    "id": "51a24f71-34c8-4ff2-b4b1-47cffec25684",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「留学生として日本（　）生活する。」に入る助詞は？",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "correct_answer": "で",
+    "explanation": "「日本で生活する」の「で」は場所を示す助詞です。「留学生として」は立場を示します。"
+  },
+  {
+    "id": "8943f427-9f15-4ba0-9cad-a75ba76f3ba9",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜上」の使い方が正しいものは？",
+    "options": [
+      "法律上、その行為は禁止されている。",
+      "テーブル上、ご飯を食べた。",
+      "友達上、遊んだ。",
+      "天気上、外に出た。"
+    ],
+    "correct_answer": "法律上、その行為は禁止されている。",
+    "explanation": "「法律上」は「dari segi hukum」の意味です。「〜上」は制度・分野の観点を示します。"
+  },
+  {
+    "id": "04508b92-abe5-4111-9bda-acda12047134",
+    "lesson_id": "1724f04c-2c5e-434c-b0a4-21836ac8ed15",
+    "question_type": "multiple_choice",
+    "question_text": "「立場」の読み方は？",
+    "options": [
+      "たちば",
+      "りつば",
+      "たつば",
+      "りっぱ"
+    ],
+    "correct_answer": "たちば",
+    "explanation": "「立場」は「たちば」と読みます。意味は「posisi/kedudukan」です。"
+  },
+  {
+    "id": "468755d7-0310-4e6d-a783-447508989ff0",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「インターネット（　）通じて、世界中の情報が手に入る。」に入る言葉は？",
+    "options": [
+      "を",
+      "に",
+      "が",
+      "で"
+    ],
+    "correct_answer": "を",
+    "explanation": "「〜を通じて」は「を」を使います。「melalui internet」の意味です。"
+  },
+  {
+    "id": "70be57c7-5b98-482f-b767-0bd01f9662f4",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を通じて」の意味は？",
+    "options": [
+      "〜を手段として/〜を介して（melalui）",
+      "〜の後で",
+      "〜の前に",
+      "〜とは違って"
+    ],
+    "correct_answer": "〜を手段として/〜を介して（melalui）",
+    "explanation": "「〜を通じて」は手段・媒介を表し、「melalui」の意味です。"
+  },
+  {
+    "id": "7a981809-f670-4c6f-bcd8-f3ac282d5c79",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「日本（　）はじめ、多くの国がこの条約に参加している。」に入るのは？",
+    "options": [
+      "を",
+      "に",
+      "が",
+      "で"
+    ],
+    "correct_answer": "を",
+    "explanation": "「〜をはじめ」は「を」を使います。「dimulai dari Jepang」の意味です。"
+  },
+  {
+    "id": "39bedaa7-9130-4011-a0be-b2c7d6569528",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「〜をはじめ」の意味として正しいものは？",
+    "options": [
+      "〜を代表として（dimulai dari/termasuk）",
+      "〜を始める",
+      "〜の最初に",
+      "〜してから"
+    ],
+    "correct_answer": "〜を代表として（dimulai dari/termasuk）",
+    "explanation": "「〜をはじめ」は代表例を挙げて「〜など」と続ける表現です。"
+  },
+  {
+    "id": "4c3db6fe-1f3c-4bc0-9934-bf5c5cf895e7",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「ボランティア活動を通じて、多くのことを（　）。」に入る適切な表現は？",
+    "options": [
+      "学んだ",
+      "忘れた",
+      "壊した",
+      "落とした"
+    ],
+    "correct_answer": "学んだ",
+    "explanation": "「活動を通じて学ぶ」は「belajar melalui kegiatan」で自然な表現です。"
+  },
+  {
+    "id": "2d8ecada-5932-4579-a7e4-72c62e70749f",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「東京をはじめ、大阪や名古屋（　）大都市が多い。」に入るのは？",
+    "options": [
+      "など",
+      "しか",
+      "だけ",
+      "ほど"
+    ],
+    "correct_answer": "など",
+    "explanation": "「〜をはじめ、…など」の形で、代表例を挙げた後「など」で続けます。"
+  },
+  {
+    "id": "ce4836f1-719b-47ce-bffb-9ebc596cbcc2",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "「通じる」の読み方は？",
+    "options": [
+      "つうじる",
+      "とおじる",
+      "かよじる",
+      "みちじる"
+    ],
+    "correct_answer": "つうじる",
+    "explanation": "「通じる」は「つうじる」と読みます。「通（つう）」の音読みです。"
+  },
+  {
+    "id": "e4d09c6e-c8c5-420e-81b4-0064b3b64501",
+    "lesson_id": "d6c089ec-806e-4437-b77e-93f598004013",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜を通じて」を使った正しい文は？",
+    "options": [
+      "友人を通じて、その会社の社長と知り合った。",
+      "ドアを通じて、部屋に入った。",
+      "朝を通じて、起きた。",
+      "水を通じて、飲んだ。"
+    ],
+    "correct_answer": "友人を通じて、その会社の社長と知り合った。",
+    "explanation": "「〜を通じて」は媒介・手段を示します。「友人を通じて」は「melalui teman」です。"
+  },
+  {
+    "id": "845c4794-78ca-4116-8688-df6272a4d11a",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「買った（　）、まだ一度も使っていない。」に入る表現は？",
+    "options": [
+      "ものの",
+      "ものを",
+      "ものが",
+      "ものに"
+    ],
+    "correct_answer": "ものの",
+    "explanation": "「〜ものの」は逆接で「〜けれども」の意味です。「買ったものの」が正しいです。"
+  },
+  {
+    "id": "2e6a8c46-92f7-4a0f-9cea-107192a3263c",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ものの」の意味は？",
+    "options": [
+      "〜けれども/〜が（meskipun）",
+      "〜するために",
+      "〜した結果",
+      "〜だから"
+    ],
+    "correct_answer": "〜けれども/〜が（meskipun）",
+    "explanation": "「〜ものの」は逆接表現で「meskipun」の意味です。期待と異なる結果を述べます。"
+  },
+  {
+    "id": "ff12bfe6-d657-48d9-8c93-7b8166a3ec44",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「子供（　）はいえ、その行為は許されない。」に入る言葉は？",
+    "options": [
+      "と",
+      "に",
+      "を",
+      "が"
+    ],
+    "correct_answer": "と",
+    "explanation": "「〜とはいえ」は「と」を使います。「子供とはいえ」で「meskipun anak-anak」の意味です。"
+  },
+  {
+    "id": "29b364db-ca23-45be-8b2d-1b58f28b878b",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「〜とはいえ」の意味として正しいものは？",
+    "options": [
+      "〜であっても/〜とは言っても（meskipun begitu）",
+      "〜と言うために",
+      "〜のおかげで",
+      "〜するつもりで"
+    ],
+    "correct_answer": "〜であっても/〜とは言っても（meskipun begitu）",
+    "explanation": "「〜とはいえ」は「〜だと言っても、実際は…」という逆接の表現です。"
+  },
+  {
+    "id": "8fcf1be6-e962-4a0a-a166-75072141b874",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「日本語を10年勉強したものの、（　）。」に入る最も適切な表現は？",
+    "options": [
+      "まだネイティブのようには話せない",
+      "とても上手に話せる",
+      "毎日楽しく勉強している",
+      "日本語が大好きだ"
+    ],
+    "correct_answer": "まだネイティブのようには話せない",
+    "explanation": "「〜ものの」は逆接なので、10年勉強した期待に反する結果が続きます。"
+  },
+  {
+    "id": "ffbfcda4-7fa9-4a44-9233-54695074cca5",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「春とはいえ、まだ（　）日が続く。」に入る適切な表現は？",
+    "options": [
+      "寒い",
+      "暑い",
+      "長い",
+      "明るい"
+    ],
+    "correct_answer": "寒い",
+    "explanation": "「春とはいえ寒い」で「meskipun sudah musim semi, masih dingin」の意味です。"
+  },
+  {
+    "id": "b86b4ead-26f9-4004-b38f-aaf6eef3dbb5",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜ものの」の使い方が正しいものは？",
+    "options": [
+      "申し込んだものの、結局参加できなかった。",
+      "ものの友達と遊んだ。",
+      "美味しいものの食べた。",
+      "ものの天気がいい。"
+    ],
+    "correct_answer": "申し込んだものの、結局参加できなかった。",
+    "explanation": "「〜ものの」は動詞・形容詞の普通形に接続し、逆接を表します。"
+  },
+  {
+    "id": "016f5497-f2d4-4913-a57c-ece9d405570e",
+    "lesson_id": "4f6bf835-c4b3-4df0-bba7-92ec2070a2b8",
+    "question_type": "multiple_choice",
+    "question_text": "「許す」の読み方は？",
+    "options": [
+      "ゆるす",
+      "もどす",
+      "ほどす",
+      "くずす"
+    ],
+    "correct_answer": "ゆるす",
+    "explanation": "「許す」は「ゆるす」と読みます。意味は「mengizinkan/memaafkan」です。"
+  },
+  {
+    "id": "17686278-a65f-4090-8224-22bb1df4dd72",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「漢字（　）おろか、ひらがなも読めない。」に入る言葉は？",
+    "options": [
+      "は",
+      "を",
+      "に",
+      "が"
+    ],
+    "correct_answer": "は",
+    "explanation": "「〜はおろか」は「は」を使います。「漢字はおろか」で「jangankan kanji」の意味です。"
+  },
+  {
+    "id": "5448a72d-8d6d-42e5-9d0e-8e9058ee764a",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「〜はおろか」の意味は？",
+    "options": [
+      "〜はもちろん、〜さえも（jangankan）",
+      "〜だけでなく",
+      "〜のおかげで",
+      "〜によると"
+    ],
+    "correct_answer": "〜はもちろん、〜さえも（jangankan）",
+    "explanation": "「〜はおろか」は「当然〜もできないし、もっと基本的なことも…」という意味です。"
+  },
+  {
+    "id": "9369d50d-f300-4bd0-92dc-b5e3fd99f148",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「彼は英語どころか、日本語（　）上手ではない。」に入るのは？",
+    "options": [
+      "も",
+      "は",
+      "が",
+      "に"
+    ],
+    "correct_answer": "も",
+    "explanation": "「〜どころか、…も」の形で、期待されることの否定を表します。"
+  },
+  {
+    "id": "83cb194e-63f4-4891-a234-490bf8285ac2",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「〜どころか」の意味として正しいものは？",
+    "options": [
+      "〜なんてとんでもない（jangankan/malah sebaliknya）",
+      "〜の場所で",
+      "〜するところ",
+      "〜する予定"
+    ],
+    "correct_answer": "〜なんてとんでもない（jangankan/malah sebaliknya）",
+    "explanation": "「〜どころか」は予想と大きく異なることを強調する表現です。"
+  },
+  {
+    "id": "3c66aac0-890a-41c4-89c6-74868ed7cd8b",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「助けてくれるどころか、（　）。」に入る最も適切な表現は？",
+    "options": [
+      "邪魔をされた",
+      "助けてくれた",
+      "感謝された",
+      "褒められた"
+    ],
+    "correct_answer": "邪魔をされた",
+    "explanation": "「どころか」は逆の結果を示すので、「助ける」の反対の「邪魔をされた」が適切です。"
+  },
+  {
+    "id": "012dc599-eab3-4e31-b223-37b745844716",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「旅行はおろか、外出（　）できない状態だ。」に入るのは？",
+    "options": [
+      "さえ",
+      "しか",
+      "だけ",
+      "ほど"
+    ],
+    "correct_answer": "さえ",
+    "explanation": "「〜はおろか、…さえ」の形で、より基本的なことさえできない意味です。"
+  },
+  {
+    "id": "6dda3051-69fa-457c-b764-5319923f916e",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "「邪魔」の意味は？",
+    "options": [
+      "Mengganggu",
+      "Membantu",
+      "Membersihkan",
+      "Meminjam"
+    ],
+    "correct_answer": "Mengganggu",
+    "explanation": "「邪魔（じゃま）」は「mengganggu/menghalangi」の意味です。"
+  },
+  {
+    "id": "5a0ce3d4-7ada-4f44-b2bb-9b0c815b4c88",
+    "lesson_id": "b87623ff-62ec-4507-a834-7f1d734075cf",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「〜どころか」を使った正しい文は？",
+    "options": [
+      "痩せるどころか、3キロも太ってしまった。",
+      "どころか友達に会った。",
+      "勉強どころか勉強した。",
+      "どころか天気がいい。"
+    ],
+    "correct_answer": "痩せるどころか、3キロも太ってしまった。",
+    "explanation": "「〜どころか」は期待（痩せる）の反対（太った）を述べるときに使います。"
+  },
+  {
+    "id": "c2686928-2d06-4254-8c15-674de549c9c7",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「お金がある（　）といって、何でも買えるわけではない。」に入る言葉は？",
+    "options": [
+      "から",
+      "ので",
+      "のに",
+      "けど"
+    ],
+    "correct_answer": "から",
+    "explanation": "「〜からといって」は「から」を使います。「hanya karena」の意味です。"
+  },
+  {
+    "id": "1e37cd81-97b1-4e45-bfa3-4492a22fc49c",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「〜からといって」の意味は？",
+    "options": [
+      "〜という理由だけでは（hanya karena〜bukan berarti）",
+      "〜だから必ず",
+      "〜してから",
+      "〜と言われて"
+    ],
+    "correct_answer": "〜という理由だけでは（hanya karena〜bukan berarti）",
+    "explanation": "「〜からといって」は「〜だからといって、それだけでは…」と、一般化を否定する表現です。"
+  },
+  {
+    "id": "5892111c-ce44-449f-b33b-a4f5505ffd9a",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「引き受けた（　）には、最後まで責任を持つべきだ。」に入る言葉は？",
+    "options": [
+      "から",
+      "ので",
+      "のに",
+      "けど"
+    ],
+    "correct_answer": "から",
+    "explanation": "「〜からには」は「から」を使います。「karena sudah〜maka harus」の意味です。"
+  },
+  {
+    "id": "9a5eb3c0-b127-43da-9084-0abe28b83440",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「〜からには」の意味として正しいものは？",
+    "options": [
+      "〜した以上は（karena sudah〜maka）",
+      "〜しないために",
+      "〜する前に",
+      "〜と同時に"
+    ],
+    "correct_answer": "〜した以上は（karena sudah〜maka）",
+    "explanation": "「〜からには」は決意・覚悟を表し、「一度そうした以上は」という意味です。"
+  },
+  {
+    "id": "a8116bcc-4d9c-4575-bb63-0173ee8b3d4d",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「有名だからといって、（　）とは限らない。」に入る適切な表現は？",
+    "options": [
+      "実力がある",
+      "有名だ",
+      "テレビに出る",
+      "名前を知られている"
+    ],
+    "correct_answer": "実力がある",
+    "explanation": "「からといって〜とは限らない」で「hanya karena terkenal bukan berarti punya kemampuan」です。"
+  },
+  {
+    "id": "e9b05550-4996-4614-b86f-19cf6ba6bebc",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「試験を受けるからには、（　）。」に入る最も適切な表現は？",
+    "options": [
+      "合格を目指して頑張りたい",
+      "何も準備しなくていい",
+      "試験を忘れよう",
+      "結果はどうでもいい"
+    ],
+    "correct_answer": "合格を目指して頑張りたい",
+    "explanation": "「〜からには」は覚悟や決意を表すので、前向きな意志が続きます。"
+  },
+  {
+    "id": "31ba60e7-3762-4b04-9e24-8a9cdfdb95c7",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「〜からといって」と「〜からには」の違いとして正しいものは？",
+    "options": [
+      "「からといって」は反論、「からには」は覚悟を示す",
+      "「からといって」は覚悟を示す",
+      "「からには」は反論を示す",
+      "両方とも全く同じ意味"
+    ],
+    "correct_answer": "「からといって」は反論、「からには」は覚悟を示す",
+    "explanation": "「〜からといって」は理由だけでは十分でないと反論し、「〜からには」は覚悟を表します。"
+  },
+  {
+    "id": "c7fbf8bb-92e2-4c3e-a5bd-6c87564f0a78",
+    "lesson_id": "c329bf33-b8ab-4e4e-91e9-570491a7fc7d",
+    "question_type": "multiple_choice",
+    "question_text": "「責任」の読み方は？",
+    "options": [
+      "せきにん",
+      "せきじん",
+      "さくにん",
+      "しゃくにん"
+    ],
+    "correct_answer": "せきにん",
+    "explanation": "「責任」は「せきにん」と読みます。意味は「tanggung jawab」です。"
+  },
+  {
+    "id": "a4685b97-667e-44cc-83c6-d3889358589b",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「行く（　）しても、行かないにしても、連絡してください。」に入る言葉は？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜にしても」は「に」を使います。「sekalipun pergi atau tidak」の意味です。"
+  },
+  {
+    "id": "a00eb6a0-c73d-4738-b48f-5145fa57f8bd",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にしても」の意味は？",
+    "options": [
+      "〜であっても（sekalipun/meskipun）",
+      "〜するために",
+      "〜した結果",
+      "〜の代わりに"
+    ],
+    "correct_answer": "〜であっても（sekalipun/meskipun）",
+    "explanation": "「〜にしても」は「たとえ〜だとしても」という譲歩の表現です。"
+  },
+  {
+    "id": "05f192d8-e344-4300-9546-07f24f8941b6",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「たとえ忙しい（　）せよ、健康管理は大切だ。」に入るのは？",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "correct_answer": "に",
+    "explanation": "「〜にせよ」は「に」を使います。「〜にしても」のフォーマル版です。"
+  },
+  {
+    "id": "ada9f645-1be5-4e40-adbd-55fd8c74cc88",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にせよ」と「〜にしても」の違いは？",
+    "options": [
+      "「にせよ」のほうがフォーマル",
+      "「にしても」のほうがフォーマル",
+      "意味が全く違う",
+      "「にせよ」は口語的"
+    ],
+    "correct_answer": "「にせよ」のほうがフォーマル",
+    "explanation": "「〜にせよ」は「〜にしても」の書き言葉版でフォーマルな表現です。"
+  },
+  {
+    "id": "e4018e8d-dfdd-428e-bb50-c4ac64d613b0",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「どんな理由にしても、暴力は（　）。」に入る適切な表現は？",
+    "options": [
+      "許されない",
+      "素晴らしい",
+      "必要だ",
+      "楽しい"
+    ],
+    "correct_answer": "許されない",
+    "explanation": "「どんな理由にしても暴力は許されない」で「apapun alasannya, kekerasan tidak bisa dimaafkan」です。"
+  },
+  {
+    "id": "e4aba3f4-05ea-4a3e-9f0b-2d38698bb2d7",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「賛成にせよ反対にせよ、（　）を述べるべきだ。」に入るのは？",
+    "options": [
+      "意見",
+      "食事",
+      "天気",
+      "旅行"
+    ],
+    "correct_answer": "意見",
+    "explanation": "「賛成にせよ反対にせよ、意見を述べるべきだ」が自然な文です。"
+  },
+  {
+    "id": "cec64c21-45e2-4d75-80f3-7b209d89da64",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「冗談にしても、（　）。」に入る最も適切な表現は？",
+    "options": [
+      "言っていいことと悪いことがある",
+      "みんな笑った",
+      "とても面白い",
+      "楽しい時間だった"
+    ],
+    "correct_answer": "言っていいことと悪いことがある",
+    "explanation": "「冗談にしても」は「冗談だとしても」の意味で、制限・注意が続きます。"
+  },
+  {
+    "id": "f23c3224-e1ef-4a75-b45e-a474e4cafc1e",
+    "lesson_id": "e6c9769b-7e02-4d92-8c97-47d3800ed00e",
+    "question_type": "multiple_choice",
+    "question_text": "「暴力」の読み方は？",
+    "options": [
+      "ぼうりょく",
+      "ばうりょく",
+      "ぼうりき",
+      "ぼうりゃく"
+    ],
+    "correct_answer": "ぼうりょく",
+    "explanation": "「暴力」は「ぼうりょく」と読みます。意味は「kekerasan」です。"
+  },
+  {
+    "id": "62896d58-2504-437b-bd96-a1a2dc307802",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「彼は英語（　）ばかりか、中国語も話せる。」に入る言葉は？",
+    "options": [
+      "が（助詞不要で直接接続）",
+      "を",
+      "に",
+      "で"
+    ],
+    "correct_answer": "が（助詞不要で直接接続）",
+    "explanation": "「名詞＋ばかりか」の形で直接接続します。「英語ばかりか」が正しいです。"
+  },
+  {
+    "id": "c122443c-40be-4aab-87f3-e08cb28fd5be",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ばかりか」の意味は？",
+    "options": [
+      "〜だけでなく（bukan hanya）",
+      "〜ばかり食べて",
+      "〜したばかり",
+      "〜のせいで"
+    ],
+    "correct_answer": "〜だけでなく（bukan hanya）",
+    "explanation": "「〜ばかりか」は「〜だけでなく、さらに」という追加を表す表現です。"
+  },
+  {
+    "id": "a78e8ac9-b942-4faf-80ae-4ff9b5f53687",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「この店は味が良い（　）ならず、サービスも素晴らしい。」に入る表現は？",
+    "options": [
+      "のみ",
+      "のも",
+      "ので",
+      "のが"
+    ],
+    "correct_answer": "のみ",
+    "explanation": "「〜のみならず」は「のみ」を使います。「〜ばかりか」のフォーマル版です。"
+  },
+  {
+    "id": "5b07d43d-6ded-4557-b959-8da08e8923b4",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「〜のみならず」の意味として正しいものは？",
+    "options": [
+      "〜だけでなく（bukan hanya〜tapi juga）",
+      "〜しかない",
+      "〜だけで十分",
+      "〜のみ使う"
+    ],
+    "correct_answer": "〜だけでなく（bukan hanya〜tapi juga）",
+    "explanation": "「〜のみならず」は「〜ばかりか」の書き言葉でフォーマルな「bukan hanya」です。"
+  },
+  {
+    "id": "0663d539-0c9c-4f43-a6e7-98cf36d7c319",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「この病気は大人ばかりか、（　）にも広がっている。」に入るのは？",
+    "options": [
+      "子供",
+      "病院",
+      "薬",
+      "医者"
+    ],
+    "correct_answer": "子供",
+    "explanation": "「大人ばかりか子供にも」で「bukan hanya orang dewasa tapi juga anak-anak」の意味です。"
+  },
+  {
+    "id": "e4040b93-f631-4f36-afed-c02669d0d091",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「国内のみならず、（　）からも注目されている。」に入るのは？",
+    "options": [
+      "海外",
+      "室内",
+      "地下",
+      "屋上"
+    ],
+    "correct_answer": "海外",
+    "explanation": "「国内のみならず海外からも」で「bukan hanya dalam negeri tapi juga dari luar negeri」です。"
+  },
+  {
+    "id": "0682d3a4-9317-446f-ac3e-9693d17afdfc",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ばかりか」と「〜のみならず」の違いとして正しいものは？",
+    "options": [
+      "「のみならず」のほうがフォーマル",
+      "「ばかりか」のほうがフォーマル",
+      "意味が全く違う",
+      "「のみならず」は口語的"
+    ],
+    "correct_answer": "「のみならず」のほうがフォーマル",
+    "explanation": "「〜のみならず」は書き言葉でフォーマル、「〜ばかりか」はやや口語的です。"
+  },
+  {
+    "id": "3bcff514-9dac-4ddc-ad47-ef79e76b549b",
+    "lesson_id": "31047292-6c0c-4ad4-8d4c-bccf3a538b94",
+    "question_type": "multiple_choice",
+    "question_text": "「素晴らしい」の読み方は？",
+    "options": [
+      "すばらしい",
+      "すぼらしい",
+      "そばらしい",
+      "すはらしい"
+    ],
+    "correct_answer": "すばらしい",
+    "explanation": "「素晴らしい」は「すばらしい」と読みます。意味は「luar biasa/hebat」です。"
+  },
+  {
+    "id": "d7095ac1-367d-422d-87ea-19546853cb20",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "「ご確認（　）いただけますでしょうか。」に入る言葉は？",
+    "options": [
+      "を",
+      "が",
+      "に",
+      "で"
+    ],
+    "correct_answer": "を",
+    "explanation": "「ご確認をいただく」の形で「を」が入ります。ビジネスメールの丁寧な依頼表現です。"
+  },
+  {
+    "id": "086f121c-b5fd-44ee-8e46-6cf0abf83bd8",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "ビジネスメールで「見てください」の敬語表現として正しいものは？",
+    "options": [
+      "ご覧いただけますでしょうか",
+      "見てもらえますか",
+      "見られてください",
+      "お見になってください"
+    ],
+    "correct_answer": "ご覧いただけますでしょうか",
+    "explanation": "「ご覧いただく」は「見る」の尊敬語＋謙譲語の丁寧な形です。"
+  },
+  {
+    "id": "d2769729-47fe-40e4-bbbc-5e72b534a50f",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "ビジネスメールの書き出しとして適切なものは？",
+    "options": [
+      "いつもお世話になっております。",
+      "やあ、元気？",
+      "こんにちは！",
+      "最近どう？"
+    ],
+    "correct_answer": "いつもお世話になっております。",
+    "explanation": "「いつもお世話になっております」はビジネスメールの定番の書き出し表現です。"
+  },
+  {
+    "id": "c7117e0f-a643-43ea-b7c8-143e8a923c54",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "「お忙しいところ恐れ入りますが」の意味は？",
+    "options": [
+      "Mohon maaf mengganggu di saat Anda sibuk",
+      "Anda sangat sibuk",
+      "Saya sangat takut",
+      "Saya tidak sibuk"
+    ],
+    "correct_answer": "Mohon maaf mengganggu di saat Anda sibuk",
+    "explanation": "相手の忙しさを配慮する丁寧なクッション言葉で、依頼の前に使います。"
+  },
+  {
+    "id": "06038a12-bc19-4311-8090-ee04be3eadd1",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "「添付ファイルをご（　）ください。」に入る言葉は？",
+    "options": [
+      "参照",
+      "食事",
+      "旅行",
+      "散歩"
+    ],
+    "correct_answer": "参照",
+    "explanation": "「ご参照ください」は「silakan lihat lampiran」の意味のビジネス表現です。"
+  },
+  {
+    "id": "92b12823-70d4-48c4-9bce-f8930f3fc08d",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "メールの結びとして適切な表現は？",
+    "options": [
+      "何卒よろしくお願い申し上げます。",
+      "じゃあね。",
+      "ではまた。",
+      "バイバイ。"
+    ],
+    "correct_answer": "何卒よろしくお願い申し上げます。",
+    "explanation": "「何卒よろしくお願い申し上げます」はビジネスメールの丁寧な結びの定番です。"
+  },
+  {
+    "id": "2047d02a-7da0-48e8-8308-c000a93ef940",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "「何卒」の読み方は？",
+    "options": [
+      "なにとぞ",
+      "なんそつ",
+      "かとう",
+      "なにそつ"
+    ],
+    "correct_answer": "なにとぞ",
+    "explanation": "「何卒」は「なにとぞ」と読みます。「どうか」のフォーマル版です。"
+  },
+  {
+    "id": "9089b91d-b03f-40d8-b984-16c66606bf34",
+    "lesson_id": "e3eecebc-d363-4864-b295-c274ad878eb1",
+    "question_type": "multiple_choice",
+    "question_text": "ビジネスメールで「わかりました」の敬語として最も適切なものは？",
+    "options": [
+      "承知いたしました",
+      "わかりました",
+      "了解です",
+      "オッケーです"
+    ],
+    "correct_answer": "承知いたしました",
+    "explanation": "「承知いたしました」は「わかりました」の最も丁寧な謙譲表現です。"
+  },
+  {
+    "id": "2d301190-402d-4d33-8840-e05275309d99",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "次のうち「二重敬語」の例はどれ？",
+    "options": [
+      "おっしゃられる",
+      "おっしゃる",
+      "言われる",
+      "申す"
+    ],
+    "correct_answer": "おっしゃられる",
+    "explanation": "「おっしゃる」（尊敬語）＋「られる」（尊敬語）で二重敬語です。正しくは「おっしゃる」だけです。"
+  },
+  {
+    "id": "2f9beaa2-bfbf-409c-b514-cc428d3199c3",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "「二重敬語」とは何ですか？",
+    "options": [
+      "同じ種類の敬語を二つ重ねた誤った表現",
+      "二人に対する敬語",
+      "二回使う敬語",
+      "二つの文に分けた敬語"
+    ],
+    "correct_answer": "同じ種類の敬語を二つ重ねた誤った表現",
+    "explanation": "二重敬語は同種の敬語（例：尊敬語＋尊敬語）を重ねることで、文法的に誤りです。"
+  },
+  {
+    "id": "21351419-d22c-4762-a502-da99f83f136d",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "「お客様がお見えになられました」の問題点は？",
+    "options": [
+      "「お見えになる」＋「られる」で二重敬語",
+      "問題はない",
+      "謙譲語を使うべき",
+      "丁寧語が足りない"
+    ],
+    "correct_answer": "「お見えになる」＋「られる」で二重敬語",
+    "explanation": "「お見えになる」だけで尊敬語です。「られる」を足すと二重敬語になります。正しくは「お見えになりました」です。"
+  },
+  {
+    "id": "e59240e8-5557-4ef5-b0d2-368477499b67",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "「社長が申されました」の誤りはどれ？",
+    "options": [
+      "「申す」は謙譲語なので社長に使うのは誤り",
+      "問題はない",
+      "「社長」が失礼",
+      "「ました」が不要"
+    ],
+    "correct_answer": "「申す」は謙譲語なので社長に使うのは誤り",
+    "explanation": "「申す」は謙譲語で自分の行為に使います。社長の発言には「おっしゃいました」が正しいです。"
+  },
+  {
+    "id": "cf604b5a-f8f6-4400-a749-ddeb836fdf8b",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "「先生、こちらで食べれますか」の誤りは？",
+    "options": [
+      "「食べれます」は「ら抜き言葉」で、正しくは「食べられます」",
+      "問題はない",
+      "「先生」が失礼",
+      "「こちら」が間違い"
+    ],
+    "correct_answer": "「食べれます」は「ら抜き言葉」で、正しくは「食べられます」",
+    "explanation": "「食べれる」は「ら抜き言葉」です。正式には「食べられる」が正しい形です。"
+  },
+  {
+    "id": "8fb467f4-edde-438a-a0ea-bf15c60f0886",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "目上の人に「ご苦労様です」と言うのは？",
+    "options": [
+      "失礼（目上には「お疲れ様です」を使う）",
+      "正しい敬語",
+      "とても丁寧",
+      "フォーマルな表現"
+    ],
+    "correct_answer": "失礼（目上には「お疲れ様です」を使う）",
+    "explanation": "「ご苦労様」は目上から目下に使う言葉。目上には「お疲れ様です」が適切です。"
+  },
+  {
+    "id": "009315dc-a7dd-4ca1-9c19-1b314a7325bc",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "「拝見させていただきます」は正しい敬語ですか？",
+    "options": [
+      "二重敬語に近い（「拝見します」だけで十分）",
+      "完全に正しい",
+      "全く敬語ではない",
+      "尊敬語として正しい"
+    ],
+    "correct_answer": "二重敬語に近い（「拝見します」だけで十分）",
+    "explanation": "「拝見する」自体が謙譲語なので、「させていただく」を追加すると過剰です。「拝見します」で十分です。"
+  },
+  {
+    "id": "5d4aad0a-5e79-4491-a90e-040bbb0d9a60",
+    "lesson_id": "e4fa0ca5-97dd-4b27-be8d-b2194bc5bafe",
+    "question_type": "multiple_choice",
+    "question_text": "「誤用」の読み方は？",
+    "options": [
+      "ごよう",
+      "ごうよう",
+      "あやよう",
+      "さくよう"
+    ],
+    "correct_answer": "ごよう",
+    "explanation": "「誤用」は「ごよう」と読みます。意味は「penggunaan yang salah」です。"
+  },
+  {
+    "id": "ffd1f01b-4d18-4848-9abf-ecaf11dad40c",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "電話を受けるとき、最初に言う適切な表現は？",
+    "options": [
+      "はい、○○会社でございます。",
+      "もしもし、誰？",
+      "はい、何ですか？",
+      "○○会社だけど。"
+    ],
+    "correct_answer": "はい、○○会社でございます。",
+    "explanation": "ビジネス電話では「○○会社でございます」が正式な受け方です。"
+  },
+  {
+    "id": "5fd01408-42a1-4363-af3a-9ffe4042d005",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "「少々お待ちくださいませ」の「少々」の読み方は？",
+    "options": [
+      "しょうしょう",
+      "すこしょう",
+      "しょうすこ",
+      "すこすこ"
+    ],
+    "correct_answer": "しょうしょう",
+    "explanation": "「少々」は「しょうしょう」と読みます。「sedikit/sebentar」の意味です。"
+  },
+  {
+    "id": "973b49c3-c706-46e4-9848-778f2d23f6ca",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "電話で「田中さんはいますか」を敬語で言うと？",
+    "options": [
+      "田中様はいらっしゃいますでしょうか。",
+      "田中さんはいますか。",
+      "田中はおるか。",
+      "田中さんはおりますか。"
+    ],
+    "correct_answer": "田中様はいらっしゃいますでしょうか。",
+    "explanation": "社外の人に尋ねるとき、「様」＋「いらっしゃる」（尊敬語）が正しいです。"
+  },
+  {
+    "id": "1036dde9-9b6e-4cee-ba06-dc42b1add63d",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "会議で発言するときの適切な切り出し方は？",
+    "options": [
+      "一つよろしいでしょうか。",
+      "ちょっと言いたいことがある。",
+      "聞いて聞いて。",
+      "あのさー。"
+    ],
+    "correct_answer": "一つよろしいでしょうか。",
+    "explanation": "「一つよろしいでしょうか」は会議で発言の許可を求める丁寧な表現です。"
+  },
+  {
+    "id": "b268f083-577b-4e0f-ae9a-aa9f7a56bb32",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "電話で相手が不在のとき、「後でまた電話します」の敬語は？",
+    "options": [
+      "改めてお電話いたします。",
+      "後で電話するわ。",
+      "また電話する。",
+      "後でかけ直す。"
+    ],
+    "correct_answer": "改めてお電話いたします。",
+    "explanation": "「改めてお電話いたします」は「nanti saya akan menelepon kembali」の丁寧な表現です。"
+  },
+  {
+    "id": "8e78ec52-2ac0-4363-812c-03a6b1a542a3",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "会議で「それは違うと思います」を丁寧に言うと？",
+    "options": [
+      "少し異なる見解を持っておりますが…",
+      "それは間違いです。",
+      "違うでしょう。",
+      "そんなの嘘だ。"
+    ],
+    "correct_answer": "少し異なる見解を持っておりますが…",
+    "explanation": "反対意見を述べるとき、直接否定せず「異なる見解」と婉曲に表現するのがビジネスマナーです。"
+  },
+  {
+    "id": "1166acad-b5ec-403d-8159-e1deafe67a54",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "電話を切るときの適切な表現は？",
+    "options": [
+      "失礼いたします。",
+      "じゃあね。",
+      "切るよ。",
+      "バイバイ。"
+    ],
+    "correct_answer": "失礼いたします。",
+    "explanation": "ビジネス電話では「失礼いたします」と言ってから切ります。"
+  },
+  {
+    "id": "920bc5c3-aee1-4e54-8ed8-24b2bded1a3f",
+    "lesson_id": "86772a3e-d47c-48af-82e9-24a4143acd0f",
+    "question_type": "multiple_choice",
+    "question_text": "「自社の社長を外部に紹介するとき」の正しい表現は？",
+    "options": [
+      "弊社の社長の田中でございます。",
+      "うちの社長様の田中様です。",
+      "社長の田中様がいらっしゃいます。",
+      "田中社長様をご紹介します。"
+    ],
+    "correct_answer": "弊社の社長の田中でございます。",
+    "explanation": "自社の人を外部に紹介するとき、敬称は付けず「田中でございます」が正しいです。"
+  },
+  {
+    "id": "abce2d73-e113-4ec3-8fcc-508c1caf9ed9",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "手紙の書き出しで季節の挨拶として春に使う表現は？",
+    "options": [
+      "春暖の候",
+      "秋涼の候",
+      "猛暑の候",
+      "厳寒の候"
+    ],
+    "correct_answer": "春暖の候",
+    "explanation": "「春暖の候（しゅんだんのこう）」は春の時候の挨拶です。"
+  },
+  {
+    "id": "a01b89aa-a5c0-4e4d-8ce0-fe98e2a6c255",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "手紙の最後に書く「敬具」と対になる書き出しの言葉は？",
+    "options": [
+      "拝啓",
+      "前略",
+      "謹啓",
+      "冠省"
+    ],
+    "correct_answer": "拝啓",
+    "explanation": "「拝啓」と「敬具」はセットで使います。手紙の定型的な書き出しと結びです。"
+  },
+  {
+    "id": "f1238c78-1729-4973-92b7-d38911a8e49a",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "「拝啓」の読み方は？",
+    "options": [
+      "はいけい",
+      "はいきょう",
+      "ばいけい",
+      "はいけん"
+    ],
+    "correct_answer": "はいけい",
+    "explanation": "「拝啓」は「はいけい」と読みます。手紙の冒頭に使う言葉です。"
+  },
+  {
+    "id": "84422e1e-fb49-4fc8-a81a-9534585ecae4",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "公式文書で「〜してください」をフォーマルに書くと？",
+    "options": [
+      "〜していただきますようお願い申し上げます",
+      "〜してちょうだい",
+      "〜してくれ",
+      "〜して"
+    ],
+    "correct_answer": "〜していただきますようお願い申し上げます",
+    "explanation": "公式文書では「〜していただきますようお願い申し上げます」が最も丁寧な依頼表現です。"
+  },
+  {
+    "id": "7399dfdb-3b10-424e-9008-b33ec53a6bb3",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "手紙で「急いで手紙を書きます」という意味の書き出しは？",
+    "options": [
+      "前略",
+      "拝啓",
+      "謹啓",
+      "一筆啓上"
+    ],
+    "correct_answer": "前略",
+    "explanation": "「前略」は時候の挨拶を省略して本題に入るときの書き出しで、急ぎの手紙に使います。"
+  },
+  {
+    "id": "614b094d-c8a4-4de3-893c-9d23795a6d45",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "「貴社のますますのご発展をお祈り申し上げます」はどんな場面で使う？",
+    "options": [
+      "ビジネス手紙の結びの挨拶",
+      "手紙の本文",
+      "手紙の宛名",
+      "手紙の追伸"
+    ],
+    "correct_answer": "ビジネス手紙の結びの挨拶",
+    "explanation": "相手の会社の発展を祈る表現で、ビジネス手紙の結びの定番です。"
+  },
+  {
+    "id": "dbecaff4-27ba-4e14-bc47-56cf451141fd",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "「ご査収ください」の意味は？",
+    "options": [
+      "Silakan periksa dan terima",
+      "Silakan buang",
+      "Silakan kembalikan",
+      "Silakan tunggu"
+    ],
+    "correct_answer": "Silakan periksa dan terima",
+    "explanation": "「ご査収（ごさしゅう）」は書類や品物を確認して受け取ることを丁寧にお願いする表現です。"
+  },
+  {
+    "id": "840ac55a-da1b-41f1-a907-8f6a85fca2a6",
+    "lesson_id": "ba41700a-7520-49c7-925b-451f9fed92ba",
+    "question_type": "multiple_choice",
+    "question_text": "手紙の宛名で会社宛てに使う敬称は？",
+    "options": [
+      "御中",
+      "様",
+      "殿",
+      "氏"
+    ],
+    "correct_answer": "御中",
+    "explanation": "「御中（おんちゅう）」は会社や団体宛ての敬称です。個人宛ては「様」を使います。"
+  },
+  {
+    "id": "47e7793f-c0ca-4e37-816d-fa3a3fdb819b",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "長文読解で最初にすべきことは？",
+    "options": [
+      "設問を先に読んで、何を探すか把握する",
+      "最初から最後まで丁寧に読む",
+      "知らない単語を全て辞書で調べる",
+      "文章を声に出して読む"
+    ],
+    "correct_answer": "設問を先に読んで、何を探すか把握する",
+    "explanation": "設問を先に読むことで、文章のどこに注目すべきかがわかり、効率的に読めます。"
+  },
+  {
+    "id": "c07a6b60-821a-4ac4-b700-e4789a3c6e11",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "「筆者の主張」を見つけるのに有効な手がかりは？",
+    "options": [
+      "「〜と思う」「〜べきだ」「〜ではないだろうか」などの表現",
+      "数字やデータ",
+      "固有名詞",
+      "時間を表す言葉"
+    ],
+    "correct_answer": "「〜と思う」「〜べきだ」「〜ではないだろうか」などの表現",
+    "explanation": "意見を示す表現（〜と思う、〜べきだ）の近くに筆者の主張があります。"
+  },
+  {
+    "id": "f0c34b6f-a943-401b-93c1-8ee6d86af15d",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "「つまり」「要するに」の後に来るのは？",
+    "options": [
+      "前の内容のまとめ・結論",
+      "新しい話題",
+      "反対意見",
+      "具体例"
+    ],
+    "correct_answer": "前の内容のまとめ・結論",
+    "explanation": "「つまり」「要するに」は前の内容をまとめる接続詞なので、後に結論が来ます。"
+  },
+  {
+    "id": "9f98b7ac-cb57-430d-930a-88c46da885f0",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "「しかし」「ところが」の後に来るのは？",
+    "options": [
+      "前の内容と反対の内容",
+      "前の内容の繰り返し",
+      "前の内容の具体例",
+      "前の内容の原因"
+    ],
+    "correct_answer": "前の内容と反対の内容",
+    "explanation": "「しかし」「ところが」は逆接の接続詞なので、前と反対の内容が続きます。"
+  },
+  {
+    "id": "8d6b6286-645a-444d-8bbb-3b915568f6e3",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "「例えば」の後に来るのは？",
+    "options": [
+      "具体的な例",
+      "結論",
+      "反対意見",
+      "要約"
+    ],
+    "correct_answer": "具体的な例",
+    "explanation": "「例えば」は具体例を導入する接続詞です。"
+  },
+  {
+    "id": "ad7e425c-6f3a-4497-8d6b-b5e7ffa2641f",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "長文で「このような」が指すのは？",
+    "options": [
+      "直前に述べた内容",
+      "次に述べる内容",
+      "文章全体",
+      "筆者の感想"
+    ],
+    "correct_answer": "直前に述べた内容",
+    "explanation": "「このような」「こうした」などの指示語は直前の内容を指します。"
+  },
+  {
+    "id": "98200328-7a17-4032-9f28-a45d86d8275d",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "「把握する」の意味は？",
+    "options": [
+      "Memahami/menangkap inti",
+      "Menulis",
+      "Membaca",
+      "Menghitung"
+    ],
+    "correct_answer": "Memahami/menangkap inti",
+    "explanation": "「把握する（はあくする）」は「memahami/menguasai」の意味です。"
+  },
+  {
+    "id": "8b829b08-aa72-45ba-aa8e-f614d3861c79",
+    "lesson_id": "406705da-f9d2-422a-a42e-d24562bd5e0a",
+    "question_type": "multiple_choice",
+    "question_text": "JLPT読解で時間を節約する方法として正しいものは？",
+    "options": [
+      "キーワードをスキャンしながら必要な部分だけ精読する",
+      "全ての文章を暗記する",
+      "知らない単語が出たら辞書を引く",
+      "全文を二回読む"
+    ],
+    "correct_answer": "キーワードをスキャンしながら必要な部分だけ精読する",
+    "explanation": "スキャニング（走り読み）でキーワードを見つけ、該当箇所を精読するのが効率的です。"
+  },
+  {
+    "id": "20aeb488-7a64-43ab-9315-bcac1ff72280",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "「意見文」で筆者の立場を示す表現はどれ？",
+    "options": [
+      "〜と考える / 〜べきである",
+      "〜と言われている",
+      "〜という事実がある",
+      "〜人が多い"
+    ],
+    "correct_answer": "〜と考える / 〜べきである",
+    "explanation": "「〜と考える」「〜べきである」は筆者自身の意見・主張を示す表現です。"
+  },
+  {
+    "id": "aaf40c3c-8a9a-4c50-8329-63b8bae4af55",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "「評論」の読み方は？",
+    "options": [
+      "ひょうろん",
+      "ひょうりん",
+      "ぴょうろん",
+      "ひゅうろん"
+    ],
+    "correct_answer": "ひょうろん",
+    "explanation": "「評論」は「ひょうろん」と読みます。意味は「kritik/ulasan」です。"
+  },
+  {
+    "id": "9a54a81e-0005-4656-a032-e3d95225ffa0",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "意見文で「確かに〜。しかし〜。」という構造が示すのは？",
+    "options": [
+      "反対意見を認めた上で自分の意見を述べる",
+      "二つの同じ意見を並べる",
+      "原因と結果を述べる",
+      "時間の順序を述べる"
+    ],
+    "correct_answer": "反対意見を認めた上で自分の意見を述べる",
+    "explanation": "「確かに〜しかし〜」は譲歩構文で、「しかし」の後が筆者の本当の主張です。"
+  },
+  {
+    "id": "b177e3a2-0ff8-48ac-b60d-3ad61b26fa69",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "「〜と言われている」は何を表す？",
+    "options": [
+      "一般的な見解・通説",
+      "筆者の個人的な意見",
+      "反対意見",
+      "将来の予測"
+    ],
+    "correct_answer": "一般的な見解・通説",
+    "explanation": "「〜と言われている」は世間一般の見解を紹介する表現で、筆者の意見とは限りません。"
+  },
+  {
+    "id": "c002d71e-d36e-4ac6-8eab-d1f52c2d2323",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "評論文で「〜のではないだろうか」が表すのは？",
+    "options": [
+      "筆者の控えめな主張・提案",
+      "読者への質問",
+      "事実の確認",
+      "統計データの紹介"
+    ],
+    "correct_answer": "筆者の控えめな主張・提案",
+    "explanation": "「〜のではないだろうか」は婉曲的な主張で、筆者の考えを柔らかく示します。"
+  },
+  {
+    "id": "cf1871fb-fe1f-4580-bb1b-43ab41b7d444",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "「一方」が意見文中で使われるとき、何を示す？",
+    "options": [
+      "対比される別の意見や視点",
+      "同じ意見の繰り返し",
+      "結論",
+      "具体例"
+    ],
+    "correct_answer": "対比される別の意見や視点",
+    "explanation": "「一方」は対比を示す接続詞で、別の側面・視点を導入します。"
+  },
+  {
+    "id": "b13e27bf-7a53-43e3-8143-7692fc958f1e",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "意見文の結論部分によく使われる表現は？",
+    "options": [
+      "以上のことから〜 / したがって〜",
+      "例えば〜",
+      "まず〜",
+      "昔は〜"
+    ],
+    "correct_answer": "以上のことから〜 / したがって〜",
+    "explanation": "「以上のことから」「したがって」は結論を導く表現です。"
+  },
+  {
+    "id": "c17f3b1c-8fc6-48a6-b6ec-aac5b279ab74",
+    "lesson_id": "dfb75a03-f713-45ed-9973-b50de7027947",
+    "question_type": "multiple_choice",
+    "question_text": "「通説」の意味は？",
+    "options": [
+      "Pendapat umum/teori umum",
+      "Penjelasan baru",
+      "Rahasia",
+      "Kebohongan"
+    ],
+    "correct_answer": "Pendapat umum/teori umum",
+    "explanation": "「通説（つうせつ）」は「pendapat/teori yang diterima umum」の意味です。"
+  },
+  {
+    "id": "9c2d5c85-ae17-4686-9693-88d2ab268dbf",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "図表問題でまず確認すべきものは？",
+    "options": [
+      "タイトル・軸のラベル・単位",
+      "色やデザイン",
+      "グラフの大きさ",
+      "ページ番号"
+    ],
+    "correct_answer": "タイトル・軸のラベル・単位",
+    "explanation": "図表を読むとき、タイトル・軸の名前・単位を最初に確認すると正確に読み取れます。"
+  },
+  {
+    "id": "5da1eb97-8217-4f89-a022-5cb4628c5114",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "「前年比」の意味は？",
+    "options": [
+      "Dibandingkan tahun sebelumnya",
+      "Dibandingkan bulan sebelumnya",
+      "Dibandingkan minggu sebelumnya",
+      "Dibandingkan hari sebelumnya"
+    ],
+    "correct_answer": "Dibandingkan tahun sebelumnya",
+    "explanation": "「前年比（ぜんねんひ）」は「dibandingkan tahun sebelumnya」の意味です。"
+  },
+  {
+    "id": "249fd87b-8daf-4ae2-a585-c62e3eab2dad",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "「増加傾向にある」の意味は？",
+    "options": [
+      "Cenderung meningkat",
+      "Cenderung menurun",
+      "Tetap stabil",
+      "Berfluktuasi"
+    ],
+    "correct_answer": "Cenderung meningkat",
+    "explanation": "「増加傾向にある（ぞうかけいこうにある）」は「cenderung meningkat」の意味です。"
+  },
+  {
+    "id": "9ea36ba3-34bd-42d8-9daf-eef5e250619a",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "情報検索問題で「条件に合うもの」を探すとき、有効な方法は？",
+    "options": [
+      "条件を一つずつチェックして消去法で選ぶ",
+      "最初の選択肢を選ぶ",
+      "一番長い説明のものを選ぶ",
+      "直感で選ぶ"
+    ],
+    "correct_answer": "条件を一つずつチェックして消去法で選ぶ",
+    "explanation": "消去法（eliminasi）で条件に合わないものを外していくのが確実な方法です。"
+  },
+  {
+    "id": "fcfa72e8-ab31-478a-b16f-2837cd2ae72c",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "「横ばい」の意味は？",
+    "options": [
+      "Tetap/stabil (tidak naik tidak turun)",
+      "Naik tajam",
+      "Turun drastis",
+      "Berubah-ubah"
+    ],
+    "correct_answer": "Tetap/stabil (tidak naik tidak turun)",
+    "explanation": "「横ばい（よこばい）」は数値が横に平らな状態、つまり「tetap stabil」の意味です。"
+  },
+  {
+    "id": "fc434944-d4ec-4d0f-a67a-0be847aa7d0f",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "グラフの「急増」はどういう変化を示す？",
+    "options": [
+      "Peningkatan tajam/drastis",
+      "Penurunan bertahap",
+      "Tidak ada perubahan",
+      "Sedikit menurun"
+    ],
+    "correct_answer": "Peningkatan tajam/drastis",
+    "explanation": "「急増（きゅうぞう）」は急激に増えることで「peningkatan tajam」の意味です。"
+  },
+  {
+    "id": "21492990-b3f1-469c-af78-da9b6fe6e872",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を占める」の意味は？",
+    "options": [
+      "Menempati/menguasai (persentase)",
+      "Menghitung",
+      "Menulis",
+      "Membaca"
+    ],
+    "correct_answer": "Menempati/menguasai (persentase)",
+    "explanation": "「〜を占める（しめる）」は割合を示すとき「〜が全体のX%を占める」の形で使います。"
+  },
+  {
+    "id": "2df6b1b1-af83-4836-970d-5d7bc323bb8e",
+    "lesson_id": "c6477837-68b3-42a3-8715-39da762bb0e1",
+    "question_type": "multiple_choice",
+    "question_text": "「図表」の読み方は？",
+    "options": [
+      "ずひょう",
+      "としょう",
+      "ずびょう",
+      "とひょう"
+    ],
+    "correct_answer": "ずひょう",
+    "explanation": "「図表」は「ずひょう」と読みます。「grafik dan tabel」の意味です。"
+  },
+  {
+    "id": "73d64803-e758-4a10-85c7-e9c0c2dadea7",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "比較文で「〜に比べて」の意味は？",
+    "options": [
+      "Dibandingkan dengan 〜",
+      "Bersama dengan 〜",
+      "Menurut 〜",
+      "Berkat 〜"
+    ],
+    "correct_answer": "Dibandingkan dengan 〜",
+    "explanation": "「〜に比べて（にくらべて）」は比較を表し「dibandingkan dengan」の意味です。"
+  },
+  {
+    "id": "60566008-d560-4ca3-b00c-ccb20eacda61",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「AはBほど〜ない」の意味は？",
+    "options": [
+      "A tidak se-〜 B",
+      "A sama 〜 dengan B",
+      "A lebih 〜 dari B",
+      "A dan B tidak 〜"
+    ],
+    "correct_answer": "A tidak se-〜 B",
+    "explanation": "「AはBほど〜ない」は「AはBと同じレベルではない（Bのほうが上）」の意味です。"
+  },
+  {
+    "id": "2c4c1e18-e242-4cdb-a161-6d02b53ab4a3",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「一方」「他方」が読解文で使われるとき、何を示す？",
+    "options": [
+      "二つのものの対比",
+      "時間の順序",
+      "因果関係",
+      "具体例"
+    ],
+    "correct_answer": "二つのものの対比",
+    "explanation": "「一方」「他方」は二つのものを対比して述べるときの接続表現です。"
+  },
+  {
+    "id": "cb9f59ad-7e46-4538-9d6a-e84abcf0f97d",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「むしろ」の意味は？",
+    "options": [
+      "Lebih tepatnya/malah",
+      "Mungkin",
+      "Tentu saja",
+      "Misalnya"
+    ],
+    "correct_answer": "Lebih tepatnya/malah",
+    "explanation": "「むしろ」は前の内容より後の内容を優先・強調するときに使います。"
+  },
+  {
+    "id": "a345ee5a-fc00-4be6-8d63-77b9b2bfa41a",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「AよりもBのほうが〜」の文型は何を表す？",
+    "options": [
+      "BがAより程度が高い",
+      "AがBより程度が高い",
+      "AとBは同じ",
+      "AもBも〜ない"
+    ],
+    "correct_answer": "BがAより程度が高い",
+    "explanation": "「AよりもBのほうが〜」はBのほうが程度が高いことを表す比較表現です。"
+  },
+  {
+    "id": "a5a024e4-db28-41bc-9c54-51ddbc5674e0",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「それに対して」の意味は？",
+    "options": [
+      "Sebaliknya/sementara itu",
+      "Oleh karena itu",
+      "Selain itu",
+      "Misalnya"
+    ],
+    "correct_answer": "Sebaliknya/sementara itu",
+    "explanation": "「それに対して」は対比を示す接続表現で「sebaliknya」の意味です。"
+  },
+  {
+    "id": "f2ad263d-fe60-4227-9f77-5b96c8cd9942",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「同様に」の意味として正しいものは？",
+    "options": [
+      "Demikian pula/sama halnya",
+      "Sebaliknya",
+      "Akibatnya",
+      "Misalnya"
+    ],
+    "correct_answer": "Demikian pula/sama halnya",
+    "explanation": "「同様に（どうように）」は「sama halnya」で、類似点を述べるときに使います。"
+  },
+  {
+    "id": "201ff5ae-fe52-4e78-8eaf-52760c637474",
+    "lesson_id": "996b5d0c-bfc7-49f8-b82b-68e7e3238ed3",
+    "question_type": "multiple_choice",
+    "question_text": "「対照」の読み方は？",
+    "options": [
+      "たいしょう",
+      "ついしょう",
+      "たいてる",
+      "ついてる"
+    ],
+    "correct_answer": "たいしょう",
+    "explanation": "「対照」は「たいしょう」と読みます。意味は「perbandingan/kontras」です。"
+  },
+  {
+    "id": "9a2c6398-1015-478a-9833-fd8ea1857b37",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "ニュースで「〜が明らかになった」の意味は？",
+    "options": [
+      "〜 terungkap/menjadi jelas",
+      "〜 menjadi gelap",
+      "〜 hilang",
+      "〜 bertambah"
+    ],
+    "correct_answer": "〜 terungkap/menjadi jelas",
+    "explanation": "「明らかになった（あきらかになった）」はニュースで新事実の判明を伝えるときに使います。"
+  },
+  {
+    "id": "19214575-146a-4f65-b85a-f72cd5bbb2f8",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "ニュースの「〜の見通し」の意味は？",
+    "options": [
+      "Prospek/perkiraan tentang 〜",
+      "Pemandangan 〜",
+      "Sejarah 〜",
+      "Masalah 〜"
+    ],
+    "correct_answer": "Prospek/perkiraan tentang 〜",
+    "explanation": "「見通し（みとおし）」はニュースで将来の予測・見込みを述べるときに使います。"
+  },
+  {
+    "id": "d11d6ca1-e83f-4ccf-b47c-4958cdd7ceb1",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を発表した」のニュースでの意味は？",
+    "options": [
+      "Mengumumkan 〜",
+      "Menyelesaikan 〜",
+      "Membatalkan 〜",
+      "Menyembunyikan 〜"
+    ],
+    "correct_answer": "Mengumumkan 〜",
+    "explanation": "「発表する（はっぴょうする）」は公式に発表・アナウンスする意味です。"
+  },
+  {
+    "id": "5aedb2e7-f03b-47cf-8379-d3b2ae0feb1b",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "ニュースで「懸念される」の意味は？",
+    "options": [
+      "Dikhawatirkan",
+      "Diharapkan",
+      "Dinyatakan",
+      "Ditolak"
+    ],
+    "correct_answer": "Dikhawatirkan",
+    "explanation": "「懸念される（けねんされる）」は心配・不安を表すニュース特有の表現です。"
+  },
+  {
+    "id": "a767a5c1-2e26-4676-a5a7-e0516731b89a",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "「〜によると」はニュースで何を示す？",
+    "options": [
+      "情報の出所・情報源",
+      "結果",
+      "原因",
+      "目的"
+    ],
+    "correct_answer": "情報の出所・情報源",
+    "explanation": "「〜によると」は「menurut 〜」で、情報源を明示するときに使います。"
+  },
+  {
+    "id": "d05e851f-a2da-4e48-8ad7-ff3b39587e7d",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "「相次いで」の意味は？",
+    "options": [
+      "Berturut-turut/satu demi satu",
+      "Tiba-tiba",
+      "Perlahan-lahan",
+      "Sekaligus"
+    ],
+    "correct_answer": "Berturut-turut/satu demi satu",
+    "explanation": "「相次いで（あいついで）」は「berturut-turut」で、次々と起こることを表します。"
+  },
+  {
+    "id": "ec6b27d3-7a74-4a47-95a8-a8463c1a64da",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "ニュースで「〜に踏み切った」の意味は？",
+    "options": [
+      "Memutuskan untuk melakukan 〜",
+      "Membatalkan 〜",
+      "Meragukan 〜",
+      "Menolak 〜"
+    ],
+    "correct_answer": "Memutuskan untuk melakukan 〜",
+    "explanation": "「踏み切る（ふみきる）」は決断して実行する意味で、ニュースでよく使われます。"
+  },
+  {
+    "id": "d13c75b0-1e56-4a43-affe-7d36f65bcf34",
+    "lesson_id": "22e9cc41-1d45-44b6-9ab9-443c3baaa244",
+    "question_type": "multiple_choice",
+    "question_text": "「速報」の読み方は？",
+    "options": [
+      "そくほう",
+      "はやほう",
+      "そくぽう",
+      "はやぽう"
+    ],
+    "correct_answer": "そくほう",
+    "explanation": "「速報」は「そくほう」と読みます。意味は「berita kilat/breaking news」です。"
+  },
+  {
+    "id": "592ba183-5579-464d-8f1e-5c4fb63edbe0",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "学術論文で「〜と考えられる」が表すのは？",
+    "options": [
+      "客観的な推論・見解",
+      "個人的な感情",
+      "命令",
+      "お願い"
+    ],
+    "correct_answer": "客観的な推論・見解",
+    "explanation": "「〜と考えられる」は論文で客観的な推論を述べるときの表現です。受身形で客観性を出します。"
+  },
+  {
+    "id": "a7ae6c72-2e5b-4336-91e6-97ed4bec2609",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "論文の「本稿では〜を論じる」の「本稿」の意味は？",
+    "options": [
+      "Tulisan/makalah ini",
+      "Buku ini",
+      "Surat kabar ini",
+      "Majalah ini"
+    ],
+    "correct_answer": "Tulisan/makalah ini",
+    "explanation": "「本稿（ほんこう）」は「この論文・この文章」を指す学術的表現です。"
+  },
+  {
+    "id": "0f896e9b-2ff5-445b-8450-19fb0b8dcf15",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を検証する」の意味は？",
+    "options": [
+      "Memverifikasi/menguji 〜",
+      "Menulis 〜",
+      "Membaca 〜",
+      "Menghapus 〜"
+    ],
+    "correct_answer": "Memverifikasi/menguji 〜",
+    "explanation": "「検証する（けんしょうする）」は仮説やデータを実際に確かめる意味です。"
+  },
+  {
+    "id": "97d18107-9886-4323-9cff-f9dfb4779b31",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "論文で「先行研究」の意味は？",
+    "options": [
+      "Penelitian sebelumnya/terdahulu",
+      "Penelitian baru",
+      "Penelitian masa depan",
+      "Penelitian pribadi"
+    ],
+    "correct_answer": "Penelitian sebelumnya/terdahulu",
+    "explanation": "「先行研究（せんこうけんきゅう）」は自分の研究の前に行われた関連研究です。"
+  },
+  {
+    "id": "d911e899-2052-4edf-9917-f741b6293f8e",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "「〜であると示唆される」の意味は？",
+    "options": [
+      "Disugestikan bahwa 〜",
+      "Dipastikan bahwa 〜",
+      "Ditolak bahwa 〜",
+      "Dilupakan bahwa 〜"
+    ],
+    "correct_answer": "Disugestikan bahwa 〜",
+    "explanation": "「示唆される（しさされる）」は「tersirat/disugestikan」で、断定を避ける学術的表現です。"
+  },
+  {
+    "id": "4e7416c1-3dcc-4f33-846d-1a313250475e",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "論文の「考察」セクションで行うことは？",
+    "options": [
+      "結果の意味や意義を分析・議論する",
+      "実験方法を説明する",
+      "参考文献を並べる",
+      "謝辞を述べる"
+    ],
+    "correct_answer": "結果の意味や意義を分析・議論する",
+    "explanation": "「考察（こうさつ）」は得られた結果の意味を分析し、先行研究と比較するセクションです。"
+  },
+  {
+    "id": "a54ea7eb-bb5e-4363-a90e-fe0a600eb519",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "「仮説」の読み方は？",
+    "options": [
+      "かせつ",
+      "かぜつ",
+      "がせつ",
+      "ぎせつ"
+    ],
+    "correct_answer": "かせつ",
+    "explanation": "「仮説」は「かせつ」と読みます。意味は「hipotesis」です。"
+  },
+  {
+    "id": "c6dbc6cf-b301-40ab-b0db-c4c6e7f6a812",
+    "lesson_id": "c6588d63-c26f-4f68-b329-b3a7925b02b1",
+    "question_type": "multiple_choice",
+    "question_text": "学術論文で「〜は〜に起因する」の意味は？",
+    "options": [
+      "〜 disebabkan oleh 〜",
+      "〜 mirip dengan 〜",
+      "〜 berbeda dari 〜",
+      "〜 tidak terkait dengan 〜"
+    ],
+    "correct_answer": "〜 disebabkan oleh 〜",
+    "explanation": "「起因する（きいんする）」は原因を示す学術的表現で「disebabkan oleh」の意味です。"
+  },
+  {
+    "id": "39dfb88c-0f09-459a-9e2b-c57a44552a86",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "「社説」とは何ですか？",
+    "options": [
+      "新聞社の意見を述べた記事",
+      "読者の投書",
+      "スポーツの結果",
+      "天気予報"
+    ],
+    "correct_answer": "新聞社の意見を述べた記事",
+    "explanation": "「社説（しゃせつ）」は新聞社が社としての見解・意見を述べる記事です。editorial の意味です。"
+  },
+  {
+    "id": "86eac19d-8c59-4cc8-9bce-21ed815241ac",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "「社説」の読み方は？",
+    "options": [
+      "しゃせつ",
+      "しゃぜつ",
+      "やせつ",
+      "しゃさつ"
+    ],
+    "correct_answer": "しゃせつ",
+    "explanation": "「社説」は「しゃせつ」と読みます。"
+  },
+  {
+    "id": "2e3c5368-efde-4c1b-ae1c-4a2db9dd2fd2",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "社説で「〜が求められる」の意味は？",
+    "options": [
+      "〜 diperlukan/dituntut",
+      "〜 ditolak",
+      "〜 dihilangkan",
+      "〜 dilarang"
+    ],
+    "correct_answer": "〜 diperlukan/dituntut",
+    "explanation": "「求められる（もとめられる）」は社会的に必要とされることを述べる表現です。"
+  },
+  {
+    "id": "9c38d3bb-aaee-4045-8090-d046ff47ebcf",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "コラムで筆者が「〜を問い直す必要がある」と書くとき、何を主張している？",
+    "options": [
+      "既存の考えを再検討すべき",
+      "新しいものを作るべき",
+      "何も変えるべきではない",
+      "問題を無視すべき"
+    ],
+    "correct_answer": "既存の考えを再検討すべき",
+    "explanation": "「問い直す」は「mempertanyakan kembali」で、従来の考えの見直しを促す表現です。"
+  },
+  {
+    "id": "f5dd9f70-281b-4504-9e4a-0ae689ac0798",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "「看過できない」の意味は？",
+    "options": [
+      "Tidak bisa dibiarkan/diabaikan",
+      "Tidak bisa dilihat",
+      "Tidak bisa dibeli",
+      "Tidak bisa dimakan"
+    ],
+    "correct_answer": "Tidak bisa dibiarkan/diabaikan",
+    "explanation": "「看過できない（かんかできない）」は「見逃せない・放置できない」の意味で、社説でよく使います。"
+  },
+  {
+    "id": "eb2b71b2-70ac-4848-91e2-2a10cba61f81",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "社説で「〜を踏まえて」の意味は？",
+    "options": [
+      "Berdasarkan/dengan mempertimbangkan 〜",
+      "〜を忘れて",
+      "〜を捨てて",
+      "〜を拒否して"
+    ],
+    "correct_answer": "Berdasarkan/dengan mempertimbangkan 〜",
+    "explanation": "「〜を踏まえて（ふまえて）」は「〜を考慮に入れて」という意味です。"
+  },
+  {
+    "id": "813ba39f-4bd9-440d-8b82-f614b09e376c",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "「喫緊の課題」の意味は？",
+    "options": [
+      "Masalah mendesak",
+      "Masalah lama",
+      "Masalah kecil",
+      "Masalah pribadi"
+    ],
+    "correct_answer": "Masalah mendesak",
+    "explanation": "「喫緊の課題（きっきんのかだい）」は「masalah yang sangat mendesak」の意味です。"
+  },
+  {
+    "id": "8e2491c4-5b73-4ec1-bfba-93eb30c8837f",
+    "lesson_id": "16199097-5f9a-4643-a21e-48c0b11ebb5d",
+    "question_type": "multiple_choice",
+    "question_text": "コラムで「〜とも言えよう」が表すのは？",
+    "options": [
+      "筆者の控えめな主張",
+      "確実な事実",
+      "読者の意見",
+      "統計データ"
+    ],
+    "correct_answer": "筆者の控えめな主張",
+    "explanation": "「〜とも言えよう」は「〜と言えるだろう」の書き言葉で、筆者の穏やかな主張です。"
+  },
+  {
+    "id": "3b94bd58-5383-4c8e-a157-046d5e915f5c",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「約3割」の意味は？",
+    "options": [
+      "Sekitar 30%",
+      "Sekitar 3%",
+      "Sekitar 300%",
+      "Sekitar 0.3%"
+    ],
+    "correct_answer": "Sekitar 30%",
+    "explanation": "「割（わり）」は10%単位です。「3割」＝30%、「約」は「sekitar」です。"
+  },
+  {
+    "id": "d2fbbf3f-cb6f-419e-8a2d-4c82dc47d8ca",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「過半数」の意味は？",
+    "options": [
+      "Lebih dari setengah/mayoritas",
+      "Kurang dari setengah",
+      "Tepat setengah",
+      "Seperempat"
+    ],
+    "correct_answer": "Lebih dari setengah/mayoritas",
+    "explanation": "「過半数（かはんすう）」は「半分を超えた数」で50%超、「mayoritas」の意味です。"
+  },
+  {
+    "id": "4b5e40e3-0df2-4a44-88e6-823936ee3182",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「推移」の意味は？",
+    "options": [
+      "Perubahan/tren dari waktu ke waktu",
+      "Perpindahan tempat",
+      "Penurunan tajam",
+      "Peningkatan tajam"
+    ],
+    "correct_answer": "Perubahan/tren dari waktu ke waktu",
+    "explanation": "「推移（すいい）」は時間の経過に伴う変化の流れを表します。"
+  },
+  {
+    "id": "14a32f0e-5af4-4ad4-b487-248df94c74f6",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「前年同期比」の意味は？",
+    "options": [
+      "Dibandingkan periode yang sama tahun lalu",
+      "Dibandingkan bulan lalu",
+      "Dibandingkan tahun depan",
+      "Dibandingkan minggu lalu"
+    ],
+    "correct_answer": "Dibandingkan periode yang sama tahun lalu",
+    "explanation": "「前年同期比（ぜんねんどうきひ）」は去年の同じ時期との比較です。"
+  },
+  {
+    "id": "18adc922-576a-4909-a1e1-690979efb356",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を上回る」の意味は？",
+    "options": [
+      "Melebihi 〜",
+      "Kurang dari 〜",
+      "Sama dengan 〜",
+      "Mendekati 〜"
+    ],
+    "correct_answer": "Melebihi 〜",
+    "explanation": "「上回る（うわまわる）」は数値が〜を超えることを表します。"
+  },
+  {
+    "id": "c522182b-dd59-48a9-9c09-781e1f5fcfca",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を下回る」の意味は？",
+    "options": [
+      "Kurang dari 〜/di bawah 〜",
+      "Melebihi 〜",
+      "Sama dengan 〜",
+      "Mendekati 〜"
+    ],
+    "correct_answer": "Kurang dari 〜/di bawah 〜",
+    "explanation": "「下回る（したまわる）」は数値が〜より低いことを表します。「上回る」の反対です。"
+  },
+  {
+    "id": "03e385e8-b57e-4405-aef1-da999132830b",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「微増」の意味は？",
+    "options": [
+      "Sedikit meningkat",
+      "Sedikit menurun",
+      "Meningkat tajam",
+      "Menurun tajam"
+    ],
+    "correct_answer": "Sedikit meningkat",
+    "explanation": "「微増（びぞう）」は「sedikit meningkat」の意味です。「微」は「sedikit」、「増」は「meningkat」。"
+  },
+  {
+    "id": "26bcf33e-e255-479c-9836-c20efce09403",
+    "lesson_id": "399ca45d-ddcc-409c-9f8e-02555a10afec",
+    "question_type": "multiple_choice",
+    "question_text": "「割合」の読み方は？",
+    "options": [
+      "わりあい",
+      "かつあい",
+      "わりかた",
+      "かつがた"
+    ],
+    "correct_answer": "わりあい",
+    "explanation": "「割合」は「わりあい」と読みます。意味は「proporsi/rasio」です。"
+  }
+]

@@ -1,0 +1,7 @@
+id;passage_id;question_text;question_type;options;correct_answer;explanation;order_index;created_at
+rq-001-1;reading-n5-001;たなかさんは何時に起きますか？;multiple_choice;"[""5時"",""6時"",""7時"",""8時""]";6時;"Teks menyebutkan ""あさ6じにおきます""";1;2026-02-07 02:17:57.922698+00
+rq-001-2;reading-n5-001;たなかさんは何時に学校に行きますか？;multiple_choice;"[""6時"",""7時"",""8時"",""9時""]";7時;"Teks menyebutkan ""7じにがっこうにいきます""";2;2026-02-07 02:17:57.922698+00
+rq-001-3;reading-n5-001;たなかさんは何時に寝ますか？;multiple_choice;"[""9時"",""10時"",""11時"",""12時""]";10時;"Teks menyebutkan ""10じにねます""";3;2026-02-07 02:17:57.922698+00
+rq-002-1;reading-n5-002;この人の家族は何人ですか？;multiple_choice;"[""3人"",""4人"",""5人"",""6人""]";5人;"Teks menyebutkan ""かぞくは5にんです""";1;2026-02-07 02:17:57.922698+00
+rq-002-2;reading-n5-002;お父さんの仕事は何ですか？;multiple_choice;"[""先生"",""会社員"",""大学生"",""高校生""]";会社員;"Teks menyebutkan ""ちちはかいしゃいんです""";2;2026-02-07 02:17:57.922698+00
+rq-003-1;reading-n5-003;ワンピースはいくらでしたか？;multiple_choice;"[""1000円"",""5000円"",""10000円"",""20000円""]";10000円;"Teks menyebutkan ""1まんえんでした""";1;2026-02-07 02:17:57.922698+00

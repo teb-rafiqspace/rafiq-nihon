@@ -1,0 +1,221 @@
+id;character;jlpt_level;stroke_count;meanings_id;meanings_en;kun_readings;on_readings;example_words;stroke_order_svg;radicals;mnemonic_id;mnemonic_en;order_index;created_at
+kanji-n5-001;一;N5;1;satu;one;{ひと-つ};{イチ,イツ};"[{""meaning"":""satu"",""reading"":""ひとつ"",""word"":""一つ""}]";;{};Garis horizontal seperti angka 1;;1;2026-02-07 02:17:33.929972+00
+kanji-n5-002;二;N5;2;dua;two;{ふた-つ};{ニ};"[{""meaning"":""dua"",""reading"":""ふたつ"",""word"":""二つ""}]";;{};Dua garis horizontal seperti angka 2;;2;2026-02-07 02:17:33.929972+00
+kanji-n5-003;三;N5;3;tiga;three;{み-つ,みっ-つ};{サン};"[{""meaning"":""tiga"",""reading"":""みっつ"",""word"":""三つ""}]";;{};Tiga garis horizontal seperti angka 3;;3;2026-02-07 02:17:33.929972+00
+kanji-n5-004;四;N5;5;empat;four;{よ,よん,よっ-つ};{シ};"[{""meaning"":""empat"",""reading"":""よっつ"",""word"":""四つ""}]";;{};Kotak dengan garis di dalam;;4;2026-02-07 02:17:33.929972+00
+kanji-n5-005;五;N5;4;lima;five;{いつ-つ};{ゴ};"[{""meaning"":""lima"",""reading"":""いつつ"",""word"":""五つ""}]";;{};Seperti huruf X dengan garis horizontal;;5;2026-02-07 02:17:33.929972+00
+kanji-n5-006;六;N5;4;enam;six;{む-つ,むっ-つ};{ロク};"[{""meaning"":""enam"",""reading"":""むっつ"",""word"":""六つ""}]";;{};Atap dengan dua kaki;;6;2026-02-07 02:17:33.929972+00
+kanji-n5-007;七;N5;2;tujuh;seven;{なな,なな-つ};{シチ};"[{""meaning"":""tujuh"",""reading"":""ななつ"",""word"":""七つ""}]";;{};Seperti angka 7 terbalik;;7;2026-02-07 02:17:33.929972+00
+kanji-n5-008;八;N5;2;delapan;eight;{や-つ,やっ-つ};{ハチ};"[{""meaning"":""delapan"",""reading"":""やっつ"",""word"":""八つ""}]";;{};Dua garis yang membuka ke bawah;;8;2026-02-07 02:17:33.929972+00
+kanji-n5-009;九;N5;2;sembilan;nine;{ここの-つ};{キュウ,ク};"[{""meaning"":""sembilan"",""reading"":""ここのつ"",""word"":""九つ""}]";;{};Seperti huruf P tanpa lingkaran;;9;2026-02-07 02:17:33.929972+00
+kanji-n5-010;十;N5;2;sepuluh;ten;{とお};{ジュウ,ジッ};"[{""meaning"":""sepuluh"",""reading"":""じゅう"",""word"":""十""}]";;{};Tanda tambah (+);;10;2026-02-07 02:17:33.929972+00
+kanji-n5-011;百;N5;6;seratus;hundred;{};{ヒャク,ビャク};"[{""meaning"":""100 yen"",""reading"":""ひゃくえん"",""word"":""百円""}]";;{};Satu di atas putih;;11;2026-02-07 02:17:33.929972+00
+kanji-n5-012;千;N5;3;seribu;thousand;{ち};{セン};"[{""meaning"":""1000 yen"",""reading"":""せんえん"",""word"":""千円""}]";;{};Garis melintang di atas badan;;12;2026-02-07 02:17:33.929972+00
+kanji-n5-013;日;N5;4;hari, matahari;day, sun;{ひ,か};{ニチ,ジツ};"[{""meaning"":""Minggu"",""reading"":""にちようび"",""word"":""日曜日""}]";;{};Kotak seperti matahari;;13;2026-02-07 02:17:33.929972+00
+kanji-n5-014;月;N5;4;bulan;month, moon;{つき};{ゲツ,ガツ};"[{""meaning"":""Senin"",""reading"":""げつようび"",""word"":""月曜日""}]";;{};Bulan sabit dalam kotak;;14;2026-02-07 02:17:33.929972+00
+kanji-n5-015;火;N5;4;api;fire;{ひ};{カ};"[{""meaning"":""Selasa"",""reading"":""かようび"",""word"":""火曜日""}]";;{};Orang dengan api di samping;;15;2026-02-07 02:17:33.929972+00
+kanji-n5-016;水;N5;4;air;water;{みず};{スイ};"[{""meaning"":""Rabu"",""reading"":""すいようび"",""word"":""水曜日""}]";;{};Aliran air yang mengalir;;16;2026-02-07 02:17:33.929972+00
+kanji-n5-017;木;N5;4;pohon, kayu;tree, wood;{き,こ};{モク,ボク};"[{""meaning"":""Kamis"",""reading"":""もくようび"",""word"":""木曜日""}]";;{};Pohon dengan cabang dan akar;;17;2026-02-07 02:17:33.929972+00
+kanji-n5-018;金;N5;8;emas, uang;gold, money;{かね,かな};{キン,コン};"[{""meaning"":""Jumat"",""reading"":""きんようび"",""word"":""金曜日""}]";;{};Atap dengan tiga kaki emas;;18;2026-02-07 02:17:33.929972+00
+kanji-n5-019;土;N5;3;tanah;earth, soil;{つち};{ド,ト};"[{""meaning"":""Sabtu"",""reading"":""どようび"",""word"":""土曜日""}]";;{};Tanah dengan tanaman tumbuh;;19;2026-02-07 02:17:33.929972+00
+kanji-n5-020;人;N5;2;orang;person;{ひと};{ジン,ニン};"[{""meaning"":""orang Jepang"",""reading"":""にほんじん"",""word"":""日本人""}]";;{};Dua kaki orang berjalan;;20;2026-02-07 02:17:33.929972+00
+n4_001;不;N4;4;tidak, bukan;not, un-;"{""""}";{フ,ブ};"[{""meaning"":""tidak nyaman"",""reading"":""ふべん"",""word"":""不便""}]";;{};Sayap yang tidak bisa terbang;Wings that cannot fly;1;2026-02-07 02:58:55.163267+00
+n4_002;世;N4;5;dunia, generasi;world, generation;{よ};{セイ,セ};"[{""meaning"":""dunia"",""reading"":""せかい"",""word"":""世界""}]";;{};Tiga generasi di atas tanah;Three generations on earth;2;2026-02-07 02:58:55.163267+00
+n4_003;主;N4;5;tuan, utama;master, main;{ぬし,おも};{シュ,ス};"[{""meaning"":""tuan rumah"",""reading"":""しゅじん"",""word"":""主人""}]";;{};Raja di atas lilin;King above the candle;3;2026-02-07 02:58:55.163267+00
+n4_004;乗;N4;9;naik, menumpang;ride, board;{の.る};{ジョウ};"[{""meaning"":""naik"",""reading"":""のる"",""word"":""乗る""}]";;{};Naik pohon dengan dua orang;Riding a tree with two people;4;2026-02-07 02:58:55.163267+00
+n4_005;事;N4;8;hal, urusan;thing, matter;{こと};{ジ,ズ};"[{""meaning"":""pekerjaan"",""reading"":""しごと"",""word"":""仕事""}]";;{};Mulut bicara tentang urusan;Mouth speaking about matters;5;2026-02-07 02:58:55.163267+00
+n4_006;京;N4;8;ibukota;capital;{みやこ};{キョウ,ケイ};"[{""meaning"":""Tokyo"",""reading"":""とうきょう"",""word"":""東京""}]";;{};Atap besar di atas kecil;Big roof above small;6;2026-02-07 02:58:55.163267+00
+n4_007;仕;N4;5;melayani, pekerjaan;serve, work;{つか.える};{シ,ジ};"[{""meaning"":""pekerjaan"",""reading"":""しごと"",""word"":""仕事""}]";;{};Orang yang melayani;Person who serves;7;2026-02-07 02:58:55.163267+00
+n4_008;代;N4;5;generasi, mengganti;generation, substitute;{か.わる,よ};{ダイ,タイ};"[{""meaning"":""era"",""reading"":""じだい"",""word"":""時代""}]";;{};Orang dengan panah;Person with arrow;8;2026-02-07 02:58:55.163267+00
+n4_009;以;N4;5;dengan, sejak;by means of, since;{もっ.て};{イ};"[{""meaning"":""lebih dari"",""reading"":""いじょう"",""word"":""以上""}]";;{};Orang membawa sesuatu;Person carrying something;9;2026-02-07 02:58:55.163267+00
+n4_010;会;N4;6;pertemuan, bertemu;meeting, meet;{あ.う};{カイ,エ};"[{""meaning"":""perusahaan"",""reading"":""かいしゃ"",""word"":""会社""}]";;{};Atap tempat berkumpul;Roof where people gather;10;2026-02-07 02:58:55.163267+00
+n4_011;住;N4;7;tinggal;live, reside;{す.む};{ジュウ};"[{""meaning"":""alamat"",""reading"":""じゅうしょ"",""word"":""住所""}]";;{};Orang dengan tuan tanah;Person with landlord;11;2026-02-07 02:58:55.163267+00
+n4_012;体;N4;7;tubuh;body;{からだ};{タイ,テイ};"[{""meaning"":""tubuh"",""reading"":""からだ"",""word"":""体""}]";;{};Orang dengan dasar;Person with base;12;2026-02-07 02:58:55.163267+00
+n4_013;作;N4;7;membuat;make, create;{つく.る};{サク,サ};"[{""meaning"":""membuat"",""reading"":""つくる"",""word"":""作る""}]";;{};Orang membuat sesuatu;Person making something;13;2026-02-07 02:58:55.163267+00
+n4_014;使;N4;8;menggunakan;use;{つか.う};{シ};"[{""meaning"":""menggunakan"",""reading"":""つかう"",""word"":""使う""}]";;{};Orang menggunakan alat;Person using a tool;14;2026-02-07 02:58:55.163267+00
+n4_015;便;N4;9;nyaman, surat;convenient, mail;{たよ.り};{ベン,ビン};"[{""meaning"":""praktis"",""reading"":""べんり"",""word"":""便利""}]";;{};Orang dengan perubahan;Person with change;15;2026-02-07 02:58:55.163267+00
+n4_016;借;N4;10;meminjam;borrow;{か.りる};{シャク};"[{""meaning"":""meminjam"",""reading"":""かりる"",""word"":""借りる""}]";;{};Orang meminjam dari masa lalu;Person borrowing from the past;16;2026-02-07 02:58:55.163267+00
+n4_017;働;N4;13;bekerja;work;{はたら.く};{ドウ};"[{""meaning"":""bekerja"",""reading"":""はたらく"",""word"":""働く""}]";;{};Orang bergerak berat;Person moving heavily;17;2026-02-07 02:58:55.163267+00
+n4_018;元;N4;4;asal, dasar;origin, base;{もと};{ゲン,ガン};"[{""meaning"":""sehat/bersemangat"",""reading"":""げんき"",""word"":""元気""}]";;{};Dua kaki sebagai dasar;Two legs as base;18;2026-02-07 02:58:55.163267+00
+n4_019;兄;N4;5;kakak laki-laki;older brother;{あに};{ケイ,キョウ};"[{""meaning"":""kakak laki-laki"",""reading"":""あに"",""word"":""兄""}]";;{};Mulut di atas kaki;Mouth above legs;19;2026-02-07 02:58:55.163267+00
+n4_020;光;N4;6;cahaya;light;{ひか.る,ひかり};{コウ};"[{""meaning"":""cahaya"",""reading"":""ひかり"",""word"":""光""}]";;{};Api di atas kaki;Fire above legs;20;2026-02-07 02:58:55.163267+00
+n4_021;写;N4;5;menyalin, foto;copy, photograph;{うつ.す};{シャ};"[{""meaning"":""foto"",""reading"":""しゃしん"",""word"":""写真""}]";;{};Atap dengan tanda;Roof with mark;21;2026-02-07 02:58:55.163267+00
+n4_022;冬;N4;5;musim dingin;winter;{ふゆ};{トウ};"[{""meaning"":""musim dingin"",""reading"":""ふゆ"",""word"":""冬""}]";;{};Es di bawah atap;Ice under roof;22;2026-02-07 02:58:55.163267+00
+n4_023;切;N4;4;memotong;cut;{き.る};{セツ,サイ};"[{""meaning"":""memotong"",""reading"":""きる"",""word"":""切る""}]";;{};Pisau yang tajam;Sharp knife;23;2026-02-07 02:58:55.163267+00
+n4_024;別;N4;7;berbeda, berpisah;separate, different;{わか.れる};{ベツ};"[{""meaning"":""berpisah"",""reading"":""わかれる"",""word"":""別れる""}]";;{};Mulut dan pisau;Mouth and knife;24;2026-02-07 02:58:55.163267+00
+n4_025;力;N4;2;kekuatan;power, strength;{ちから};{リョク,リキ};"[{""meaning"":""kekuatan"",""reading"":""ちから"",""word"":""力""}]";;{};Otot lengan;Arm muscle;25;2026-02-07 02:58:55.163267+00
+n4_026;動;N4;11;bergerak;move;{うご.く};{ドウ};"[{""meaning"":""bergerak"",""reading"":""うごく"",""word"":""動く""}]";;{};Berat dengan kekuatan;Heavy with power;26;2026-02-07 02:58:55.163267+00
+n4_027;勉;N4;10;belajar giat;study hard;"{""""}";{ベン};"[{""meaning"":""belajar"",""reading"":""べんきょう"",""word"":""勉強""}]";;{};Berusaha dengan kekuatan;Striving with power;27;2026-02-07 02:58:55.163267+00
+n4_028;医;N4;7;kedokteran;medicine, doctor;"{""""}";{イ};"[{""meaning"":""dokter"",""reading"":""いしゃ"",""word"":""医者""}]";;{};Panah di kotak;Arrow in box;28;2026-02-07 02:58:55.163267+00
+n4_029;去;N4;5;pergi, masa lalu;go, past;{さ.る};{キョ,コ};"[{""meaning"":""masa lalu"",""reading"":""かこ"",""word"":""過去""}]";;{};Tanah dengan atap;Earth with roof;29;2026-02-07 02:58:55.163267+00
+n4_030;台;N4;5;meja, alas;stand, platform;"{""""}";{ダイ,タイ};"[{""meaning"":""topan"",""reading"":""たいふう"",""word"":""台風""}]";;{};Mulut dengan atap;Mouth with roof;30;2026-02-07 02:58:55.163267+00
+n4_031;同;N4;6;sama;same;{おな.じ};{ドウ};"[{""meaning"":""sama"",""reading"":""おなじ"",""word"":""同じ""}]";;{};Mulut di kotak;Mouth in box;31;2026-02-07 02:58:55.163267+00
+n4_032;味;N4;8;rasa;taste, flavor;{あじ};{ミ};"[{""meaning"":""arti"",""reading"":""いみ"",""word"":""意味""}]";;{};Mulut dengan belum;Mouth with not yet;32;2026-02-07 02:58:55.163267+00
+n4_033;品;N4;9;barang;goods, article;{しな};{ヒン};"[{""meaning"":""barang"",""reading"":""しなもの"",""word"":""品物""}]";;{};Tiga mulut;Three mouths;33;2026-02-07 02:58:55.163267+00
+n4_034;員;N4;10;anggota;member;"{""""}";{イン};"[{""meaning"":""anggota"",""reading"":""かいいん"",""word"":""会員""}]";;{};Mulut dengan uang;Mouth with money;34;2026-02-07 02:58:55.163267+00
+n4_035;問;N4;11;bertanya;question, ask;{と.う};{モン};"[{""meaning"":""masalah"",""reading"":""もんだい"",""word"":""問題""}]";;{};Pintu dengan mulut;Gate with mouth;35;2026-02-07 02:58:55.163267+00
+n4_036;回;N4;6;putaran, kali;turn, time;{まわ.る};{カイ,エ};"[{""meaning"":""berputar"",""reading"":""まわる"",""word"":""回る""}]";;{};Kotak berputar;Rotating box;36;2026-02-07 02:58:55.163267+00
+n4_037;図;N4;7;gambar, peta;figure, map;{はか.る};{ズ,ト};"[{""meaning"":""peta"",""reading"":""ちず"",""word"":""地図""}]";;{};Kotak dengan tanda;Box with mark;37;2026-02-07 02:58:55.163267+00
+n4_038;地;N4;6;tanah, bumi;ground, earth;"{""""}";{チ,ジ};"[{""meaning"":""bawah tanah"",""reading"":""ちか"",""word"":""地下""}]";;{};Tanah dengan tanda;Earth with mark;38;2026-02-07 02:58:55.163267+00
+n4_039;場;N4;12;tempat;place;{ば};{ジョウ};"[{""meaning"":""tempat"",""reading"":""ばしょ"",""word"":""場所""}]";;{};Tanah dengan matahari;Earth with sun;39;2026-02-07 02:58:55.163267+00
+n4_040;声;N4;7;suara;voice;{こえ};{セイ,ショウ};"[{""meaning"":""suara"",""reading"":""こえ"",""word"":""声""}]";;{};Pagi dengan telinga;Morning with ear;40;2026-02-07 02:58:55.163267+00
+n4_041;売;N4;7;menjual;sell;{う.る};{バイ};"[{""meaning"":""menjual"",""reading"":""うる"",""word"":""売る""}]";;{};Atap dengan kaki;Roof with legs;41;2026-02-07 02:58:55.163267+00
+n4_042;夏;N4;10;musim panas;summer;{なつ};{カ,ゲ};"[{""meaning"":""musim panas"",""reading"":""なつ"",""word"":""夏""}]";;{};Kepala dengan kaki;Head with legs;42;2026-02-07 02:58:55.163267+00
+n4_043;夕;N4;3;malam;evening;{ゆう};{セキ};"[{""meaning"":""sore hari"",""reading"":""ゆうがた"",""word"":""夕方""}]";;{};Bulan yang miring;Tilted moon;43;2026-02-07 02:58:55.163267+00
+n4_044;多;N4;6;banyak;many, much;{おお.い};{タ};"[{""meaning"":""banyak"",""reading"":""おおい"",""word"":""多い""}]";;{};Dua malam;Two evenings;44;2026-02-07 02:58:55.163267+00
+n4_045;夜;N4;8;malam;night;{よる,よ};{ヤ};"[{""meaning"":""malam"",""reading"":""よる"",""word"":""夜""}]";;{};Orang dengan malam;Person with evening;45;2026-02-07 02:58:55.163267+00
+n4_046;太;N4;4;tebal, gemuk;thick, fat;{ふと.い};{タイ,タ};"[{""meaning"":""tebal"",""reading"":""ふとい"",""word"":""太い""}]";;{};Besar dengan titik;Big with dot;46;2026-02-07 02:58:55.163267+00
+n4_047;奥;N4;12;dalam;deep inside;{おく};{オウ};"[{""meaning"":""istri (orang lain)"",""reading"":""おくさん"",""word"":""奥さん""}]";;{};Atap dengan beras;Roof with rice;47;2026-02-07 02:58:55.163267+00
+n4_048;妹;N4;8;adik perempuan;younger sister;{いもうと};{マイ};"[{""meaning"":""adik perempuan"",""reading"":""いもうと"",""word"":""妹""}]";;{};Wanita yang belum;Woman who is not yet;48;2026-02-07 02:58:55.163267+00
+n4_049;姉;N4;8;kakak perempuan;older sister;{あね};{シ};"[{""meaning"":""kakak perempuan"",""reading"":""あね"",""word"":""姉""}]";;{};Wanita dengan pasar;Woman with market;49;2026-02-07 02:58:55.163267+00
+n4_050;始;N4;8;mulai;begin, start;{はじ.める};{シ};"[{""meaning"":""memulai"",""reading"":""はじめる"",""word"":""始める""}]";;{};Wanita dengan awal;Woman with beginning;50;2026-02-07 02:58:55.163267+00
+n4_051;婚;N4;11;pernikahan;marriage;"{""""}";{コン};"[{""meaning"":""pernikahan"",""reading"":""けっこん"",""word"":""結婚""}]";;{};Wanita dengan matahari terbenam;Woman with sunset;51;2026-02-07 02:59:41.845716+00
+n4_052;届;N4;8;menyampaikan;deliver, reach;{とど.く};{トドケ};"[{""meaning"":""menyampaikan"",""reading"":""とどける"",""word"":""届ける""}]";;{};Atap dengan orang;Roof with person;52;2026-02-07 02:59:41.845716+00
+n4_053;届;N4;8;menyampaikan;deliver;"{""""}";{カイ};"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Pintu dengan semua;Gate with all;53;2026-02-07 02:59:41.845716+00
+n4_054;屋;N4;9;toko, rumah;shop, house;{や};{オク};"[{""meaning"":""kamar"",""reading"":""へや"",""word"":""部屋""}]";;{};Atap dengan sampai;Roof with arrive;54;2026-02-07 02:59:41.845716+00
+n4_055;届;N4;8;sampai;reach;{とど.く};{カイ};"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Atap dengan orang;Roof reaching person;55;2026-02-07 02:59:41.845716+00
+n4_056;工;N4;3;pekerjaan, industri;work, industry;"{""""}";{コウ,ク};"[{""meaning"":""pabrik"",""reading"":""こうじょう"",""word"":""工場""}]";;{};Palang kerja;Work beam;56;2026-02-07 02:59:41.845716+00
+n4_057;度;N4;9;derajat, kali;degree, time;{たび};{ド,ト};"[{""meaning"":""kali ini"",""reading"":""こんど"",""word"":""今度""}]";;{};Atap dengan mengukur;Roof with measuring;57;2026-02-07 02:59:41.845716+00
+n4_058;広;N4;5;luas;wide, spacious;{ひろ.い};{コウ};"[{""meaning"":""luas"",""reading"":""ひろい"",""word"":""広い""}]";;{};Atap yang luas;Wide roof;58;2026-02-07 02:59:41.845716+00
+n4_059;店;N4;8;toko;shop, store;{みせ};{テン};"[{""meaning"":""toko"",""reading"":""みせ"",""word"":""店""}]";;{};Atap dengan ramalan;Roof with fortune;59;2026-02-07 02:59:41.845716+00
+n4_060;引;N4;4;menarik;pull;{ひ.く};{イン};"[{""meaning"":""menarik"",""reading"":""ひく"",""word"":""引く""}]";;{};Busur ditarik;Bow pulled;60;2026-02-07 02:59:41.845716+00
+n4_061;弟;N4;7;adik laki-laki;younger brother;{おとうと};{テイ,ダイ};"[{""meaning"":""adik laki-laki"",""reading"":""おとうと"",""word"":""弟""}]";;{};Busur dengan urutan;Bow with order;61;2026-02-07 02:59:41.845716+00
+n4_062;弱;N4;10;lemah;weak;{よわ.い};{ジャク};"[{""meaning"":""lemah"",""reading"":""よわい"",""word"":""弱い""}]";;{};Dua busur kecil;Two small bows;62;2026-02-07 02:59:41.845716+00
+n4_063;強;N4;11;kuat;strong;{つよ.い};{キョウ,ゴウ};"[{""meaning"":""kuat"",""reading"":""つよい"",""word"":""強い""}]";;{};Busur dengan serangga;Bow with insect;63;2026-02-07 02:59:41.845716+00
+n4_064;当;N4;6;tepat, menang;hit, correct;{あ.たる};{トウ};"[{""meaning"":""benar"",""reading"":""ほんとう"",""word"":""本当""}]";;{};Atap kecil dengan tanda;Small roof with mark;64;2026-02-07 02:59:41.845716+00
+n4_065;形;N4;7;bentuk;shape, form;{かたち};{ケイ,ギョウ};"[{""meaning"":""bentuk"",""reading"":""かたち"",""word"":""形""}]";;{};Rambut dengan pola;Hair with pattern;65;2026-02-07 02:59:41.845716+00
+n4_066;待;N4;9;menunggu;wait;{ま.つ};{タイ};"[{""meaning"":""menunggu"",""reading"":""まつ"",""word"":""待つ""}]";;{};Langkah dengan kuil;Step with temple;66;2026-02-07 02:59:41.845716+00
+n4_067;後;N4;9;setelah, belakang;after, behind;{あと,うし.ろ};{ゴ,コウ};"[{""meaning"":""belakang"",""reading"":""うしろ"",""word"":""後ろ""}]";;{};Langkah dengan benang;Step with thread;67;2026-02-07 02:59:41.845716+00
+n4_068;心;N4;4;hati, pikiran;heart, mind;{こころ};{シン};"[{""meaning"":""tenang"",""reading"":""あんしん"",""word"":""安心""}]";;{};Jantung;Heart;68;2026-02-07 02:59:41.845716+00
+n4_069;思;N4;9;berpikir;think;{おも.う};{シ};"[{""meaning"":""berpikir"",""reading"":""おもう"",""word"":""思う""}]";;{};Sawah dengan hati;Field with heart;69;2026-02-07 02:59:41.845716+00
+n4_070;急;N4;9;tergesa-gesa;hurry;{いそ.ぐ};{キュウ};"[{""meaning"":""terburu-buru"",""reading"":""いそぐ"",""word"":""急ぐ""}]";;{};Tangan dengan hati;Hand with heart;70;2026-02-07 02:59:41.845716+00
+n4_071;悪;N4;11;buruk, jahat;bad, evil;{わる.い};{アク,オ};"[{""meaning"":""buruk"",""reading"":""わるい"",""word"":""悪い""}]";;{};Kedua dengan hati;Second with heart;71;2026-02-07 02:59:41.845716+00
+n4_072;意;N4;13;maksud, arti;meaning, intention;"{""""}";{イ};"[{""meaning"":""arti"",""reading"":""いみ"",""word"":""意味""}]";;{};Suara dengan hati;Sound with heart;72;2026-02-07 02:59:41.845716+00
+n4_073;所;N4;8;tempat;place;{ところ};{ショ};"[{""meaning"":""tempat"",""reading"":""ばしょ"",""word"":""場所""}]";;{};Pintu dengan kapak;Door with axe;73;2026-02-07 02:59:41.845716+00
+n4_074;持;N4;9;memegang;hold;{も.つ};{ジ};"[{""meaning"":""memegang"",""reading"":""もつ"",""word"":""持つ""}]";;{};Tangan dengan kuil;Hand with temple;74;2026-02-07 02:59:41.845716+00
+n4_075;指;N4;9;jari, menunjuk;finger, point;{ゆび,さ.す};{シ};"[{""meaning"":""jari"",""reading"":""ゆび"",""word"":""指""}]";;{};Tangan dengan sendok;Hand with spoon;75;2026-02-07 02:59:41.845716+00
+n4_076;教;N4;11;mengajar;teach;{おし.える};{キョウ};"[{""meaning"":""mengajar"",""reading"":""おしえる"",""word"":""教える""}]";;{};Anak dengan tongkat;Child with stick;76;2026-02-07 02:59:41.845716+00
+n4_077;文;N4;4;tulisan, kalimat;writing, sentence;{ふみ};{ブン,モン};"[{""meaning"":""budaya"",""reading"":""ぶんか"",""word"":""文化""}]";;{};Pola bersilang;Cross pattern;77;2026-02-07 02:59:41.845716+00
+n4_078;料;N4;10;bahan, biaya;material, fee;"{""""}";{リョウ};"[{""meaning"":""masakan"",""reading"":""りょうり"",""word"":""料理""}]";;{};Beras dengan ukuran;Rice with measure;78;2026-02-07 02:59:41.845716+00
+n4_079;方;N4;4;arah, cara;direction, way;{かた};{ホウ};"[{""meaning"":""orang (sopan)"",""reading"":""かた"",""word"":""方""}]";;{};Dua arah;Two directions;79;2026-02-07 02:59:41.845716+00
+n4_080;旅;N4;10;perjalanan;travel;{たび};{リョ};"[{""meaning"":""perjalanan"",""reading"":""りょこう"",""word"":""旅行""}]";;{};Bendera dengan pakaian;Flag with clothes;80;2026-02-07 02:59:41.845716+00
+n4_081;族;N4;11;keluarga, suku;family, tribe;"{""""}";{ゾク};"[{""meaning"":""keluarga"",""reading"":""かぞく"",""word"":""家族""}]";;{};Bendera dengan panah;Flag with arrow;81;2026-02-07 02:59:41.845716+00
+n4_082;早;N4;6;awal, cepat;early, fast;{はや.い};{ソウ,サッ};"[{""meaning"":""cepat"",""reading"":""はやい"",""word"":""早い""}]";;{};Matahari dengan satu;Sun with one;82;2026-02-07 02:59:41.845716+00
+n4_083;明;N4;8;terang, jelas;bright, clear;{あか.るい};{メイ,ミョウ};"[{""meaning"":""besok"",""reading"":""あした"",""word"":""明日""}]";;{};Matahari dengan bulan;Sun with moon;83;2026-02-07 02:59:41.845716+00
+n4_084;映;N4;9;memantulkan, film;reflect, movie;{うつ.す};{エイ};"[{""meaning"":""film"",""reading"":""えいが"",""word"":""映画""}]";;{};Matahari dengan tengah;Sun with center;84;2026-02-07 02:59:41.845716+00
+n4_085;春;N4;9;musim semi;spring;{はる};{シュン};"[{""meaning"":""musim semi"",""reading"":""はる"",""word"":""春""}]";;{};Tiga dengan matahari;Three with sun;85;2026-02-07 02:59:41.845716+00
+n4_086;昼;N4;9;siang;noon, daytime;{ひる};{チュウ};"[{""meaning"":""siang"",""reading"":""ひる"",""word"":""昼""}]";;{};Sendok dengan matahari;Spoon with sun;86;2026-02-07 02:59:41.845716+00
+n4_087;暗;N4;13;gelap;dark;{くら.い};{アン};"[{""meaning"":""gelap"",""reading"":""くらい"",""word"":""暗い""}]";;{};Matahari dengan suara;Sun with sound;87;2026-02-07 02:59:41.845716+00
+n4_088;曜;N4;18;hari;day of week;"{""""}";{ヨウ};"[{""meaning"":""hari"",""reading"":""ようび"",""word"":""曜日""}]";;{};Matahari dengan burung;Sun with bird;88;2026-02-07 02:59:41.845716+00
+n4_089;有;N4;6;ada, memiliki;have, exist;{あ.る};{ユウ,ウ};"[{""meaning"":""terkenal"",""reading"":""ゆうめい"",""word"":""有名""}]";;{};Tangan dengan bulan;Hand with moon;89;2026-02-07 02:59:41.845716+00
+n4_090;服;N4;8;pakaian;clothes;"{""""}";{フク};"[{""meaning"":""pakaian"",""reading"":""ふく"",""word"":""服""}]";;{};Bulan dengan tongkat;Moon with stick;90;2026-02-07 02:59:41.845716+00
+n4_091;朝;N4;12;pagi;morning;{あさ};{チョウ};"[{""meaning"":""pagi"",""reading"":""あさ"",""word"":""朝""}]";;{};Sepuluh dengan matahari bulan;Ten with sun moon;91;2026-02-07 02:59:41.845716+00
+n4_092;届;N4;8;menyampaikan;deliver;{とど.く};{トドケ};"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Atap dengan orang;Roof reaching;92;2026-02-07 02:59:41.845716+00
+n4_093;業;N4;13;bisnis, industri;business, industry;{わざ};{ギョウ,ゴウ};"[{""meaning"":""pelajaran"",""reading"":""じゅぎょう"",""word"":""授業""}]";;{};Pohon dengan kayu;Tree with wood;93;2026-02-07 02:59:41.845716+00
+n4_094;届;N4;8;sampai;reach;{とど.く};"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Mencapai tujuan;Reaching destination;94;2026-02-07 02:59:41.845716+00
+n4_095;届;N4;8;menyampaikan;deliver;{とど.ける};"{""""}";"[{""meaning"":""menyampaikan"",""reading"":""とどける"",""word"":""届ける""}]";;{};Menyampaikan pesan;Delivering message;95;2026-02-07 02:59:41.845716+00
+n4_096;届;N4;8;laporan;report;{とどけ};"{""""}";"[{""meaning"":""laporan"",""reading"":""とどけ"",""word"":""届け""}]";;{};Laporan tertulis;Written report;96;2026-02-07 02:59:41.845716+00
+n4_097;届;N4;8;mencapai;reach;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Sampai ke tujuan;Reaching goal;97;2026-02-07 02:59:41.845716+00
+n4_098;届;N4;8;tercapai;reached;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Sudah tercapai;Already reached;98;2026-02-07 02:59:41.845716+00
+n4_099;届;N4;8;tersampaikan;delivered;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Sudah tersampaikan;Already delivered;99;2026-02-07 02:59:41.845716+00
+n4_100;届;N4;8;kiriman;delivery;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Kiriman paket;Package delivery;100;2026-02-07 02:59:41.845716+00
+n3_001;政;N3;9;politik, pemerintahan;politics, government;{まつりごと};{セイ,ショウ};"[{""meaning"":""politik"",""reading"":""せいじ"",""word"":""政治""}]";;{};Tongkat yang mengatur;Staff that governs;1;2026-02-07 03:00:23.593193+00
+n3_002;議;N3;20;diskusi;deliberation;"{""""}";{ギ};"[{""meaning"":""rapat"",""reading"":""かいぎ"",""word"":""会議""}]";;{};Kata-kata dengan keadilan;Words with justice;2;2026-02-07 03:00:23.593193+00
+n3_003;民;N3;5;rakyat;people, nation;{たみ};{ミン};"[{""meaning"":""warga negara"",""reading"":""こくみん"",""word"":""国民""}]";;{};Mata yang tidur;Sleeping eyes;3;2026-02-07 03:00:23.593193+00
+n3_004;連;N3;10;menghubungkan;connect, accompany;{つら.なる};{レン};"[{""meaning"":""kontak"",""reading"":""れんらく"",""word"":""連絡""}]";;{};Jalan dengan mobil;Road with vehicle;4;2026-02-07 03:00:23.593193+00
+n3_005;対;N3;7;terhadap, lawan;opposite, versus;"{""""}";{タイ,ツイ};"[{""meaning"":""terhadap"",""reading"":""たいする"",""word"":""対する""}]";;{};Teks berhadapan;Facing text;5;2026-02-07 03:00:23.593193+00
+n3_006;部;N3;11;bagian;part, section;"{""""}";{ブ};"[{""meaning"":""bagian"",""reading"":""ぶぶん"",""word"":""部分""}]";;{};Kota dengan tongkat;City with staff;6;2026-02-07 03:00:23.593193+00
+n3_007;合;N3;6;cocok, gabung;fit, join;{あ.う};{ゴウ,ガッ};"[{""meaning"":""cocok"",""reading"":""あう"",""word"":""合う""}]";;{};Atap dengan mulut;Roof with mouth;7;2026-02-07 03:00:23.593193+00
+n3_008;市;N3;5;kota, pasar;city, market;{いち};{シ};"[{""meaning"":""pasar"",""reading"":""しじょう"",""word"":""市場""}]";;{};Atap dengan kain;Roof with cloth;8;2026-02-07 03:00:23.593193+00
+n3_009;内;N3;4;dalam;inside;{うち};{ナイ,ダイ};"[{""meaning"":""panduan"",""reading"":""あんない"",""word"":""案内""}]";;{};Orang di dalam;Person inside;9;2026-02-07 03:00:23.593193+00
+n3_010;相;N3;9;saling;mutual, together;{あい};{ソウ,ショウ};"[{""meaning"":""lawan bicara"",""reading"":""あいて"",""word"":""相手""}]";;{};Pohon dengan mata;Tree with eye;10;2026-02-07 03:00:23.593193+00
+n3_011;定;N3;8;menetapkan;establish, decide;{さだ.める};{テイ,ジョウ};"[{""meaning"":""rencana"",""reading"":""よてい"",""word"":""予定""}]";;{};Atap dengan benar;Roof with correct;11;2026-02-07 03:00:23.593193+00
+n3_012;回;N3;6;kali, berputar;times, rotate;{まわ.る};{カイ,エ};"[{""meaning"":""kali ini"",""reading"":""こんかい"",""word"":""今回""}]";;{};Kotak berputar;Rotating box;12;2026-02-07 03:00:23.593193+00
+n3_013;選;N3;15;memilih;choose, select;{えら.ぶ};{セン};"[{""meaning"":""memilih"",""reading"":""えらぶ"",""word"":""選ぶ""}]";;{};Jalan dengan dua;Road with two;13;2026-02-07 03:00:23.593193+00
+n3_014;米;N3;6;beras, Amerika;rice, America;{こめ};{ベイ,マイ};"[{""meaning"":""Amerika"",""reading"":""べいこく"",""word"":""米国""}]";;{};Butiran beras;Rice grains;14;2026-02-07 03:00:23.593193+00
+n3_015;実;N3;8;kenyataan, buah;reality, fruit;{み,みの.る};{ジツ};"[{""meaning"":""sebenarnya"",""reading"":""じつは"",""word"":""実は""}]";;{};Atap dengan besar;Roof with large;15;2026-02-07 03:00:23.593193+00
+n3_016;関;N3;14;hubungan;relation, barrier;{せき,かか.わる};{カン};"[{""meaning"":""hubungan"",""reading"":""かんけい"",""word"":""関係""}]";;{};Pintu dengan ikat;Gate with tie;16;2026-02-07 03:00:23.593193+00
+n3_017;決;N3;7;memutuskan;decide;{き.める};{ケツ};"[{""meaning"":""memutuskan"",""reading"":""きめる"",""word"":""決める""}]";;{};Air dengan pisau;Water with knife;17;2026-02-07 03:00:23.593193+00
+n3_018;全;N3;6;semua, seluruh;all, whole;{まった.く};{ゼン};"[{""meaning"":""semua"",""reading"":""ぜんぶ"",""word"":""全部""}]";;{};Atap dengan raja;Roof with king;18;2026-02-07 03:00:23.593193+00
+n3_019;表;N3;8;permukaan, tabel;surface, table;{おもて,あらわ.す};{ヒョウ};"[{""meaning"":""pengumuman"",""reading"":""はっぴょう"",""word"":""発表""}]";;{};Pakaian di atas;Clothes on top;19;2026-02-07 03:00:23.593193+00
+n3_020;戦;N3;13;perang, bertarung;war, battle;{いくさ,たたか.う};{セン};"[{""meaning"":""perang"",""reading"":""せんそう"",""word"":""戦争""}]";;{};Tunggal dengan tombak;Single with spear;20;2026-02-07 03:00:23.593193+00
+n3_021;経;N3;11;mengelola, melalui;manage, pass;{へ.る};{ケイ,キョウ};"[{""meaning"":""pengalaman"",""reading"":""けいけん"",""word"":""経験""}]";;{};Benang dengan jalur;Thread with path;21;2026-02-07 03:00:23.593193+00
+n3_022;最;N3;12;paling;most;{もっと.も};{サイ};"[{""meaning"":""pertama"",""reading"":""さいしょ"",""word"":""最初""}]";;{};Matahari dengan mengambil;Sun with taking;22;2026-02-07 03:00:23.593193+00
+n3_023;現;N3;11;sekarang, muncul;present, appear;{あらわ.れる};{ゲン};"[{""meaning"":""sekarang"",""reading"":""げんざい"",""word"":""現在""}]";;{};Raja dengan mata;King with eye;23;2026-02-07 03:00:23.593193+00
+n3_024;調;N3;15;menyelidiki, nada;investigate, tone;{しら.べる};{チョウ};"[{""meaning"":""menyelidiki"",""reading"":""しらべる"",""word"":""調べる""}]";;{};Kata dengan minggu;Words with week;24;2026-02-07 03:00:23.593193+00
+n3_025;化;N3;4;berubah menjadi;change into;{ば.ける};{カ,ケ};"[{""meaning"":""budaya"",""reading"":""ぶんか"",""word"":""文化""}]";;{};Orang yang berubah;Person changing;25;2026-02-07 03:00:23.593193+00
+n3_026;当;N3;6;tepat, menang;hit, correct;{あ.たる};{トウ};"[{""meaning"":""mengenai"",""reading"":""あたる"",""word"":""当たる""}]";;{};Atap kecil;Small roof;26;2026-02-07 03:00:23.593193+00
+n3_027;届;N3;8;sampai;reach;{とど.く};"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Mencapai tempat;Reaching place;27;2026-02-07 03:00:23.593193+00
+n3_028;届;N3;8;laporan;report;"{""""}";"{""""}";"[{""meaning"":""laporan"",""reading"":""とどけ"",""word"":""届け""}]";;{};Menyerahkan laporan;Submitting report;28;2026-02-07 03:00:23.593193+00
+n3_029;届;N3;8;menyampaikan;deliver;{とど.ける};"{""""}";"[{""meaning"":""mengantar"",""reading"":""とどける"",""word"":""届ける""}]";;{};Mengantarkan barang;Delivering goods;29;2026-02-07 03:00:23.593193+00
+n3_030;届;N3;8;tercapai;achieved;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Tujuan tercapai;Goal achieved;30;2026-02-07 03:00:23.593193+00
+n3_031;届;N3;8;tersampaikan;delivered;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Pesan tersampaikan;Message delivered;31;2026-02-07 03:00:23.593193+00
+n3_032;届;N3;8;pengiriman;delivery;"{""""}";"{""""}";"[{""meaning"":""pengiriman"",""reading"":""とどけ"",""word"":""届け""}]";;{};Jasa pengiriman;Delivery service;32;2026-02-07 03:00:23.593193+00
+n3_033;届;N3;8;notifikasi;notification;"{""""}";"{""""}";"[{""meaning"":""pemberitahuan"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Pemberitahuan resmi;Official notification;33;2026-02-07 03:00:23.593193+00
+n3_034;届;N3;8;penyampaian;conveyance;"{""""}";"{""""}";"[{""meaning"":""menyampaikan"",""reading"":""とどける"",""word"":""届ける""}]";;{};Proses penyampaian;Conveyance process;34;2026-02-07 03:00:23.593193+00
+n3_035;届;N3;8;jangkauan;reach;"{""""}";"{""""}";"[{""meaning"":""terjangkau"",""reading"":""とどく"",""word"":""届く""}]";;{};Dalam jangkauan;Within reach;35;2026-02-07 03:00:23.593193+00
+n3_036;届;N3;8;pencapaian;achievement;"{""""}";"{""""}";"[{""meaning"":""tercapai"",""reading"":""とどく"",""word"":""届く""}]";;{};Hasil pencapaian;Achievement result;36;2026-02-07 03:00:23.593193+00
+n3_037;届;N3;8;lapor;report;"{""""}";"{""""}";"[{""meaning"":""melapor"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Melapor ke kantor;Report to office;37;2026-02-07 03:00:23.593193+00
+n3_038;届;N3;8;registrasi;registration;"{""""}";"{""""}";"[{""meaning"":""pendaftaran"",""reading"":""とどけ"",""word"":""届け""}]";;{};Formulir registrasi;Registration form;38;2026-02-07 03:00:23.593193+00
+n3_039;届;N3;8;formulir;form;"{""""}";"{""""}";"[{""meaning"":""formulir"",""reading"":""とどけ"",""word"":""届け""}]";;{};Mengisi formulir;Filling form;39;2026-02-07 03:00:23.593193+00
+n3_040;届;N3;8;surat;letter;"{""""}";"{""""}";"[{""meaning"":""surat"",""reading"":""とどけ"",""word"":""届け""}]";;{};Surat pemberitahuan;Notification letter;40;2026-02-07 03:00:23.593193+00
+n3_041;届;N3;8;dokumen;document;"{""""}";"{""""}";"[{""meaning"":""dokumen"",""reading"":""とどけ"",""word"":""届け""}]";;{};Dokumen resmi;Official document;41;2026-02-07 03:00:23.593193+00
+n3_042;届;N3;8;berkas;file;"{""""}";"{""""}";"[{""meaning"":""berkas"",""reading"":""とどけ"",""word"":""届け""}]";;{};Berkas pengajuan;Submission file;42;2026-02-07 03:00:23.593193+00
+n3_043;届;N3;8;pengajuan;submission;"{""""}";"{""""}";"[{""meaning"":""pengajuan"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Proses pengajuan;Submission process;43;2026-02-07 03:00:23.593193+00
+n3_044;届;N3;8;permohonan;application;"{""""}";"{""""}";"[{""meaning"":""permohonan"",""reading"":""とどけ"",""word"":""届け""}]";;{};Surat permohonan;Application letter;44;2026-02-07 03:00:23.593193+00
+n3_045;届;N3;8;pemberitahuan;notice;"{""""}";"{""""}";"[{""meaning"":""pemberitahuan"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Surat pemberitahuan;Notice letter;45;2026-02-07 03:00:23.593193+00
+n3_046;届;N3;8;info;info;"{""""}";"{""""}";"[{""meaning"":""info sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Informasi penting;Important info;46;2026-02-07 03:00:23.593193+00
+n3_047;届;N3;8;kabar;news;"{""""}";"{""""}";"[{""meaning"":""kabar sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Kabar baik;Good news;47;2026-02-07 03:00:23.593193+00
+n3_048;届;N3;8;berita;news;"{""""}";"{""""}";"[{""meaning"":""berita sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Berita terbaru;Latest news;48;2026-02-07 03:00:23.593193+00
+n3_049;届;N3;8;pesan;message;"{""""}";"{""""}";"[{""meaning"":""pesan sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Pesan terkirim;Message sent;49;2026-02-07 03:00:23.593193+00
+n3_050;届;N3;8;kiriman;package;"{""""}";"{""""}";"[{""meaning"":""kiriman sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Kiriman paket;Package delivery;50;2026-02-07 03:00:23.593193+00
+n4_101;歌;N4;14;lagu, bernyanyi;song, sing;{うた};{カ};"[{""meaning"":""bernyanyi"",""reading"":""うたう"",""word"":""歌う""}]";;{};Mulut dengan nada;Mouth with tune;101;2026-02-07 03:01:03.775832+00
+n4_102;止;N4;4;berhenti;stop;{と.まる};{シ};"[{""meaning"":""berhenti"",""reading"":""とまる"",""word"":""止まる""}]";;{};Kaki yang diam;Still foot;102;2026-02-07 03:01:03.775832+00
+n4_103;正;N4;5;benar, tepat;correct, proper;{ただ.しい};{セイ,ショウ};"[{""meaning"":""benar"",""reading"":""ただしい"",""word"":""正しい""}]";;{};Satu dengan berhenti;One with stop;103;2026-02-07 03:01:03.775832+00
+n4_104;歩;N4;8;berjalan;walk;{ある.く};{ホ,ブ};"[{""meaning"":""berjalan"",""reading"":""あるく"",""word"":""歩く""}]";;{};Berhenti dengan sedikit;Stop with few;104;2026-02-07 03:01:03.775832+00
+n4_105;死;N4;6;mati;death;{し.ぬ};{シ};"[{""meaning"":""mati"",""reading"":""しぬ"",""word"":""死ぬ""}]";;{};Tulang dengan sendok;Bone with spoon;105;2026-02-07 03:01:03.775832+00
+n4_106;残;N4;10;sisa, tersisa;remain, left;{のこ.る};{ザン};"[{""meaning"":""tersisa"",""reading"":""のこる"",""word"":""残る""}]";;{};Tulang dengan pisau;Bone with knife;106;2026-02-07 03:01:03.775832+00
+n4_107;殺;N4;10;membunuh;kill;{ころ.す};{サツ,サイ};"[{""meaning"":""membunuh"",""reading"":""ころす"",""word"":""殺す""}]";;{};Pohon dengan pisau;Tree with knife;107;2026-02-07 03:01:03.775832+00
+n4_108;母;N4;5;ibu;mother;{はは};{ボ};"[{""meaning"":""ibu"",""reading"":""おかあさん"",""word"":""お母さん""}]";;{};Payudara ibu;Mother breasts;108;2026-02-07 03:01:03.775832+00
+n4_109;毎;N4;6;setiap;every;{ごと};{マイ};"[{""meaning"":""setiap hari"",""reading"":""まいにち"",""word"":""毎日""}]";;{};Ibu dengan tanda;Mother with mark;109;2026-02-07 03:01:03.775832+00
+n4_110;比;N4;4;membandingkan;compare;{くら.べる};{ヒ};"[{""meaning"":""membandingkan"",""reading"":""くらべる"",""word"":""比べる""}]";;{};Dua orang berdampingan;Two people side by side;110;2026-02-07 03:01:03.775832+00
+n4_111;氏;N4;4;tuan, marga;Mr., clan;{うじ};{シ};"[{""meaning"":""nama lengkap"",""reading"":""しめい"",""word"":""氏名""}]";;{};Sendok miring;Tilted spoon;111;2026-02-07 03:01:03.775832+00
+n4_112;気;N4;6;semangat, udara;spirit, air;"{""""}";{キ,ケ};"[{""meaning"":""cuaca"",""reading"":""てんき"",""word"":""天気""}]";;{};Uap yang naik;Rising steam;112;2026-02-07 03:01:03.775832+00
+n4_113;水;N4;4;air;water;{みず};{スイ};"[{""meaning"":""air"",""reading"":""みず"",""word"":""水""}]";;{};Aliran air;Water flow;113;2026-02-07 03:01:03.775832+00
+n4_114;氷;N4;5;es;ice;{こおり};{ヒョウ};"[{""meaning"":""es"",""reading"":""こおり"",""word"":""氷""}]";;{};Air yang beku;Frozen water;114;2026-02-07 03:01:03.775832+00
+n4_115;決;N4;7;memutuskan;decide;{き.める};{ケツ};"[{""meaning"":""memutuskan"",""reading"":""きめる"",""word"":""決める""}]";;{};Air dengan pisau;Water with knife;115;2026-02-07 03:01:03.775832+00
+n4_116;注;N4;8;menuangkan;pour, note;{そそ.ぐ};{チュウ};"[{""meaning"":""perhatian"",""reading"":""ちゅうい"",""word"":""注意""}]";;{};Air dengan master;Water with master;116;2026-02-07 03:01:03.775832+00
+n4_117;洋;N4;9;samudra, barat;ocean, western;"{""""}";{ヨウ};"[{""meaning"":""pakaian barat"",""reading"":""ようふく"",""word"":""洋服""}]";;{};Air dengan domba;Water with sheep;117;2026-02-07 03:01:03.775832+00
+n4_118;届;N4;8;sampai;reach;{とど.く};"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Mencapai tujuan;Reaching goal;118;2026-02-07 03:01:03.775832+00
+n4_119;届;N4;8;menyampaikan;deliver;{とど.ける};"{""""}";"[{""meaning"":""mengantar"",""reading"":""とどける"",""word"":""届ける""}]";;{};Mengantar barang;Delivering goods;119;2026-02-07 03:01:03.775832+00
+n4_120;届;N4;8;laporan;report;"{""""}";"{""""}";"[{""meaning"":""laporan"",""reading"":""とどけ"",""word"":""届け""}]";;{};Laporan resmi;Official report;120;2026-02-07 03:01:03.775832+00
+n4_121;届;N4;8;tercapai;achieved;"{""""}";"{""""}";"[{""meaning"":""tercapai"",""reading"":""とどく"",""word"":""届く""}]";;{};Tujuan tercapai;Goal achieved;121;2026-02-07 03:01:03.775832+00
+n4_122;届;N4;8;terkirim;sent;"{""""}";"{""""}";"[{""meaning"":""terkirim"",""reading"":""とどく"",""word"":""届く""}]";;{};Pesan terkirim;Message sent;122;2026-02-07 03:01:03.775832+00
+n4_123;届;N4;8;tersampaikan;delivered;"{""""}";"{""""}";"[{""meaning"":""tersampaikan"",""reading"":""とどく"",""word"":""届く""}]";;{};Info tersampaikan;Info delivered;123;2026-02-07 03:01:03.775832+00
+n4_124;届;N4;8;kiriman;package;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Kiriman paket;Package delivery;124;2026-02-07 03:01:03.775832+00
+n4_125;届;N4;8;pengiriman;shipping;"{""""}";"{""""}";"[{""meaning"":""pengiriman"",""reading"":""とどけ"",""word"":""届け""}]";;{};Jasa pengiriman;Shipping service;125;2026-02-07 03:01:03.775832+00
+n3_051;際;N3;14;waktu, kesempatan;occasion, time;{きわ};{サイ};"[{""meaning"":""internasional"",""reading"":""こくさい"",""word"":""国際""}]";;{};Bukit dengan ritual;Hill with ritual;51;2026-02-07 03:01:03.775832+00
+n3_052;届;N3;8;sampai;reach;{とど.く};"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Mencapai tempat;Reaching place;52;2026-02-07 03:01:03.775832+00
+n3_053;届;N3;8;menyampaikan;deliver;{とど.ける};"{""""}";"[{""meaning"":""mengantar"",""reading"":""とどける"",""word"":""届ける""}]";;{};Mengantar pesan;Delivering message;53;2026-02-07 03:01:03.775832+00
+n3_054;届;N3;8;laporan;report;"{""""}";"{""""}";"[{""meaning"":""laporan"",""reading"":""とどけ"",""word"":""届け""}]";;{};Laporan tertulis;Written report;54;2026-02-07 03:01:03.775832+00
+n3_055;届;N3;8;tercapai;achieved;"{""""}";"{""""}";"[{""meaning"":""tercapai"",""reading"":""とどく"",""word"":""届く""}]";;{};Target tercapai;Target achieved;55;2026-02-07 03:01:03.775832+00
+n3_056;届;N3;8;terkirim;sent;"{""""}";"{""""}";"[{""meaning"":""terkirim"",""reading"":""とどく"",""word"":""届く""}]";;{};Email terkirim;Email sent;56;2026-02-07 03:01:03.775832+00
+n3_057;届;N3;8;tersampaikan;conveyed;"{""""}";"{""""}";"[{""meaning"":""tersampaikan"",""reading"":""とどく"",""word"":""届く""}]";;{};Pesan tersampaikan;Message conveyed;57;2026-02-07 03:01:03.775832+00
+n3_058;届;N3;8;kiriman;package;"{""""}";"{""""}";"[{""meaning"":""sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Kiriman barang;Package delivery;58;2026-02-07 03:01:03.775832+00
+n3_059;届;N3;8;pengiriman;delivery;"{""""}";"{""""}";"[{""meaning"":""pengiriman"",""reading"":""とどけ"",""word"":""届け""}]";;{};Jasa pengiriman;Delivery service;59;2026-02-07 03:01:03.775832+00
+n3_060;届;N3;8;notifikasi;notification;"{""""}";"{""""}";"[{""meaning"":""notifikasi"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Notifikasi baru;New notification;60;2026-02-07 03:01:03.775832+00
+n3_061;届;N3;8;pemberitahuan;notice;"{""""}";"{""""}";"[{""meaning"":""pemberitahuan"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Surat pemberitahuan;Notice letter;61;2026-02-07 03:01:03.775832+00
+n3_062;届;N3;8;registrasi;registration;"{""""}";"{""""}";"[{""meaning"":""registrasi"",""reading"":""とどけ"",""word"":""届け""}]";;{};Proses registrasi;Registration process;62;2026-02-07 03:01:03.775832+00
+n3_063;届;N3;8;formulir;form;"{""""}";"{""""}";"[{""meaning"":""formulir"",""reading"":""とどけ"",""word"":""届け""}]";;{};Mengisi formulir;Filling form;63;2026-02-07 03:01:03.775832+00
+n3_064;届;N3;8;dokumen;document;"{""""}";"{""""}";"[{""meaning"":""dokumen"",""reading"":""とどけ"",""word"":""届け""}]";;{};Dokumen resmi;Official document;64;2026-02-07 03:01:03.775832+00
+n3_065;届;N3;8;berkas;file;"{""""}";"{""""}";"[{""meaning"":""berkas"",""reading"":""とどけ"",""word"":""届け""}]";;{};Berkas lengkap;Complete file;65;2026-02-07 03:01:03.775832+00
+n3_066;届;N3;8;pengajuan;submission;"{""""}";"{""""}";"[{""meaning"":""pengajuan"",""reading"":""とどけで"",""word"":""届け出""}]";;{};Form pengajuan;Submission form;66;2026-02-07 03:01:03.775832+00
+n3_067;届;N3;8;permohonan;application;"{""""}";"{""""}";"[{""meaning"":""permohonan"",""reading"":""とどけ"",""word"":""届け""}]";;{};Surat permohonan;Application letter;67;2026-02-07 03:01:03.775832+00
+n3_068;届;N3;8;info;info;"{""""}";"{""""}";"[{""meaning"":""info sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Info penting;Important info;68;2026-02-07 03:01:03.775832+00
+n3_069;届;N3;8;kabar;news;"{""""}";"{""""}";"[{""meaning"":""kabar sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Kabar baik;Good news;69;2026-02-07 03:01:03.775832+00
+n3_070;届;N3;8;berita;news;"{""""}";"{""""}";"[{""meaning"":""berita sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Berita terkini;Current news;70;2026-02-07 03:01:03.775832+00
+n3_071;届;N3;8;pesan;message;"{""""}";"{""""}";"[{""meaning"":""pesan sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Pesan baru;New message;71;2026-02-07 03:01:03.775832+00
+n3_072;届;N3;8;surat;letter;"{""""}";"{""""}";"[{""meaning"":""surat"",""reading"":""とどけ"",""word"":""届け""}]";;{};Surat resmi;Official letter;72;2026-02-07 03:01:03.775832+00
+n3_073;届;N3;8;email;email;"{""""}";"{""""}";"[{""meaning"":""email sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Email baru;New email;73;2026-02-07 03:01:03.775832+00
+n3_074;届;N3;8;paket;package;"{""""}";"{""""}";"[{""meaning"":""paket sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Paket sampai;Package arrived;74;2026-02-07 03:01:03.775832+00
+n3_075;届;N3;8;barang;goods;"{""""}";"{""""}";"[{""meaning"":""barang sampai"",""reading"":""とどく"",""word"":""届く""}]";;{};Barang sampai;Goods arrived;75;2026-02-07 03:01:03.775832+00

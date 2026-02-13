@@ -1,0 +1,41 @@
+[
+  {
+    "id": "deck-n2-grammar",
+    "title_jp": "N2文法",
+    "title_id": "Tata Bahasa N2",
+    "description": "Pola tata bahasa penting untuk JLPT N2",
+    "category": "grammar",
+    "track": "jlpt_n2",
+    "card_count": 80,
+    "icon_name": "BookOpen",
+    "color": "#8B5CF6",
+    "order_index": 10,
+    "is_premium": false
+  },
+  {
+    "id": "deck-n2-vocab",
+    "title_jp": "N2語彙",
+    "title_id": "Kosakata N2",
+    "description": "Kosakata penting untuk JLPT N2",
+    "category": "vocabulary",
+    "track": "jlpt_n2",
+    "card_count": 80,
+    "icon_name": "Languages",
+    "color": "#EC4899",
+    "order_index": 11,
+    "is_premium": false
+  },
+  {
+    "id": "deck-n2-keigo",
+    "title_jp": "N2敬語",
+    "title_id": "Keigo N2",
+    "description": "Ungkapan keigo tingkat lanjut untuk JLPT N2",
+    "category": "keigo",
+    "track": "jlpt_n2",
+    "card_count": 80,
+    "icon_name": "GraduationCap",
+    "color": "#14B8A6",
+    "order_index": 12,
+    "is_premium": true
+  }
+]

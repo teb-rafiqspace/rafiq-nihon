@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e56442ee-3c13-4009-8e18-9ee0470fac29",
+    "track": "jlpt_n2",
+    "chapter_number": 1,
+    "title_jp": "上級文法パターン",
+    "title_id": "Pola Tata Bahasa Lanjutan",
+    "description": "",
+    "lesson_count": 5,
+    "is_free": true,
+    "sort_order": 1
+  },
+  {
+    "id": "0fc145f8-da02-4b31-8fba-e692c7d07aaa",
+    "track": "jlpt_n2",
+    "chapter_number": 2,
+    "title_jp": "書き言葉・硬い表現",
+    "title_id": "Ekspresi Formal & Tertulis",
+    "description": "",
+    "lesson_count": 4,
+    "is_free": false,
+    "sort_order": 2
+  },
+  {
+    "id": "b7775f4b-faa7-4f73-b936-df294038d2bf",
+    "track": "jlpt_n2",
+    "chapter_number": 3,
+    "title_jp": "複文構造",
+    "title_id": "Struktur Kalimat Kompleks",
+    "description": "",
+    "lesson_count": 5,
+    "is_free": false,
+    "sort_order": 3
+  },
+  {
+    "id": "b5a8b4b6-c76d-4293-893e-858354401cf3",
+    "track": "jlpt_n2",
+    "chapter_number": 4,
+    "title_jp": "上級敬語",
+    "title_id": "Keigo Tingkat Lanjut",
+    "description": "",
+    "lesson_count": 4,
+    "is_free": false,
+    "sort_order": 4
+  },
+  {
+    "id": "3b403076-383c-4541-9ac5-4555b859b1b6",
+    "track": "jlpt_n2",
+    "chapter_number": 5,
+    "title_jp": "読解ストラテジー",
+    "title_id": "Strategi Pemahaman Bacaan",
+    "description": "",
+    "lesson_count": 4,
+    "is_free": false,
+    "sort_order": 5
+  },
+  {
+    "id": "c0abd299-f7a1-4f5a-bb29-c5552e8b4402",
+    "track": "jlpt_n2",
+    "chapter_number": 6,
+    "title_jp": "ニュース・学術日本語",
+    "title_id": "Bahasa Jepang Berita & Akademik",
+    "description": "",
+    "lesson_count": 4,
+    "is_free": false,
+    "sort_order": 6
+  }
+]

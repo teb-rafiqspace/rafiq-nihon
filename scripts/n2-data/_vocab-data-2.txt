@@ -1,0 +1,243 @@
+# Chapter 2: 書き言葉・硬い表現 (Formal & Written Expressions)
+
+=== bd00617b-7bf0-4d6a-9ad0-1298c1aeef39 ===
+国際|こくさい|internasional|国際会議に出席する。|Menghadiri konferensi internasional.|noun
+会議|かいぎ|rapat; konferensi|会議を開く。|Mengadakan rapat.|noun
+分野|ぶんや|bidang|専門分野を研究する。|Meneliti bidang keahlian.|noun
+領域|りょういき|wilayah; ranah|新しい領域に挑む。|Menantang ranah baru.|noun
+場面|ばめん|situasi; adegan|場面に応じた対応。|Penanganan sesuai situasi.|noun
+時代|じだい|era; zaman|新しい時代を迎える。|Menyambut era baru.|noun
+社会|しゃかい|masyarakat|社会に貢献する。|Berkontribusi pada masyarakat.|noun
+制度|せいど|sistem; peraturan|制度を改革する。|Mereformasi sistem.|noun
+政策|せいさく|kebijakan|政策を実施する。|Melaksanakan kebijakan.|noun
+経済|けいざい|ekonomi|経済が発展する。|Ekonomi berkembang.|noun
+産業|さんぎょう|industri|産業が発達する。|Industri berkembang.|noun
+文化|ぶんか|budaya|文化を尊重する。|Menghormati budaya.|noun
+教育|きょういく|pendidikan|教育の質を向上させる。|Meningkatkan kualitas pendidikan.|noun
+歴史|れきし|sejarah|歴史的な出来事だ。|Peristiwa bersejarah.|noun
+福祉|ふくし|kesejahteraan|福祉制度を整える。|Menyiapkan sistem kesejahteraan.|noun
+地域|ちいき|daerah; wilayah|地域の活性化を図る。|Merencanakan revitalisasi daerah.|noun
+機関|きかん|lembaga; institusi|研究機関で働く。|Bekerja di lembaga penelitian.|noun
+組織|そしき|organisasi|組織を改編する。|Merestrukturisasi organisasi.|noun
+行政|ぎょうせい|pemerintahan|行政サービスを提供する。|Menyediakan layanan pemerintahan.|noun
+法的|ほうてき|hukum; legal|法的な手続きを踏む。|Menempuh prosedur hukum.|na_adjective
+公的|こうてき|publik; resmi|公的な機関に相談する。|Berkonsultasi dengan lembaga resmi.|na_adjective
+民間|みんかん|swasta|民間企業に就職する。|Bekerja di perusahaan swasta.|noun
+当局|とうきょく|pihak berwenang|当局が調査する。|Pihak berwenang menyelidiki.|noun
+施策|しさく|langkah kebijakan|新しい施策を導入する。|Memperkenalkan kebijakan baru.|noun
+方針|ほうしん|kebijakan; arahan|方針を決定する。|Menentukan arahan.|noun
+展開|てんかい|pengembangan|事業を展開する。|Mengembangkan usaha.|noun
+推進|すいしん|promosi; dorongan|計画を推進する。|Mendorong rencana.|noun
+実施|じっし|pelaksanaan|計画を実施する。|Melaksanakan rencana.|noun
+導入|どうにゅう|pengenalan; adopsi|新制度を導入する。|Mengadopsi sistem baru.|noun
+構築|こうちく|pembangunan|システムを構築する。|Membangun sistem.|noun
+維持|いじ|pemeliharaan|品質を維持する。|Memelihara kualitas.|noun
+課題|かだい|masalah; tugas|課題を解決する。|Menyelesaikan masalah.|noun
+取り組む|とりくむ|menangani|問題に取り組む。|Menangani masalah.|verb
+位置づける|いちづける|memposisikan|重要な役割に位置づける。|Memposisikan sebagai peran penting.|verb
+携わる|たずさわる|terlibat dalam|研究に携わる。|Terlibat dalam penelitian.|verb
+担う|になう|memikul; bertanggung jawab|重要な役割を担う。|Memikul peran penting.|verb
+果たす|はたす|memenuhi; menjalankan|役割を果たす。|Menjalankan peran.|verb
+貢献|こうけん|kontribusi|社会に貢献する。|Berkontribusi pada masyarakat.|noun
+
+=== a6af9976-643f-4b6b-9ff9-09ebb6622d26 ===
+関する|かんする|mengenai; tentang|環境に関する問題だ。|Masalah mengenai lingkungan.|verb
+対する|たいする|terhadap|批判に対する反論だ。|Sanggahan terhadap kritik.|verb
+問題|もんだい|masalah|問題を提起する。|Mengangkat masalah.|noun
+意見|いけん|pendapat|意見を述べる。|Menyampaikan pendapat.|noun
+態度|たいど|sikap|態度を改める。|Memperbaiki sikap.|noun
+批判|ひはん|kritik|批判を受ける。|Menerima kritik.|noun
+支持|しじ|dukungan|支持を得る。|Mendapat dukungan.|noun
+反対|はんたい|penolakan; lawan|反対意見を聞く。|Mendengar pendapat yang menentang.|noun
+賛成|さんせい|persetujuan|賛成多数で可決された。|Disetujui dengan suara terbanyak.|noun
+主張|しゅちょう|pendapat; klaim|主張を貫く。|Mempertahankan pendapat.|noun
+見解|けんかい|pandangan|見解を示す。|Menunjukkan pandangan.|noun
+立場|たちば|posisi; sudut pandang|立場を明確にする。|Memperjelas posisi.|noun
+観点|かんてん|sudut pandang|別の観点から考える。|Berpikir dari sudut pandang lain.|noun
+視点|してん|titik pandang|新しい視点を持つ。|Memiliki titik pandang baru.|noun
+方向|ほうこう|arah|方向性を示す。|Menunjukkan arah.|noun
+傾く|かたむく|condong; cenderung|保守的に傾く。|Cenderung konservatif.|verb
+指摘|してき|penunjukan; catatan|問題点を指摘する。|Menunjukkan masalah.|noun
+提案|ていあん|usulan|提案を受け入れる。|Menerima usulan.|noun
+要望|ようぼう|permintaan; harapan|要望に応える。|Memenuhi harapan.|noun
+苦情|くじょう|keluhan|苦情を申し立てる。|Mengajukan keluhan.|noun
+抗議|こうぎ|protes|抗議活動を行う。|Melakukan aksi protes.|noun
+議論|ぎろん|diskusi; debat|議論を重ねる。|Berdiskusi berulang kali.|noun
+検討|けんとう|pertimbangan|検討を加える。|Menambah pertimbangan.|noun
+協議|きょうぎ|musyawarah|関係者と協議する。|Bermusyawarah dengan pihak terkait.|noun
+交渉|こうしょう|negosiasi|交渉を進める。|Melanjutkan negosiasi.|noun
+合意|ごうい|kesepakatan|合意に達する。|Mencapai kesepakatan.|noun
+妥当|だとう|wajar; tepat|妥当な判断だ。|Keputusan yang wajar.|na_adjective
+適当|てきとう|sesuai; sembarangan|適当な方法を選ぶ。|Memilih cara yang sesuai.|na_adjective
+不当|ふとう|tidak adil|不当な扱いを受ける。|Menerima perlakuan tidak adil.|na_adjective
+正当|せいとう|sah; adil|正当な理由がある。|Ada alasan yang sah.|na_adjective
+異議|いぎ|keberatan|異議を唱える。|Mengajukan keberatan.|noun
+論争|ろんそう|kontroversi|論争を引き起こす。|Menimbulkan kontroversi.|noun
+摩擦|まさつ|gesekan; friksi|貿易摩擦が起きる。|Terjadi gesekan perdagangan.|noun
+譲歩|じょうほ|konsesi|譲歩する姿勢を見せる。|Menunjukkan sikap mengalah.|noun
+是正|ぜせい|koreksi; perbaikan|不公平を是正する。|Mengoreksi ketidakadilan.|noun
+訴える|うったえる|menggugat; mengadu|不満を訴える。|Mengadukan ketidakpuasan.|verb
+唱える|となえる|mengemukakan|改革を唱える。|Mengemukakan reformasi.|verb
+促す|うながす|mendorong; mendesak|参加を促す。|Mendorong partisipasi.|verb
+
+=== 1724f04c-2c5e-434c-b0a4-21836ac8ed15 ===
+役割|やくわり|peran|役割を果たす。|Menjalankan peran.|noun
+立場|たちば|posisi|責任ある立場にいる。|Berada di posisi bertanggung jawab.|noun
+教師|きょうし|guru|教師として働く。|Bekerja sebagai guru.|noun
+責任|せきにん|tanggung jawab|責任を取る。|Bertanggung jawab.|noun
+法律|ほうりつ|hukum; undang-undang|法律を守る。|Mematuhi hukum.|noun
+義務|ぎむ|kewajiban|義務を果たす。|Memenuhi kewajiban.|noun
+権利|けんり|hak|権利を主張する。|Menuntut hak.|noun
+資格|しかく|kualifikasi|資格を取得する。|Mendapatkan kualifikasi.|noun
+専門|せんもん|keahlian; spesialisasi|専門的な知識が必要だ。|Diperlukan pengetahuan spesialis.|noun
+経営|けいえい|manajemen|会社を経営する。|Mengelola perusahaan.|noun
+運営|うんえい|pengelolaan|イベントを運営する。|Mengelola acara.|noun
+管理|かんり|pengelolaan; kontrol|品質を管理する。|Mengontrol kualitas.|noun
+規則|きそく|peraturan|規則を守る。|Mematuhi peraturan.|noun
+規定|きてい|ketentuan|規定に従う。|Mengikuti ketentuan.|noun
+規制|きせい|regulasi|規制を強化する。|Memperkuat regulasi.|noun
+事実上|じじつじょう|secara de facto|事実上の標準だ。|Standar secara de facto.|adverb
+表面上|ひょうめんじょう|secara kasat mata|表面上は問題ない。|Secara kasat mata tidak ada masalah.|adverb
+形式上|けいしきじょう|secara formalitas|形式上は問題ない。|Secara formalitas tidak ada masalah.|adverb
+制限|せいげん|batasan; pembatasan|制限を設ける。|Menetapkan batasan.|noun
+禁止|きんし|larangan|使用を禁止する。|Melarang penggunaan.|noun
+許可|きょか|izin|許可を得る。|Mendapat izin.|noun
+承認|しょうにん|persetujuan resmi|計画を承認する。|Menyetujui rencana secara resmi.|noun
+認定|にんてい|sertifikasi; pengakuan|資格を認定する。|Mensertifikasi kualifikasi.|noun
+指定|してい|penunjukan|場所を指定する。|Menunjuk tempat.|noun
+任命|にんめい|penunjukan jabatan|委員長に任命される。|Ditunjuk sebagai ketua komite.|noun
+採用|さいよう|rekrutmen; adopsi|新制度を採用する。|Mengadopsi sistem baru.|noun
+適用|てきよう|penerapan|法律を適用する。|Menerapkan hukum.|noun
+免除|めんじょ|pembebasan|税金を免除する。|Membebaskan pajak.|noun
+履行|りこう|pelaksanaan|契約を履行する。|Melaksanakan kontrak.|noun
+違反|いはん|pelanggaran|規則に違反する。|Melanggar peraturan.|noun
+遵守|じゅんしゅ|kepatuhan|法令を遵守する。|Mematuhi peraturan perundangan.|noun
+撤廃|てっぱい|penghapusan|制度を撤廃する。|Menghapus sistem.|noun
+施行|しこう|pemberlakuan|法律が施行される。|Undang-undang diberlakukan.|noun
+制定|せいてい|penetapan|法律を制定する。|Menetapkan undang-undang.|noun
+改正|かいせい|amandemen; revisi|法律を改正する。|Merevisi undang-undang.|noun
+廃止|はいし|penghapusan|制度を廃止する。|Menghapus sistem.|noun
+策定|さくてい|perumusan|計画を策定する。|Merumuskan rencana.|noun
+妥結|だけつ|penyelesaian|交渉が妥結する。|Negosiasi mencapai penyelesaian.|noun
+
+=== d6c089ec-806e-4437-b77e-93f598004013 ===
+通じる|つうじる|melalui; mengerti|電話が通じる。|Telepon tersambung.|verb
+活動|かつどう|kegiatan; aktivitas|ボランティア活動をする。|Melakukan kegiatan sukarela.|noun
+交流|こうりゅう|pertukaran; interaksi|国際交流を深める。|Memperdalam pertukaran internasional.|noun
+手段|しゅだん|cara; sarana|手段を選ぶ。|Memilih cara.|noun
+代表|だいひょう|perwakilan|日本を代表する企業だ。|Perusahaan yang mewakili Jepang.|noun
+首都|しゅと|ibu kota|首都に住む。|Tinggal di ibu kota.|noun
+拠点|きょてん|basis; pusat|拠点を設ける。|Menyediakan basis.|noun
+媒体|ばいたい|media|情報の媒体として使う。|Digunakan sebagai media informasi.|noun
+中継|ちゅうけい|siaran langsung|試合を中継する。|Menyiarkan pertandingan secara langsung.|noun
+仲介|ちゅうかい|perantara|取引を仲介する。|Menjadi perantara transaksi.|noun
+連携|れんけい|kerja sama|他社と連携する。|Bekerja sama dengan perusahaan lain.|noun
+提携|ていけい|kemitraan|業務提携を結ぶ。|Menjalin kemitraan usaha.|noun
+窓口|まどぐち|loket; pintu layanan|窓口で申し込む。|Mendaftar di loket.|noun
+経路|けいろ|jalur; rute|配送経路を確認する。|Mengonfirmasi jalur pengiriman.|noun
+経由|けいゆ|melalui; via|大阪経由で東京に行く。|Pergi ke Tokyo via Osaka.|noun
+仲立ち|なかだち|perantara|両者の仲立ちをする。|Menjadi perantara kedua pihak.|noun
+媒介|ばいかい|perantara; penghubung|文化の媒介となる。|Menjadi penghubung budaya.|noun
+先駆者|せんくしゃ|pelopor|分野の先駆者だ。|Pelopor di bidang ini.|noun
+先頭|せんとう|terdepan|先頭に立つ。|Berdiri di garis depan.|noun
+筆頭|ひっとう|yang utama; teratas|筆頭著者だ。|Penulis utama.|noun
+伝達|でんたつ|penyampaian|情報を伝達する。|Menyampaikan informasi.|noun
+発信|はっしん|pengiriman; penyebaran|情報を発信する。|Menyebarkan informasi.|noun
+受信|じゅしん|penerimaan|メールを受信する。|Menerima email.|noun
+配信|はいしん|distribusi; streaming|動画を配信する。|Mendistribusikan video.|noun
+中枢|ちゅうすう|pusat; inti|経済の中枢を担う。|Memikul inti ekonomi.|noun
+拡散|かくさん|penyebaran|情報が拡散する。|Informasi menyebar.|noun
+普及|ふきゅう|penyebaran luas|技術が普及する。|Teknologi menyebar luas.|noun
+浸透|しんとう|perembesan|文化が浸透する。|Budaya meresap.|noun
+伝承|でんしょう|tradisi turun-temurun|文化を伝承する。|Mewariskan budaya.|noun
+継承|けいしょう|pewarisan|伝統を継承する。|Mewarisi tradisi.|noun
+発祥|はっしょう|asal mula|文化の発祥地だ。|Tempat asal mula budaya.|noun
+起源|きげん|asal usul|言葉の起源を調べる。|Meneliti asal usul kata.|noun
+由来|ゆらい|asal; riwayat|名前の由来を知る。|Mengetahui asal nama.|noun
+踏襲|とうしゅう|mengikuti kebiasaan lama|前例を踏襲する。|Mengikuti contoh sebelumnya.|noun
+刷新|さっしん|pembaruan|組織を刷新する。|Memperbarui organisasi.|noun
+一環|いっかん|bagian dari|計画の一環として。|Sebagai bagian dari rencana.|noun
+契機|けいき|momentum; pemicu|これを契機に改善する。|Memperbaiki dengan momentum ini.|noun
+端緒|たんしょ|awal mula; titik awal|研究の端緒を開く。|Membuka titik awal penelitian.|noun
+
+# Chapter 3: 複文構造 (Complex Sentence Structures)
+
+=== 4f6bf835-c4b3-4df0-bba7-92ec2070a2b8 ===
+購入|こうにゅう|pembelian|商品を購入する。|Membeli barang.|noun
+予想|よそう|perkiraan|予想を上回る結果だ。|Hasil yang melampaui perkiraan.|noun
+期待|きたい|harapan|期待に応える。|Memenuhi harapan.|noun
+実際|じっさい|kenyataan|実際には違った。|Kenyataannya berbeda.|noun
+現実|げんじつ|realitas|現実を受け入れる。|Menerima realitas.|noun
+予定|よてい|rencana; jadwal|予定通りに進む。|Berjalan sesuai rencana.|noun
+想定|そうてい|asumsi|想定外の事態だ。|Situasi di luar asumsi.|noun
+見込み|みこみ|prospek; perkiraan|見込みが甘かった。|Perkiraannya terlalu optimis.|noun
+思惑|おもわく|niat; harapan|思惑通りにいかない。|Tidak berjalan sesuai harapan.|noun
+計画|けいかく|rencana|計画を立てる。|Membuat rencana.|noun
+実行|じっこう|pelaksanaan|計画を実行する。|Melaksanakan rencana.|noun
+達成|たっせい|pencapaian|目標を達成する。|Mencapai target.|noun
+失敗|しっぱい|kegagalan|失敗から学ぶ。|Belajar dari kegagalan.|noun
+成功|せいこう|keberhasilan|事業が成功する。|Usaha berhasil.|noun
+挫折|ざせつ|patah semangat|挫折を経験する。|Mengalami patah semangat.|noun
+努力|どりょく|usaha|努力が実を結ぶ。|Usaha membuahkan hasil.|noun
+苦労|くろう|kesulitan; jerih payah|苦労が報われる。|Jerih payah terbayar.|noun
+奮闘|ふんとう|perjuangan keras|奮闘する姿に感動した。|Terkesan dengan perjuangannya.|noun
+試行錯誤|しこうさくご|coba-coba|試行錯誤を繰り返す。|Mencoba berulang kali.|noun
+葛藤|かっとう|konflik batin|内面の葛藤がある。|Ada konflik batin.|noun
+懸念|けねん|kekhawatiran|懸念を表明する。|Menyatakan kekhawatiran.|noun
+不安|ふあん|kecemasan|不安を感じる。|Merasa cemas.|noun
+疑問|ぎもん|pertanyaan; keraguan|疑問を抱く。|Merasa ragu.|noun
+信頼|しんらい|kepercayaan|信頼を得る。|Mendapat kepercayaan.|noun
+納得|なっとく|pemahaman; penerimaan|納得できる説明だ。|Penjelasan yang bisa diterima.|noun
+妥当|だとう|wajar|妥当な判断だと思う。|Saya rasa keputusan yang wajar.|na_adjective
+皮肉|ひにく|ironi; sarkasme|皮肉な結果になった。|Hasilnya ironis.|noun
+意外|いがい|di luar dugaan|意外な結果だった。|Hasil yang di luar dugaan.|na_adjective
+案外|あんがい|ternyata|案外うまくいった。|Ternyata berhasil.|adverb
+やむを得ない|やむをえない|tidak bisa dihindari|やむを得ない事情がある。|Ada keadaan yang tidak bisa dihindari.|expression
+惜しい|おしい|sayang|惜しい結果だった。|Hasil yang disayangkan.|i_adjective
+残念|ざんねん|disayangkan|残念ながら不合格だ。|Sayangnya tidak lulus.|na_adjective
+満足|まんぞく|kepuasan|結果に満足する。|Puas dengan hasilnya.|noun
+不満|ふまん|ketidakpuasan|不満を抱える。|Memendam ketidakpuasan.|noun
+妥協|だきょう|kompromi|妥協を許さない。|Tidak mengizinkan kompromi.|noun
+断念|だんねん|mengurungkan niat|計画を断念する。|Mengurungkan rencana.|noun
+諦める|あきらめる|menyerah|夢を諦めない。|Tidak menyerah pada mimpi.|verb
+見直す|みなおす|meninjau ulang|計画を見直す。|Meninjau ulang rencana.|verb
+
+=== b87623ff-62ec-4507-a834-7f1d734075cf ===
+余裕|よゆう|kelonggaran; kelapangan|時間の余裕がない。|Tidak ada kelonggaran waktu.|noun
+基本|きほん|dasar; fundamental|基本を学ぶ。|Mempelajari dasar.|noun
+応用|おうよう|penerapan; aplikasi|応用力がある。|Memiliki kemampuan aplikasi.|noun
+初歩|しょほ|tingkat dasar|初歩的なミスだ。|Kesalahan tingkat dasar.|noun
+上級|じょうきゅう|tingkat lanjut|上級者向けの教材だ。|Bahan ajar untuk tingkat lanjut.|noun
+中級|ちゅうきゅう|tingkat menengah|中級レベルだ。|Level menengah.|noun
+初級|しょきゅう|tingkat pemula|初級から始める。|Mulai dari tingkat pemula.|noun
+高度|こうど|tingkat tinggi; canggih|高度な技術が必要だ。|Diperlukan teknologi canggih.|na_adjective
+単純|たんじゅん|sederhana|単純な作業だ。|Pekerjaan sederhana.|na_adjective
+些細|ささい|sepele|些細なことで怒る。|Marah karena hal sepele.|na_adjective
+膨大|ぼうだい|sangat besar|膨大なデータを分析する。|Menganalisis data yang sangat besar.|na_adjective
+莫大|ばくだい|sangat besar (jumlah)|莫大な費用がかかる。|Memakan biaya sangat besar.|na_adjective
+微妙|びみょう|halus; ambigu|微妙な違いがある。|Ada perbedaan yang halus.|na_adjective
+顕著|けんちょ|nyata; menonjol|顕著な成果を上げる。|Menghasilkan prestasi yang nyata.|na_adjective
+著しい|いちじるしい|mencolok; drastis|著しい進歩を遂げる。|Mencapai kemajuan yang mencolok.|i_adjective
+わずか|わずか|sedikit; hanya|わずかな差で負けた。|Kalah dengan selisih sedikit.|na_adjective
+大幅|おおはば|besar; signifikan|大幅に改善された。|Diperbaiki secara signifikan.|na_adjective
+多大|ただい|sangat banyak|多大な影響を与える。|Memberikan pengaruh sangat besar.|na_adjective
+過大|かだい|berlebihan|過大評価する。|Menilai berlebihan.|na_adjective
+過小|かしょう|terlalu kecil|過小評価する。|Menilai terlalu rendah.|na_adjective
+最低限|さいていげん|paling minimum|最低限の条件だ。|Syarat paling minimum.|noun
+最大限|さいだいげん|paling maksimal|最大限に活用する。|Memanfaatkan secara maksimal.|noun
+前代未聞|ぜんだいみもん|belum pernah terjadi|前代未聞の事件だ。|Insiden yang belum pernah terjadi.|noun
+前例|ぜんれい|preseden|前例のないことだ。|Hal yang belum ada presedennya.|noun
+先例|せんれい|contoh terdahulu|先例に従う。|Mengikuti contoh terdahulu.|noun
+典型|てんけい|contoh tipikal|典型的なパターンだ。|Pola yang tipikal.|noun
+模範|もはん|teladan|模範的な行動だ。|Tindakan yang menjadi teladan.|noun
+象徴|しょうちょう|simbol; lambang|平和の象徴だ。|Simbol perdamaian.|noun
+抽象的|ちゅうしょうてき|abstrak|抽象的な概念だ。|Konsep yang abstrak.|na_adjective
+具体的|ぐたいてき|konkret|具体的な計画を立てる。|Membuat rencana yang konkret.|na_adjective
+端的|たんてき|langsung; tegas|端的に言えば失敗だ。|Secara langsung, ini gagal.|na_adjective
+率直|そっちょく|jujur; terus terang|率直な意見を述べる。|Menyampaikan pendapat terus terang.|na_adjective
+曖昧|あいまい|ambigu; tidak jelas|曖昧な表現を避ける。|Menghindari ekspresi ambigu.|na_adjective
+明確|めいかく|jelas; tegas|明確な目標を設定する。|Menetapkan target yang jelas.|na_adjective
+的確|てきかく|tepat; akurat|的確なアドバイスだ。|Saran yang tepat.|na_adjective
+厳密|げんみつ|ketat; teliti|厳密に言えば違う。|Secara ketat, ini berbeda.|na_adjective
+大雑把|おおざっぱ|kasar; kurang detail|大雑把な計算だ。|Perhitungan yang kasar.|na_adjective
+概ね|おおむね|secara umum; kurang lebih|概ね順調だ。|Secara umum berjalan lancar.|adverb

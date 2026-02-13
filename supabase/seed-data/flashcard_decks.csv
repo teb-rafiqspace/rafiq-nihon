@@ -1,0 +1,13 @@
+id;title_jp;title_id;description;category;track;card_count;icon_name;color;order_index;is_premium;created_at
+deck-hiragana;ひらがな;Hiragana Dasar;46 huruf hiragana dasar untuk pemula;hiragana;jlpt_n5;46;Type;#EF4444;1;false;2026-01-22 15:03:33.553992+00
+deck-katakana;カタカナ;Katakana Dasar;46 huruf katakana dasar untuk kata serapan;katakana;jlpt_n5;46;Type;#3B82F6;2;false;2026-01-22 15:03:33.553992+00
+deck-vocab-daily;にちじょう;Kosakata Sehari-hari;Kata-kata yang sering digunakan dalam kehidupan sehari-hari;vocabulary;jlpt_n5;30;Sun;#F59E0B;3;false;2026-01-22 15:03:33.553992+00
+deck-vocab-work;しごと;Kosakata Tempat Kerja;Kata-kata penting untuk peserta magang di tempat kerja;vocabulary;kemnaker;25;Briefcase;#10B981;4;false;2026-01-22 15:03:33.553992+00
+deck-grammar;ぶんぽう;Pola Tata Bahasa N5;Pola kalimat dasar untuk JLPT N5;grammar;jlpt_n5;20;BookOpen;#8B5CF6;5;false;2026-01-22 15:03:33.553992+00
+deck-numbers;すうじ;Angka & Satuan Hitung;Angka dan berbagai satuan hitung dalam bahasa Jepang;vocabulary;jlpt_n5;25;Hash;#EC4899;6;false;2026-01-22 15:03:33.553992+00
+deck-n4-vocab-1;N4語彙 基礎;Kosakata N4 Dasar;Kosakata dasar level N4 untuk kehidupan sehari-hari;vocabulary;jlpt_n4;30;BookOpen;#8B5CF6;20;false;2026-02-06 13:19:10.404934+00
+deck-n4-vocab-2;N4語彙 動詞;Kata Kerja N4;Kata kerja penting level N4;vocabulary;jlpt_n4;25;Zap;#F59E0B;21;false;2026-02-06 13:19:10.404934+00
+deck-n4-vocab-3;N4語彙 形容詞;Kata Sifat N4;Kata sifat level N4;vocabulary;jlpt_n4;20;Palette;#EC4899;22;false;2026-02-06 13:19:10.404934+00
+deck-n3-vocab-1;N3語彙 基礎;Kosakata N3 Dasar;Kosakata dasar level N3;vocabulary;jlpt_n3;30;Library;#3B82F6;30;false;2026-02-06 13:19:10.404934+00
+deck-n3-vocab-2;N3語彙 動詞;Kata Kerja N3;Kata kerja penting level N3;vocabulary;jlpt_n3;25;Activity;#10B981;31;false;2026-02-06 13:19:10.404934+00
+deck-n3-vocab-3;N3語彙 ビジネス;Kosakata Bisnis N3;Kosakata bisnis level N3;vocabulary;jlpt_n3;25;Briefcase;#6366F1;32;false;2026-02-06 13:19:10.404934+00

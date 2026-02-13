@@ -1,0 +1,15 @@
+id;challenge_date;quiz_set_ids;bonus_xp;created_at
+538cb0a2-9f4e-4bad-9e00-f276643e86b4;2025-02-06;{pqs-n4-potential,pqs-n4-vocab,pqs-n3-compound};75;2026-02-06 13:22:13.93491+00
+df405d60-edb7-400d-b68a-9638a32566a3;2025-02-07;{pqs-n4-volitional,pqs-n3-keigo,pqs-n4-conditional};75;2026-02-06 13:22:13.93491+00
+35f1bbf0-1557-47a6-8dd4-4d75dff1845c;2025-02-08;{pqs-n4-passive,pqs-n3-vocab,pqs-n3-patterns};75;2026-02-06 13:22:13.93491+00
+f4af8e04-080e-4f33-b1b9-b8304e125892;2025-02-09;{pqs-n4-causative,pqs-n4-keigo,pqs-n3-business};75;2026-02-06 13:22:13.93491+00
+79b2787f-64ce-4df6-9f2c-a909dd221c83;2025-02-10;{pqs-n4-teform,pqs-n3-reading,pqs-n4-vocab};75;2026-02-06 13:22:13.93491+00
+12a38da4-c811-4696-a550-b593229d4ba8;2025-02-11;{pqs-n4-potential,pqs-n3-compound,pqs-n3-keigo};75;2026-02-06 13:22:13.93491+00
+498d3ca2-ebd4-451e-a13e-ff9d80193573;2025-02-12;{pqs-n4-conditional,pqs-n3-patterns,pqs-n4-passive};75;2026-02-06 13:22:13.93491+00
+f236e298-36b3-412d-bd69-0bfc4fa0ece8;2025-02-13;{pqs-n3-vocab,pqs-n4-volitional,pqs-n3-business};80;2026-02-06 13:22:13.93491+00
+3db602c3-3802-4e39-83cc-7637a82b06d6;2025-02-14;{pqs-n4-causative,pqs-n3-reading,pqs-n4-teform};80;2026-02-06 13:22:13.93491+00
+4a5eed5b-9f95-4b21-96fe-5e6c4d0341a5;2025-02-15;{pqs-n4-keigo,pqs-n3-compound,pqs-n4-vocab};80;2026-02-06 13:22:13.93491+00
+413db688-d924-422f-b346-8de6e80dfd67;2025-02-16;{pqs-n3-keigo,pqs-n4-potential,pqs-n3-patterns};80;2026-02-06 13:22:13.93491+00
+0ab30786-7989-433c-b963-f79faf3d2df3;2025-02-17;{pqs-n4-passive,pqs-n3-vocab,pqs-n4-conditional};80;2026-02-06 13:22:13.93491+00
+8911e7a0-ddd6-4d2f-b84f-8ac4658cbb32;2025-02-18;{pqs-n3-business,pqs-n4-volitional,pqs-n3-reading};80;2026-02-06 13:22:13.93491+00
+ce819223-dc5c-43f3-9339-137f10ac975a;2025-02-19;{pqs-n4-teform,pqs-n3-compound,pqs-n4-causative};80;2026-02-06 13:22:13.93491+00

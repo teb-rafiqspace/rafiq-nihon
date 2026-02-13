@@ -1,0 +1,348 @@
+id;deck_id;front_text;front_subtext;front_image_url;back_text;back_subtext;back_reading;back_example;audio_url;tags;difficulty;order_index;created_at
+fc-hira-001;deck-hiragana;あ;Hiragana;;A;Vokal;a;;;{vowel,basic};1;1;2026-01-22 15:03:48.51809+00
+fc-hira-002;deck-hiragana;い;Hiragana;;I;Vokal;i;;;{vowel,basic};1;2;2026-01-22 15:03:48.51809+00
+fc-hira-003;deck-hiragana;う;Hiragana;;U;Vokal;u;;;{vowel,basic};1;3;2026-01-22 15:03:48.51809+00
+fc-hira-004;deck-hiragana;え;Hiragana;;E;Vokal;e;;;{vowel,basic};1;4;2026-01-22 15:03:48.51809+00
+fc-hira-005;deck-hiragana;お;Hiragana;;O;Vokal;o;;;{vowel,basic};1;5;2026-01-22 15:03:48.51809+00
+fc-hira-006;deck-hiragana;か;Hiragana;;KA;K-row;ka;;;{k-row,basic};1;6;2026-01-22 15:03:48.51809+00
+fc-hira-007;deck-hiragana;き;Hiragana;;KI;K-row;ki;;;{k-row,basic};1;7;2026-01-22 15:03:48.51809+00
+fc-hira-008;deck-hiragana;く;Hiragana;;KU;K-row;ku;;;{k-row,basic};1;8;2026-01-22 15:03:48.51809+00
+fc-hira-009;deck-hiragana;け;Hiragana;;KE;K-row;ke;;;{k-row,basic};1;9;2026-01-22 15:03:48.51809+00
+fc-hira-010;deck-hiragana;こ;Hiragana;;KO;K-row;ko;;;{k-row,basic};1;10;2026-01-22 15:03:48.51809+00
+fc-hira-011;deck-hiragana;さ;Hiragana;;SA;S-row;sa;;;{s-row,basic};1;11;2026-01-22 15:03:48.51809+00
+fc-hira-012;deck-hiragana;し;Hiragana;;SHI;S-row (⚠️ bukan SI);shi;;;{s-row,exception};2;12;2026-01-22 15:03:48.51809+00
+fc-hira-013;deck-hiragana;す;Hiragana;;SU;S-row;su;;;{s-row,basic};1;13;2026-01-22 15:03:48.51809+00
+fc-hira-014;deck-hiragana;せ;Hiragana;;SE;S-row;se;;;{s-row,basic};1;14;2026-01-22 15:03:48.51809+00
+fc-hira-015;deck-hiragana;そ;Hiragana;;SO;S-row;so;;;{s-row,basic};1;15;2026-01-22 15:03:48.51809+00
+fc-hira-016;deck-hiragana;た;Hiragana;;TA;T-row;ta;;;{t-row,basic};1;16;2026-01-22 15:03:48.51809+00
+fc-hira-017;deck-hiragana;ち;Hiragana;;CHI;T-row (⚠️ bukan TI);chi;;;{t-row,exception};2;17;2026-01-22 15:03:48.51809+00
+fc-hira-018;deck-hiragana;つ;Hiragana;;TSU;T-row (⚠️ bukan TU);tsu;;;{t-row,exception};2;18;2026-01-22 15:03:48.51809+00
+fc-hira-019;deck-hiragana;て;Hiragana;;TE;T-row;te;;;{t-row,basic};1;19;2026-01-22 15:03:48.51809+00
+fc-hira-020;deck-hiragana;と;Hiragana;;TO;T-row;to;;;{t-row,basic};1;20;2026-01-22 15:03:48.51809+00
+fc-hira-021;deck-hiragana;な;Hiragana;;NA;N-row;na;;;{n-row,basic};1;21;2026-01-22 15:03:48.51809+00
+fc-hira-022;deck-hiragana;に;Hiragana;;NI;N-row;ni;;;{n-row,basic};1;22;2026-01-22 15:03:48.51809+00
+fc-hira-023;deck-hiragana;ぬ;Hiragana;;NU;N-row;nu;;;{n-row,basic};1;23;2026-01-22 15:03:48.51809+00
+fc-hira-024;deck-hiragana;ね;Hiragana;;NE;N-row;ne;;;{n-row,basic};1;24;2026-01-22 15:03:56.169052+00
+fc-hira-025;deck-hiragana;の;Hiragana;;NO;N-row;no;;;{n-row,basic};1;25;2026-01-22 15:03:56.169052+00
+fc-hira-026;deck-hiragana;は;Hiragana;;HA;H-row (⚠️ WA sebagai partikel);ha;;;{h-row,exception};2;26;2026-01-22 15:03:56.169052+00
+fc-hira-027;deck-hiragana;ひ;Hiragana;;HI;H-row;hi;;;{h-row,basic};1;27;2026-01-22 15:03:56.169052+00
+fc-hira-028;deck-hiragana;ふ;Hiragana;;FU;H-row (⚠️ bukan HU);fu;;;{h-row,exception};2;28;2026-01-22 15:03:56.169052+00
+fc-hira-029;deck-hiragana;へ;Hiragana;;HE;H-row (⚠️ E sebagai partikel);he;;;{h-row,exception};2;29;2026-01-22 15:03:56.169052+00
+fc-hira-030;deck-hiragana;ほ;Hiragana;;HO;H-row;ho;;;{h-row,basic};1;30;2026-01-22 15:03:56.169052+00
+fc-hira-031;deck-hiragana;ま;Hiragana;;MA;M-row;ma;;;{m-row,basic};1;31;2026-01-22 15:03:56.169052+00
+fc-hira-032;deck-hiragana;み;Hiragana;;MI;M-row;mi;;;{m-row,basic};1;32;2026-01-22 15:03:56.169052+00
+fc-hira-033;deck-hiragana;む;Hiragana;;MU;M-row;mu;;;{m-row,basic};1;33;2026-01-22 15:03:56.169052+00
+fc-hira-034;deck-hiragana;め;Hiragana;;ME;M-row;me;;;{m-row,basic};1;34;2026-01-22 15:03:56.169052+00
+fc-hira-035;deck-hiragana;も;Hiragana;;MO;M-row;mo;;;{m-row,basic};1;35;2026-01-22 15:03:56.169052+00
+fc-hira-036;deck-hiragana;や;Hiragana;;YA;Y-row;ya;;;{y-row,basic};1;36;2026-01-22 15:03:56.169052+00
+fc-hira-037;deck-hiragana;ゆ;Hiragana;;YU;Y-row;yu;;;{y-row,basic};1;37;2026-01-22 15:03:56.169052+00
+fc-hira-038;deck-hiragana;よ;Hiragana;;YO;Y-row;yo;;;{y-row,basic};1;38;2026-01-22 15:03:56.169052+00
+fc-hira-039;deck-hiragana;ら;Hiragana;;RA;R-row;ra;;;{r-row,basic};1;39;2026-01-22 15:03:56.169052+00
+fc-hira-040;deck-hiragana;り;Hiragana;;RI;R-row;ri;;;{r-row,basic};1;40;2026-01-22 15:03:56.169052+00
+fc-hira-041;deck-hiragana;る;Hiragana;;RU;R-row;ru;;;{r-row,basic};1;41;2026-01-22 15:03:56.169052+00
+fc-hira-042;deck-hiragana;れ;Hiragana;;RE;R-row;re;;;{r-row,basic};1;42;2026-01-22 15:03:56.169052+00
+fc-hira-043;deck-hiragana;ろ;Hiragana;;RO;R-row;ro;;;{r-row,basic};1;43;2026-01-22 15:03:56.169052+00
+fc-hira-044;deck-hiragana;わ;Hiragana;;WA;W-row;wa;;;{w-row,basic};1;44;2026-01-22 15:03:56.169052+00
+fc-hira-045;deck-hiragana;を;Hiragana;;WO;W-row (partikel objek);wo;;;{w-row,particle};2;45;2026-01-22 15:03:56.169052+00
+fc-hira-046;deck-hiragana;ん;Hiragana;;N;Konsonan tunggal;n;;;{special,basic};1;46;2026-01-22 15:03:56.169052+00
+fc-kata-001;deck-katakana;ア;Katakana;;A;Vokal;a;;;{vowel,basic};1;1;2026-01-22 15:04:05.992371+00
+fc-kata-002;deck-katakana;イ;Katakana;;I;Vokal;i;;;{vowel,basic};1;2;2026-01-22 15:04:05.992371+00
+fc-kata-003;deck-katakana;ウ;Katakana;;U;Vokal;u;;;{vowel,basic};1;3;2026-01-22 15:04:05.992371+00
+fc-kata-004;deck-katakana;エ;Katakana;;E;Vokal;e;;;{vowel,basic};1;4;2026-01-22 15:04:05.992371+00
+fc-kata-005;deck-katakana;オ;Katakana;;O;Vokal;o;;;{vowel,basic};1;5;2026-01-22 15:04:05.992371+00
+fc-kata-006;deck-katakana;カ;Katakana;;KA;K-row;ka;;;{k-row,basic};1;6;2026-01-22 15:04:05.992371+00
+fc-kata-007;deck-katakana;キ;Katakana;;KI;K-row;ki;;;{k-row,basic};1;7;2026-01-22 15:04:05.992371+00
+fc-kata-008;deck-katakana;ク;Katakana;;KU;K-row;ku;;;{k-row,basic};1;8;2026-01-22 15:04:05.992371+00
+fc-kata-009;deck-katakana;ケ;Katakana;;KE;K-row;ke;;;{k-row,basic};1;9;2026-01-22 15:04:05.992371+00
+fc-kata-010;deck-katakana;コ;Katakana;;KO;K-row;ko;;;{k-row,basic};1;10;2026-01-22 15:04:05.992371+00
+fc-kata-011;deck-katakana;サ;Katakana;;SA;S-row;sa;;;{s-row,basic};1;11;2026-01-22 15:04:05.992371+00
+fc-kata-012;deck-katakana;シ;Katakana;;SHI;S-row;shi;;;{s-row,exception};2;12;2026-01-22 15:04:05.992371+00
+fc-kata-013;deck-katakana;ス;Katakana;;SU;S-row;su;;;{s-row,basic};1;13;2026-01-22 15:04:05.992371+00
+fc-kata-014;deck-katakana;セ;Katakana;;SE;S-row;se;;;{s-row,basic};1;14;2026-01-22 15:04:05.992371+00
+fc-kata-015;deck-katakana;ソ;Katakana;;SO;S-row;so;;;{s-row,basic};1;15;2026-01-22 15:04:05.992371+00
+fc-kata-016;deck-katakana;タ;Katakana;;TA;T-row;ta;;;{t-row,basic};1;16;2026-01-22 15:04:05.992371+00
+fc-kata-017;deck-katakana;チ;Katakana;;CHI;T-row;chi;;;{t-row,exception};2;17;2026-01-22 15:04:05.992371+00
+fc-kata-018;deck-katakana;ツ;Katakana;;TSU;T-row;tsu;;;{t-row,exception};2;18;2026-01-22 15:04:05.992371+00
+fc-kata-019;deck-katakana;テ;Katakana;;TE;T-row;te;;;{t-row,basic};1;19;2026-01-22 15:04:05.992371+00
+fc-kata-020;deck-katakana;ト;Katakana;;TO;T-row;to;;;{t-row,basic};1;20;2026-01-22 15:04:05.992371+00
+fc-kata-021;deck-katakana;ナ;Katakana;;NA;N-row;na;;;{n-row,basic};1;21;2026-01-22 15:04:05.992371+00
+fc-kata-022;deck-katakana;ニ;Katakana;;NI;N-row;ni;;;{n-row,basic};1;22;2026-01-22 15:04:05.992371+00
+fc-kata-023;deck-katakana;ヌ;Katakana;;NU;N-row;nu;;;{n-row,basic};1;23;2026-01-22 15:04:05.992371+00
+fc-kata-024;deck-katakana;ネ;Katakana;;NE;N-row;ne;;;{n-row,basic};1;24;2026-01-22 15:04:15.759409+00
+fc-kata-025;deck-katakana;ノ;Katakana;;NO;N-row;no;;;{n-row,basic};1;25;2026-01-22 15:04:15.759409+00
+fc-kata-026;deck-katakana;ハ;Katakana;;HA;H-row;ha;;;{h-row,basic};1;26;2026-01-22 15:04:15.759409+00
+fc-kata-027;deck-katakana;ヒ;Katakana;;HI;H-row;hi;;;{h-row,basic};1;27;2026-01-22 15:04:15.759409+00
+fc-kata-028;deck-katakana;フ;Katakana;;FU;H-row;fu;;;{h-row,exception};2;28;2026-01-22 15:04:15.759409+00
+fc-kata-029;deck-katakana;ヘ;Katakana;;HE;H-row;he;;;{h-row,basic};1;29;2026-01-22 15:04:15.759409+00
+fc-kata-030;deck-katakana;ホ;Katakana;;HO;H-row;ho;;;{h-row,basic};1;30;2026-01-22 15:04:15.759409+00
+fc-kata-031;deck-katakana;マ;Katakana;;MA;M-row;ma;;;{m-row,basic};1;31;2026-01-22 15:04:15.759409+00
+fc-kata-032;deck-katakana;ミ;Katakana;;MI;M-row;mi;;;{m-row,basic};1;32;2026-01-22 15:04:15.759409+00
+fc-kata-033;deck-katakana;ム;Katakana;;MU;M-row;mu;;;{m-row,basic};1;33;2026-01-22 15:04:15.759409+00
+fc-kata-034;deck-katakana;メ;Katakana;;ME;M-row;me;;;{m-row,basic};1;34;2026-01-22 15:04:15.759409+00
+fc-kata-035;deck-katakana;モ;Katakana;;MO;M-row;mo;;;{m-row,basic};1;35;2026-01-22 15:04:15.759409+00
+fc-kata-036;deck-katakana;ヤ;Katakana;;YA;Y-row;ya;;;{y-row,basic};1;36;2026-01-22 15:04:15.759409+00
+fc-kata-037;deck-katakana;ユ;Katakana;;YU;Y-row;yu;;;{y-row,basic};1;37;2026-01-22 15:04:15.759409+00
+fc-kata-038;deck-katakana;ヨ;Katakana;;YO;Y-row;yo;;;{y-row,basic};1;38;2026-01-22 15:04:15.759409+00
+fc-kata-039;deck-katakana;ラ;Katakana;;RA;R-row;ra;;;{r-row,basic};1;39;2026-01-22 15:04:15.759409+00
+fc-kata-040;deck-katakana;リ;Katakana;;RI;R-row;ri;;;{r-row,basic};1;40;2026-01-22 15:04:15.759409+00
+fc-kata-041;deck-katakana;ル;Katakana;;RU;R-row;ru;;;{r-row,basic};1;41;2026-01-22 15:04:15.759409+00
+fc-kata-042;deck-katakana;レ;Katakana;;RE;R-row;re;;;{r-row,basic};1;42;2026-01-22 15:04:15.759409+00
+fc-kata-043;deck-katakana;ロ;Katakana;;RO;R-row;ro;;;{r-row,basic};1;43;2026-01-22 15:04:15.759409+00
+fc-kata-044;deck-katakana;ワ;Katakana;;WA;W-row;wa;;;{w-row,basic};1;44;2026-01-22 15:04:15.759409+00
+fc-kata-045;deck-katakana;ヲ;Katakana;;WO;W-row;wo;;;{w-row,basic};1;45;2026-01-22 15:04:15.759409+00
+fc-kata-046;deck-katakana;ン;Katakana;;N;Konsonan tunggal;n;;;{special,basic};1;46;2026-01-22 15:04:15.759409+00
+fc-daily-001;deck-vocab-daily;おはようございます;Salam;;Selamat pagi;Greeting (formal);ohayou gozaimasu;毎朝、「おはようございます」と言います。;;{greeting,formal};1;1;2026-01-22 15:04:29.128006+00
+fc-daily-002;deck-vocab-daily;こんにちは;Salam;;Selamat siang;Greeting;konnichiwa;昼に会ったら、「こんにちは」。;;{greeting};1;2;2026-01-22 15:04:29.128006+00
+fc-daily-003;deck-vocab-daily;こんばんは;Salam;;Selamat malam;Greeting;konbanwa;夜に会ったら、「こんばんは」。;;{greeting};1;3;2026-01-22 15:04:29.128006+00
+fc-daily-004;deck-vocab-daily;さようなら;Salam;;Selamat tinggal;Farewell;sayounara;帰るとき、「さようなら」と言います。;;{greeting,farewell};1;4;2026-01-22 15:04:29.128006+00
+fc-daily-005;deck-vocab-daily;ありがとうございます;Salam;;Terima kasih;Thanks (formal);arigatou gozaimasu;手伝ってもらったら、「ありがとうございます」。;;{greeting,thanks,formal};1;5;2026-01-22 15:04:29.128006+00
+fc-daily-006;deck-vocab-daily;すみません;Salam;;Permisi / Maaf;Excuse me / Sorry;sumimasen;すみません、トイレはどこですか。;;{greeting,polite};1;6;2026-01-22 15:04:29.128006+00
+fc-daily-007;deck-vocab-daily;今日;Waktu;;Hari ini;Time word;kyou;今日は忙しいです。;;{time,day};1;7;2026-01-22 15:04:29.128006+00
+fc-daily-008;deck-vocab-daily;明日;Waktu;;Besok;Time word;ashita;明日、会いましょう。;;{time,day};1;8;2026-01-22 15:04:29.128006+00
+fc-daily-009;deck-vocab-daily;昨日;Waktu;;Kemarin;Time word;kinou;昨日、映画を見ました。;;{time,day};1;9;2026-01-22 15:04:29.128006+00
+fc-daily-010;deck-vocab-daily;朝;Waktu;;Pagi;Time of day;asa;朝、六時に起きます。;;{time,period};1;10;2026-01-22 15:04:29.128006+00
+fc-daily-011;deck-vocab-daily;昼;Waktu;;Siang;Time of day;hiru;昼ごはんを食べます。;;{time,period};1;11;2026-01-22 15:04:29.128006+00
+fc-daily-012;deck-vocab-daily;夜;Waktu;;Malam;Time of day;yoru;夜、十時に寝ます。;;{time,period};1;12;2026-01-22 15:04:29.128006+00
+fc-daily-013;deck-vocab-daily;食べます;Kata kerja;;Makan;Verb (masu-form);tabemasu;朝ごはんを食べます。;;{verb,daily};1;13;2026-01-22 15:04:29.128006+00
+fc-daily-014;deck-vocab-daily;飲みます;Kata kerja;;Minum;Verb (masu-form);nomimasu;コーヒーを飲みます。;;{verb,daily};1;14;2026-01-22 15:04:29.128006+00
+fc-daily-015;deck-vocab-daily;起きます;Kata kerja;;Bangun;Verb (masu-form);okimasu;六時に起きます。;;{verb,daily};1;15;2026-01-22 15:04:29.128006+00
+fc-daily-016;deck-vocab-daily;寝ます;Kata kerja;;Tidur;Verb (masu-form);nemasu;十一時に寝ます。;;{verb,daily};1;16;2026-01-22 15:04:38.440302+00
+fc-daily-017;deck-vocab-daily;行きます;Kata kerja;;Pergi;Verb (masu-form);ikimasu;会社に行きます。;;{verb,movement};1;17;2026-01-22 15:04:38.440302+00
+fc-daily-018;deck-vocab-daily;来ます;Kata kerja;;Datang;Verb (masu-form);kimasu;友達が来ます。;;{verb,movement};1;18;2026-01-22 15:04:38.440302+00
+fc-daily-019;deck-vocab-daily;帰ります;Kata kerja;;Pulang;Verb (masu-form);kaerimasu;五時に帰ります。;;{verb,movement};1;19;2026-01-22 15:04:38.440302+00
+fc-daily-020;deck-vocab-daily;見ます;Kata kerja;;Melihat/Menonton;Verb (masu-form);mimasu;テレビを見ます。;;{verb,daily};1;20;2026-01-22 15:04:38.440302+00
+fc-daily-021;deck-vocab-daily;水;Kata benda;;Air;Noun;mizu;水を飲みます。;;{noun,drink};1;21;2026-01-22 15:04:38.440302+00
+fc-daily-022;deck-vocab-daily;ご飯;Kata benda;;Nasi / Makanan;Noun;gohan;ご飯を食べます。;;{noun,food};1;22;2026-01-22 15:04:38.440302+00
+fc-daily-023;deck-vocab-daily;本;Kata benda;;Buku;Noun;hon;本を読みます。;;{noun,object};1;23;2026-01-22 15:04:38.440302+00
+fc-daily-024;deck-vocab-daily;電話;Kata benda;;Telepon;Noun;denwa;電話をかけます。;;{noun,object};1;24;2026-01-22 15:04:38.440302+00
+fc-daily-025;deck-vocab-daily;友達;Kata benda;;Teman;Noun;tomodachi;友達に会います。;;{noun,person};1;25;2026-01-22 15:04:38.440302+00
+fc-daily-026;deck-vocab-daily;何;Kata tanya;;Apa;Question word;nani/nan;これは何ですか。;;{question,basic};1;26;2026-01-22 15:04:38.440302+00
+fc-daily-027;deck-vocab-daily;どこ;Kata tanya;;Di mana;Question word;doko;トイレはどこですか。;;{question,place};1;27;2026-01-22 15:04:38.440302+00
+fc-daily-028;deck-vocab-daily;いつ;Kata tanya;;Kapan;Question word;itsu;いつ行きますか。;;{question,time};1;28;2026-01-22 15:04:38.440302+00
+fc-daily-029;deck-vocab-daily;だれ;Kata tanya;;Siapa;Question word;dare;あの人はだれですか。;;{question,person};1;29;2026-01-22 15:04:38.440302+00
+fc-daily-030;deck-vocab-daily;いくら;Kata tanya;;Berapa (harga);Question word;ikura;これはいくらですか。;;{question,price};1;30;2026-01-22 15:04:38.440302+00
+fc-work-001;deck-vocab-work;工場;Tempat;;Pabrik;Noun;koujou;工場で働きます。;;{place,work};1;1;2026-01-22 15:04:48.630075+00
+fc-work-002;deck-vocab-work;会社;Tempat;;Perusahaan/Kantor;Noun;kaisha;会社に行きます。;;{place,work};1;2;2026-01-22 15:04:48.630075+00
+fc-work-003;deck-vocab-work;食堂;Tempat;;Kantin;Noun;shokudou;食堂で昼ごはんを食べます。;;{place,work};1;3;2026-01-22 15:04:48.630075+00
+fc-work-004;deck-vocab-work;事務所;Tempat;;Kantor (ruangan);Noun;jimusho;事務所は二階にあります。;;{place,work};2;4;2026-01-22 15:04:48.630075+00
+fc-work-005;deck-vocab-work;更衣室;Tempat;;Ruang ganti;Noun;kouishitsu;更衣室で着替えます。;;{place,work};2;5;2026-01-22 15:04:48.630075+00
+fc-work-006;deck-vocab-work;休憩室;Tempat;;Ruang istirahat;Noun;kyuukeishitsu;休憩室で休みます。;;{place,work};2;6;2026-01-22 15:04:48.630075+00
+fc-work-007;deck-vocab-work;働きます;Kata kerja;;Bekerja;Verb;hatarakimasu;毎日八時間働きます。;;{verb,work};1;7;2026-01-22 15:04:48.630075+00
+fc-work-008;deck-vocab-work;休みます;Kata kerja;;Istirahat/Libur;Verb;yasumimasu;日曜日に休みます。;;{verb,work};1;8;2026-01-22 15:04:48.630075+00
+fc-work-009;deck-vocab-work;始まります;Kata kerja;;Mulai;Verb;hajimarimasu;仕事は八時に始まります。;;{verb,work};1;9;2026-01-22 15:04:48.630075+00
+fc-work-010;deck-vocab-work;終わります;Kata kerja;;Selesai;Verb;owarimasu;仕事は五時に終わります。;;{verb,work};1;10;2026-01-22 15:04:48.630075+00
+fc-work-011;deck-vocab-work;仕事;Kata benda;;Pekerjaan;Noun;shigoto;仕事は大変です。;;{noun,work};1;11;2026-01-22 15:04:48.630075+00
+fc-work-012;deck-vocab-work;会議;Kata benda;;Rapat;Noun;kaigi;九時に会議があります。;;{noun,work};1;12;2026-01-22 15:04:48.630075+00
+fc-work-013;deck-vocab-work;休憩;Kata benda;;Istirahat;Noun;kyuukei;十分休憩しましょう。;;{noun,work};1;13;2026-01-22 15:04:48.630075+00
+fc-work-014;deck-vocab-work;残業;Kata benda;;Lembur;Noun;zangyou;今日は残業があります。;;{noun,work};2;14;2026-01-22 15:04:59.429335+00
+fc-work-015;deck-vocab-work;研修生;Kata benda;;Peserta magang;Noun;kenshuusei;私は研修生です。;;{noun,person};1;15;2026-01-22 15:04:59.429335+00
+fc-work-016;deck-vocab-work;上司;Orang;;Atasan;Noun;joushi;上司に報告します。;;{person,work};2;16;2026-01-22 15:04:59.429335+00
+fc-work-017;deck-vocab-work;同僚;Orang;;Rekan kerja;Noun;douryou;同僚と話します。;;{person,work};2;17;2026-01-22 15:04:59.429335+00
+fc-work-018;deck-vocab-work;社長;Orang;;Presiden direktur;Noun;shachou;社長に挨拶します。;;{person,work};2;18;2026-01-22 15:04:59.429335+00
+fc-work-019;deck-vocab-work;お疲れ様です;Ekspresi;;Terima kasih atas kerja kerasnya;Work greeting;otsukaresama desu;仕事の後、「お疲れ様です」と言います。;;{expression,work,formal};1;19;2026-01-22 15:04:59.429335+00
+fc-work-020;deck-vocab-work;よろしくお願いします;Ekspresi;;Mohon kerjasamanya;Polite request;yoroshiku onegaishimasu;初めて会う人に「よろしくお願いします」。;;{expression,formal};1;20;2026-01-22 15:04:59.429335+00
+fc-work-021;deck-vocab-work;分かりました;Ekspresi;;Saya mengerti;Understanding;wakarimashita;指示を聞いて、「分かりました」と言います。;;{expression,response};1;21;2026-01-22 15:04:59.429335+00
+fc-work-022;deck-vocab-work;すみません;Ekspresi;;Maaf / Permisi;Apology / Excuse;sumimasen;遅れたとき、「すみません」と言います。;;{expression,apology};1;22;2026-01-22 15:04:59.429335+00
+fc-work-023;deck-vocab-work;失礼します;Ekspresi;;Permisi (masuk/keluar);Polite excuse;shitsurei shimasu;部屋に入るとき、「失礼します」と言います。;;{expression,formal};2;23;2026-01-22 15:04:59.429335+00
+fc-work-024;deck-vocab-work;頑張ります;Ekspresi;;Saya akan berusaha;Determination;ganbarimasu;新しい仕事に「頑張ります」と言います。;;{expression,motivation};1;24;2026-01-22 15:04:59.429335+00
+fc-work-025;deck-vocab-work;お先に失礼します;Ekspresi;;Permisi, saya pulang duluan;Leaving early;osaki ni shitsurei shimasu;帰るとき、「お先に失礼します」と言います。;;{expression,formal,farewell};2;25;2026-01-22 15:04:59.429335+00
+fc-gram-001;deck-grammar;XはYです;Pola dasar;;X adalah Y;Basic copula;X wa Y desu;私は学生です。(Saya adalah siswa);;{copula,basic};1;1;2026-01-22 15:05:20.263379+00
+fc-gram-002;deck-grammar;XはYですか;Pola pertanyaan;;Apakah X adalah Y?;Question form;X wa Y desu ka;あなたは先生ですか。(Apakah Anda guru?);;{question,basic};1;2;2026-01-22 15:05:20.263379+00
+fc-gram-003;deck-grammar;XはYじゃありません;Pola negatif;;X bukan Y;Negative copula;X wa Y ja arimasen;私は先生じゃありません。(Saya bukan guru);;{negative,basic};1;3;2026-01-22 15:05:20.263379+00
+fc-gram-004;deck-grammar;Verb + ます;Bentuk sopan;;Melakukan (sopan);Polite positive;masu-form;食べます (makan);;{verb,polite};1;4;2026-01-22 15:05:20.263379+00
+fc-gram-005;deck-grammar;Verb + ません;Bentuk negatif;;Tidak melakukan (sopan);Polite negative;masen-form;食べません (tidak makan);;{verb,negative};1;5;2026-01-22 15:05:20.263379+00
+fc-gram-006;deck-grammar;Nを Verb;Partikel objek;;Verb terhadap N;Object marker;N wo Verb;本を読みます。(Membaca buku);;{particle,object};1;6;2026-01-22 15:05:20.263379+00
+fc-gram-007;deck-grammar;Nに Verb;Partikel tujuan/waktu;;Ke/pada N / Pada waktu N;Destination/Time marker;N ni Verb;会社に行きます。(Pergi ke kantor);;{particle,destination};1;7;2026-01-22 15:05:20.263379+00
+fc-gram-008;deck-grammar;Nで Verb;Partikel tempat aksi;;Melakukan di N;Location of action;N de Verb;工場で働きます。(Bekerja di pabrik);;{particle,location};1;8;2026-01-22 15:05:20.263379+00
+fc-gram-009;deck-grammar;Nがあります;Keberadaan benda;;Ada N (benda mati);Existence (inanimate);N ga arimasu;机の上に本があります。(Ada buku di atas meja);;{existence,inanimate};1;9;2026-01-22 15:05:20.263379+00
+fc-gram-010;deck-grammar;Nがいます;Keberadaan makhluk;;Ada N (makhluk hidup);Existence (animate);N ga imasu;部屋に猫がいます。(Ada kucing di kamar);;{existence,animate};1;10;2026-01-22 15:05:20.263379+00
+fc-gram-011;deck-grammar;NはPlaceにあります;Lokasi benda;;N ada di Place;Location statement;N wa Place ni arimasu;トイレは一階にあります。(Toilet ada di lantai 1);;{location,statement};1;11;2026-01-22 15:05:20.263379+00
+fc-gram-012;deck-grammar;Timeに Verb;Waktu spesifik;;Verb pada Time;Specific time;Time ni Verb;七時に起きます。(Bangun jam 7);;{time,specific};1;12;2026-01-22 15:05:20.263379+00
+fc-gram-013;deck-grammar;N1からN2まで;Rentang;;Dari N1 sampai N2;Range expression;N1 kara N2 made;八時から五時まで働きます。(Bekerja dari jam 8 sampai 5);;{range,time};1;13;2026-01-22 15:05:20.263379+00
+fc-gram-014;deck-grammar;NのあとでVerb;Urutan;;Setelah N, Verb;Sequence (after);N no ato de Verb;仕事の後で勉強します。(Setelah kerja, belajar);;{sequence,after};2;14;2026-01-22 15:05:20.263379+00
+fc-gram-015;deck-grammar;NのまえにVerb;Urutan;;Sebelum N, Verb;Sequence (before);N no mae ni Verb;仕事の前に朝ごはんを食べます。(Makan pagi sebelum kerja);;{sequence,before};2;15;2026-01-22 15:05:20.263379+00
+fc-gram-016;deck-grammar;どこですか;Pertanyaan tempat;;Di mana?;Location question;doko desu ka;トイレはどこですか。(Toilet di mana?);;{question,location};1;16;2026-01-22 15:05:20.263379+00
+fc-gram-017;deck-grammar;何時ですか;Pertanyaan waktu;;Jam berapa?;Time question;nan-ji desu ka;今、何時ですか。(Sekarang jam berapa?);;{question,time};1;17;2026-01-22 15:05:20.263379+00
+fc-gram-018;deck-grammar;いくらですか;Pertanyaan harga;;Berapa harganya?;Price question;ikura desu ka;これはいくらですか。(Ini berapa?);;{question,price};1;18;2026-01-22 15:05:20.263379+00
+fc-gram-019;deck-grammar;Verbてください;Permintaan;;Tolong Verb;Polite request;Verb-te kudasai;待ってください。(Tolong tunggu);;{request,polite};2;19;2026-01-22 15:05:20.263379+00
+fc-gram-020;deck-grammar;Verbましょう;Ajakan;;Mari kita Verb;Invitation/Suggestion;Verb-mashou;食べましょう。(Mari makan);;{invitation,suggestion};2;20;2026-01-22 15:05:20.263379+00
+fc-num-001;deck-numbers;一;Angka;;1 (satu);Number;ichi;一つください。;;{number,basic};1;1;2026-01-22 15:05:36.586895+00
+fc-num-002;deck-numbers;二;Angka;;2 (dua);Number;ni;二人います。;;{number,basic};1;2;2026-01-22 15:05:36.586895+00
+fc-num-003;deck-numbers;三;Angka;;3 (tiga);Number;san;三時に会います。;;{number,basic};1;3;2026-01-22 15:05:36.586895+00
+fc-num-004;deck-numbers;四;Angka;;4 (empat);Number;shi/yon;四人です。(yon-nin);;{number,exception};2;4;2026-01-22 15:05:36.586895+00
+fc-num-005;deck-numbers;五;Angka;;5 (lima);Number;go;五時に帰ります。;;{number,basic};1;5;2026-01-22 15:05:36.586895+00
+fc-num-006;deck-numbers;六;Angka;;6 (enam);Number;roku;六時に起きます。;;{number,basic};1;6;2026-01-22 15:05:36.586895+00
+fc-num-007;deck-numbers;七;Angka;;7 (tujuh);Number;shichi/nana;七月です。(shichi-gatsu);;{number,exception};2;7;2026-01-22 15:05:36.586895+00
+fc-num-008;deck-numbers;八;Angka;;8 (delapan);Number;hachi;八時から始まります。;;{number,basic};1;8;2026-01-22 15:05:36.586895+00
+fc-num-009;deck-numbers;九;Angka;;9 (sembilan);Number;ku/kyuu;九時です。(ku-ji);;{number,exception};2;9;2026-01-22 15:05:36.586895+00
+fc-num-010;deck-numbers;十;Angka;;10 (sepuluh);Number;juu;十分休憩します。;;{number,basic};1;10;2026-01-22 15:05:36.586895+00
+fc-num-011;deck-numbers;四時;Jam;;Jam 4;Hour;yo-ji;四時に終わります。;;{time,hour,exception};2;11;2026-01-22 15:05:36.586895+00
+fc-num-012;deck-numbers;九時;Jam;;Jam 9;Hour;ku-ji;九時に会議があります。;;{time,hour,exception};2;12;2026-01-22 15:05:36.586895+00
+fc-num-013;deck-numbers;三分;Menit;;3 menit;Minute;san-pun;三分かかります。;;{time,minute,exception};2;13;2026-01-22 15:05:36.586895+00
+fc-num-014;deck-numbers;六分;Menit;;6 menit;Minute;roppun;六分待ってください。;;{time,minute,exception};2;14;2026-01-22 15:05:36.586895+00
+fc-num-015;deck-numbers;十分;Menit;;10 menit;Minute;juppun;十分休憩しましょう。;;{time,minute,exception};2;15;2026-01-22 15:05:36.586895+00
+fc-num-016;deck-numbers;一人;Orang;;1 orang;People counter;hitori;一人で行きます。;;{counter,people,exception};2;16;2026-01-22 15:05:36.586895+00
+fc-num-017;deck-numbers;二人;Orang;;2 orang;People counter;futari;二人で食べます。;;{counter,people,exception};2;17;2026-01-22 15:05:36.586895+00
+fc-num-018;deck-numbers;三人;Orang;;3 orang;People counter;san-nin;三人います。;;{counter,people};1;18;2026-01-22 15:05:36.586895+00
+fc-num-019;deck-numbers;一つ;Benda umum;;1 buah;General counter;hitotsu;りんごを一つください。;;{counter,general,exception};2;19;2026-01-22 15:05:36.586895+00
+fc-num-020;deck-numbers;二つ;Benda umum;;2 buah;General counter;futatsu;二つ買います。;;{counter,general,exception};2;20;2026-01-22 15:05:36.586895+00
+fc-num-021;deck-numbers;一階;Lantai;;Lantai 1;Floor counter;ik-kai;一階にあります。;;{counter,floor,exception};2;21;2026-01-22 15:05:36.586895+00
+fc-num-022;deck-numbers;三階;Lantai;;Lantai 3;Floor counter;san-gai;三階に行きます。;;{counter,floor,exception};2;22;2026-01-22 15:05:36.586895+00
+fc-num-023;deck-numbers;一本;Benda panjang;;1 batang/botol;Long object counter;ippon;ペンを一本ください。;;{counter,long,exception};2;23;2026-01-22 15:05:36.586895+00
+fc-num-024;deck-numbers;三本;Benda panjang;;3 batang/botol;Long object counter;san-bon;水を三本買います。;;{counter,long,exception};2;24;2026-01-22 15:05:36.586895+00
+fc-num-025;deck-numbers;一枚;Benda tipis;;1 lembar;Flat object counter;ichi-mai;紙を一枚ください。;;{counter,flat};1;25;2026-01-22 15:05:36.586895+00
+fc-n4v1-1;deck-n4-vocab-1;経験;けいけん;;Pengalaman;;keiken;経験がある - Memiliki pengalaman;;;1;1;2026-02-06 13:19:29.125356+00
+fc-n4v1-2;deck-n4-vocab-1;準備;じゅんび;;Persiapan;;junbi;準備する - Mempersiapkan;;;1;2;2026-02-06 13:19:29.125356+00
+fc-n4v1-3;deck-n4-vocab-1;予定;よてい;;Jadwal/Rencana;;yotei;予定がある - Ada rencana;;;1;3;2026-02-06 13:19:29.125356+00
+fc-n4v1-4;deck-n4-vocab-1;約束;やくそく;;Janji;;yakusoku;約束を守る - Menepati janji;;;1;4;2026-02-06 13:19:29.125356+00
+fc-n4v1-5;deck-n4-vocab-1;連絡;れんらく;;Kontak/Hubungi;;renraku;連絡する - Menghubungi;;;1;5;2026-02-06 13:19:29.125356+00
+fc-n4v1-6;deck-n4-vocab-1;説明;せつめい;;Penjelasan;;setsumei;説明する - Menjelaskan;;;1;6;2026-02-06 13:19:29.125356+00
+fc-n4v1-7;deck-n4-vocab-1;質問;しつもん;;Pertanyaan;;shitsumon;質問がある - Ada pertanyaan;;;1;7;2026-02-06 13:19:29.125356+00
+fc-n4v1-8;deck-n4-vocab-1;意見;いけん;;Pendapat;;iken;意見を言う - Menyampaikan pendapat;;;1;8;2026-02-06 13:19:29.125356+00
+fc-n4v1-9;deck-n4-vocab-1;注意;ちゅうい;;Perhatian/Hati-hati;;chuui;注意する - Berhati-hati;;;1;9;2026-02-06 13:19:29.125356+00
+fc-n4v1-10;deck-n4-vocab-1;安全;あんぜん;;Keamanan/Aman;;anzen;安全第一 - Keamanan nomor satu;;;1;10;2026-02-06 13:19:29.125356+00
+fc-n4v1-11;deck-n4-vocab-1;危険;きけん;;Bahaya;;kiken;危険な場所 - Tempat berbahaya;;;1;11;2026-02-06 13:19:29.125356+00
+fc-n4v1-12;deck-n4-vocab-1;必要;ひつよう;;Perlu/Diperlukan;;hitsuyou;必要がある - Diperlukan;;;1;12;2026-02-06 13:19:29.125356+00
+fc-n4v1-13;deck-n4-vocab-1;特別;とくべつ;;Khusus/Istimewa;;tokubetsu;特別な日 - Hari istimewa;;;1;13;2026-02-06 13:19:29.125356+00
+fc-n4v1-14;deck-n4-vocab-1;普通;ふつう;;Biasa/Normal;;futsuu;普通の人 - Orang biasa;;;1;14;2026-02-06 13:19:29.125356+00
+fc-n4v1-15;deck-n4-vocab-1;簡単;かんたん;;Mudah/Sederhana;;kantan;簡単な問題 - Soal mudah;;;1;15;2026-02-06 13:19:29.125356+00
+fc-n4v1-16;deck-n4-vocab-1;複雑;ふくざつ;;Rumit/Kompleks;;fukuzatsu;複雑な問題 - Masalah rumit;;;1;16;2026-02-06 13:19:29.125356+00
+fc-n4v1-17;deck-n4-vocab-1;最近;さいきん;;Akhir-akhir ini;;saikin;最近忙しい - Akhir-akhir ini sibuk;;;1;17;2026-02-06 13:19:29.125356+00
+fc-n4v1-18;deck-n4-vocab-1;将来;しょうらい;;Masa depan;;shourai;将来の夢 - Cita-cita masa depan;;;1;18;2026-02-06 13:19:29.125356+00
+fc-n4v1-19;deck-n4-vocab-1;以前;いぜん;;Sebelumnya/Dulu;;izen;以前住んでいた - Dulu tinggal di;;;1;19;2026-02-06 13:19:29.125356+00
+fc-n4v1-20;deck-n4-vocab-1;最初;さいしょ;;Pertama/Awal;;saisho;最初から - Dari awal;;;1;20;2026-02-06 13:19:29.125356+00
+fc-n4v1-21;deck-n4-vocab-1;最後;さいご;;Terakhir/Akhir;;saigo;最後まで - Sampai akhir;;;1;21;2026-02-06 13:19:29.125356+00
+fc-n4v1-22;deck-n4-vocab-1;関係;かんけい;;Hubungan/Kaitan;;kankei;関係がある - Ada hubungan;;;1;22;2026-02-06 13:19:29.125356+00
+fc-n4v1-23;deck-n4-vocab-1;理由;りゆう;;Alasan;;riyuu;理由を聞く - Menanyakan alasan;;;1;23;2026-02-06 13:19:29.125356+00
+fc-n4v1-24;deck-n4-vocab-1;目的;もくてき;;Tujuan;;mokuteki;目的を達成する - Mencapai tujuan;;;1;24;2026-02-06 13:19:29.125356+00
+fc-n4v1-25;deck-n4-vocab-1;結果;けっか;;Hasil;;kekka;結果を見る - Melihat hasil;;;1;25;2026-02-06 13:19:29.125356+00
+fc-n4v1-26;deck-n4-vocab-1;原因;げんいん;;Penyebab;;genin;原因を調べる - Menyelidiki penyebab;;;1;26;2026-02-06 13:19:29.125356+00
+fc-n4v1-27;deck-n4-vocab-1;方法;ほうほう;;Cara/Metode;;houhou;方法を考える - Memikirkan cara;;;1;27;2026-02-06 13:19:29.125356+00
+fc-n4v1-28;deck-n4-vocab-1;種類;しゅるい;;Jenis/Macam;;shurui;いろいろな種類 - Berbagai jenis;;;1;28;2026-02-06 13:19:29.125356+00
+fc-n4v1-29;deck-n4-vocab-1;場合;ばあい;;Kasus/Situasi;;baai;その場合は - Dalam kasus itu;;;1;29;2026-02-06 13:19:29.125356+00
+fc-n4v1-30;deck-n4-vocab-1;程度;ていど;;Tingkat/Derajat;;teido;ある程度 - Sampai tingkat tertentu;;;1;30;2026-02-06 13:19:29.125356+00
+fc-n4v2-1;deck-n4-vocab-2;届ける;とどける;;Mengantarkan;;todokeru;荷物を届ける - Mengantarkan barang;;;1;1;2026-02-06 13:19:45.1024+00
+fc-n4v2-2;deck-n4-vocab-2;届く;とどく;;Sampai/Tiba;;todoku;手紙が届く - Surat sampai;;;1;2;2026-02-06 13:19:45.1024+00
+fc-n4v2-3;deck-n4-vocab-2;伝える;つたえる;;Menyampaikan;;tsutaeru;メッセージを伝える - Menyampaikan pesan;;;1;3;2026-02-06 13:19:45.1024+00
+fc-n4v2-4;deck-n4-vocab-2;比べる;くらべる;;Membandingkan;;kuraberu;値段を比べる - Membandingkan harga;;;1;4;2026-02-06 13:19:45.1024+00
+fc-n4v2-5;deck-n4-vocab-2;集める;あつめる;;Mengumpulkan;;atsumeru;情報を集める - Mengumpulkan informasi;;;1;5;2026-02-06 13:19:45.1024+00
+fc-n4v2-6;deck-n4-vocab-2;集まる;あつまる;;Berkumpul;;atsumaru;人が集まる - Orang berkumpul;;;1;6;2026-02-06 13:19:45.1024+00
+fc-n4v2-7;deck-n4-vocab-2;続ける;つづける;;Melanjutkan;;tsuzukeru;勉強を続ける - Melanjutkan belajar;;;1;7;2026-02-06 13:19:45.1024+00
+fc-n4v2-8;deck-n4-vocab-2;続く;つづく;;Berlanjut;;tsuzuku;雨が続く - Hujan berlanjut;;;1;8;2026-02-06 13:19:45.1024+00
+fc-n4v2-9;deck-n4-vocab-2;決める;きめる;;Memutuskan;;kimeru;予定を決める - Memutuskan jadwal;;;1;9;2026-02-06 13:19:45.1024+00
+fc-n4v2-10;deck-n4-vocab-2;決まる;きまる;;Ditentukan;;kimaru;日程が決まる - Jadwal ditentukan;;;1;10;2026-02-06 13:19:45.1024+00
+fc-n4v2-11;deck-n4-vocab-2;変える;かえる;;Mengubah;;kaeru;予定を変える - Mengubah rencana;;;1;11;2026-02-06 13:19:45.1024+00
+fc-n4v2-12;deck-n4-vocab-2;変わる;かわる;;Berubah;;kawaru;季節が変わる - Musim berubah;;;1;12;2026-02-06 13:19:45.1024+00
+fc-n4v2-13;deck-n4-vocab-2;直す;なおす;;Memperbaiki;;naosu;車を直す - Memperbaiki mobil;;;1;13;2026-02-06 13:19:45.1024+00
+fc-n4v2-14;deck-n4-vocab-2;直る;なおる;;Diperbaiki/Sembuh;;naoru;病気が直る - Penyakit sembuh;;;1;14;2026-02-06 13:19:45.1024+00
+fc-n4v2-15;deck-n4-vocab-2;片付ける;かたづける;;Membereskan;;katazukeru;部屋を片付ける - Membereskan kamar;;;1;15;2026-02-06 13:19:45.1024+00
+fc-n4v2-16;deck-n4-vocab-2;並べる;ならべる;;Menyusun/Menata;;naraberu;椅子を並べる - Menata kursi;;;1;16;2026-02-06 13:19:45.1024+00
+fc-n4v2-17;deck-n4-vocab-2;並ぶ;ならぶ;;Berbaris/Berjejer;;narabu;人が並ぶ - Orang berbaris;;;1;17;2026-02-06 13:19:45.1024+00
+fc-n4v2-18;deck-n4-vocab-2;運ぶ;はこぶ;;Mengangkut;;hakobu;荷物を運ぶ - Mengangkut barang;;;1;18;2026-02-06 13:19:45.1024+00
+fc-n4v2-19;deck-n4-vocab-2;見つける;みつける;;Menemukan;;mitsukeru;仕事を見つける - Menemukan pekerjaan;;;1;19;2026-02-06 13:19:45.1024+00
+fc-n4v2-20;deck-n4-vocab-2;見つかる;みつかる;;Ditemukan;;mitsukaru;財布が見つかる - Dompet ditemukan;;;1;20;2026-02-06 13:19:45.1024+00
+fc-n4v2-21;deck-n4-vocab-2;確認する;かくにんする;;Mengonfirmasi;;kakunin suru;予約を確認する - Mengonfirmasi reservasi;;;1;21;2026-02-06 13:19:45.1024+00
+fc-n4v2-22;deck-n4-vocab-2;参加する;さんかする;;Berpartisipasi;;sanka suru;会議に参加する - Berpartisipasi dalam rapat;;;1;22;2026-02-06 13:19:45.1024+00
+fc-n4v2-23;deck-n4-vocab-2;出席する;しゅっせきする;;Menghadiri;;shusseki suru;授業に出席する - Menghadiri kelas;;;1;23;2026-02-06 13:19:45.1024+00
+fc-n4v2-24;deck-n4-vocab-2;欠席する;けっせきする;;Tidak hadir;;kesseki suru;会議を欠席する - Tidak hadir di rapat;;;1;24;2026-02-06 13:19:45.1024+00
+fc-n4v2-25;deck-n4-vocab-2;相談する;そうだんする;;Berkonsultasi;;soudan suru;先生に相談する - Berkonsultasi dengan guru;;;1;25;2026-02-06 13:19:45.1024+00
+fc-n4v3-1;deck-n4-vocab-3;厳しい;きびしい;;Keras/Ketat;;kibishii;厳しい先生 - Guru yang keras;;;1;1;2026-02-06 13:19:59.416773+00
+fc-n4v3-2;deck-n4-vocab-3;優しい;やさしい;;Baik hati/Lembut;;yasashii;優しい人 - Orang yang baik hati;;;1;2;2026-02-06 13:19:59.416773+00
+fc-n4v3-3;deck-n4-vocab-3;珍しい;めずらしい;;Langka/Jarang;;mezurashii;珍しい花 - Bunga yang langka;;;1;3;2026-02-06 13:19:59.416773+00
+fc-n4v3-4;deck-n4-vocab-3;恥ずかしい;はずかしい;;Malu;;hazukashii;恥ずかしい思い - Perasaan malu;;;1;4;2026-02-06 13:19:59.416773+00
+fc-n4v3-5;deck-n4-vocab-3;嬉しい;うれしい;;Senang/Gembira;;ureshii;嬉しいニュース - Kabar gembira;;;1;5;2026-02-06 13:19:59.416773+00
+fc-n4v3-6;deck-n4-vocab-3;悲しい;かなしい;;Sedih;;kanashii;悲しい話 - Cerita sedih;;;1;6;2026-02-06 13:19:59.416773+00
+fc-n4v3-7;deck-n4-vocab-3;正しい;ただしい;;Benar/Tepat;;tadashii;正しい答え - Jawaban yang benar;;;1;7;2026-02-06 13:19:59.416773+00
+fc-n4v3-8;deck-n4-vocab-3;素晴らしい;すばらしい;;Luar biasa;;subarashii;素晴らしい景色 - Pemandangan luar biasa;;;1;8;2026-02-06 13:19:59.416773+00
+fc-n4v3-9;deck-n4-vocab-3;詳しい;くわしい;;Detail/Mendetail;;kuwashii;詳しい説明 - Penjelasan detail;;;1;9;2026-02-06 13:19:59.416773+00
+fc-n4v3-10;deck-n4-vocab-3;親切;しんせつ;;Ramah/Baik;;shinsetsu;親切な人 - Orang yang ramah;;;1;10;2026-02-06 13:19:59.416773+00
+fc-n4v3-11;deck-n4-vocab-3;丁寧;ていねい;;Sopan/Teliti;;teinei;丁寧な言葉 - Bahasa sopan;;;1;11;2026-02-06 13:19:59.416773+00
+fc-n4v3-12;deck-n4-vocab-3;熱心;ねっしん;;Antusias/Giat;;nesshin;熱心に勉強する - Belajar dengan giat;;;1;12;2026-02-06 13:19:59.416773+00
+fc-n4v3-13;deck-n4-vocab-3;真面目;まじめ;;Serius/Rajin;;majime;真面目な学生 - Siswa yang serius;;;1;13;2026-02-06 13:19:59.416773+00
+fc-n4v3-14;deck-n4-vocab-3;適当;てきとう;;Cocok/Asal-asalan;;tekitou;適当な答え - Jawaban asal;;;1;14;2026-02-06 13:19:59.416773+00
+fc-n4v3-15;deck-n4-vocab-3;十分;じゅうぶん;;Cukup;;juubun;十分な時間 - Waktu yang cukup;;;1;15;2026-02-06 13:19:59.416773+00
+fc-n4v3-16;deck-n4-vocab-3;自由;じゆう;;Bebas;;jiyuu;自由な時間 - Waktu bebas;;;1;16;2026-02-06 13:19:59.416773+00
+fc-n4v3-17;deck-n4-vocab-3;残念;ざんねん;;Sayang sekali;;zannen;残念な結果 - Hasil yang disayangkan;;;1;17;2026-02-06 13:19:59.416773+00
+fc-n4v3-18;deck-n4-vocab-3;無理;むり;;Mustahil/Tidak mungkin;;muri;無理な要求 - Permintaan yang mustahil;;;1;18;2026-02-06 13:19:59.416773+00
+fc-n4v3-19;deck-n4-vocab-3;確か;たしか;;Pasti/Yakin;;tashika;確かな情報 - Informasi yang pasti;;;1;19;2026-02-06 13:19:59.416773+00
+fc-n4v3-20;deck-n4-vocab-3;急;きゅう;;Mendadak/Tiba-tiba;;kyuu;急な予定 - Jadwal mendadak;;;1;20;2026-02-06 13:19:59.416773+00
+fc-n3v1-1;deck-n3-vocab-1;状況;じょうきょう;;Situasi/Kondisi;;joukyou;現在の状況 - Situasi saat ini;;;1;1;2026-02-06 13:20:18.187454+00
+fc-n3v1-2;deck-n3-vocab-1;影響;えいきょう;;Pengaruh/Dampak;;eikyou;影響を与える - Memberikan pengaruh;;;1;2;2026-02-06 13:20:18.187454+00
+fc-n3v1-3;deck-n3-vocab-1;可能性;かのうせい;;Kemungkinan;;kanousei;可能性が高い - Kemungkinan tinggi;;;1;3;2026-02-06 13:20:18.187454+00
+fc-n3v1-4;deck-n3-vocab-1;責任;せきにん;;Tanggung jawab;;sekinin;責任を取る - Bertanggung jawab;;;1;4;2026-02-06 13:20:18.187454+00
+fc-n3v1-5;deck-n3-vocab-1;判断;はんだん;;Penilaian/Keputusan;;handan;判断する - Menilai/Memutuskan;;;1;5;2026-02-06 13:20:18.187454+00
+fc-n3v1-6;deck-n3-vocab-1;対応;たいおう;;Penanganan/Respons;;taiou;迅速な対応 - Penanganan cepat;;;1;6;2026-02-06 13:20:18.187454+00
+fc-n3v1-7;deck-n3-vocab-1;実現;じつげん;;Perwujudan/Realisasi;;jitsugen;夢を実現する - Mewujudkan mimpi;;;1;7;2026-02-06 13:20:18.187454+00
+fc-n3v1-8;deck-n3-vocab-1;効果;こうか;;Efek/Hasil;;kouka;効果がある - Ada efeknya;;;1;8;2026-02-06 13:20:18.187454+00
+fc-n3v1-9;deck-n3-vocab-1;条件;じょうけん;;Syarat/Kondisi;;jouken;条件を満たす - Memenuhi syarat;;;1;9;2026-02-06 13:20:18.187454+00
+fc-n3v1-10;deck-n3-vocab-1;基準;きじゅん;;Standar/Kriteria;;kijun;基準を設ける - Menetapkan standar;;;1;10;2026-02-06 13:20:18.187454+00
+fc-n3v1-11;deck-n3-vocab-1;傾向;けいこう;;Kecenderungan/Tren;;keikou;増加傾向 - Tren meningkat;;;1;11;2026-02-06 13:20:18.187454+00
+fc-n3v1-12;deck-n3-vocab-1;現象;げんしょう;;Fenomena;;genshou;自然現象 - Fenomena alam;;;1;12;2026-02-06 13:20:18.187454+00
+fc-n3v1-13;deck-n3-vocab-1;意識;いしき;;Kesadaran;;ishiki;環境意識 - Kesadaran lingkungan;;;1;13;2026-02-06 13:20:18.187454+00
+fc-n3v1-14;deck-n3-vocab-1;認識;にんしき;;Pengakuan/Pengenalan;;ninshiki;認識する - Mengakui/Mengenali;;;1;14;2026-02-06 13:20:18.187454+00
+fc-n3v1-15;deck-n3-vocab-1;評価;ひょうか;;Penilaian/Evaluasi;;hyouka;高い評価 - Penilaian tinggi;;;1;15;2026-02-06 13:20:18.187454+00
+fc-n3v1-16;deck-n3-vocab-1;提案;ていあん;;Proposal/Usulan;;teian;提案する - Mengusulkan;;;1;16;2026-02-06 13:20:18.187454+00
+fc-n3v1-17;deck-n3-vocab-1;検討;けんとう;;Pertimbangan;;kentou;検討する - Mempertimbangkan;;;1;17;2026-02-06 13:20:18.187454+00
+fc-n3v1-18;deck-n3-vocab-1;確保;かくほ;;Pengamanan/Menjamin;;kakuho;安全を確保する - Menjamin keamanan;;;1;18;2026-02-06 13:20:18.187454+00
+fc-n3v1-19;deck-n3-vocab-1;維持;いじ;;Pemeliharaan;;iji;健康を維持する - Menjaga kesehatan;;;1;19;2026-02-06 13:20:18.187454+00
+fc-n3v1-20;deck-n3-vocab-1;改善;かいぜん;;Perbaikan;;kaizen;品質改善 - Perbaikan kualitas;;;1;20;2026-02-06 13:20:18.187454+00
+fc-n3v1-21;deck-n3-vocab-1;解決;かいけつ;;Penyelesaian;;kaiketsu;問題解決 - Penyelesaian masalah;;;1;21;2026-02-06 13:20:18.187454+00
+fc-n3v1-22;deck-n3-vocab-1;発展;はってん;;Perkembangan;;hatten;経済発展 - Perkembangan ekonomi;;;1;22;2026-02-06 13:20:18.187454+00
+fc-n3v1-23;deck-n3-vocab-1;達成;たっせい;;Pencapaian;;tassei;目標達成 - Pencapaian target;;;1;23;2026-02-06 13:20:18.187454+00
+fc-n3v1-24;deck-n3-vocab-1;把握;はあく;;Pemahaman/Penguasaan;;haaku;状況を把握する - Memahami situasi;;;1;24;2026-02-06 13:20:18.187454+00
+fc-n3v1-25;deck-n3-vocab-1;対策;たいさく;;Langkah/Tindakan;;taisaku;対策を立てる - Menyusun langkah;;;1;25;2026-02-06 13:20:18.187454+00
+fc-n3v1-26;deck-n3-vocab-1;手段;しゅだん;;Cara/Sarana;;shudan;連絡手段 - Sarana komunikasi;;;1;26;2026-02-06 13:20:18.187454+00
+fc-n3v1-27;deck-n3-vocab-1;要因;よういん;;Faktor/Penyebab;;youin;成功要因 - Faktor kesuksesan;;;1;27;2026-02-06 13:20:18.187454+00
+fc-n3v1-28;deck-n3-vocab-1;背景;はいけい;;Latar belakang;;haikei;歴史的背景 - Latar belakang sejarah;;;1;28;2026-02-06 13:20:18.187454+00
+fc-n3v1-29;deck-n3-vocab-1;根拠;こんきょ;;Dasar/Bukti;;konkyo;根拠がある - Ada dasarnya;;;1;29;2026-02-06 13:20:18.187454+00
+fc-n3v1-30;deck-n3-vocab-1;観点;かんてん;;Sudut pandang;;kanten;別の観点から - Dari sudut pandang lain;;;1;30;2026-02-06 13:20:18.187454+00
+fc-n3v2-1;deck-n3-vocab-2;求める;もとめる;;Mencari/Menuntut;;motomeru;助けを求める - Mencari bantuan;;;1;1;2026-02-06 13:20:38.001863+00
+fc-n3v2-2;deck-n3-vocab-2;与える;あたえる;;Memberikan;;ataeru;影響を与える - Memberikan pengaruh;;;1;2;2026-02-06 13:20:38.001863+00
+fc-n3v2-3;deck-n3-vocab-2;得る;える;;Mendapatkan;;eru;許可を得る - Mendapatkan izin;;;1;3;2026-02-06 13:20:38.001863+00
+fc-n3v2-4;deck-n3-vocab-2;失う;うしなう;;Kehilangan;;ushinau;自信を失う - Kehilangan kepercayaan diri;;;1;4;2026-02-06 13:20:38.001863+00
+fc-n3v2-5;deck-n3-vocab-2;果たす;はたす;;Memenuhi/Menyelesaikan;;hatasu;役割を果たす - Memenuhi peran;;;1;5;2026-02-06 13:20:38.001863+00
+fc-n3v2-6;deck-n3-vocab-2;抱える;かかえる;;Membawa/Memiliki;;kakaeru;問題を抱える - Memiliki masalah;;;1;6;2026-02-06 13:20:38.001863+00
+fc-n3v2-7;deck-n3-vocab-2;占める;しめる;;Menempati/Menduduki;;shimeru;割合を占める - Menempati proporsi;;;1;7;2026-02-06 13:20:38.001863+00
+fc-n3v2-8;deck-n3-vocab-2;示す;しめす;;Menunjukkan;;shimesu;結果を示す - Menunjukkan hasil;;;1;8;2026-02-06 13:20:38.001863+00
+fc-n3v2-9;deck-n3-vocab-2;述べる;のべる;;Menyatakan;;noberu;意見を述べる - Menyatakan pendapat;;;1;9;2026-02-06 13:20:38.001863+00
+fc-n3v2-10;deck-n3-vocab-2;認める;みとめる;;Mengakui;;mitomeru;間違いを認める - Mengakui kesalahan;;;1;10;2026-02-06 13:20:38.001863+00
+fc-n3v2-11;deck-n3-vocab-2;避ける;さける;;Menghindari;;sakeru;危険を避ける - Menghindari bahaya;;;1;11;2026-02-06 13:20:38.001863+00
+fc-n3v2-12;deck-n3-vocab-2;越える;こえる;;Melampaui/Melewati;;koeru;国境を越える - Melewati perbatasan;;;1;12;2026-02-06 13:20:38.001863+00
+fc-n3v2-13;deck-n3-vocab-2;含む;ふくむ;;Termasuk/Mengandung;;fukumu;税を含む - Termasuk pajak;;;1;13;2026-02-06 13:20:38.001863+00
+fc-n3v2-14;deck-n3-vocab-2;限る;かぎる;;Membatasi;;kagiru;時間を限る - Membatasi waktu;;;1;14;2026-02-06 13:20:38.001863+00
+fc-n3v2-15;deck-n3-vocab-2;及ぶ;およぶ;;Mencapai/Meluas;;oyobu;影響が及ぶ - Pengaruh meluas;;;1;15;2026-02-06 13:20:38.001863+00
+fc-n3v2-16;deck-n3-vocab-2;基づく;もとづく;;Berdasarkan;;motozuku;データに基づく - Berdasarkan data;;;1;16;2026-02-06 13:20:38.001863+00
+fc-n3v2-17;deck-n3-vocab-2;伴う;ともなう;;Disertai/Diikuti;;tomonau;危険を伴う - Disertai bahaya;;;1;17;2026-02-06 13:20:38.001863+00
+fc-n3v2-18;deck-n3-vocab-2;応じる;おうじる;;Menanggapi/Sesuai;;oujiru;要求に応じる - Menanggapi permintaan;;;1;18;2026-02-06 13:20:38.001863+00
+fc-n3v2-19;deck-n3-vocab-2;生じる;しょうじる;;Timbul/Muncul;;shoujiru;問題が生じる - Masalah timbul;;;1;19;2026-02-06 13:20:38.001863+00
+fc-n3v2-20;deck-n3-vocab-2;属する;ぞくする;;Termasuk dalam;;zokusuru;グループに属する - Termasuk dalam grup;;;1;20;2026-02-06 13:20:38.001863+00
+fc-n3v2-21;deck-n3-vocab-2;反映する;はんえいする;;Mencerminkan;;hanei suru;意見を反映する - Mencerminkan pendapat;;;1;21;2026-02-06 13:20:38.001863+00
+fc-n3v2-22;deck-n3-vocab-2;促進する;そくしんする;;Mempromosikan;;sokushin suru;発展を促進する - Mempromosikan perkembangan;;;1;22;2026-02-06 13:20:38.001863+00
+fc-n3v2-23;deck-n3-vocab-2;実施する;じっしする;;Melaksanakan;;jisshi suru;計画を実施する - Melaksanakan rencana;;;1;23;2026-02-06 13:20:38.001863+00
+fc-n3v2-24;deck-n3-vocab-2;導入する;どうにゅうする;;Memperkenalkan;;dounyuu suru;システムを導入する - Memperkenalkan sistem;;;1;24;2026-02-06 13:20:38.001863+00
+fc-n3v2-25;deck-n3-vocab-2;指摘する;してきする;;Menunjukkan/Mengkritik;;shiteki suru;問題を指摘する - Menunjukkan masalah;;;1;25;2026-02-06 13:20:38.001863+00
+fc-n3v3-1;deck-n3-vocab-3;取引;とりひき;;Transaksi/Bisnis;;torihiki;取引先 - Mitra bisnis;;;1;1;2026-02-06 13:20:52.700426+00
+fc-n3v3-2;deck-n3-vocab-3;契約;けいやく;;Kontrak;;keiyaku;契約を結ぶ - Menandatangani kontrak;;;1;2;2026-02-06 13:20:52.700426+00
+fc-n3v3-3;deck-n3-vocab-3;交渉;こうしょう;;Negosiasi;;koushou;価格交渉 - Negosiasi harga;;;1;3;2026-02-06 13:20:52.700426+00
+fc-n3v3-4;deck-n3-vocab-3;納期;のうき;;Tenggat pengiriman;;nouki;納期を守る - Menepati tenggat;;;1;4;2026-02-06 13:20:52.700426+00
+fc-n3v3-5;deck-n3-vocab-3;見積もり;みつもり;;Perkiraan/Estimasi;;mitsumori;見積もりを出す - Memberikan estimasi;;;1;5;2026-02-06 13:20:52.700426+00
+fc-n3v3-6;deck-n3-vocab-3;発注;はっちゅう;;Pemesanan;;hacchuu;発注する - Memesan;;;1;6;2026-02-06 13:20:52.700426+00
+fc-n3v3-7;deck-n3-vocab-3;納品;のうひん;;Pengiriman barang;;nouhin;納品書 - Surat pengiriman;;;1;7;2026-02-06 13:20:52.700426+00
+fc-n3v3-8;deck-n3-vocab-3;請求;せいきゅう;;Penagihan;;seikyuu;請求書 - Faktur;;;1;8;2026-02-06 13:20:52.700426+00
+fc-n3v3-9;deck-n3-vocab-3;支払い;しはらい;;Pembayaran;;shiharai;支払い方法 - Metode pembayaran;;;1;9;2026-02-06 13:20:52.700426+00
+fc-n3v3-10;deck-n3-vocab-3;売上;うりあげ;;Penjualan;;uriage;売上高 - Total penjualan;;;1;10;2026-02-06 13:20:52.700426+00
+fc-n3v3-11;deck-n3-vocab-3;利益;りえき;;Keuntungan;;rieki;利益を上げる - Mendapat untung;;;1;11;2026-02-06 13:20:52.700426+00
+fc-n3v3-12;deck-n3-vocab-3;損失;そんしつ;;Kerugian;;sonshitsu;損失を出す - Mengalami kerugian;;;1;12;2026-02-06 13:20:52.700426+00
+fc-n3v3-13;deck-n3-vocab-3;予算;よさん;;Anggaran;;yosan;予算内で - Dalam anggaran;;;1;13;2026-02-06 13:20:52.700426+00
+fc-n3v3-14;deck-n3-vocab-3;報告;ほうこく;;Laporan;;houkoku;報告書 - Dokumen laporan;;;1;14;2026-02-06 13:20:52.700426+00
+fc-n3v3-15;deck-n3-vocab-3;会議;かいぎ;;Rapat;;kaigi;会議に出席する - Menghadiri rapat;;;1;15;2026-02-06 13:20:52.700426+00
+fc-n3v3-16;deck-n3-vocab-3;打ち合わせ;うちあわせ;;Pertemuan/Meeting;;uchiawase;打ち合わせをする - Mengadakan meeting;;;1;16;2026-02-06 13:20:52.700426+00
+fc-n3v3-17;deck-n3-vocab-3;承認;しょうにん;;Persetujuan;;shounin;承認を得る - Mendapat persetujuan;;;1;17;2026-02-06 13:20:52.700426+00
+fc-n3v3-18;deck-n3-vocab-3;決裁;けっさい;;Keputusan/Otorisasi;;kessai;決裁を待つ - Menunggu otorisasi;;;1;18;2026-02-06 13:20:52.700426+00
+fc-n3v3-19;deck-n3-vocab-3;部署;ぶしょ;;Departemen;;busho;営業部署 - Departemen penjualan;;;1;19;2026-02-06 13:20:52.700426+00
+fc-n3v3-20;deck-n3-vocab-3;担当;たんとう;;Penanggung jawab;;tantou;担当者 - Orang yang bertanggung jawab;;;1;20;2026-02-06 13:20:52.700426+00
+fc-n3v3-21;deck-n3-vocab-3;上司;じょうし;;Atasan;;joushi;上司に相談する - Konsultasi dengan atasan;;;1;21;2026-02-06 13:20:52.700426+00
+fc-n3v3-22;deck-n3-vocab-3;部下;ぶか;;Bawahan;;buka;部下を指導する - Membimbing bawahan;;;1;22;2026-02-06 13:20:52.700426+00
+fc-n3v3-23;deck-n3-vocab-3;同僚;どうりょう;;Rekan kerja;;douryou;同僚と協力する - Bekerja sama dengan rekan;;;1;23;2026-02-06 13:20:52.700426+00
+fc-n3v3-24;deck-n3-vocab-3;業務;ぎょうむ;;Tugas/Operasi;;gyoumu;業務内容 - Isi tugas;;;1;24;2026-02-06 13:20:52.700426+00
+fc-n3v3-25;deck-n3-vocab-3;残業;ざんぎょう;;Lembur;;zangyou;残業する - Bekerja lembur;;;1;25;2026-02-06 13:20:52.700426+00

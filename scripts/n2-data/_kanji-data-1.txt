@@ -1,0 +1,97 @@
+# JLPT N2 Kanji 1-96
+握|12|menggenggam|にぎ.る|アク|握手|あくしゅ|jabat tangan
+扱|6|menangani|あつか.う|ソウ|取扱|とりあつかい|penanganan
+依|8|bergantung|よ.る|イ|依頼|いらい|permintaan
+威|9|kekuatan; wibawa||イ|威力|いりょく|kekuatan
+為|9|demi; untuk|ため|イ|行為|こうい|tindakan
+維|14|memelihara||イ|維持|いじ|pemeliharaan
+違|13|berbeda|ちが.う|イ|違反|いはん|pelanggaran
+域|11|wilayah||イキ|地域|ちいき|wilayah
+逸|11|menyimpang|そ.れる|イツ|逸脱|いつだつ|penyimpangan
+稲|14|padi|いね|トウ|稲作|いなさく|pertanian padi
+芋|6|ubi|いも|ウ|芋|いも|ubi
+姻|9|pernikahan||イン|婚姻|こんいん|pernikahan
+陰|11|bayangan|かげ|イン|陰影|いんえい|bayangan
+隠|14|menyembunyikan|かく.す|イン|隠居|いんきょ|pensiun
+影|15|bayangan; pengaruh|かげ|エイ|影響|えいきょう|pengaruh
+鋭|15|tajam|するど.い|エイ|鋭利|えいり|tajam
+液|11|cairan||エキ|液体|えきたい|cairan
+越|12|melampaui|こ.す|エツ|越境|えっきょう|melewati batas
+援|12|bantuan||エン|支援|しえん|dukungan
+炎|8|api; radang|ほのお|エン|炎症|えんしょう|radang
+煙|13|asap|けむり|エン|喫煙|きつえん|merokok
+縁|15|hubungan; pinggir|ふち|エン|縁起|えんぎ|pertanda
+鬼|10|setan; iblis|おに|キ|鬼才|きさい|jenius
+汚|6|kotor|よご.す|オ|汚染|おせん|pencemaran
+押|8|menekan|お.す|オウ|押印|おういん|stempel
+奥|12|bagian dalam|おく|オウ|奥深い|おくぶかい|mendalam
+届|8|menyampaikan|とど.ける|カイ|届出|とどけで|pemberitahuan
+殴|8|memukul|なぐ.る|オウ|殴打|おうだ|pukulan
+翁|10|orang tua||オウ|老翁|ろうおう|pria tua
+沖|7|lepas pantai|おき|チュウ|沖縄|おきなわ|Okinawa
+憶|16|mengingat||オク|記憶|きおく|ingatan
+乙|1|kedua; unik||オツ|乙女|おとめ|gadis
+穏|16|tenang|おだ.やか|オン|穏和|おんわ|tenang
+架|9|memasang||カ|架空|かくう|fiktif
+暇|13|waktu luang|ひま|カ|休暇|きゅうか|liburan
+菓|11|kue||カ|菓子|かし|kue
+華|10|bunga; megah|はな|カ|豪華|ごうか|mewah
+蚊|10|nyamuk|か|ブン|蚊帳|かや|kelambu
+雅|13|elegan|みやび|ガ|優雅|ゆうが|elegan
+介|4|perantara||カイ|紹介|しょうかい|perkenalan
+塊|13|gumpalan|かたまり|カイ|塊|かたまり|gumpalan
+壊|16|menghancurkan|こわ.す|カイ|破壊|はかい|penghancuran
+怪|8|aneh|あや.しい|カイ|怪我|けが|cedera
+悔|9|menyesal|く.いる|カイ|後悔|こうかい|penyesalan
+慨|13|mengeluh||ガイ|感慨|かんがい|perasaan mendalam
+概|14|garis besar|おおむ.ね|ガイ|概要|がいよう|garis besar
+劾|8|mendakwa||ガイ|弾劾|だんがい|pemakzulan
+該|13|berkaitan||ガイ|該当|がいとう|sesuai
+較|13|membandingkan|くら.べる|カク|比較|ひかく|perbandingan
+革|9|kulit; reformasi|かわ|カク|改革|かいかく|reformasi
+掛|11|menggantung|か.ける|カイ|掛算|かけざん|perkalian
+潟|15|laguna|かた|セキ|新潟|にいがた|Niigata
+喝|11|berteriak||カツ|喝采|かっさい|tepuk tangan
+渇|11|haus|かわ.く|カツ|渇望|かつぼう|kehausan
+滑|13|licin|すべ.る|カツ|滑走|かっそう|meluncur
+括|9|merangkum|くく.る|カツ|括弧|かっこ|tanda kurung
+株|10|saham|かぶ|シュ|株式|かぶしき|saham
+刈|4|memotong|か.る|ガイ|刈取|かりとり|panen
+乾|11|kering|かわ.く|カン|乾燥|かんそう|kering
+冠|9|mahkota|かんむり|カン|冠婚|かんこん|pernikahan
+勧|13|menyarankan|すす.める|カン|勧告|かんこく|rekomendasi
+勘|11|intuisi||カン|勘違い|かんちがい|kesalahpahaman
+喚|12|memanggil||カン|召喚|しょうかん|pemanggilan
+堪|12|menahan|た.える|カン|堪能|たんのう|mahir
+寛|13|luas; toleran||カン|寛大|かんだい|murah hati
+患|11|menderita|わずら.う|カン|患者|かんじゃ|pasien
+憾|16|menyesal||カン|遺憾|いかん|penyesalan
+換|12|menukar|か.える|カン|交換|こうかん|pertukaran
+敢|12|berani|あ.えて|カン|勇敢|ゆうかん|berani
+棺|12|peti mati||カン|棺桶|かんおけ|peti mati
+款|12|pasal; klausa||カン|定款|ていかん|anggaran dasar
+歓|15|sukacita||カン|歓迎|かんげい|penyambutan
+監|15|mengawasi||カン|監督|かんとく|pengawasan
+緩|15|longgar|ゆる.い|カン|緩和|かんわ|pelonggaran
+缶|6|kaleng|かん|カン|缶詰|かんづめ|makanan kaleng
+肝|7|hati||カン|肝心|かんじん|penting
+艦|21|kapal perang||カン|軍艦|ぐんかん|kapal perang
+貫|11|menembus|つらぬ.く|カン|貫通|かんつう|menembus
+還|16|kembali||カン|返還|へんかん|pengembalian
+鑑|23|cermin; model||カン|鑑賞|かんしょう|apresiasi
+閑|12|tenang||カン|閑静|かんせい|tenang
+陥|10|jatuh|おちい.る|カン|陥落|かんらく|runtuh
+含|7|mengandung|ふく.む|ガン|含有|がんゆう|mengandung
+頑|13|keras kepala||ガン|頑張る|がんばる|berusaha keras
+企|6|merencanakan|くわだ.てる|キ|企業|きぎょう|perusahaan
+奇|8|aneh||キ|奇妙|きみょう|aneh
+岐|7|bercabang||キ|岐路|きろ|persimpangan
+幾|12|berapa|いく|キ|幾何|きか|geometri
+忌|7|menghindari|い.む|キ|忌避|きひ|penghindaran
+既|10|sudah|すで.に|キ|既存|きそん|sudah ada
+棋|12|catur||キ|将棋|しょうぎ|catur Jepang
+棄|12|membuang||キ|廃棄|はいき|pembuangan
+畿|13|ibu kota||キ|近畿|きんき|wilayah Kinki
+輝|15|bersinar|かがや.く|キ|輝く|かがやく|bersinar
+飢|10|kelaparan|う.える|キ|飢餓|きが|kelaparan
+騎|18|menunggang||キ|騎士|きし|ksatria
