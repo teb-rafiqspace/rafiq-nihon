@@ -150,14 +150,14 @@ export function useCertificationTest(config: CertTestConfig) {
       setIsLoading(true);
       try {
         const { data, error } = await supabase
-          .from('certification_test_questions')
+          .from('certification_test_questions' as any)
           .select('*')
           .eq('test_type', config.testType)
           .order('sort_order', { ascending: true });
 
         if (error) throw error;
 
-        const formattedQuestions: CertTestQuestion[] = (data || []).map(q => ({
+        const formattedQuestions: CertTestQuestion[] = ((data || []) as any[]).map((q: any) => ({
           ...q,
           options: Array.isArray(q.options) ? q.options : JSON.parse(q.options as string)
         }));
@@ -359,7 +359,7 @@ export function useCertificationTest(config: CertTestConfig) {
           }));
 
           const { data: cert } = await supabase
-            .from('certificates')
+            .from('certificates' as any)
             .insert({
               user_id: user.id,
               certificate_number: certNumber,
@@ -376,7 +376,7 @@ export function useCertificationTest(config: CertTestConfig) {
             .single();
 
           if (cert) {
-            setEarnedCertificate(cert as Certificate);
+            setEarnedCertificate(cert as unknown as Certificate);
           }
 
           // Award XP
