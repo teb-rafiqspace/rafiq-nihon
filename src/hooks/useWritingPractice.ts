@@ -40,13 +40,13 @@ export function useWritingPractice(track: string = 'ielts') {
     queryKey: ['writing-prompts', track],
     queryFn: async () => {
       const { data, error } = await supabase
-        .from('writing_prompts')
+        .from('practice_quiz_sets' as any)
         .select('*')
         .eq('track', track)
         .order('order_index');
 
       if (error) throw error;
-      return (data || []) as WritingPrompt[];
+      return (data || []) as unknown as WritingPrompt[];
     },
   });
 
@@ -56,13 +56,13 @@ export function useWritingPractice(track: string = 'ielts') {
       if (!user) return [];
 
       const { data, error } = await supabase
-        .from('writing_submissions')
+        .from('user_practice_history' as any)
         .select('*')
         .eq('user_id', user.id)
-        .order('created_at', { ascending: false });
+        .order('completed_at', { ascending: false });
 
       if (error) throw error;
-      return (data || []) as WritingSubmission[];
+      return (data || []) as unknown as WritingSubmission[];
     },
     enabled: !!user,
   });
@@ -82,7 +82,7 @@ export function useWritingPractice(track: string = 'ielts') {
       if (!user) throw new Error('Not authenticated');
 
       const { data, error } = await supabase
-        .from('writing_submissions')
+        .from('user_practice_history' as any)
         .insert({
           user_id: user.id,
           prompt_id: promptId,

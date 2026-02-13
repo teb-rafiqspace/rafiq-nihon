@@ -50,7 +50,7 @@ export function useListening(level: string = 'N5') {
       let query = supabase
         .from('listening_items')
         .select('*')
-        .order('order_index');
+        .order('order_index') as any;
 
       if (isEnglishTrack) {
         query = query.eq('track', level);
@@ -61,7 +61,7 @@ export function useListening(level: string = 'N5') {
       const { data, error } = await query;
 
       if (error) throw error;
-      return (data || []) as ListeningItem[];
+      return (data || []) as unknown as ListeningItem[];
     }
   });
 

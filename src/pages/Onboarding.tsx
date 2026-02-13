@@ -55,7 +55,7 @@ export default function Onboarding() {
   
   const handleComplete = async () => {
     await updateProfile.mutateAsync({
-      learning_goal: goal as 'kemnaker' | 'jlpt' | 'general' | 'ielts' | 'toefl',
+      learning_goal: goal as any,
       skill_level: level as 'beginner' | 'some_knowledge' | 'intermediate',
       daily_goal_minutes: dailyMinutes,
       onboarding_completed: true,

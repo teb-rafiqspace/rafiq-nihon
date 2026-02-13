@@ -53,7 +53,7 @@ export function useReading(level: string = 'N5') {
       let query = supabase
         .from('reading_passages')
         .select('*')
-        .order('order_index');
+        .order('order_index') as any;
 
       if (isEnglishTrack) {
         query = query.eq('track', level);
@@ -61,7 +61,7 @@ export function useReading(level: string = 'N5') {
         query = query.eq('jlpt_level', level);
       }
 
-      const { data, error } = await query;
+      const { data, error } = await query as any;
 
       if (error) throw error;
       return (data || []) as unknown as ReadingPassage[];

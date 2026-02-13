@@ -116,7 +116,7 @@ export default function ChapterDetail() {
               variant="ghost"
               size="icon"
               className="text-primary-foreground hover:bg-primary-foreground/10 mb-4"
-              onClick={() => navigate(`/learn?lang=${chapter?.language || 'japanese'}&track=${chapter?.track || 'kemnaker'}`)}
+              onClick={() => navigate(`/learn?track=${chapter?.track || 'kemnaker'}`)}
             >
               <ArrowLeft className="h-5 w-5" />
             </Button>
