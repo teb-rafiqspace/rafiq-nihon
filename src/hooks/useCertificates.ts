@@ -43,12 +43,12 @@ export function useMyCertificates() {
     queryFn: async () => {
       if (!user) return [];
       const { data, error } = await supabase
-        .from('certificates')
+        .from('certificates' as any)
         .select('*')
         .eq('user_id', user.id)
         .order('created_at', { ascending: false });
       if (error) throw error;
-      return data as Certificate[];
+      return (data || []) as unknown as Certificate[];
     },
     enabled: !!user
   });
@@ -62,13 +62,13 @@ export function useCertificate(id: string | undefined) {
     queryFn: async () => {
       if (!id || !user) return null;
       const { data, error } = await supabase
-        .from('certificates')
+        .from('certificates' as any)
         .select('*')
         .eq('id', id)
         .eq('user_id', user.id)
         .single();
       if (error) throw error;
-      return data as Certificate;
+      return data as unknown as Certificate;
     },
     enabled: !!id && !!user
   });
@@ -82,7 +82,7 @@ export function useCreateCertificate() {
     mutationFn: async (cert: Omit<Certificate, 'id' | 'user_id' | 'created_at'>) => {
       if (!user) throw new Error('Not authenticated');
       const { data, error } = await supabase
-        .from('certificates')
+        .from('certificates' as any)
         .insert({
           ...cert,
           user_id: user.id,
@@ -90,7 +90,7 @@ export function useCreateCertificate() {
         .select()
         .single();
       if (error) throw error;
-      return data as Certificate;
+      return data as unknown as Certificate;
     },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['certificates'] });

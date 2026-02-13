@@ -1,4 +1,5 @@
-import Anthropic from "npm:@anthropic-ai/sdk@0.39.0";
+// @ts-ignore - Deno npm import
+import Anthropic from "https://esm.sh/@anthropic-ai/sdk@0.39.0";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2.39.7";
 
 const corsHeaders = {
