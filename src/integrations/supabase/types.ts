@@ -71,6 +71,54 @@ export type Database = {
         }
         Relationships: []
       }
+      certificates: {
+        Row: {
+          certificate_number: string
+          created_at: string
+          display_name: string
+          id: string
+          issued_date: string
+          passing_score: number
+          score: number
+          score_percent: number
+          section_scores: Json | null
+          test_type: string
+          time_spent_seconds: number | null
+          total_questions: number
+          user_id: string
+        }
+        Insert: {
+          certificate_number: string
+          created_at?: string
+          display_name: string
+          id?: string
+          issued_date?: string
+          passing_score: number
+          score: number
+          score_percent: number
+          section_scores?: Json | null
+          test_type: string
+          time_spent_seconds?: number | null
+          total_questions: number
+          user_id: string
+        }
+        Update: {
+          certificate_number?: string
+          created_at?: string
+          display_name?: string
+          id?: string
+          issued_date?: string
+          passing_score?: number
+          score?: number
+          score_percent?: number
+          section_scores?: Json | null
+          test_type?: string
+          time_spent_seconds?: number | null
+          total_questions?: number
+          user_id?: string
+        }
+        Relationships: []
+      }
       certification_test_questions: {
         Row: {
           correct_answer: string
