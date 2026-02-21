@@ -69,6 +69,16 @@ export interface QuizStats {
   lastPlayed: string | null;
 }
 
+// Fisher-Yates shuffle
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
 export function useQuizPractice() {
   const { user } = useAuth();
   const queryClient = useQueryClient();
@@ -201,9 +211,14 @@ export function useQuizPractice() {
       .eq('quiz_set_id', quizSetId)
       .order('order_index', { ascending: true });
     if (error) throw error;
-    return (data || []).map(q => ({
+    const questions = (data || []).map(q => ({
       ...q,
       options: q.options as { id: string; text: string }[] | null
+    }));
+    // Shuffle question order and option order within each question
+    return shuffleArray(questions).map(q => ({
+      ...q,
+      options: q.options ? shuffleArray(q.options) : q.options
     }));
   };
 

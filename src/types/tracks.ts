@@ -1,5 +1,5 @@
 export type Language = 'japanese' | 'english';
-export type Track = 'kemnaker' | 'jlpt_n5' | 'jlpt_n4' | 'jlpt_n3' | 'jlpt_n2' | 'ielts' | 'toefl';
+export type Track = 'kemnaker' | 'jlpt_n5' | 'jlpt_n4' | 'jlpt_n3' | 'jlpt_n2' | 'jlpt_n1' | 'ielts' | 'toefl';
 
 export interface LanguageOption {
   id: Language;
@@ -26,6 +26,7 @@ export const TRACKS: TrackOption[] = [
   { id: 'jlpt_n4', language: 'japanese', label: 'N4', emoji: '\u{1F4D7}', description: 'Dasar' },
   { id: 'jlpt_n3', language: 'japanese', label: 'N3', emoji: '\u{1F4D8}', description: 'Menengah' },
   { id: 'jlpt_n2', language: 'japanese', label: 'N2', emoji: '\u{1F4D5}', description: 'Lanjutan' },
+  { id: 'jlpt_n1', language: 'japanese', label: 'N1', emoji: '\u{1F4D5}', description: 'Mahir' },
   // { id: 'ielts', language: 'english', label: 'IELTS', emoji: '\u{1F393}', description: 'Band 5.0-7.5' },
   // { id: 'toefl', language: 'english', label: 'TOEFL', emoji: '\u{1F4DD}', description: 'Score 80-110' },
 ];

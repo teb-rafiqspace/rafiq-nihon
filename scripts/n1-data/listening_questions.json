@@ -1,0 +1,502 @@
+[
+  {
+    "id": "lq-n1-001",
+    "listening_id": "listening-n1-001",
+    "question_text": "講義の主題は何か。",
+    "question_type": "multiple_choice",
+    "options": ["AI技術の開発方法", "人工知能の倫理的課題", "プログラミングの基礎", "ロボット工学の最新動向"],
+    "correct_answer": "人工知能の倫理的課題",
+    "explanation": "講義の冒頭で「人工知能の倫理的課題についてお話しいたします」と明言しています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-002",
+    "listening_id": "listening-n1-001",
+    "question_text": "アルゴリズムの偏見の具体例として挙げられたのは何か。",
+    "question_type": "multiple_choice",
+    "options": ["画像認識の精度低下", "過去の採用データに基づくAI選考が差別的傾向を反映すること", "翻訳の誤りが増えること", "検索結果の順位操作"],
+    "correct_answer": "過去の採用データに基づくAI選考が差別的傾向を反映すること",
+    "explanation": "「過去の採用データに基づいてAIが選考を行った場合、過去の差別的な傾向がそのまま反映される可能性があります」と述べています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-003",
+    "listening_id": "listening-n1-001",
+    "question_text": "プライバシーの問題として指摘されている技術はどれか。",
+    "question_type": "multiple_choice",
+    "options": ["ブロックチェーン技術", "顔認識技術やデータマイニング", "クラウドコンピューティング", "三次元プリンティング"],
+    "correct_answer": "顔認識技術やデータマイニング",
+    "explanation": "「顔認識技術やデータマイニングにより、個人のプライバシーが侵害されるリスクが高まっています」と説明されています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-004",
+    "listening_id": "listening-n1-001",
+    "question_text": "自律型兵器の開発が問い直すのは何か。",
+    "question_type": "multiple_choice",
+    "options": ["軍事予算の配分", "戦争の倫理そのもの", "兵士の訓練方法", "国際貿易のルール"],
+    "correct_answer": "戦争の倫理そのもの",
+    "explanation": "「自律型兵器の開発は、戦争の倫理そのものを根本的に問い直す問題です」と述べています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-005",
+    "listening_id": "listening-n1-001",
+    "question_text": "これらの課題に対するアプローチとして述べられているのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["法的規制のみ", "技術的解決のみ", "技術的解決と倫理的枠組みの両方", "国際条約の締結のみ"],
+    "correct_answer": "技術的解決と倫理的枠組みの両方",
+    "explanation": "「技術的解決と倫理的枠組みの両方からアプローチする必要があります」と結論付けています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-006",
+    "listening_id": "listening-n1-002",
+    "question_text": "山田さんがテレワークの課題として挙げたのは何か。",
+    "question_type": "multiple_choice",
+    "options": ["通信インフラの不足", "新入社員の育成とチームの一体感の醸成", "セキュリティリスク", "生産性の低下"],
+    "correct_answer": "新入社員の育成とチームの一体感の醸成",
+    "explanation": "山田さんは「新入社員の育成やチームの一体感の醸成に課題が生じています」と述べています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-007",
+    "listening_id": "listening-n1-002",
+    "question_text": "佐藤さんが特に懸念していることは何か。",
+    "question_type": "multiple_choice",
+    "options": ["企業の収益悪化", "労働時間の管理の問題", "社員のメンタルヘルス", "顧客サービスの質の低下"],
+    "correct_answer": "労働時間の管理の問題",
+    "explanation": "佐藤さんは「私が特に懸念しているのは、労働時間の管理の問題です」と明言しています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-008",
+    "listening_id": "listening-n1-002",
+    "question_text": "テレワーク環境下で仕事とプライベートの境界が曖昧になると、どのような問題が起こりうるか。",
+    "question_type": "multiple_choice",
+    "options": ["スキルの低下", "かえって長時間労働を助長するケース", "離職率の上昇", "コミュニケーション能力の低下"],
+    "correct_answer": "かえって長時間労働を助長するケース",
+    "explanation": "佐藤さんは「仕事とプライベートの境界が曖昧になり、かえって長時間労働を助長するケースも見受けられます」と述べています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-009",
+    "listening_id": "listening-n1-002",
+    "question_text": "佐藤さんが考える「真の働き方改革」とは何か。",
+    "question_type": "multiple_choice",
+    "options": ["全社員をテレワークにすること", "場所の柔軟性だけでなく労働の質そのものを見直すこと", "残業を完全に禁止すること", "副業を推奨すること"],
+    "correct_answer": "場所の柔軟性だけでなく労働の質そのものを見直すこと",
+    "explanation": "佐藤さんは「真の働き方改革とは、単に場所の柔軟性を確保することではなく、労働の質そのものを見直すことではないでしょうか」と述べています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-010",
+    "listening_id": "listening-n1-002",
+    "question_text": "山田さんの立場として最も適切なものはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["テレワークに完全に反対している", "テレワークの効果を認めつつ課題も指摘している", "テレワークを全面的に推進している", "テレワークには関心がない"],
+    "correct_answer": "テレワークの効果を認めつつ課題も指摘している",
+    "explanation": "山田さんは企業文化の変化を認めつつも、対面コミュニケーション減少による課題を指摘しており、バランスの取れた見解を示しています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-011",
+    "listening_id": "listening-n1-003",
+    "question_text": "日本銀行が決定したことは何か。",
+    "question_type": "multiple_choice",
+    "options": ["金融緩和の完全な終了", "長期金利の変動許容幅の拡大", "マイナス金利の導入", "国債の購入停止"],
+    "correct_answer": "長期金利の変動許容幅の拡大",
+    "explanation": "「長期金利の変動許容幅を従来のプラスマイナス〇・五パーセント程度から、事実上一パーセント程度まで拡大しました」と報じています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-012",
+    "listening_id": "listening-n1-003",
+    "question_text": "植田総裁はこの決定をどのように説明したか。",
+    "question_type": "multiple_choice",
+    "options": ["金融引き締めの開始である", "柔軟性を高める措置であり金融引き締めではない", "景気後退への対応である", "国際的な要請に基づくものである"],
+    "correct_answer": "柔軟性を高める措置であり金融引き締めではない",
+    "explanation": "植田総裁は「物価安定の持続的な実現を見極めるための柔軟性を高める措置であり、金融引き締めではない」と説明しました。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-013",
+    "listening_id": "listening-n1-003",
+    "question_text": "市場関係者の見方はどうか。",
+    "question_type": "multiple_choice",
+    "options": ["総裁の説明に完全に同意している", "事実上の利上げに等しいとの見方がある", "全く影響がないと見ている", "さらなる緩和を期待している"],
+    "correct_answer": "事実上の利上げに等しいとの見方がある",
+    "explanation": "「市場関係者からは、事実上の利上げに等しいとの見方も出ており」と報じています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-014",
+    "listening_id": "listening-n1-003",
+    "question_text": "為替市場ではどのような動きが見られたか。",
+    "question_type": "multiple_choice",
+    "options": ["円安方向に振れた", "円高方向に振れた", "全く変動しなかった", "ドルが急騰した"],
+    "correct_answer": "円高方向に振れた",
+    "explanation": "「為替市場では円高方向に振れる場面も見られました」と報じています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-015",
+    "listening_id": "listening-n1-003",
+    "question_text": "変動許容幅はどこからどこまで拡大されたか。",
+    "question_type": "multiple_choice",
+    "options": ["ゼロから〇・五パーセントへ", "〇・二五パーセントから〇・五パーセントへ", "〇・五パーセント程度から一パーセント程度へ", "一パーセントから二パーセントへ"],
+    "correct_answer": "〇・五パーセント程度から一パーセント程度へ",
+    "explanation": "「プラスマイナス〇・五パーセント程度から、事実上一パーセント程度まで拡大」と具体的な数値が述べられています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-016",
+    "listening_id": "listening-n1-004",
+    "question_text": "認知症研究の転換点とは何か。",
+    "question_type": "multiple_choice",
+    "options": ["新しい治療薬が発見された", "アミロイド仮説に基づく治療薬の多くが十分な効果を示せなかった", "認知症の完全な予防法が確立された", "遺伝子治療が成功した"],
+    "correct_answer": "アミロイド仮説に基づく治療薬の多くが十分な効果を示せなかった",
+    "explanation": "研究者は「アミロイド仮説に基づいた治療薬の多くが臨床試験で十分な効果を示せませんでした」と述べ、これが研究の転換点となったことを説明しています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-017",
+    "listening_id": "listening-n1-004",
+    "question_text": "現在注目されている多角的アプローチに含まれないのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["神経炎症", "タウタンパク質", "腸内細菌叢との関連", "遺伝子組み換え技術"],
+    "correct_answer": "遺伝子組み換え技術",
+    "explanation": "本文では「神経炎症やタウタンパク質、腸内細菌叢との関連」が多角的アプローチとして挙げられていますが、遺伝子組み換え技術は言及されていません。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-018",
+    "listening_id": "listening-n1-004",
+    "question_text": "認知機能の維持に効果的とされているものとして挙げられていないのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["運動", "社会的交流", "良質な睡眠", "長時間の読書"],
+    "correct_answer": "長時間の読書",
+    "explanation": "「運動、社会的交流、知的活動、良質な睡眠、そして食生活の改善」が効果的とされていますが、「長時間の読書」という具体的表現はありません。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-019",
+    "listening_id": "listening-n1-004",
+    "question_text": "研究者が認知症対策として推奨しているアプローチは何か。",
+    "question_type": "multiple_choice",
+    "options": ["単一の特効薬に頼ること", "包括的な予防戦略", "手術による治療", "認知機能テストの定期実施"],
+    "correct_answer": "包括的な予防戦略",
+    "explanation": "「認知症は多因子疾患ですので、単一の特効薬に頼るよりも、包括的な予防戦略が重要です」と研究者は述べています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-020",
+    "listening_id": "listening-n1-004",
+    "question_text": "認知症に関する複数の大規模研究の成果をどう評価しているか。",
+    "question_type": "multiple_choice",
+    "options": ["予防は不可能であることが証明された", "生活習慣の改善が認知機能維持に効果的であることが示された", "薬物療法のみが有効であることが判明した", "認知症は完全に治療可能になった"],
+    "correct_answer": "生活習慣の改善が認知機能維持に効果的であることが示された",
+    "explanation": "「運動、社会的交流、知的活動、良質な睡眠、そして食生活の改善が認知機能の維持に効果的であることが、複数の大規模コホート研究で示されています」と述べています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-021",
+    "listening_id": "listening-n1-005",
+    "question_text": "量子コンピュータの基本単位は何か。",
+    "question_type": "multiple_choice",
+    "options": ["ビット", "キュービット", "バイト", "ニューロン"],
+    "correct_answer": "キュービット",
+    "explanation": "「量子コンピュータはキュービットを用います」と説明されています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-022",
+    "listening_id": "listening-n1-005",
+    "question_text": "キュービットが古典的コンピュータを凌駕する理由は何か。",
+    "question_type": "multiple_choice",
+    "options": ["処理速度が速いから", "重ね合わせの状態を取ることができるから", "消費電力が少ないから", "サイズが小さいから"],
+    "correct_answer": "重ね合わせの状態を取ることができるから",
+    "explanation": "「キュービットは重ね合わせの状態を取ることができるため、特定の種類の計算において古典的コンピュータを圧倒的に凌駕する性能を発揮します」と説明されています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-023",
+    "listening_id": "listening-n1-005",
+    "question_text": "量子コンピュータの応用分野として挙げられていないのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["暗号解読", "分子シミュレーション", "最適化問題", "文書作成"],
+    "correct_answer": "文書作成",
+    "explanation": "「暗号解読、分子シミュレーション、最適化問題への応用」が挙げられていますが、文書作成は言及されていません。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-024",
+    "listening_id": "listening-n1-005",
+    "question_text": "実用化に向けた主要な課題として挙げられていないのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["量子ビットのエラー率の低減", "量子デコヒーレンスの制御", "スケーラビリティの確保", "プログラミング言語の開発"],
+    "correct_answer": "プログラミング言語の開発",
+    "explanation": "「量子ビットのエラー率の低減、量子デコヒーレンスの制御、そしてスケーラビリティの確保」が主要課題として挙げられていますが、プログラミング言語は言及されていません。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-025",
+    "listening_id": "listening-n1-005",
+    "question_text": "課題克服のために研究されているアプローチに含まれるのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["超伝導方式", "磁気テープ方式", "光ディスク方式", "真空管方式"],
+    "correct_answer": "超伝導方式",
+    "explanation": "「超伝導方式、イオントラップ方式、光量子方式など、様々なアプローチが並行して研究されています」と述べています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-026",
+    "listening_id": "listening-n1-006",
+    "question_text": "二〇五〇年までの世界の食糧需要の予測はどうか。",
+    "question_type": "multiple_choice",
+    "options": ["現在の約二割増加", "現在の約五割増加", "現在の約二倍", "変化なし"],
+    "correct_answer": "現在の約五割増加",
+    "explanation": "「二〇五〇年までに世界の食糧需要は現在の約五割増加すると予測されております」と報告されています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-027",
+    "listening_id": "listening-n1-006",
+    "question_text": "気候変動による主要穀物の収量への影響はどの程度か。",
+    "question_type": "multiple_choice",
+    "options": ["最大で一〇パーセント減少", "最大で二五パーセント減少", "最大で五〇パーセント減少", "影響はない"],
+    "correct_answer": "最大で二五パーセント減少",
+    "explanation": "「主要穀物の収量が最大で二五パーセント減少する可能性があります」と報告されています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-028",
+    "listening_id": "listening-n1-006",
+    "question_text": "需給ギャップを埋めるための三つの柱に含まれないのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["農業技術のイノベーション", "食品ロスの削減", "食生活の転換", "農地面積の拡大"],
+    "correct_answer": "農地面積の拡大",
+    "explanation": "三つの柱は「農業技術のイノベーション、食品ロスの削減、食生活の転換」であり、農地面積の拡大は含まれていません。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-029",
+    "listening_id": "listening-n1-006",
+    "question_text": "合意文書に盛り込まれた数値目標は何か。",
+    "question_type": "multiple_choice",
+    "options": ["食糧生産を五〇パーセント増加", "食品廃棄物を三〇パーセント削減", "農業従事者を二倍に増加", "有機農業を五〇パーセントに拡大"],
+    "correct_answer": "食品廃棄物を三〇パーセント削減",
+    "explanation": "「食品廃棄物を三〇パーセント削減するという数値目標が合意文書に盛り込まれました」と報告されています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-030",
+    "listening_id": "listening-n1-006",
+    "question_text": "先端技術として言及されているのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["精密農業とバーティカルファーミング", "遺伝子組み換え作物の大量生産", "人工肉の開発", "海水の淡水化技術"],
+    "correct_answer": "精密農業とバーティカルファーミング",
+    "explanation": "「精密農業やバーティカルファーミングなどの先端技術の導入」が合意文書に盛り込まれたと述べています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-031",
+    "listening_id": "listening-n1-007",
+    "question_text": "田中さんが少子高齢化を深刻と考える根拠は何か。",
+    "question_type": "multiple_choice",
+    "options": ["教育レベルの低下", "出生率が一・二を下回り社会保障制度の持続可能性が脅かされること", "犯罪率の上昇", "国際競争力の低下"],
+    "correct_answer": "出生率が一・二を下回り社会保障制度の持続可能性が脅かされること",
+    "explanation": "田中さんは「出生率が一・二を下回る状況が続けば、社会保障制度の持続可能性が根本的に脅かされます」と述べています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-032",
+    "listening_id": "listening-n1-007",
+    "question_text": "鈴木さんが少子化の根本原因として指摘しているのは何か。",
+    "question_type": "multiple_choice",
+    "options": ["経済的負担", "出産・育児と仕事の両立を阻む社会構造とジェンダー不平等", "住宅問題", "教育費の高騰"],
+    "correct_answer": "出産・育児と仕事の両立を阻む社会構造とジェンダー不平等",
+    "explanation": "鈴木さんは「出産・育児と仕事の両立を阻む社会構造、特にジェンダー不平等の問題に切り込まなければ」と述べています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-033",
+    "listening_id": "listening-n1-007",
+    "question_text": "北欧諸国の成功例として挙げられている要因はどれか。",
+    "question_type": "multiple_choice",
+    "options": ["高額な児童手当", "男性の育児参加を促す制度設計と柔軟な働き方の浸透", "移民の大量受入れ", "義務教育の延長"],
+    "correct_answer": "男性の育児参加を促す制度設計と柔軟な働き方の浸透",
+    "explanation": "「男性の育児参加を促す制度設計と、柔軟な働き方の浸透が出生率回復に大きく寄与しています」と述べています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-034",
+    "listening_id": "listening-n1-007",
+    "question_text": "鈴木さんが「避けて通れない議題」として挙げたのは何か。",
+    "question_type": "multiple_choice",
+    "options": ["定年延長", "外国人材の受入れ", "出産の義務化", "年金制度の廃止"],
+    "correct_answer": "外国人材の受入れ",
+    "explanation": "鈴木さんは「外国人材の受入れも避けて通れない議題です」と述べています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-035",
+    "listening_id": "listening-n1-007",
+    "question_text": "鈴木さんは移民政策をどのように捉えているか。",
+    "question_type": "multiple_choice",
+    "options": ["全面的に賛成している", "全面的に反対している", "労働力不足への現実的な解決策として真剣に議論すべき", "現時点では時期尚早である"],
+    "correct_answer": "労働力不足への現実的な解決策として真剣に議論すべき",
+    "explanation": "「労働力不足に対する現実的な解決策として、真剣に議論すべき時期に来ていると思います」と述べています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-036",
+    "listening_id": "listening-n1-008",
+    "question_text": "ニュースペース企業が打ち上げコストを削減できた理由は何か。",
+    "question_type": "multiple_choice",
+    "options": ["小型衛星を使用したから", "再利用可能なロケット技術を開発したから", "政府の補助金を受けたから", "安価な燃料を使用したから"],
+    "correct_answer": "再利用可能なロケット技術を開発したから",
+    "explanation": "「再利用可能なロケット技術の開発により、打ち上げコストを劇的に削減することに成功しました」と説明されています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-037",
+    "listening_id": "listening-n1-008",
+    "question_text": "宇宙開発の商業化による拡充サービスとして挙げられていないのはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["通信", "地球観測", "測位", "医療"],
+    "correct_answer": "医療",
+    "explanation": "「通信、地球観測、測位などのサービスが急速に拡充されています」と述べられていますが、医療は挙げられていません。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-038",
+    "listening_id": "listening-n1-008",
+    "question_text": "地球の軌道上にあるデブリの推定数はどの程度か。",
+    "question_type": "multiple_choice",
+    "options": ["数百個", "数万個", "数百万個", "数千万個"],
+    "correct_answer": "数千万個",
+    "explanation": "「現在、地球の軌道上には数千万個のデブリが存在すると推定されており」と述べています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-039",
+    "listening_id": "listening-n1-008",
+    "question_text": "今後の最重要課題として挙げられているのは何か。",
+    "question_type": "multiple_choice",
+    "options": ["火星への有人飛行", "宇宙の持続可能な利用のためのルール作り", "宇宙ステーションの拡張", "宇宙旅行の低価格化"],
+    "correct_answer": "宇宙の持続可能な利用のためのルール作り",
+    "explanation": "「宇宙の持続可能な利用を確保するためのルール作りが、今後の最重要課題です」と結論付けています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-040",
+    "listening_id": "listening-n1-008",
+    "question_text": "将来的な構想として検討されているものはどれか。",
+    "question_type": "multiple_choice",
+    "options": ["太陽系外への探査", "宇宙ホテルや月面基地の建設", "地球外生命体との交信", "小惑星の資源採掘"],
+    "correct_answer": "宇宙ホテルや月面基地の建設",
+    "explanation": "「将来的には宇宙ホテルや月面基地の建設といった構想も検討されています」と述べています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-041",
+    "listening_id": "listening-n1-009",
+    "question_text": "伝統工芸の最も大きな課題は何か。",
+    "question_type": "multiple_choice",
+    "options": ["材料の不足", "後継者不足", "需要の減少", "技術の陳腐化"],
+    "correct_answer": "後継者不足",
+    "explanation": "職人は「最も大きな課題は後継者不足です」と明言しています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-042",
+    "listening_id": "listening-n1-009",
+    "question_text": "一人前の漆芸家になるために必要な修行期間はどのくらいか。",
+    "question_type": "multiple_choice",
+    "options": ["最低三年", "最低五年", "最低十年", "最低二十年"],
+    "correct_answer": "最低十年",
+    "explanation": "「一人前の漆芸家になるには最低でも十年の修行が必要です」と述べています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-043",
+    "listening_id": "listening-n1-009",
+    "question_text": "若い人が伝統工芸を避ける主な理由は何か。",
+    "question_type": "multiple_choice",
+    "options": ["修行が厳しいから", "修行期間中の経済的見通しが立たないから", "伝統工芸に興味がないから", "都市部に住めないから"],
+    "correct_answer": "修行期間中の経済的見通しが立たないから",
+    "explanation": "「その間の経済的な見通しが立たないことが、若い方を遠ざけている主な要因です」と述べています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-044",
+    "listening_id": "listening-n1-009",
+    "question_text": "デジタル技術では伝えられないものは何か。",
+    "question_type": "multiple_choice",
+    "options": ["完成品のデザイン", "手の感触や力加減といった身体的な知識", "歴史的背景", "使用する材料の種類"],
+    "correct_answer": "手の感触や力加減といった身体的な知識",
+    "explanation": "「手の感触や力加減といった身体的な知識は、映像だけでは伝わりません」と職人は述べています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-045",
+    "listening_id": "listening-n1-009",
+    "question_text": "職人がデジタル技術に対して持つ態度はどのようなものか。",
+    "question_type": "multiple_choice",
+    "options": ["完全に否定的", "伝統工芸への関心を広げるきっかけとして歓迎しつつ限界も認識", "全面的に依存すべき", "無関心"],
+    "correct_answer": "伝統工芸への関心を広げるきっかけとして歓迎しつつ限界も認識",
+    "explanation": "職人は映像だけでは伝えられない知識の限界を認めつつも、「デジタル技術が伝統工芸への関心を広げるきっかけになることは歓迎すべきことです」と述べています。",
+    "order_index": 5
+  },
+  {
+    "id": "lq-n1-046",
+    "listening_id": "listening-n1-010",
+    "question_text": "京都大学の研究チームの臨床試験の内容は何か。",
+    "question_type": "multiple_choice",
+    "options": ["iPS細胞から作製した神経細胞の移植", "iPS細胞から作製した心筋細胞シートの重症心不全患者への移植", "iPS細胞から作製した肝臓の移植", "iPS細胞から作製した網膜の移植"],
+    "correct_answer": "iPS細胞から作製した心筋細胞シートの重症心不全患者への移植",
+    "explanation": "「iPS細胞から作製した心筋細胞シートを重症心不全の患者に移植する臨床試験」と報じています。",
+    "order_index": 1
+  },
+  {
+    "id": "lq-n1-047",
+    "listening_id": "listening-n1-010",
+    "question_text": "移植の結果はどうだったか。",
+    "question_type": "multiple_choice",
+    "options": ["効果は認められなかった", "心機能が有意に改善し重篤な副作用もなかった", "副作用が多数発生した", "一時的な改善のみだった"],
+    "correct_answer": "心機能が有意に改善し重篤な副作用もなかった",
+    "explanation": "「患者の心機能は有意に改善し、重篤な副作用も認められませんでした」と報じています。",
+    "order_index": 2
+  },
+  {
+    "id": "lq-n1-048",
+    "listening_id": "listening-n1-010",
+    "question_text": "iPS細胞技術が発見されたのはいつか。",
+    "question_type": "multiple_choice",
+    "options": ["二〇〇〇年", "二〇〇六年", "二〇一二年", "二〇一八年"],
+    "correct_answer": "二〇〇六年",
+    "explanation": "「山中伸弥教授が二〇〇六年に発見して以来」と述べています。",
+    "order_index": 3
+  },
+  {
+    "id": "lq-n1-049",
+    "listening_id": "listening-n1-010",
+    "question_text": "現時点での治療費はどの程度か。",
+    "question_type": "multiple_choice",
+    "options": ["数十万円", "数百万円", "数千万円", "数億円"],
+    "correct_answer": "数千万円",
+    "explanation": "「現時点では一人あたりの治療費が数千万円に上るとされており」と報じています。",
+    "order_index": 4
+  },
+  {
+    "id": "lq-n1-050",
+    "listening_id": "listening-n1-010",
+    "question_text": "再生医療が広く患者に届くために必要なことは何か。",
+    "question_type": "multiple_choice",
+    "options": ["技術革新のみ", "制度設計のみ", "技術革新と制度設計の両輪", "海外からの輸入"],
+    "correct_answer": "技術革新と制度設計の両輪",
+    "explanation": "「再生医療が広く患者に届くためには、技術革新と制度設計の両輪で取り組む必要があります」と結論付けています。",
+    "order_index": 5
+  }
+]

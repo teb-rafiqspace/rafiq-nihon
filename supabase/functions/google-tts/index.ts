@@ -69,42 +69,72 @@ serve(async (req) => {
 
     console.log(`Synthesizing: "${text}" with voice ${voiceId} at speed ${speed}`);
 
-    const response = await fetch(
-      `https://texttospeech.googleapis.com/v1/text:synthesize?key=${apiKey}`,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          input: { text },
-          voice: {
-            languageCode: 'ja-JP',
-            name: voiceId,
-          },
-          audioConfig: {
-            audioEncoding: 'MP3',
-            speakingRate: speed,
-            pitch: 0,
-          },
-        }),
-      }
-    );
+    // Tier 1: Google Cloud TTS (primary - highest quality for Japanese)
+    if (apiKey && apiKey !== 'your-google-tts-key-here') {
+      try {
+        const response = await fetch(
+          `https://texttospeech.googleapis.com/v1/text:synthesize?key=${apiKey}`,
+          {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              input: { text },
+              voice: { languageCode: 'ja-JP', name: voiceId },
+              audioConfig: { audioEncoding: 'MP3', speakingRate: speed, pitch: 0 },
+            }),
+          }
+        );
 
-    if (!response.ok) {
-      const errorData = await response.text();
-      console.error('TTS synthesis failed:', errorData);
-      return new Response(
-        JSON.stringify({ error: 'TTS synthesis failed', details: errorData }),
-        { status: response.status, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
-      );
+        if (response.ok) {
+          const data = await response.json();
+          console.log('Google Cloud TTS synthesis successful');
+          return new Response(
+            JSON.stringify({ audioContent: data.audioContent }),
+            { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+          );
+        }
+        console.error('Google TTS failed:', response.status);
+      } catch (googleError) {
+        console.error('Google TTS error:', googleError);
+      }
     }
 
-    const data = await response.json();
-    
-    console.log('TTS synthesis successful');
-    
+    // Tier 2: DekaLLM TTS fallback
+    const DEKALLM_API_KEY = Deno.env.get('DEKALLM_API_KEY');
+    if (DEKALLM_API_KEY && DEKALLM_API_KEY !== 'your-dekallm-key-here') {
+      try {
+        console.log('Falling back to DekaLLM TTS...');
+        const dekaResponse = await fetch('https://dekallm.cloudeka.ai/v1/audio/speech', {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer ${DEKALLM_API_KEY}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            model: 'tts-1',
+            input: text,
+            voice: 'alloy',
+          }),
+        });
+
+        if (dekaResponse.ok) {
+          const audioBuffer = await dekaResponse.arrayBuffer();
+          const base64Audio = btoa(String.fromCharCode(...new Uint8Array(audioBuffer)));
+          console.log('DekaLLM TTS synthesis successful');
+          return new Response(
+            JSON.stringify({ audioContent: base64Audio }),
+            { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+          );
+        }
+        console.error('DekaLLM TTS failed:', dekaResponse.status);
+      } catch (dekaError) {
+        console.error('DekaLLM TTS error:', dekaError);
+      }
+    }
+
     return new Response(
-      JSON.stringify({ audioContent: data.audioContent }),
-      { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      JSON.stringify({ error: 'All TTS providers failed' }),
+      { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
     );
 
   } catch (error) {

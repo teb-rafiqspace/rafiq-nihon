@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "8b19a127-ecef-4149-ac48-2bd0377d274e",
+    "lesson_id": "10000001-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ものを」の意味として正しいものはどれですか。",
+    "options": [
+      "Padahal seharusnya...; mengekspresikan penyesalan atau keluhan bahwa sesuatu tidak terjadi seperti yang diharapkan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Padahal seharusnya...; mengekspresikan penyesalan atau keluhan bahwa sesuatu tidak terjadi seperti yang diharapkan",
+    "explanation": "「〜ものを」は「Padahal seharusnya...; mengekspresikan penyesalan atau keluhan bahwa sesuatu tidak terjadi seperti yang diharapkan」という意味です。"
+  },
+  {
+    "id": "90e849b8-6b37-40ac-ad73-89f8ba70b7a6",
+    "lesson_id": "10000001-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ものを",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ものを",
+    "explanation": "文脈から「〜ものを」が正しい表現です。Padahal seharusnya...; mengekspresikan penyesalan atau keluhan bahwa sesuatu tidak terjadi seperti yang diharapkanという意味で使われます。"
+  },
+  {
+    "id": "3792f5f7-aca0-4762-a19b-7a6fd59fd44f",
+    "lesson_id": "10000001-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ものなら」はどのような場面で使いますか。",
+    "options": [
+      "Jika bisa...; mengekspresikan keinginan yang sulit diwujudkanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Jika bisa...; mengekspresikan keinginan yang sulit diwujudkanを表す場面",
+    "explanation": "「〜ものなら」は「Jika bisa...; mengekspresikan keinginan yang sulit diwujudkan」を表す場面で使います。"
+  },
+  {
+    "id": "296cac46-e37c-4537-a993-032e5d51e8eb",
+    "lesson_id": "10000001-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ものを」の使い方として正しいものはどれですか。",
+    "options": [
+      "もっと早く言ってくれればよかったものを、今さら言われても困る。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "もっと早く言ってくれればよかったものを、今さら言われても困る。",
+    "explanation": "「〜ものを」は「Padahal seharusnya...; mengekspresikan penyesalan atau keluhan bahwa sesuatu tidak terjadi seperti yang diharapkan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "a83c88dc-f141-4849-a904-2313f484ee97",
+    "lesson_id": "10000001-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ないものでもない」の意味として正しいものはどれですか。",
+    "options": [
+      "Bukan berarti tidak bisa; menyatakan kemungkinan secara hati-hati",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bukan berarti tidak bisa; menyatakan kemungkinan secara hati-hati",
+    "explanation": "「〜ないものでもない」は「Bukan berarti tidak bisa; menyatakan kemungkinan secara hati-hati」という意味です。"
+  },
+  {
+    "id": "0792b0aa-2e09-4041-abe8-4e05c59bf0a2",
+    "lesson_id": "10000001-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ないものでもない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ないものでもない",
+    "explanation": "文脈から「〜ないものでもない」が正しい表現です。Bukan berarti tidak bisa; menyatakan kemungkinan secara hati-hatiという意味で使われます。"
+  },
+  {
+    "id": "5fb4889c-10fa-4f27-a155-ad29ab718d01",
+    "lesson_id": "10000001-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ないでもない」はどのような場面で使いますか。",
+    "options": [
+      "Bukannya tidak...; menyatakan persetujuan secara tidak langsungを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bukannya tidak...; menyatakan persetujuan secara tidak langsungを表す場面",
+    "explanation": "「〜ないでもない」は「Bukannya tidak...; menyatakan persetujuan secara tidak langsung」を表す場面で使います。"
+  },
+  {
+    "id": "3788039f-d6c1-43dd-ade8-c4544ea5b4f0",
+    "lesson_id": "10000001-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ないものでもない」の使い方として正しいものはどれですか。",
+    "options": [
+      "条件次第では、引き受けないものでもない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "条件次第では、引き受けないものでもない。",
+    "explanation": "「〜ないものでもない」は「Bukan berarti tidak bisa; menyatakan kemungkinan secara hati-hati」という意味で、例文のように使います。"
+  },
+  {
+    "id": "87ab7601-eb54-44ec-a23c-a104a549bdde",
+    "lesson_id": "10000001-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にもまして」の意味として正しいものはどれですか。",
+    "options": [
+      "Lebih dari...; melebihi sesuatu yang lain",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Lebih dari...; melebihi sesuatu yang lain",
+    "explanation": "「〜にもまして」は「Lebih dari...; melebihi sesuatu yang lain」という意味です。"
+  },
+  {
+    "id": "0b871fef-a4a9-47fc-ab56-78bc4f0ba465",
+    "lesson_id": "10000001-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "にもまして",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "にもまして",
+    "explanation": "文脈から「〜にもまして」が正しい表現です。Lebih dari...; melebihi sesuatu yang lainという意味で使われます。"
+  },
+  {
+    "id": "9ecf4c04-4ec4-45aa-a5fb-64992294a8c7",
+    "lesson_id": "10000001-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「何にもまして」はどのような場面で使いますか。",
+    "options": [
+      "Lebih dari apa pun; yang paling utamaを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Lebih dari apa pun; yang paling utamaを表す場面",
+    "explanation": "「何にもまして」は「Lebih dari apa pun; yang paling utama」を表す場面で使います。"
+  },
+  {
+    "id": "9d9392c3-2456-4c01-a536-0e81a7b5519a",
+    "lesson_id": "10000001-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にもまして」の使い方として正しいものはどれですか。",
+    "options": [
+      "今年は例年にもまして暑い夏になった。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "今年は例年にもまして暑い夏になった。",
+    "explanation": "「〜にもまして」は「Lebih dari...; melebihi sesuatu yang lain」という意味で、例文のように使います。"
+  },
+  {
+    "id": "e92ed5ba-184d-4c6a-ac65-380438af757f",
+    "lesson_id": "10000001-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を余儀なくされる」の意味として正しいものはどれですか。",
+    "options": [
+      "Terpaksa melakukan; tidak punya pilihan lain selain...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Terpaksa melakukan; tidak punya pilihan lain selain...",
+    "explanation": "「〜を余儀なくされる」は「Terpaksa melakukan; tidak punya pilihan lain selain...」という意味です。"
+  },
+  {
+    "id": "8734b55d-86d6-4004-acf7-300664b3c78b",
+    "lesson_id": "10000001-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "を余儀なくされる",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "を余儀なくされる",
+    "explanation": "文脈から「〜を余儀なくされる」が正しい表現です。Terpaksa melakukan; tidak punya pilihan lain selain...という意味で使われます。"
+  },
+  {
+    "id": "836de025-c616-4bc4-a88f-3c2ab2c34ecc",
+    "lesson_id": "10000001-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を余儀なくさせる」はどのような場面で使いますか。",
+    "options": [
+      "Memaksa seseorang untuk...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Memaksa seseorang untuk...を表す場面",
+    "explanation": "「〜を余儀なくさせる」は「Memaksa seseorang untuk...」を表す場面で使います。"
+  },
+  {
+    "id": "c63fd3c8-4d18-457a-af8e-b77f34ec46f3",
+    "lesson_id": "10000001-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を余儀なくされる」の使い方として正しいものはどれですか。",
+    "options": [
+      "台風の影響で、イベントの中止を余儀なくされた。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "台風の影響で、イベントの中止を余儀なくされた。",
+    "explanation": "「〜を余儀なくされる」は「Terpaksa melakukan; tidak punya pilihan lain selain...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "9e55e416-7575-4695-a6fc-3a00b4a13346",
+    "lesson_id": "10000001-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜てやまない」の意味として正しいものはどれですか。",
+    "options": [
+      "Sangat...; tidak henti-hentinya; dari lubuk hati",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sangat...; tidak henti-hentinya; dari lubuk hati",
+    "explanation": "「〜てやまない」は「Sangat...; tidak henti-hentinya; dari lubuk hati」という意味です。"
+  },
+  {
+    "id": "5607d34d-da3c-4432-a45c-b5103deefdd9",
+    "lesson_id": "10000001-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "てやまない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "てやまない",
+    "explanation": "文脈から「〜てやまない」が正しい表現です。Sangat...; tidak henti-hentinya; dari lubuk hatiという意味で使われます。"
+  },
+  {
+    "id": "05d4cec9-1359-440d-afd5-14735a0b9b6b",
+    "lesson_id": "10000001-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜て止まない」はどのような場面で使いますか。",
+    "options": [
+      "Tidak berhenti...; terus-menerus merasakanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tidak berhenti...; terus-menerus merasakanを表す場面",
+    "explanation": "「〜て止まない」は「Tidak berhenti...; terus-menerus merasakan」を表す場面で使います。"
+  },
+  {
+    "id": "df8ac5af-425d-458c-a3c6-3b0643cb5e19",
+    "lesson_id": "10000001-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜てやまない」の使い方として正しいものはどれですか。",
+    "options": [
+      "皆様のご成功を願ってやまない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "皆様のご成功を願ってやまない。",
+    "explanation": "「〜てやまない」は「Sangat...; tidak henti-hentinya; dari lubuk hati」という意味で、例文のように使います。"
+  },
+  {
+    "id": "f6ac650c-9e2f-4f56-acd5-b06aa09ffe02",
+    "lesson_id": "10000001-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜たりとも〜ない」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak sedikit pun; bahkan satu pun tidak",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak sedikit pun; bahkan satu pun tidak",
+    "explanation": "「〜たりとも〜ない」は「Tidak sedikit pun; bahkan satu pun tidak」という意味です。"
+  },
+  {
+    "id": "f63ed811-770d-4141-a014-f313b7a3e446",
+    "lesson_id": "10000001-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "たりともない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "たりともない",
+    "explanation": "文脈から「〜たりとも〜ない」が正しい表現です。Tidak sedikit pun; bahkan satu pun tidakという意味で使われます。"
+  },
+  {
+    "id": "e1ec2a56-db61-48da-a9c4-aa8545f1d625",
+    "lesson_id": "10000001-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「一〜たりとも」はどのような場面で使いますか。",
+    "options": [
+      "Bahkan satu... pun tidakを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bahkan satu... pun tidakを表す場面",
+    "explanation": "「一〜たりとも」は「Bahkan satu... pun tidak」を表す場面で使います。"
+  },
+  {
+    "id": "ec9ff814-fac3-4985-aa2d-3f2621b6b143",
+    "lesson_id": "10000001-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜たりとも〜ない」の使い方として正しいものはどれですか。",
+    "options": [
+      "一瞬たりとも油断してはならない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "一瞬たりとも油断してはならない。",
+    "explanation": "「〜たりとも〜ない」は「Tidak sedikit pun; bahkan satu pun tidak」という意味で、例文のように使います。"
+  },
+  {
+    "id": "9a45141f-d749-4f0c-ae8b-16325ec839f3",
+    "lesson_id": "10000002-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ていただけませんでしょうか」の意味として正しいものはどれですか。",
+    "options": [
+      "Bisakah Anda...; bentuk permintaan paling sopan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bisakah Anda...; bentuk permintaan paling sopan",
+    "explanation": "「〜ていただけませんでしょうか」は「Bisakah Anda...; bentuk permintaan paling sopan」という意味です。"
+  },
+  {
+    "id": "c205862b-7c0c-4634-af30-738f83348006",
+    "lesson_id": "10000002-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ていただけませんでしょうか",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ていただけませんでしょうか",
+    "explanation": "文脈から「〜ていただけませんでしょうか」が正しい表現です。Bisakah Anda...; bentuk permintaan paling sopanという意味で使われます。"
+  },
+  {
+    "id": "b69abaa8-71fe-41cf-af3e-89c778a22ab1",
+    "lesson_id": "10000002-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ていただけると幸いです」はどのような場面で使いますか。",
+    "options": [
+      "Saya akan sangat senang jika Anda bisa...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Saya akan sangat senang jika Anda bisa...を表す場面",
+    "explanation": "「〜ていただけると幸いです」は「Saya akan sangat senang jika Anda bisa...」を表す場面で使います。"
+  },
+  {
+    "id": "b87d6c53-3801-47fe-af2b-f8fb8dc5d648",
+    "lesson_id": "10000002-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ていただけませんでしょうか」の使い方として正しいものはどれですか。",
+    "options": [
+      "恐れ入りますが、こちらの書類をご確認いただけませんでしょうか。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "恐れ入りますが、こちらの書類をご確認いただけませんでしょうか。",
+    "explanation": "「〜ていただけませんでしょうか」は「Bisakah Anda...; bentuk permintaan paling sopan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "49a242e1-e04d-4585-a595-bc5e9253c802",
+    "lesson_id": "10000002-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜させていただきたく存じます」の意味として正しいものはどれですか。",
+    "options": [
+      "Saya ingin meminta izin untuk...; bentuk sangat sopan untuk meminta izin",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Saya ingin meminta izin untuk...; bentuk sangat sopan untuk meminta izin",
+    "explanation": "「〜させていただきたく存じます」は「Saya ingin meminta izin untuk...; bentuk sangat sopan untuk meminta izin」という意味です。"
+  },
+  {
+    "id": "474d3314-0575-40a6-ab20-ff76c99b23ad",
+    "lesson_id": "10000002-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "させていただきたく存じます",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "させていただきたく存じます",
+    "explanation": "文脈から「〜させていただきたく存じます」が正しい表現です。Saya ingin meminta izin untuk...; bentuk sangat sopan untuk meminta izinという意味で使われます。"
+  },
+  {
+    "id": "047d5dbe-38f8-41cd-a7b6-b0d3f7c498be",
+    "lesson_id": "10000002-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜させていただければ幸いです」はどのような場面で使いますか。",
+    "options": [
+      "Saya akan sangat berterima kasih jika diizinkan untuk...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Saya akan sangat berterima kasih jika diizinkan untuk...を表す場面",
+    "explanation": "「〜させていただければ幸いです」は「Saya akan sangat berterima kasih jika diizinkan untuk...」を表す場面で使います。"
+  },
+  {
+    "id": "09bafe09-5e93-4770-ae1c-80a67d02607d",
+    "lesson_id": "10000002-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜させていただきたく存じます」の使い方として正しいものはどれですか。",
+    "options": [
+      "本日の会議について、ご報告させていただきたく存じます。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "本日の会議について、ご報告させていただきたく存じます。",
+    "explanation": "「〜させていただきたく存じます」は「Saya ingin meminta izin untuk...; bentuk sangat sopan untuk meminta izin」という意味で、例文のように使います。"
+  },
+  {
+    "id": "73db9c03-eac4-4c49-a4a8-4ccf329c5331",
+    "lesson_id": "10000002-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「お/ご〜いただく」の意味として正しいものはどれですか。",
+    "options": [
+      "Menerima tindakan (hormat) dari orang lain; kenjougo yang meninggikan lawan bicara",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Menerima tindakan (hormat) dari orang lain; kenjougo yang meninggikan lawan bicara",
+    "explanation": "「お/ご〜いただく」は「Menerima tindakan (hormat) dari orang lain; kenjougo yang meninggikan lawan bicara」という意味です。"
+  },
+  {
+    "id": "8df672ba-ec73-477b-a29a-d7776035a4b9",
+    "lesson_id": "10000002-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "お/ごいただく",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "お/ごいただく",
+    "explanation": "文脈から「お/ご〜いただく」が正しい表現です。Menerima tindakan (hormat) dari orang lain; kenjougo yang meninggikan lawan bicaraという意味で使われます。"
+  },
+  {
+    "id": "54ec7b3c-96a9-43e0-ab2e-a75898dd2217",
+    "lesson_id": "10000002-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「お/ご〜くださる」はどのような場面で使いますか。",
+    "options": [
+      "Seseorang yang terhormat melakukan sesuatu untuk kitaを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Seseorang yang terhormat melakukan sesuatu untuk kitaを表す場面",
+    "explanation": "「お/ご〜くださる」は「Seseorang yang terhormat melakukan sesuatu untuk kita」を表す場面で使います。"
+  },
+  {
+    "id": "4ad138c0-7a87-468d-a77a-e5fe1e80d676",
+    "lesson_id": "10000002-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「お/ご〜いただく」の使い方として正しいものはどれですか。",
+    "options": [
+      "先生にご指導いただき、大変感謝しております。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "先生にご指導いただき、大変感謝しております。",
+    "explanation": "「お/ご〜いただく」は「Menerima tindakan (hormat) dari orang lain; kenjougo yang meninggikan lawan bicara」という意味で、例文のように使います。"
+  },
+  {
+    "id": "8fa8054c-1ceb-49af-ad86-4f638414e5c7",
+    "lesson_id": "10000002-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜でいらっしゃる」の意味として正しいものはどれですか。",
+    "options": [
+      "Bentuk sonkeigo (hormat) dari です; menghormati subjek",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bentuk sonkeigo (hormat) dari です; menghormati subjek",
+    "explanation": "「〜でいらっしゃる」は「Bentuk sonkeigo (hormat) dari です; menghormati subjek」という意味です。"
+  },
+  {
+    "id": "78f7e357-f255-4470-ac13-ca667dbb9959",
+    "lesson_id": "10000002-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "でいらっしゃる",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "でいらっしゃる",
+    "explanation": "文脈から「〜でいらっしゃる」が正しい表現です。Bentuk sonkeigo (hormat) dari です; menghormati subjekという意味で使われます。"
+  },
+  {
+    "id": "8ff1b027-33ab-4bd3-a652-370a0f2a75e7",
+    "lesson_id": "10000002-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜でございます」はどのような場面で使いますか。",
+    "options": [
+      "Bentuk teineigo (sopan) dari です; merendahkan diri sendiriを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bentuk teineigo (sopan) dari です; merendahkan diri sendiriを表す場面",
+    "explanation": "「〜でございます」は「Bentuk teineigo (sopan) dari です; merendahkan diri sendiri」を表す場面で使います。"
+  },
+  {
+    "id": "2625c05a-30ce-43a5-acc6-7aee1de162fa",
+    "lesson_id": "10000002-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜でいらっしゃる」の使い方として正しいものはどれですか。",
+    "options": [
+      "こちらが田中部長でいらっしゃいます。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "こちらが田中部長でいらっしゃいます。",
+    "explanation": "「〜でいらっしゃる」は「Bentuk sonkeigo (hormat) dari です; menghormati subjek」という意味で、例文のように使います。"
+  },
+  {
+    "id": "3ddfe365-bcd0-4715-a6ff-c35639d0b7d4",
+    "lesson_id": "10000002-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜かねます」の意味として正しいものはどれですか。",
+    "options": [
+      "Sulit untuk...; tidak bisa (penolakan sopan)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sulit untuk...; tidak bisa (penolakan sopan)",
+    "explanation": "「〜かねます」は「Sulit untuk...; tidak bisa (penolakan sopan)」という意味です。"
+  },
+  {
+    "id": "bcf1c70f-a772-40c0-a5c8-3e6be455f3ed",
+    "lesson_id": "10000002-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "かねます",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "かねます",
+    "explanation": "文脈から「〜かねます」が正しい表現です。Sulit untuk...; tidak bisa (penolakan sopan)という意味で使われます。"
+  },
+  {
+    "id": "0b55a837-15d4-48e1-a59f-633733d0bf03",
+    "lesson_id": "10000002-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜かねない」はどのような場面で使いますか。",
+    "options": [
+      "Bisa jadi...; ada kemungkinan (hal buruk)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bisa jadi...; ada kemungkinan (hal buruk)を表す場面",
+    "explanation": "「〜かねない」は「Bisa jadi...; ada kemungkinan (hal buruk)」を表す場面で使います。"
+  },
+  {
+    "id": "d552352b-cd7c-4ab8-a514-c6ee1503186a",
+    "lesson_id": "10000002-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜かねます」の使い方として正しいものはどれですか。",
+    "options": [
+      "その件については、お答えしかねます。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "その件については、お答えしかねます。",
+    "explanation": "「〜かねます」は「Sulit untuk...; tidak bisa (penolakan sopan)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "02c21356-1617-47ce-aebf-d64ac3ca96df",
+    "lesson_id": "10000002-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「お/ご〜願えますか」の意味として正しいものはどれですか。",
+    "options": [
+      "Bisakah saya meminta Anda untuk...; permintaan sopan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bisakah saya meminta Anda untuk...; permintaan sopan",
+    "explanation": "「お/ご〜願えますか」は「Bisakah saya meminta Anda untuk...; permintaan sopan」という意味です。"
+  },
+  {
+    "id": "710c9b33-92c3-453e-afef-f6353cae16d3",
+    "lesson_id": "10000002-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "お/ご願えますか",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "お/ご願えますか",
+    "explanation": "文脈から「お/ご〜願えますか」が正しい表現です。Bisakah saya meminta Anda untuk...; permintaan sopanという意味で使われます。"
+  },
+  {
+    "id": "63cf4027-f51c-4b5c-a146-a783a2249f66",
+    "lesson_id": "10000002-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「お/ご〜申し上げる」はどのような場面で使いますか。",
+    "options": [
+      "Saya melakukan... (merendahkan diri); kenjougo tingkat tinggiを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Saya melakukan... (merendahkan diri); kenjougo tingkat tinggiを表す場面",
+    "explanation": "「お/ご〜申し上げる」は「Saya melakukan... (merendahkan diri); kenjougo tingkat tinggi」を表す場面で使います。"
+  },
+  {
+    "id": "2a99e37a-1636-4e88-abb4-ea7475a9a535",
+    "lesson_id": "10000002-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「お/ご〜願えますか」の使い方として正しいものはどれですか。",
+    "options": [
+      "お名前をお聞かせ願えますか。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "お名前をお聞かせ願えますか。",
+    "explanation": "「お/ご〜願えますか」は「Bisakah saya meminta Anda untuk...; permintaan sopan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "1f500453-f164-45fb-ae72-d5928459586d",
+    "lesson_id": "10000003-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜べからず」の意味として正しいものはどれですか。",
+    "options": [
+      "Dilarang...; tidak boleh (bentuk kuno/tertulis)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Dilarang...; tidak boleh (bentuk kuno/tertulis)",
+    "explanation": "「〜べからず」は「Dilarang...; tidak boleh (bentuk kuno/tertulis)」という意味です。"
+  },
+  {
+    "id": "e97b92f7-58e7-43af-a14b-0d8c6dfa69c8",
+    "lesson_id": "10000003-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "べからず",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "べからず",
+    "explanation": "文脈から「〜べからず」が正しい表現です。Dilarang...; tidak boleh (bentuk kuno/tertulis)という意味で使われます。"
+  },
+  {
+    "id": "c197865a-18f3-4888-a51a-15c72c24ef18",
+    "lesson_id": "10000003-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜べからざる」はどのような場面で使いますか。",
+    "options": [
+      "Yang tidak boleh...; bentuk attributif dari べからずを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Yang tidak boleh...; bentuk attributif dari べからずを表す場面",
+    "explanation": "「〜べからざる」は「Yang tidak boleh...; bentuk attributif dari べからず」を表す場面で使います。"
+  },
+  {
+    "id": "8dfc8221-d039-468e-ab3c-c18d0d082454",
+    "lesson_id": "10000003-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜べからず」の使い方として正しいものはどれですか。",
+    "options": [
+      "ここにゴミを捨てるべからず。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "ここにゴミを捨てるべからず。",
+    "explanation": "「〜べからず」は「Dilarang...; tidak boleh (bentuk kuno/tertulis)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "75a8a47d-6413-4a5b-a4f4-03b9a1e22c2f",
+    "lesson_id": "10000003-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜まじき」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak layak; tidak seharusnya dilakukan (bentuk kuno)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak layak; tidak seharusnya dilakukan (bentuk kuno)",
+    "explanation": "「〜まじき」は「Tidak layak; tidak seharusnya dilakukan (bentuk kuno)」という意味です。"
+  },
+  {
+    "id": "dacd5c91-fcca-4fa9-a912-ec64424efb23",
+    "lesson_id": "10000003-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "まじき",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "まじき",
+    "explanation": "文脈から「〜まじき」が正しい表現です。Tidak layak; tidak seharusnya dilakukan (bentuk kuno)という意味で使われます。"
+  },
+  {
+    "id": "01015b6b-9dc4-4f94-abe8-8062f0e11950",
+    "lesson_id": "10000003-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「あるまじき」はどのような場面で使いますか。",
+    "options": [
+      "Yang tidak seharusnya ada; tidak pantasを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Yang tidak seharusnya ada; tidak pantasを表す場面",
+    "explanation": "「あるまじき」は「Yang tidak seharusnya ada; tidak pantas」を表す場面で使います。"
+  },
+  {
+    "id": "56a001d8-a395-4bd7-ad2e-8b28accf6232",
+    "lesson_id": "10000003-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜まじき」の使い方として正しいものはどれですか。",
+    "options": [
+      "教師にあるまじき行為として厳しく批判された。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "教師にあるまじき行為として厳しく批判された。",
+    "explanation": "「〜まじき」は「Tidak layak; tidak seharusnya dilakukan (bentuk kuno)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "76349af5-87ef-4dee-aa66-101226b57274",
+    "lesson_id": "10000003-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ざるを得ない」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak bisa tidak...; terpaksa melakukan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak bisa tidak...; terpaksa melakukan",
+    "explanation": "「〜ざるを得ない」は「Tidak bisa tidak...; terpaksa melakukan」という意味です。"
+  },
+  {
+    "id": "596a0c26-45de-448d-a732-57fd4e54c197",
+    "lesson_id": "10000003-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ざるを得ない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ざるを得ない",
+    "explanation": "文脈から「〜ざるを得ない」が正しい表現です。Tidak bisa tidak...; terpaksa melakukanという意味で使われます。"
+  },
+  {
+    "id": "a8e5c58e-9920-4fa9-a6dc-1b5475800827",
+    "lesson_id": "10000003-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ないわけにはいかない」はどのような場面で使いますか。",
+    "options": [
+      "Tidak bisa tidak melakukan; harus melakukanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tidak bisa tidak melakukan; harus melakukanを表す場面",
+    "explanation": "「〜ないわけにはいかない」は「Tidak bisa tidak melakukan; harus melakukan」を表す場面で使います。"
+  },
+  {
+    "id": "fe754f15-c8b8-4cf6-a4c3-333ba8ce2733",
+    "lesson_id": "10000003-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ざるを得ない」の使い方として正しいものはどれですか。",
+    "options": [
+      "証拠がある以上、彼の主張を認めざるを得ない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "証拠がある以上、彼の主張を認めざるを得ない。",
+    "explanation": "「〜ざるを得ない」は「Tidak bisa tidak...; terpaksa melakukan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "3a50c904-3e46-43aa-a07d-6c561ea45d03",
+    "lesson_id": "10000003-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜がごとし」の意味として正しいものはどれですか。",
+    "options": [
+      "Seperti...; seolah-olah (bentuk sastra/klasik)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Seperti...; seolah-olah (bentuk sastra/klasik)",
+    "explanation": "「〜がごとし」は「Seperti...; seolah-olah (bentuk sastra/klasik)」という意味です。"
+  },
+  {
+    "id": "fe86e8b5-3211-47c2-acd8-4c09b750ab1b",
+    "lesson_id": "10000003-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "がごとし",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "がごとし",
+    "explanation": "文脈から「〜がごとし」が正しい表現です。Seperti...; seolah-olah (bentuk sastra/klasik)という意味で使われます。"
+  },
+  {
+    "id": "51c5556b-4d38-4007-a9e9-6d2ed9dcceee",
+    "lesson_id": "10000003-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜がごとく」はどのような場面で使いますか。",
+    "options": [
+      "Seperti... (bentuk adverbial dari ごとし)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Seperti... (bentuk adverbial dari ごとし)を表す場面",
+    "explanation": "「〜がごとく」は「Seperti... (bentuk adverbial dari ごとし)」を表す場面で使います。"
+  },
+  {
+    "id": "6ed627e7-b79d-45f0-ad5f-8f226f3abf24",
+    "lesson_id": "10000003-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜がごとし」の使い方として正しいものはどれですか。",
+    "options": [
+      "光陰矢のごとし。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "光陰矢のごとし。",
+    "explanation": "「〜がごとし」は「Seperti...; seolah-olah (bentuk sastra/klasik)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "fce2760a-43c4-400f-aebd-03dc471852e2",
+    "lesson_id": "10000003-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜なり」の意味として正しいものはどれですか。",
+    "options": [
+      "Segera setelah...; begitu saja",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Segera setelah...; begitu saja",
+    "explanation": "「〜なり」は「Segera setelah...; begitu saja」という意味です。"
+  },
+  {
+    "id": "06099398-06e7-4fcc-a3bc-eb72f24a55e9",
+    "lesson_id": "10000003-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "なり",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "なり",
+    "explanation": "文脈から「〜なり」が正しい表現です。Segera setelah...; begitu sajaという意味で使われます。"
+  },
+  {
+    "id": "c52f151a-987c-4e8e-a6a6-b6e0d1c6e427",
+    "lesson_id": "10000003-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜なりに/〜なりの」はどのような場面で使いますか。",
+    "options": [
+      "Sesuai dengan kemampuan/keadaan sendiriを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Sesuai dengan kemampuan/keadaan sendiriを表す場面",
+    "explanation": "「〜なりに/〜なりの」は「Sesuai dengan kemampuan/keadaan sendiri」を表す場面で使います。"
+  },
+  {
+    "id": "c94d417c-0363-4bff-a2f2-fd1135769c5b",
+    "lesson_id": "10000003-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜なり」の使い方として正しいものはどれですか。",
+    "options": [
+      "彼は部屋に入るなり、泣き出した。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "彼は部屋に入るなり、泣き出した。",
+    "explanation": "「〜なり」は「Segera setelah...; begitu saja」という意味で、例文のように使います。"
+  },
+  {
+    "id": "fda366f9-0cdf-41a1-a67b-af3a8b857869",
+    "lesson_id": "10000003-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜たるもの」の意味として正しいものはどれですか。",
+    "options": [
+      "Sebagai seorang... yang berstatus/berkedudukan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sebagai seorang... yang berstatus/berkedudukan",
+    "explanation": "「〜たるもの」は「Sebagai seorang... yang berstatus/berkedudukan」という意味です。"
+  },
+  {
+    "id": "db490659-fce1-4ac5-a3db-4116d8decc2e",
+    "lesson_id": "10000003-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "たるもの",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "たるもの",
+    "explanation": "文脈から「〜たるもの」が正しい表現です。Sebagai seorang... yang berstatus/berkedudukanという意味で使われます。"
+  },
+  {
+    "id": "151fc9e9-1529-4919-a627-535a510c5d0b",
+    "lesson_id": "10000003-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜たる」はどのような場面で使いますか。",
+    "options": [
+      "Yang merupakan...; bentuk klasik dari であるを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Yang merupakan...; bentuk klasik dari であるを表す場面",
+    "explanation": "「〜たる」は「Yang merupakan...; bentuk klasik dari である」を表す場面で使います。"
+  },
+  {
+    "id": "ed6326a8-f445-4121-a374-6a43fa9eca02",
+    "lesson_id": "10000003-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜たるもの」の使い方として正しいものはどれですか。",
+    "options": [
+      "医者たるもの、患者の命を第一に考えるべきだ。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "医者たるもの、患者の命を第一に考えるべきだ。",
+    "explanation": "「〜たるもの」は「Sebagai seorang... yang berstatus/berkedudukan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "9c19798e-e6db-49d2-ad89-fe5809aa2fe9",
+    "lesson_id": "10000004-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に他ならない」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak lain adalah...; pasti karena...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak lain adalah...; pasti karena...",
+    "explanation": "「〜に他ならない」は「Tidak lain adalah...; pasti karena...」という意味です。"
+  },
+  {
+    "id": "733989c8-9a94-44b5-ac3b-694ef60d7f4a",
+    "lesson_id": "10000004-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "に他ならない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "に他ならない",
+    "explanation": "文脈から「〜に他ならない」が正しい表現です。Tidak lain adalah...; pasti karena...という意味で使われます。"
+  },
+  {
+    "id": "1d5701fd-e0ed-4433-aab8-0de64808c66a",
+    "lesson_id": "10000004-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にほかならない」はどのような場面で使いますか。",
+    "options": [
+      "Sudah pasti...; tidak ada penjelasan lain selain...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Sudah pasti...; tidak ada penjelasan lain selain...を表す場面",
+    "explanation": "「〜にほかならない」は「Sudah pasti...; tidak ada penjelasan lain selain...」を表す場面で使います。"
+  },
+  {
+    "id": "033ce52a-e1e2-424d-ac73-210a4afc0237",
+    "lesson_id": "10000004-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に他ならない」の使い方として正しいものはどれですか。",
+    "options": [
+      "彼が成功したのは、努力の結果に他ならない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "彼が成功したのは、努力の結果に他ならない。",
+    "explanation": "「〜に他ならない」は「Tidak lain adalah...; pasti karena...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "3223df8c-73f3-4ff1-af96-3635ac3c2cc9",
+    "lesson_id": "10000004-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜というものではない」の意味として正しいものはどれですか。",
+    "options": [
+      "Bukan berarti...; tidak bisa dikatakan bahwa...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bukan berarti...; tidak bisa dikatakan bahwa...",
+    "explanation": "「〜というものではない」は「Bukan berarti...; tidak bisa dikatakan bahwa...」という意味です。"
+  },
+  {
+    "id": "4cd62e74-c962-46d8-a4a6-6d3e89119284",
+    "lesson_id": "10000004-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "というものではない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "というものではない",
+    "explanation": "文脈から「〜というものではない」が正しい表現です。Bukan berarti...; tidak bisa dikatakan bahwa...という意味で使われます。"
+  },
+  {
+    "id": "cbc4d2ee-d4ed-48ac-ab87-c6d0e9f197c4",
+    "lesson_id": "10000004-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜というものでもない」はどのような場面で使いますか。",
+    "options": [
+      "Tidak juga bisa dikatakan bahwa...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tidak juga bisa dikatakan bahwa...を表す場面",
+    "explanation": "「〜というものでもない」は「Tidak juga bisa dikatakan bahwa...」を表す場面で使います。"
+  },
+  {
+    "id": "32faa9fc-7584-41af-ab26-05d9542923ec",
+    "lesson_id": "10000004-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜というものではない」の使い方として正しいものはどれですか。",
+    "options": [
+      "お金があれば幸せだというものではない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "お金があれば幸せだというものではない。",
+    "explanation": "「〜というものではない」は「Bukan berarti...; tidak bisa dikatakan bahwa...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "4161f133-b12e-40b6-a3d0-85cdc90446be",
+    "lesson_id": "10000004-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜からこそ」の意味として正しいものはどれですか。",
+    "options": [
+      "Justru karena...; menekankan alasan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Justru karena...; menekankan alasan",
+    "explanation": "「〜からこそ」は「Justru karena...; menekankan alasan」という意味です。"
+  },
+  {
+    "id": "f4619e52-cb78-4e7f-ae19-6e658efc0008",
+    "lesson_id": "10000004-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "からこそ",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "からこそ",
+    "explanation": "文脈から「〜からこそ」が正しい表現です。Justru karena...; menekankan alasanという意味で使われます。"
+  },
+  {
+    "id": "6879cf53-7561-452b-a779-d54acf21ab1a",
+    "lesson_id": "10000004-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ればこそ」はどのような場面で使いますか。",
+    "options": [
+      "Justru karena... (bentuk lebih formal/sastra)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Justru karena... (bentuk lebih formal/sastra)を表す場面",
+    "explanation": "「〜ればこそ」は「Justru karena... (bentuk lebih formal/sastra)」を表す場面で使います。"
+  },
+  {
+    "id": "5685a749-3d88-4bf4-a35a-68df4d064a1f",
+    "lesson_id": "10000004-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜からこそ」の使い方として正しいものはどれですか。",
+    "options": [
+      "あなたのことが大切だからこそ、厳しいことを言うのだ。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "あなたのことが大切だからこそ、厳しいことを言うのだ。",
+    "explanation": "「〜からこそ」は「Justru karena...; menekankan alasan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "54a8a2f6-7cbc-4fe1-a259-1c610a333de1",
+    "lesson_id": "10000004-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜といっても過言ではない」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak berlebihan untuk mengatakan bahwa...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak berlebihan untuk mengatakan bahwa...",
+    "explanation": "「〜といっても過言ではない」は「Tidak berlebihan untuk mengatakan bahwa...」という意味です。"
+  },
+  {
+    "id": "53c28f55-687c-48c7-a8ce-f224dc5ee211",
+    "lesson_id": "10000004-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "といっても過言ではない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "といっても過言ではない",
+    "explanation": "文脈から「〜といっても過言ではない」が正しい表現です。Tidak berlebihan untuk mengatakan bahwa...という意味で使われます。"
+  },
+  {
+    "id": "a5926ddf-b987-43dc-a3a6-654bfadd186e",
+    "lesson_id": "10000004-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜と言わざるを得ない」はどのような場面で使いますか。",
+    "options": [
+      "Harus dikatakan bahwa...; tidak bisa tidak mengatakanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Harus dikatakan bahwa...; tidak bisa tidak mengatakanを表す場面",
+    "explanation": "「〜と言わざるを得ない」は「Harus dikatakan bahwa...; tidak bisa tidak mengatakan」を表す場面で使います。"
+  },
+  {
+    "id": "552e8076-da89-424d-a945-6eea682b7cc4",
+    "lesson_id": "10000004-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜といっても過言ではない」の使い方として正しいものはどれですか。",
+    "options": [
+      "この発見は科学の歴史を変えたといっても過言ではない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "この発見は科学の歴史を変えたといっても過言ではない。",
+    "explanation": "「〜といっても過言ではない」は「Tidak berlebihan untuk mengatakan bahwa...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "41641cd1-ffa9-4ae1-a1a3-cf81b51738b7",
+    "lesson_id": "10000004-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に至っては」の意味として正しいものはどれですか。",
+    "options": [
+      "Bahkan sampai pada...; apalagi dalam kasus... (kasus ekstrem)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bahkan sampai pada...; apalagi dalam kasus... (kasus ekstrem)",
+    "explanation": "「〜に至っては」は「Bahkan sampai pada...; apalagi dalam kasus... (kasus ekstrem)」という意味です。"
+  },
+  {
+    "id": "ff87dd00-934f-429f-acba-b8d188cc1429",
+    "lesson_id": "10000004-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "に至っては",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "に至っては",
+    "explanation": "文脈から「〜に至っては」が正しい表現です。Bahkan sampai pada...; apalagi dalam kasus... (kasus ekstrem)という意味で使われます。"
+  },
+  {
+    "id": "f7837ebc-8fa2-46cb-a5a7-63fedf49e5d0",
+    "lesson_id": "10000004-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に至るまで」はどのような場面で使いますか。",
+    "options": [
+      "Sampai pada...; hingga mencapaiを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Sampai pada...; hingga mencapaiを表す場面",
+    "explanation": "「〜に至るまで」は「Sampai pada...; hingga mencapai」を表す場面で使います。"
+  },
+  {
+    "id": "dc24023b-7d30-4548-af00-f4070175788e",
+    "lesson_id": "10000004-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に至っては」の使い方として正しいものはどれですか。",
+    "options": [
+      "成績は全体的に悪いが、数学に至っては赤点だった。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "成績は全体的に悪いが、数学に至っては赤点だった。",
+    "explanation": "「〜に至っては」は「Bahkan sampai pada...; apalagi dalam kasus... (kasus ekstrem)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "b77a6a7f-2e28-4f24-a3f0-85273c0c3e84",
+    "lesson_id": "10000004-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に即して」の意味として正しいものはどれですか。",
+    "options": [
+      "Sesuai dengan...; berdasarkan pada",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sesuai dengan...; berdasarkan pada",
+    "explanation": "「〜に即して」は「Sesuai dengan...; berdasarkan pada」という意味です。"
+  },
+  {
+    "id": "07c13933-fbc4-4d97-a4e7-db7309bfe5eb",
+    "lesson_id": "10000004-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "に即して",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "に即して",
+    "explanation": "文脈から「〜に即して」が正しい表現です。Sesuai dengan...; berdasarkan padaという意味で使われます。"
+  },
+  {
+    "id": "fc60b194-5202-4a9d-abb2-635d88a52b43",
+    "lesson_id": "10000004-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に沿って」はどのような場面で使いますか。",
+    "options": [
+      "Sesuai dengan...; mengikutiを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Sesuai dengan...; mengikutiを表す場面",
+    "explanation": "「〜に沿って」は「Sesuai dengan...; mengikuti」を表す場面で使います。"
+  },
+  {
+    "id": "4c3616a4-7ce4-4311-a96f-a809a51bf712",
+    "lesson_id": "10000004-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に即して」の使い方として正しいものはどれですか。",
+    "options": [
+      "現実に即した対策を講じる必要がある。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "現実に即した対策を講じる必要がある。",
+    "explanation": "「〜に即して」は「Sesuai dengan...; berdasarkan pada」という意味で、例文のように使います。"
+  },
+  {
+    "id": "2a3c43ee-38ef-4afc-aa18-3533015ea73e",
+    "lesson_id": "10000005-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「石の上にも三年」の意味として正しいものはどれですか。",
+    "options": [
+      "Duduk di atas batu pun tiga tahun; kesabaran dan ketekunan akan membuahkan hasil",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Duduk di atas batu pun tiga tahun; kesabaran dan ketekunan akan membuahkan hasil",
+    "explanation": "「石の上にも三年」は「Duduk di atas batu pun tiga tahun; kesabaran dan ketekunan akan membuahkan hasil」という意味です。"
+  },
+  {
+    "id": "b47c7115-b6cd-42db-af5a-42d04b77b8ae",
+    "lesson_id": "10000005-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "石の上にも三年",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "石の上にも三年",
+    "explanation": "文脈から「石の上にも三年」が正しい表現です。Duduk di atas batu pun tiga tahun; kesabaran dan ketekunan akan membuahkan hasilという意味で使われます。"
+  },
+  {
+    "id": "2482729b-db63-4549-a63a-2d5f0d304c21",
+    "lesson_id": "10000005-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「継続は力なり」はどのような場面で使いますか。",
+    "options": [
+      "Kontinuitas adalah kekuatan; hasil datang dari ketekunanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Kontinuitas adalah kekuatan; hasil datang dari ketekunanを表す場面",
+    "explanation": "「継続は力なり」は「Kontinuitas adalah kekuatan; hasil datang dari ketekunan」を表す場面で使います。"
+  },
+  {
+    "id": "d121298c-4a85-4c25-af52-6776be1ec7dd",
+    "lesson_id": "10000005-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「石の上にも三年」の使い方として正しいものはどれですか。",
+    "options": [
+      "石の上にも三年というように、彼はようやく認められた。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "石の上にも三年というように、彼はようやく認められた。",
+    "explanation": "「石の上にも三年」は「Duduk di atas batu pun tiga tahun; kesabaran dan ketekunan akan membuahkan hasil」という意味で、例文のように使います。"
+  },
+  {
+    "id": "7e6b8e71-eb2a-429b-a1bb-253186bc86e1",
+    "lesson_id": "10000005-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「七転び八起き」の意味として正しいものはどれですか。",
+    "options": [
+      "Jatuh tujuh kali bangkit delapan kali; pantang menyerah",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Jatuh tujuh kali bangkit delapan kali; pantang menyerah",
+    "explanation": "「七転び八起き」は「Jatuh tujuh kali bangkit delapan kali; pantang menyerah」という意味です。"
+  },
+  {
+    "id": "dafba874-9d19-4d75-ac5b-b7618725f0ea",
+    "lesson_id": "10000005-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "七転び八起き",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "七転び八起き",
+    "explanation": "文脈から「七転び八起き」が正しい表現です。Jatuh tujuh kali bangkit delapan kali; pantang menyerahという意味で使われます。"
+  },
+  {
+    "id": "a638d00f-dfc3-4c64-a6b6-cb6351df3aea",
+    "lesson_id": "10000005-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「転んでもただでは起きない」はどのような場面で使いますか。",
+    "options": [
+      "Jatuh pun tidak bangkit dengan tangan kosong; selalu mengambil pelajaranを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Jatuh pun tidak bangkit dengan tangan kosong; selalu mengambil pelajaranを表す場面",
+    "explanation": "「転んでもただでは起きない」は「Jatuh pun tidak bangkit dengan tangan kosong; selalu mengambil pelajaran」を表す場面で使います。"
+  },
+  {
+    "id": "e55c46b4-df21-4824-a834-0935f3d047d4",
+    "lesson_id": "10000005-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「七転び八起き」の使い方として正しいものはどれですか。",
+    "options": [
+      "七転び八起きの精神で、何度失敗しても挑戦し続けた。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "七転び八起きの精神で、何度失敗しても挑戦し続けた。",
+    "explanation": "「七転び八起き」は「Jatuh tujuh kali bangkit delapan kali; pantang menyerah」という意味で、例文のように使います。"
+  },
+  {
+    "id": "04470d84-bf48-400e-a4df-fb24ee162079",
+    "lesson_id": "10000005-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「猿も木から落ちる」の意味として正しいものはどれですか。",
+    "options": [
+      "Kera pun jatuh dari pohon; siapa pun bisa melakukan kesalahan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Kera pun jatuh dari pohon; siapa pun bisa melakukan kesalahan",
+    "explanation": "「猿も木から落ちる」は「Kera pun jatuh dari pohon; siapa pun bisa melakukan kesalahan」という意味です。"
+  },
+  {
+    "id": "56554967-2863-46b0-aedd-c6a937385cea",
+    "lesson_id": "10000005-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "猿も木から落ちる",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "猿も木から落ちる",
+    "explanation": "文脈から「猿も木から落ちる」が正しい表現です。Kera pun jatuh dari pohon; siapa pun bisa melakukan kesalahanという意味で使われます。"
+  },
+  {
+    "id": "2c4d5117-ed6f-4dd7-a549-25fcecf40dfd",
+    "lesson_id": "10000005-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「弘法にも筆の誤り」はどのような場面で使いますか。",
+    "options": [
+      "Bahkan Koubou pun salah menulis; ahli sekalipun bisa keliruを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bahkan Koubou pun salah menulis; ahli sekalipun bisa keliruを表す場面",
+    "explanation": "「弘法にも筆の誤り」は「Bahkan Koubou pun salah menulis; ahli sekalipun bisa keliru」を表す場面で使います。"
+  },
+  {
+    "id": "5394beca-d4fc-4532-af7e-f4505d0d397d",
+    "lesson_id": "10000005-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「猿も木から落ちる」の使い方として正しいものはどれですか。",
+    "options": [
+      "あの名人でもミスをするとは、猿も木から落ちるだな。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "あの名人でもミスをするとは、猿も木から落ちるだな。",
+    "explanation": "「猿も木から落ちる」は「Kera pun jatuh dari pohon; siapa pun bisa melakukan kesalahan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "ae0ce5b2-cab9-4b16-a5c4-5160341afac9",
+    "lesson_id": "10000005-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「能ある鷹は爪を隠す」の意味として正しいものはどれですか。",
+    "options": [
+      "Elang berbakat menyembunyikan cakarnya; orang bertalenta tidak pamer",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Elang berbakat menyembunyikan cakarnya; orang bertalenta tidak pamer",
+    "explanation": "「能ある鷹は爪を隠す」は「Elang berbakat menyembunyikan cakarnya; orang bertalenta tidak pamer」という意味です。"
+  },
+  {
+    "id": "5023c273-dcee-4fdd-a323-6bd6d213f377",
+    "lesson_id": "10000005-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "能ある鷹は爪を隠す",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "能ある鷹は爪を隠す",
+    "explanation": "文脈から「能ある鷹は爪を隠す」が正しい表現です。Elang berbakat menyembunyikan cakarnya; orang bertalenta tidak pamerという意味で使われます。"
+  },
+  {
+    "id": "2c024c58-f0f9-4da2-a966-a3a286cd4770",
+    "lesson_id": "10000005-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「実るほど頭を垂れる稲穂かな」はどのような場面で使いますか。",
+    "options": [
+      "Semakin berisi semakin merunduk; semakin bijak semakin rendah hatiを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Semakin berisi semakin merunduk; semakin bijak semakin rendah hatiを表す場面",
+    "explanation": "「実るほど頭を垂れる稲穂かな」は「Semakin berisi semakin merunduk; semakin bijak semakin rendah hati」を表す場面で使います。"
+  },
+  {
+    "id": "39f69b02-6101-4340-a1e9-f7a6a72511ec",
+    "lesson_id": "10000005-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「能ある鷹は爪を隠す」の使い方として正しいものはどれですか。",
+    "options": [
+      "彼は普段は目立たないが、能ある鷹は爪を隠すというやつだ。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "彼は普段は目立たないが、能ある鷹は爪を隠すというやつだ。",
+    "explanation": "「能ある鷹は爪を隠す」は「Elang berbakat menyembunyikan cakarnya; orang bertalenta tidak pamer」という意味で、例文のように使います。"
+  },
+  {
+    "id": "7def45df-2f3d-4ed7-a21c-29adac06dd0e",
+    "lesson_id": "10000005-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「急がば回れ」の意味として正しいものはどれですか。",
+    "options": [
+      "Jika terburu-buru, ambil jalan memutar; cara yang tampak lambat bisa lebih cepat",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Jika terburu-buru, ambil jalan memutar; cara yang tampak lambat bisa lebih cepat",
+    "explanation": "「急がば回れ」は「Jika terburu-buru, ambil jalan memutar; cara yang tampak lambat bisa lebih cepat」という意味です。"
+  },
+  {
+    "id": "10c13fce-7ca7-4193-a7aa-1da83a3db99c",
+    "lesson_id": "10000005-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "急がば回れ",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "急がば回れ",
+    "explanation": "文脈から「急がば回れ」が正しい表現です。Jika terburu-buru, ambil jalan memutar; cara yang tampak lambat bisa lebih cepatという意味で使われます。"
+  },
+  {
+    "id": "ae9cb461-8304-401b-ac1c-4e508a8e5c2f",
+    "lesson_id": "10000005-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「慌てる乞食はもらいが少ない」はどのような場面で使いますか。",
+    "options": [
+      "Pengemis yang terburu-buru mendapat sedikit; tergesa-gesa justru rugiを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Pengemis yang terburu-buru mendapat sedikit; tergesa-gesa justru rugiを表す場面",
+    "explanation": "「慌てる乞食はもらいが少ない」は「Pengemis yang terburu-buru mendapat sedikit; tergesa-gesa justru rugi」を表す場面で使います。"
+  },
+  {
+    "id": "c1049a07-42ba-4161-ae1a-2c0233e408bd",
+    "lesson_id": "10000005-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「急がば回れ」の使い方として正しいものはどれですか。",
+    "options": [
+      "近道は危ないから、急がば回れで大通りを行こう。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "近道は危ないから、急がば回れで大通りを行こう。",
+    "explanation": "「急がば回れ」は「Jika terburu-buru, ambil jalan memutar; cara yang tampak lambat bisa lebih cepat」という意味で、例文のように使います。"
+  },
+  {
+    "id": "583e3377-ff42-47cb-aeee-af47b76b0814",
+    "lesson_id": "10000005-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「出る杭は打たれる」の意味として正しいものはどれですか。",
+    "options": [
+      "Paku yang menonjol akan dipukul; orang yang menonjol sering menjadi sasaran",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Paku yang menonjol akan dipukul; orang yang menonjol sering menjadi sasaran",
+    "explanation": "「出る杭は打たれる」は「Paku yang menonjol akan dipukul; orang yang menonjol sering menjadi sasaran」という意味です。"
+  },
+  {
+    "id": "4e5feffc-4366-4aa0-a666-1312c669fc17",
+    "lesson_id": "10000005-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "出る杭は打たれる",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "出る杭は打たれる",
+    "explanation": "文脈から「出る杭は打たれる」が正しい表現です。Paku yang menonjol akan dipukul; orang yang menonjol sering menjadi sasaranという意味で使われます。"
+  },
+  {
+    "id": "7ea3c831-5a3a-473f-aed1-9b27c3e76232",
+    "lesson_id": "10000005-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「長いものには巻かれろ」はどのような場面で使いますか。",
+    "options": [
+      "Bungkus dirimu dengan yang panjang; ikuti yang berkuasaを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bungkus dirimu dengan yang panjang; ikuti yang berkuasaを表す場面",
+    "explanation": "「長いものには巻かれろ」は「Bungkus dirimu dengan yang panjang; ikuti yang berkuasa」を表す場面で使います。"
+  },
+  {
+    "id": "c2575370-2a26-42c8-a93e-b39c875819d3",
+    "lesson_id": "10000005-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「出る杭は打たれる」の使い方として正しいものはどれですか。",
+    "options": [
+      "出る杭は打たれるというが、それでも自分の意見を言うべきだ。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "出る杭は打たれるというが、それでも自分の意見を言うべきだ。",
+    "explanation": "「出る杭は打たれる」は「Paku yang menonjol akan dipukul; orang yang menonjol sering menjadi sasaran」という意味で、例文のように使います。"
+  },
+  {
+    "id": "9622f1e6-0519-4b91-ad32-c1e9b51c4319",
+    "lesson_id": "10000006-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にしたところで」の意味として正しいものはどれですか。",
+    "options": [
+      "Bahkan jika... sekalipun; meskipun dari sudut pandang...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Bahkan jika... sekalipun; meskipun dari sudut pandang...",
+    "explanation": "「〜にしたところで」は「Bahkan jika... sekalipun; meskipun dari sudut pandang...」という意味です。"
+  },
+  {
+    "id": "02432940-d787-4bf9-a731-f7d6d123005e",
+    "lesson_id": "10000006-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "にしたところで",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "にしたところで",
+    "explanation": "文脈から「〜にしたところで」が正しい表現です。Bahkan jika... sekalipun; meskipun dari sudut pandang...という意味で使われます。"
+  },
+  {
+    "id": "63d6ca14-167d-499f-a8e7-cf59088c78dc",
+    "lesson_id": "10000006-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にしたって」はどのような場面で使いますか。",
+    "options": [
+      "Bahkan... sekalipun (bentuk kasual dari にしたところで)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Bahkan... sekalipun (bentuk kasual dari にしたところで)を表す場面",
+    "explanation": "「〜にしたって」は「Bahkan... sekalipun (bentuk kasual dari にしたところで)」を表す場面で使います。"
+  },
+  {
+    "id": "4aeeba18-97ea-42e3-a354-0ec340446f05",
+    "lesson_id": "10000006-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にしたところで」の使い方として正しいものはどれですか。",
+    "options": [
+      "専門家にしたところで、この問題の解決は容易ではない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "専門家にしたところで、この問題の解決は容易ではない。",
+    "explanation": "「〜にしたところで」は「Bahkan jika... sekalipun; meskipun dari sudut pandang...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "025390a5-b19f-428f-aea1-75c7bd3235c9",
+    "lesson_id": "10000006-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ともなると」の意味として正しいものはどれですか。",
+    "options": [
+      "Ketika sudah sampai pada tingkat/posisi...; jika sudah menjadi...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Ketika sudah sampai pada tingkat/posisi...; jika sudah menjadi...",
+    "explanation": "「〜ともなると」は「Ketika sudah sampai pada tingkat/posisi...; jika sudah menjadi...」という意味です。"
+  },
+  {
+    "id": "5917f923-9e86-48be-ad29-e4ddc3738c63",
+    "lesson_id": "10000006-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ともなると",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ともなると",
+    "explanation": "文脈から「〜ともなると」が正しい表現です。Ketika sudah sampai pada tingkat/posisi...; jika sudah menjadi...という意味で使われます。"
+  },
+  {
+    "id": "383df779-e328-4fa8-abee-6890f82e5677",
+    "lesson_id": "10000006-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ともなれば」はどのような場面で使いますか。",
+    "options": [
+      "Jika sudah pada level... (lebih formal)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Jika sudah pada level... (lebih formal)を表す場面",
+    "explanation": "「〜ともなれば」は「Jika sudah pada level... (lebih formal)」を表す場面で使います。"
+  },
+  {
+    "id": "ebbeb949-2602-49cc-ab10-8151673590c6",
+    "lesson_id": "10000006-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ともなると」の使い方として正しいものはどれですか。",
+    "options": [
+      "社長ともなると、責任の重さが違う。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "社長ともなると、責任の重さが違う。",
+    "explanation": "「〜ともなると」は「Ketika sudah sampai pada tingkat/posisi...; jika sudah menjadi...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "4db3cc87-e741-4fa0-a2bd-778a7b9e78c5",
+    "lesson_id": "10000006-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ならいざ知らず」の意味として正しいものはどれですか。",
+    "options": [
+      "Kalau... mungkin berbeda, tapi...; mungkin bisa diterima untuk... tapi tidak untuk ini",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Kalau... mungkin berbeda, tapi...; mungkin bisa diterima untuk... tapi tidak untuk ini",
+    "explanation": "「〜ならいざ知らず」は「Kalau... mungkin berbeda, tapi...; mungkin bisa diterima untuk... tapi tidak untuk ini」という意味です。"
+  },
+  {
+    "id": "8f621d48-4999-41a9-a448-2dcab0d9663a",
+    "lesson_id": "10000006-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ならいざ知らず",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ならいざ知らず",
+    "explanation": "文脈から「〜ならいざ知らず」が正しい表現です。Kalau... mungkin berbeda, tapi...; mungkin bisa diterima untuk... tapi tidak untuk iniという意味で使われます。"
+  },
+  {
+    "id": "e88ce8e6-f76f-4fde-a53f-f23b8efe14f5",
+    "lesson_id": "10000006-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ならまだしも」はどのような場面で使いますか。",
+    "options": [
+      "Kalau... masih bisa diterima, tapi...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Kalau... masih bisa diterima, tapi...を表す場面",
+    "explanation": "「〜ならまだしも」は「Kalau... masih bisa diterima, tapi...」を表す場面で使います。"
+  },
+  {
+    "id": "b86d823f-31f9-46dc-af83-f18012a8feb5",
+    "lesson_id": "10000006-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ならいざ知らず」の使い方として正しいものはどれですか。",
+    "options": [
+      "子供ならいざ知らず、大人がそんなことをするのは恥ずかしい。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "子供ならいざ知らず、大人がそんなことをするのは恥ずかしい。",
+    "explanation": "「〜ならいざ知らず」は「Kalau... mungkin berbeda, tapi...; mungkin bisa diterima untuk... tapi tidak untuk ini」という意味で、例文のように使います。"
+  },
+  {
+    "id": "15bd6cd1-785b-458e-af64-a069b45e6427",
+    "lesson_id": "10000006-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にとどまらず」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak hanya terbatas pada...; tidak berhenti pada...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak hanya terbatas pada...; tidak berhenti pada...",
+    "explanation": "「〜にとどまらず」は「Tidak hanya terbatas pada...; tidak berhenti pada...」という意味です。"
+  },
+  {
+    "id": "d3283a1b-cf1c-4e60-a0db-5d65875f74ee",
+    "lesson_id": "10000006-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "にとどまらず",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "にとどまらず",
+    "explanation": "文脈から「〜にとどまらず」が正しい表現です。Tidak hanya terbatas pada...; tidak berhenti pada...という意味で使われます。"
+  },
+  {
+    "id": "b2b6ac7d-7f47-4aba-a54b-84344a19208f",
+    "lesson_id": "10000006-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜のみならず」はどのような場面で使いますか。",
+    "options": [
+      "Tidak hanya...; bukan hanya... tapi jugaを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tidak hanya...; bukan hanya... tapi jugaを表す場面",
+    "explanation": "「〜のみならず」は「Tidak hanya...; bukan hanya... tapi juga」を表す場面で使います。"
+  },
+  {
+    "id": "f7955ce2-9062-432d-a3d7-9ba12b6a41b7",
+    "lesson_id": "10000006-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にとどまらず」の使い方として正しいものはどれですか。",
+    "options": [
+      "被害は東京にとどまらず、全国に広がっている。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "被害は東京にとどまらず、全国に広がっている。",
+    "explanation": "「〜にとどまらず」は「Tidak hanya terbatas pada...; tidak berhenti pada...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "e6191d78-35b4-4c7f-afc8-ab32e7dc4bd8",
+    "lesson_id": "10000006-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜をものともせず」の意味として正しいものはどれですか。",
+    "options": [
+      "Tanpa menghiraukan...; tidak gentar oleh...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tanpa menghiraukan...; tidak gentar oleh...",
+    "explanation": "「〜をものともせず」は「Tanpa menghiraukan...; tidak gentar oleh...」という意味です。"
+  },
+  {
+    "id": "2dfd26aa-d137-49e3-ac16-1773f53057c9",
+    "lesson_id": "10000006-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "をものともせず",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "をものともせず",
+    "explanation": "文脈から「〜をものともせず」が正しい表現です。Tanpa menghiraukan...; tidak gentar oleh...という意味で使われます。"
+  },
+  {
+    "id": "feb5b4f9-e1b0-4f17-a30b-a7e410b5e878",
+    "lesson_id": "10000006-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜をよそに」はどのような場面で使いますか。",
+    "options": [
+      "Mengabaikan...; tanpa mempedulikanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Mengabaikan...; tanpa mempedulikanを表す場面",
+    "explanation": "「〜をよそに」は「Mengabaikan...; tanpa mempedulikan」を表す場面で使います。"
+  },
+  {
+    "id": "38cbc530-0153-4de7-a819-29005957296e",
+    "lesson_id": "10000006-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜をものともせず」の使い方として正しいものはどれですか。",
+    "options": [
+      "彼女は困難をものともせず、夢を追い続けた。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "彼女は困難をものともせず、夢を追い続けた。",
+    "explanation": "「〜をものともせず」は「Tanpa menghiraukan...; tidak gentar oleh...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "666e1ef2-b320-4741-a995-2a187c580ede",
+    "lesson_id": "10000006-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜極まりない」の意味として正しいものはどれですか。",
+    "options": [
+      "Sangat...; luar biasa (biasanya negatif)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sangat...; luar biasa (biasanya negatif)",
+    "explanation": "「〜極まりない」は「Sangat...; luar biasa (biasanya negatif)」という意味です。"
+  },
+  {
+    "id": "c97f6e64-24c8-41d4-a274-aa74e347c566",
+    "lesson_id": "10000006-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "極まりない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "極まりない",
+    "explanation": "文脈から「〜極まりない」が正しい表現です。Sangat...; luar biasa (biasanya negatif)という意味で使われます。"
+  },
+  {
+    "id": "10fbbe07-f612-483c-a212-3353226873dd",
+    "lesson_id": "10000006-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜極まる」はどのような場面で使いますか。",
+    "options": [
+      "Mencapai puncak...; sangat (digunakan dengan な-adjektiva)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Mencapai puncak...; sangat (digunakan dengan な-adjektiva)を表す場面",
+    "explanation": "「〜極まる」は「Mencapai puncak...; sangat (digunakan dengan な-adjektiva)」を表す場面で使います。"
+  },
+  {
+    "id": "9b1c4d13-2dca-466a-a3dc-2cb54b83b150",
+    "lesson_id": "10000006-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜極まりない」の使い方として正しいものはどれですか。",
+    "options": [
+      "彼の態度は失礼極まりない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "彼の態度は失礼極まりない。",
+    "explanation": "「〜極まりない」は「Sangat...; luar biasa (biasanya negatif)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "029028d7-36a7-4a3f-a6c8-a735125ee177",
+    "lesson_id": "10000007-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜やいなや」の意味として正しいものはどれですか。",
+    "options": [
+      "Begitu...; segera setelah (sangat cepat)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Begitu...; segera setelah (sangat cepat)",
+    "explanation": "「〜やいなや」は「Begitu...; segera setelah (sangat cepat)」という意味です。"
+  },
+  {
+    "id": "b1eef771-3b19-4ef3-a868-d19513ff1513",
+    "lesson_id": "10000007-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "やいなや",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "やいなや",
+    "explanation": "文脈から「〜やいなや」が正しい表現です。Begitu...; segera setelah (sangat cepat)という意味で使われます。"
+  },
+  {
+    "id": "d9acfebf-5e8f-488d-a2de-3e22cf5c9314",
+    "lesson_id": "10000007-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜や否や」はどのような場面で使いますか。",
+    "options": [
+      "Begitu...; belum sempat... sudah... (bentuk tertulis)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Begitu...; belum sempat... sudah... (bentuk tertulis)を表す場面",
+    "explanation": "「〜や否や」は「Begitu...; belum sempat... sudah... (bentuk tertulis)」を表す場面で使います。"
+  },
+  {
+    "id": "88f3aef2-6763-4381-a7e6-279f3e82c539",
+    "lesson_id": "10000007-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜やいなや」の使い方として正しいものはどれですか。",
+    "options": [
+      "ベルが鳴るやいなや、生徒たちは教室を飛び出した。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "ベルが鳴るやいなや、生徒たちは教室を飛び出した。",
+    "explanation": "「〜やいなや」は「Begitu...; segera setelah (sangat cepat)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "897fa221-24aa-4f19-a4e9-1b1e02982260",
+    "lesson_id": "10000007-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜そばから」の意味として正しいものはどれですか。",
+    "options": [
+      "Baru saja... sudah...; berulang kali terjadi (nuansa frustrasi)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Baru saja... sudah...; berulang kali terjadi (nuansa frustrasi)",
+    "explanation": "「〜そばから」は「Baru saja... sudah...; berulang kali terjadi (nuansa frustrasi)」という意味です。"
+  },
+  {
+    "id": "937ba55e-4a85-429c-ab94-7bc0bcd48bce",
+    "lesson_id": "10000007-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "そばから",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "そばから",
+    "explanation": "文脈から「〜そばから」が正しい表現です。Baru saja... sudah...; berulang kali terjadi (nuansa frustrasi)という意味で使われます。"
+  },
+  {
+    "id": "1cb29151-aff5-4b8e-abb2-f9f14e06b2f3",
+    "lesson_id": "10000007-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜端から」はどのような場面で使いますか。",
+    "options": [
+      "Dari ujung; segera setelah (sinonim dari そばから)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Dari ujung; segera setelah (sinonim dari そばから)を表す場面",
+    "explanation": "「〜端から」は「Dari ujung; segera setelah (sinonim dari そばから)」を表す場面で使います。"
+  },
+  {
+    "id": "502a4918-022b-4f0e-a295-fd8a0fd702ba",
+    "lesson_id": "10000007-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜そばから」の使い方として正しいものはどれですか。",
+    "options": [
+      "片付けるそばから子供が散らかす。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "片付けるそばから子供が散らかす。",
+    "explanation": "「〜そばから」は「Baru saja... sudah...; berulang kali terjadi (nuansa frustrasi)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "0e680214-b0f1-4c04-aa51-877b6e17b0ae",
+    "lesson_id": "10000007-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜てからというもの」の意味として正しいものはどれですか。",
+    "options": [
+      "Sejak...; setelah itu segalanya berubah",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sejak...; setelah itu segalanya berubah",
+    "explanation": "「〜てからというもの」は「Sejak...; setelah itu segalanya berubah」という意味です。"
+  },
+  {
+    "id": "2f7e2e48-f4ac-4383-a176-89c8eb467dbd",
+    "lesson_id": "10000007-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "てからというもの",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "てからというもの",
+    "explanation": "文脈から「〜てからというもの」が正しい表現です。Sejak...; setelah itu segalanya berubahという意味で使われます。"
+  },
+  {
+    "id": "031b5cb2-440e-459e-aff1-2928b72fcee0",
+    "lesson_id": "10000007-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜て以来」はどのような場面で使いますか。",
+    "options": [
+      "Sejak...; dari saat itu hingga sekarangを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Sejak...; dari saat itu hingga sekarangを表す場面",
+    "explanation": "「〜て以来」は「Sejak...; dari saat itu hingga sekarang」を表す場面で使います。"
+  },
+  {
+    "id": "e2772e28-3ba8-41c2-a79d-e2bb506ff747",
+    "lesson_id": "10000007-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜てからというもの」の使い方として正しいものはどれですか。",
+    "options": [
+      "日本に来てからというもの、毎日が新しい発見の連続だ。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "日本に来てからというもの、毎日が新しい発見の連続だ。",
+    "explanation": "「〜てからというもの」は「Sejak...; setelah itu segalanya berubah」という意味で、例文のように使います。"
+  },
+  {
+    "id": "da6c5cb2-566b-4bae-a41f-a0e45278b58e",
+    "lesson_id": "10000007-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に至るまで」の意味として正しいものはどれですか。",
+    "options": [
+      "Hingga sampai pada...; mencakup semuanya hingga...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Hingga sampai pada...; mencakup semuanya hingga...",
+    "explanation": "「〜に至るまで」は「Hingga sampai pada...; mencakup semuanya hingga...」という意味です。"
+  },
+  {
+    "id": "8580c748-6c44-4584-a535-8657299813bb",
+    "lesson_id": "10000007-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "に至るまで",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "に至るまで",
+    "explanation": "文脈から「〜に至るまで」が正しい表現です。Hingga sampai pada...; mencakup semuanya hingga...という意味で使われます。"
+  },
+  {
+    "id": "5eb02eb6-5efd-4ab2-ad69-51d8481cda48",
+    "lesson_id": "10000007-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に至る」はどのような場面で使いますか。",
+    "options": [
+      "Sampai pada; mencapai (titik tertentu)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Sampai pada; mencapai (titik tertentu)を表す場面",
+    "explanation": "「〜に至る」は「Sampai pada; mencapai (titik tertentu)」を表す場面で使います。"
+  },
+  {
+    "id": "acba132e-208f-45d5-a3f4-03c38a3853d9",
+    "lesson_id": "10000007-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に至るまで」の使い方として正しいものはどれですか。",
+    "options": [
+      "衣食住に至るまで、すべてが変わった。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "衣食住に至るまで、すべてが変わった。",
+    "explanation": "「〜に至るまで」は「Hingga sampai pada...; mencakup semuanya hingga...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "d08e6acd-0dda-4e42-acb8-6561491d5b12",
+    "lesson_id": "10000007-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を皮切りに」の意味として正しいものはどれですか。",
+    "options": [
+      "Dimulai dari...; dengan... sebagai awal",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Dimulai dari...; dengan... sebagai awal",
+    "explanation": "「〜を皮切りに」は「Dimulai dari...; dengan... sebagai awal」という意味です。"
+  },
+  {
+    "id": "13ba55ed-c4dc-40df-aa5c-a86bc44b17fb",
+    "lesson_id": "10000007-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "を皮切りに",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "を皮切りに",
+    "explanation": "文脈から「〜を皮切りに」が正しい表現です。Dimulai dari...; dengan... sebagai awalという意味で使われます。"
+  },
+  {
+    "id": "8ac01ba6-a3ca-4808-abd6-c8d0b32e45b4",
+    "lesson_id": "10000007-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を契機に」はどのような場面で使いますか。",
+    "options": [
+      "Dengan... sebagai momentum/titik balikを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Dengan... sebagai momentum/titik balikを表す場面",
+    "explanation": "「〜を契機に」は「Dengan... sebagai momentum/titik balik」を表す場面で使います。"
+  },
+  {
+    "id": "e5dd245f-9845-4af1-ad54-556fef001128",
+    "lesson_id": "10000007-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を皮切りに」の使い方として正しいものはどれですか。",
+    "options": [
+      "東京を皮切りに、全国ツアーが始まった。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "東京を皮切りに、全国ツアーが始まった。",
+    "explanation": "「〜を皮切りに」は「Dimulai dari...; dengan... sebagai awal」という意味で、例文のように使います。"
+  },
+  {
+    "id": "55a667e7-6e42-4241-adfb-351b204b92f4",
+    "lesson_id": "10000007-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を踏まえて」の意味として正しいものはどれですか。",
+    "options": [
+      "Berdasarkan...; dengan mempertimbangkan",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Berdasarkan...; dengan mempertimbangkan",
+    "explanation": "「〜を踏まえて」は「Berdasarkan...; dengan mempertimbangkan」という意味です。"
+  },
+  {
+    "id": "791db6fd-9809-48a3-add0-b9995861cbcb",
+    "lesson_id": "10000007-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "を踏まえて",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "を踏まえて",
+    "explanation": "文脈から「〜を踏まえて」が正しい表現です。Berdasarkan...; dengan mempertimbangkanという意味で使われます。"
+  },
+  {
+    "id": "99e0e3ca-8492-4944-a179-2132f7c8d80d",
+    "lesson_id": "10000007-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を踏まえた上で」はどのような場面で使いますか。",
+    "options": [
+      "Setelah mempertimbangkan... dengan seksamaを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Setelah mempertimbangkan... dengan seksamaを表す場面",
+    "explanation": "「〜を踏まえた上で」は「Setelah mempertimbangkan... dengan seksama」を表す場面で使います。"
+  },
+  {
+    "id": "a545497a-3c0d-4558-a1aa-6cd6c5bf42ec",
+    "lesson_id": "10000007-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を踏まえて」の使い方として正しいものはどれですか。",
+    "options": [
+      "調査結果を踏まえて、新しい方針を決定した。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "調査結果を踏まえて、新しい方針を決定した。",
+    "explanation": "「〜を踏まえて」は「Berdasarkan...; dengan mempertimbangkan」という意味で、例文のように使います。"
+  },
+  {
+    "id": "28a74526-d9e6-4616-a06b-8143e71496bb",
+    "lesson_id": "10000008-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に即して」の意味として正しいものはどれですか。",
+    "options": [
+      "Sesuai dengan...; berdasarkan (konteks bisnis/formal)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Sesuai dengan...; berdasarkan (konteks bisnis/formal)",
+    "explanation": "「〜に即して」は「Sesuai dengan...; berdasarkan (konteks bisnis/formal)」という意味です。"
+  },
+  {
+    "id": "adce653c-2962-44e9-a208-6ccbe8fe26c9",
+    "lesson_id": "10000008-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "に即して",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "に即して",
+    "explanation": "文脈から「〜に即して」が正しい表現です。Sesuai dengan...; berdasarkan (konteks bisnis/formal)という意味で使われます。"
+  },
+  {
+    "id": "ea1a794e-9acf-4250-ae10-d16a2b4c5f6e",
+    "lesson_id": "10000008-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に基づいて」はどのような場面で使いますか。",
+    "options": [
+      "Berdasarkan...; berlandaskan padaを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Berdasarkan...; berlandaskan padaを表す場面",
+    "explanation": "「〜に基づいて」は「Berdasarkan...; berlandaskan pada」を表す場面で使います。"
+  },
+  {
+    "id": "b27ea462-2346-4605-a5ab-4603ef5b1f50",
+    "lesson_id": "10000008-0001-4a00-a001-000000000001",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に即して」の使い方として正しいものはどれですか。",
+    "options": [
+      "市場の動向に即して、戦略を修正する必要がある。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "市場の動向に即して、戦略を修正する必要がある。",
+    "explanation": "「〜に即して」は「Sesuai dengan...; berdasarkan (konteks bisnis/formal)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "9c2900fe-664c-4757-a481-1690cfb98353",
+    "lesson_id": "10000008-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜如何によっては」の意味として正しいものはどれですか。",
+    "options": [
+      "Tergantung pada...; bergantung pada bagaimana...",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tergantung pada...; bergantung pada bagaimana...",
+    "explanation": "「〜如何によっては」は「Tergantung pada...; bergantung pada bagaimana...」という意味です。"
+  },
+  {
+    "id": "bc1d5ff2-a602-4916-a400-15c2c80cddea",
+    "lesson_id": "10000008-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "如何によっては",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "如何によっては",
+    "explanation": "文脈から「〜如何によっては」が正しい表現です。Tergantung pada...; bergantung pada bagaimana...という意味で使われます。"
+  },
+  {
+    "id": "9c7f944d-e938-40b6-afc9-2f7126a36132",
+    "lesson_id": "10000008-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜如何にかかわらず」はどのような場面で使いますか。",
+    "options": [
+      "Tanpa memandang...; terlepas dari bagaimana...を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tanpa memandang...; terlepas dari bagaimana...を表す場面",
+    "explanation": "「〜如何にかかわらず」は「Tanpa memandang...; terlepas dari bagaimana...」を表す場面で使います。"
+  },
+  {
+    "id": "a121c886-954e-48b6-a049-96614744e0ff",
+    "lesson_id": "10000008-0001-4a00-a001-000000000002",
+    "question_type": "multiple_choice",
+    "question_text": "「〜如何によっては」の使い方として正しいものはどれですか。",
+    "options": [
+      "結果如何によっては、計画を変更せざるを得ない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "結果如何によっては、計画を変更せざるを得ない。",
+    "explanation": "「〜如何によっては」は「Tergantung pada...; bergantung pada bagaimana...」という意味で、例文のように使います。"
+  },
+  {
+    "id": "8ae8e6e9-e11b-4d7f-ade7-50138ddfd588",
+    "lesson_id": "10000008-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を余儀なくされる」の意味として正しいものはどれですか。",
+    "options": [
+      "Terpaksa melakukan...; dipaksa oleh keadaan (konteks bisnis)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Terpaksa melakukan...; dipaksa oleh keadaan (konteks bisnis)",
+    "explanation": "「〜を余儀なくされる」は「Terpaksa melakukan...; dipaksa oleh keadaan (konteks bisnis)」という意味です。"
+  },
+  {
+    "id": "263c2618-d873-4c6a-a8b1-c8c19174713a",
+    "lesson_id": "10000008-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "を余儀なくされる",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "を余儀なくされる",
+    "explanation": "文脈から「〜を余儀なくされる」が正しい表現です。Terpaksa melakukan...; dipaksa oleh keadaan (konteks bisnis)という意味で使われます。"
+  },
+  {
+    "id": "a4229bd8-916b-4884-af60-859cedde4823",
+    "lesson_id": "10000008-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜やむを得ず」はどのような場面で使いますか。",
+    "options": [
+      "Dengan terpaksa; karena tidak ada pilihan lainを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Dengan terpaksa; karena tidak ada pilihan lainを表す場面",
+    "explanation": "「〜やむを得ず」は「Dengan terpaksa; karena tidak ada pilihan lain」を表す場面で使います。"
+  },
+  {
+    "id": "5f164b9b-ddfc-4634-a466-ec195b8241fa",
+    "lesson_id": "10000008-0001-4a00-a001-000000000003",
+    "question_type": "multiple_choice",
+    "question_text": "「〜を余儀なくされる」の使い方として正しいものはどれですか。",
+    "options": [
+      "業績悪化により、大幅な人員削減を余儀なくされた。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "業績悪化により、大幅な人員削減を余儀なくされた。",
+    "explanation": "「〜を余儀なくされる」は「Terpaksa melakukan...; dipaksa oleh keadaan (konteks bisnis)」という意味で、例文のように使います。"
+  },
+  {
+    "id": "efb54f57-6b40-4c43-a114-fbadfaf31d75",
+    "lesson_id": "10000008-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にかたくない」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak sulit untuk...; mudah dibayangkan/dipahami",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak sulit untuk...; mudah dibayangkan/dipahami",
+    "explanation": "「〜にかたくない」は「Tidak sulit untuk...; mudah dibayangkan/dipahami」という意味です。"
+  },
+  {
+    "id": "c3b8ab17-c954-4a9c-ab99-055b98efa928",
+    "lesson_id": "10000008-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "にかたくない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "にかたくない",
+    "explanation": "文脈から「〜にかたくない」が正しい表現です。Tidak sulit untuk...; mudah dibayangkan/dipahamiという意味で使われます。"
+  },
+  {
+    "id": "451b47f1-7c25-4e66-a9c3-e75d0a8cd47c",
+    "lesson_id": "10000008-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜に難くない」はどのような場面で使いますか。",
+    "options": [
+      "Tidak sulit untuk... (kanji penuh)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tidak sulit untuk... (kanji penuh)を表す場面",
+    "explanation": "「〜に難くない」は「Tidak sulit untuk... (kanji penuh)」を表す場面で使います。"
+  },
+  {
+    "id": "4ba4cc33-49ec-4e15-a3c7-391944f97a4d",
+    "lesson_id": "10000008-0001-4a00-a001-000000000004",
+    "question_type": "multiple_choice",
+    "question_text": "「〜にかたくない」の使い方として正しいものはどれですか。",
+    "options": [
+      "被災者の苦しみは想像にかたくない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "被災者の苦しみは想像にかたくない。",
+    "explanation": "「〜にかたくない」は「Tidak sulit untuk...; mudah dibayangkan/dipahami」という意味で、例文のように使います。"
+  },
+  {
+    "id": "d858a926-fa3c-45f2-a249-de5c8a79c767",
+    "lesson_id": "10000008-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ずにはすまない」の意味として正しいものはどれですか。",
+    "options": [
+      "Tidak bisa tidak melakukan...; harus melakukan karena kewajiban sosial",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Tidak bisa tidak melakukan...; harus melakukan karena kewajiban sosial",
+    "explanation": "「〜ずにはすまない」は「Tidak bisa tidak melakukan...; harus melakukan karena kewajiban sosial」という意味です。"
+  },
+  {
+    "id": "9cb5dc41-6e93-4943-a724-21c4aee1a64d",
+    "lesson_id": "10000008-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "ずにはすまない",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "ずにはすまない",
+    "explanation": "文脈から「〜ずにはすまない」が正しい表現です。Tidak bisa tidak melakukan...; harus melakukan karena kewajiban sosialという意味で使われます。"
+  },
+  {
+    "id": "f50e009e-409f-4406-ad16-06518cf5d291",
+    "lesson_id": "10000008-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ないではすまない」はどのような場面で使いますか。",
+    "options": [
+      "Tidak akan selesai tanpa...; harus melakukanを表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Tidak akan selesai tanpa...; harus melakukanを表す場面",
+    "explanation": "「〜ないではすまない」は「Tidak akan selesai tanpa...; harus melakukan」を表す場面で使います。"
+  },
+  {
+    "id": "5eb10e14-567b-49df-af6c-3c6792e7bb06",
+    "lesson_id": "10000008-0001-4a00-a001-000000000005",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ずにはすまない」の使い方として正しいものはどれですか。",
+    "options": [
+      "こんな大きなミスをしたのだから、謝らずにはすまない。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "こんな大きなミスをしたのだから、謝らずにはすまない。",
+    "explanation": "「〜ずにはすまない」は「Tidak bisa tidak melakukan...; harus melakukan karena kewajiban sosial」という意味で、例文のように使います。"
+  },
+  {
+    "id": "6bef2386-3c4d-44ef-af5d-c3a0544cedb3",
+    "lesson_id": "10000008-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜まみれ」の意味として正しいものはどれですか。",
+    "options": [
+      "Penuh dengan...; berlumur (hal negatif/kotor)",
+      "meskipun demikian",
+      "oleh karena itu",
+      "dengan cara itu"
+    ],
+    "correct_answer": "Penuh dengan...; berlumur (hal negatif/kotor)",
+    "explanation": "「〜まみれ」は「Penuh dengan...; berlumur (hal negatif/kotor)」という意味です。"
+  },
+  {
+    "id": "e0db1920-1ec9-45a7-acda-1df5f2a13a7d",
+    "lesson_id": "10000008-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "次の文で正しい表現を選んでください。「この問題は解決（　　）。」",
+    "options": [
+      "まみれ",
+      "について",
+      "に対して",
+      "として"
+    ],
+    "correct_answer": "まみれ",
+    "explanation": "文脈から「〜まみれ」が正しい表現です。Penuh dengan...; berlumur (hal negatif/kotor)という意味で使われます。"
+  },
+  {
+    "id": "1cfb9f92-dc7b-4533-aabf-375c5e282890",
+    "lesson_id": "10000008-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜ずくめ」はどのような場面で使いますか。",
+    "options": [
+      "Serba...; penuh dengan (bisa positif atau netral)を表す場面",
+      "日常的なあいさつの場面",
+      "数量を表す場面",
+      "時間の経過を表す場面"
+    ],
+    "correct_answer": "Serba...; penuh dengan (bisa positif atau netral)を表す場面",
+    "explanation": "「〜ずくめ」は「Serba...; penuh dengan (bisa positif atau netral)」を表す場面で使います。"
+  },
+  {
+    "id": "e16b8e7b-6f94-46c4-ab0e-46b97146fd5e",
+    "lesson_id": "10000008-0001-4a00-a001-000000000006",
+    "question_type": "multiple_choice",
+    "question_text": "「〜まみれ」の使い方として正しいものはどれですか。",
+    "options": [
+      "泥まみれになりながらも、最後まで戦い続けた。",
+      "この表現は会話で使えません",
+      "この表現は否定文でのみ使えます",
+      "この表現は過去形でのみ使えます"
+    ],
+    "correct_answer": "泥まみれになりながらも、最後まで戦い続けた。",
+    "explanation": "「〜まみれ」は「Penuh dengan...; berlumur (hal negatif/kotor)」という意味で、例文のように使います。"
+  }
+]

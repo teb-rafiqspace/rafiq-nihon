@@ -59,7 +59,50 @@ export interface CertTestConfig {
 const AUTO_SAVE_INTERVAL = 30000;
 const STORAGE_KEY_PREFIX = 'cert_test_progress_';
 
-export function useCertificationTest(config: CertTestConfig) {
+// Fisher-Yates shuffle
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+function shuffleQuestionsWithOptions(questions: CertTestQuestion[]): CertTestQuestion[] {
+  return questions.map(q => {
+    const shuffledOptions = shuffleArray(q.options);
+    return { ...q, options: shuffledOptions };
+  });
+}
+
+function shuffleWithinSections(questions: CertTestQuestion[]): CertTestQuestion[] {
+  const sectionGroups: Record<string, CertTestQuestion[]> = {};
+  const sectionOrder: string[] = [];
+
+  questions.forEach(q => {
+    if (!sectionGroups[q.section]) {
+      sectionGroups[q.section] = [];
+      sectionOrder.push(q.section);
+    }
+    sectionGroups[q.section].push(q);
+  });
+
+  const result: CertTestQuestion[] = [];
+  sectionOrder.forEach(section => {
+    const shuffled = shuffleArray(sectionGroups[section]);
+    result.push(...shuffleQuestionsWithOptions(shuffled));
+  });
+  return result;
+}
+
+interface ProctoringViolation {
+  type: string;
+  timestamp: string;
+  detail: string;
+}
+
+export function useCertificationTest(config: CertTestConfig, proctoringViolations?: ProctoringViolation[]) {
   const { user } = useAuth();
   const queryClient = useQueryClient();
 
@@ -78,6 +121,8 @@ export function useCertificationTest(config: CertTestConfig) {
 
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const autoSaveRef = useRef<NodeJS.Timeout | null>(null);
+  const violationsRef = useRef<ProctoringViolation[]>(proctoringViolations || []);
+  violationsRef.current = proctoringViolations || [];
 
   const storageKey = `${STORAGE_KEY_PREFIX}${config.testType}`;
 
@@ -128,13 +173,14 @@ export function useCertificationTest(config: CertTestConfig) {
         currentIndex,
         timeRemaining,
         testStartTime,
+        questionIds: questions.map(q => q.id),
         savedAt: Date.now()
       };
       localStorage.setItem(storageKey, JSON.stringify(data));
     } catch (e) {
       console.error('Error saving progress:', e);
     }
-  }, [answers, currentIndex, timeRemaining, testStartTime, testStarted, testResult, storageKey]);
+  }, [answers, currentIndex, timeRemaining, testStartTime, testStarted, testResult, storageKey, questions]);
 
   const clearSavedProgress = useCallback(() => {
     try {
@@ -162,10 +208,29 @@ export function useCertificationTest(config: CertTestConfig) {
           options: Array.isArray(q.options) ? q.options : JSON.parse(q.options as string)
         }));
 
-        setQuestions(formattedQuestions);
-        setSections(calculateSections(formattedQuestions));
+        // Check for saved progress to restore question order
+        const saved = loadSavedProgress();
+        let orderedQuestions: CertTestQuestion[];
+        if (saved && saved.questionIds) {
+          // Restore saved question order
+          const questionMap = new Map(formattedQuestions.map(q => [q.id, q]));
+          orderedQuestions = saved.questionIds
+            .map((id: string) => questionMap.get(id))
+            .filter(Boolean) as CertTestQuestion[];
+          // Add any new questions not in saved order
+          const savedIds = new Set(saved.questionIds);
+          formattedQuestions.forEach(q => {
+            if (!savedIds.has(q.id)) orderedQuestions.push(q);
+          });
+        } else {
+          // Shuffle questions within sections for fresh attempt
+          orderedQuestions = shuffleWithinSections(formattedQuestions);
+        }
 
-        const initialAnswers = formattedQuestions.map(q => ({
+        setQuestions(orderedQuestions);
+        setSections(calculateSections(orderedQuestions));
+
+        const initialAnswers = orderedQuestions.map(q => ({
           questionId: q.id,
           answer: null,
           flagged: false
@@ -337,7 +402,12 @@ export function useCertificationTest(config: CertTestConfig) {
           total_questions: result.totalQuestions,
           time_spent_seconds: result.timeSpent,
           passed: result.passed,
-          answers: answers.map(a => ({ questionId: a.questionId, answer: a.answer }))
+          answers: {
+            responses: answers.map(a => ({ questionId: a.questionId, answer: a.answer })),
+            proctored: violationsRef.current.length >= 0,
+            violations: violationsRef.current,
+            violation_count: violationsRef.current.length,
+          }
         });
 
         // If passed, create certificate

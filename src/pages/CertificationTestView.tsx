@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useCallback } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Grid3X3, ChevronLeft, ChevronRight, BookOpen, MessageSquare, FileSearch, Headphones, Award } from 'lucide-react';
@@ -12,6 +12,12 @@ import { SectionNavGrid } from '@/components/mocktest/SectionNavGrid';
 import { EnhancedSubmitDialog } from '@/components/mocktest/EnhancedSubmitDialog';
 import { ExitConfirmDialog } from '@/components/mocktest/ExitConfirmDialog';
 import { CertificateUnlockedModal } from '@/components/certificate/CertificateUnlockedModal';
+import { useTestProctor } from '@/hooks/useTestProctor';
+import { useFaceProctor } from '@/hooks/useFaceProctor';
+import { useAudioProctor } from '@/hooks/useAudioProctor';
+import { ProctoringCamera } from '@/components/mocktest/ProctoringCamera';
+import { ProctoringSetup } from '@/components/mocktest/ProctoringSetup';
+import { ViolationWarningModal } from '@/components/mocktest/ViolationWarningModal';
 
 const CERT_TEST_CONFIGS: Record<string, CertTestConfig> = {
   cert_kakunin: {
@@ -77,6 +83,19 @@ const CERT_TEST_CONFIGS: Record<string, CertTestConfig> = {
       { id: 'membaca', name: 'Pemahaman Bacaan', nameJp: 'どっかい', questions: 20 },
       { id: 'listening', name: 'Mendengarkan', nameJp: 'ちょうかい', questions: 20 },
     ]
+  },
+  cert_jlpt_n1: {
+    testType: 'cert_jlpt_n1',
+    name: 'Sertifikasi JLPT N1',
+    timeLimit: 120 * 60,
+    passingScore: 65,
+    xpReward: 400,
+    sections: [
+      { id: 'kosakata', name: 'Kosakata', nameJp: 'ごい', questions: 30 },
+      { id: 'grammar', name: 'Tata Bahasa', nameJp: 'ぶんぽう', questions: 30 },
+      { id: 'membaca', name: 'Pemahaman Bacaan', nameJp: 'どっかい', questions: 30 },
+      { id: 'listening', name: 'Mendengarkan', nameJp: 'ちょうかい', questions: 30 },
+    ]
   }
 };
 
@@ -126,12 +145,44 @@ export default function CertificationTestView() {
     startTest,
     getCurrentSection,
     totalTime
-  } = useCertificationTest(config);
+  } = useCertificationTest(config, violations);
 
   const [showNavGrid, setShowNavGrid] = useState(false);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
   const [showExitConfirm, setShowExitConfirm] = useState(false);
   const [showCertModal, setShowCertModal] = useState(true);
+  const [showProctoringSetup, setShowProctoringSetup] = useState(false);
+  const [proctoringEnabled, setProctoringEnabled] = useState(false);
+
+  // Proctoring hooks
+  const handleAutoSubmit = useCallback(() => {
+    submitTest();
+  }, [submitTest]);
+
+  const {
+    violations,
+    warningCount,
+    isFullscreen,
+    latestViolation,
+    startProctoring,
+    stopProctoring,
+    addViolation,
+    dismissWarning,
+  } = useTestProctor({ onAutoSubmit: handleAutoSubmit, enabled: proctoringEnabled });
+
+  const {
+    videoRef,
+    isCameraActive,
+    faceStatus,
+    startCamera,
+    stopCamera,
+  } = useFaceProctor({ addViolation, enabled: proctoringEnabled });
+
+  const {
+    isMicActive,
+    startAudioMonitor,
+    stopAudioMonitor,
+  } = useAudioProctor({ addViolation, enabled: proctoringEnabled });
 
   const progress = questions.length > 0 ? ((currentIndex + 1) / questions.length) * 100 : 0;
   const isLastQuestion = currentIndex === questions.length - 1;
@@ -164,6 +215,33 @@ export default function CertificationTestView() {
     icon: SECTION_ICONS[s.id] || <BookOpen className="h-4 w-4" />,
   }));
 
+  const handleProctoredStart = useCallback(() => {
+    setProctoringEnabled(true);
+    startProctoring();
+    startCamera();
+    startAudioMonitor();
+    startTest();
+    setShowProctoringSetup(false);
+  }, [startProctoring, startCamera, startAudioMonitor, startTest]);
+
+  const handleTestStart = useCallback(() => {
+    setShowProctoringSetup(true);
+  }, []);
+
+  const handleNonProctoredStart = useCallback(() => {
+    startTest();
+  }, [startTest]);
+
+  // Show proctoring setup screen
+  if (showProctoringSetup && !testStarted) {
+    return (
+      <ProctoringSetup
+        onReady={handleProctoredStart}
+        onBack={() => setShowProctoringSetup(false)}
+      />
+    );
+  }
+
   // Show start screen before test begins
   if (!testStarted && !testResult) {
     return (
@@ -175,7 +253,7 @@ export default function CertificationTestView() {
         passingScore={config.passingScore}
         xpReward={config.xpReward}
         sections={startScreenSections}
-        onStart={startTest}
+        onStart={handleTestStart}
         onBack={() => navigate('/practice?tab=test')}
         isLoading={isLoading}
       />
@@ -393,7 +471,31 @@ export default function CertificationTestView() {
       <ExitConfirmDialog
         isOpen={showExitConfirm}
         onClose={() => setShowExitConfirm(false)}
-        onConfirm={handleConfirmExit}
+        onConfirm={() => {
+          if (proctoringEnabled) {
+            stopProctoring();
+            stopCamera();
+            stopAudioMonitor();
+          }
+          handleConfirmExit();
+        }}
+      />
+
+      {/* Proctoring overlays */}
+      {proctoringEnabled && isCameraActive && (
+        <ProctoringCamera
+          videoRef={videoRef}
+          faceStatus={faceStatus}
+          isCameraActive={isCameraActive}
+        />
+      )}
+
+      <ViolationWarningModal
+        isOpen={!!latestViolation}
+        violation={latestViolation}
+        warningCount={warningCount}
+        maxWarnings={3}
+        onDismiss={dismissWarning}
       />
     </div>
   );

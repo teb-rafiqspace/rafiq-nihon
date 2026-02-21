@@ -84,67 +84,109 @@ Deno.serve(async (req) => {
 
     const mediaType = image.match(/^data:(image\/\w+);base64,/)?.[1] || "image/jpeg";
 
-    const client = new Anthropic();
+    const ocrPrompt = `Analyze this image and identify ALL Japanese kanji characters visible in it.
 
-    const response = await client.messages.create({
-      model: "claude-sonnet-4-20250514",
-      max_tokens: 1024,
-      messages: [
-        {
-          role: "user",
-          content: [
-            {
-              type: "image",
-              source: {
-                type: "base64",
-                media_type: mediaType,
-                data: base64Data,
+For each kanji found, provide:
+1. The character itself
+2. A confidence score (0.0 to 1.0)
+
+Return ONLY a JSON object in this exact format, with no additional text:
+{"characters": [{"character": "日", "confidence": 0.95}, {"character": "本", "confidence": 0.90}]}
+
+If no kanji are found, return: {"characters": []}
+
+Important:
+- Only include actual kanji (not hiragana, katakana, or romaji)
+- Include all visible kanji, even partial ones with lower confidence
+- Order by confidence, highest first`;
+
+    let resultJson: string | null = null;
+
+    // Tier 1: DekaLLM Vision API (Qwen2-VL)
+    const DEKALLM_API_KEY = Deno.env.get("DEKALLM_API_KEY");
+    if (DEKALLM_API_KEY && DEKALLM_API_KEY !== "your-dekallm-key-here") {
+      try {
+        console.log("Trying DekaLLM Vision API for kanji OCR...");
+        const dekaResponse = await fetch("https://dekallm.cloudeka.ai/v1/chat/completions", {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${DEKALLM_API_KEY}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "Qwen/Qwen2-VL-7B-Instruct",
+            messages: [
+              {
+                role: "user",
+                content: [
+                  { type: "image_url", image_url: { url: `data:${mediaType};base64,${base64Data}` } },
+                  { type: "text", text: ocrPrompt },
+                ],
               },
-            },
-            {
-              type: "text",
-              text: `Analyze this image and identify ALL Japanese kanji characters visible in it. 
-              
-              For each kanji found, provide:
-              1. The character itself
-              2. A confidence score (0.0 to 1.0)
-              
-              Return ONLY a JSON object in this exact format, with no additional text:
-              {"characters": [{"character": "日", "confidence": 0.95}, {"character": "本", "confidence": 0.90}]}
-              
-              If no kanji are found, return: {"characters": []}
-              
-              Important:
-              - Only include actual kanji (not hiragana, katakana, or romaji)
-              - Include all visible kanji, even partial ones with lower confidence
-              - Order by confidence, highest first`,
-            },
-          ],
-        },
-      ],
-    });
+            ],
+            max_tokens: 1024,
+          }),
+        });
 
-    // Extract text from response
-    const textContent = response.content.find((c) => c.type === "text");
-    if (!textContent || textContent.type !== "text") {
-      return new Response(
-        JSON.stringify({ characters: [] }),
-        { headers: { ...corsHeaders, "Content-Type": "application/json" } }
-      );
+        if (dekaResponse.ok) {
+          const dekaResult = await dekaResponse.json();
+          resultJson = dekaResult.choices?.[0]?.message?.content || null;
+          console.log("DekaLLM Vision OCR success");
+        } else {
+          console.error("DekaLLM Vision error:", dekaResponse.status);
+        }
+      } catch (dekaError) {
+        console.error("DekaLLM Vision failed:", dekaError);
+      }
     }
 
-    // Parse JSON from response
-    try {
-      const jsonMatch = textContent.text.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const result = JSON.parse(jsonMatch[0]);
-        return new Response(
-          JSON.stringify(result),
-          { headers: { ...corsHeaders, "Content-Type": "application/json" } }
-        );
+    // Tier 2: Anthropic Claude fallback
+    if (!resultJson) {
+      try {
+        console.log("Falling back to Anthropic Claude for kanji OCR...");
+        const client = new Anthropic();
+
+        const response = await client.messages.create({
+          model: "claude-sonnet-4-20250514",
+          max_tokens: 1024,
+          messages: [
+            {
+              role: "user",
+              content: [
+                {
+                  type: "image",
+                  source: { type: "base64", media_type: mediaType, data: base64Data },
+                },
+                { type: "text", text: ocrPrompt },
+              ],
+            },
+          ],
+        });
+
+        const textContent = response.content.find((c) => c.type === "text");
+        if (textContent && textContent.type === "text") {
+          resultJson = textContent.text;
+          console.log("Anthropic Claude OCR success");
+        }
+      } catch (claudeError) {
+        console.error("Anthropic Claude failed:", claudeError);
       }
-    } catch {
-      // If JSON parsing fails, return empty
+    }
+
+    // Parse JSON from result
+    if (resultJson) {
+      try {
+        const jsonMatch = resultJson.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          const result = JSON.parse(jsonMatch[0]);
+          return new Response(
+            JSON.stringify(result),
+            { headers: { ...corsHeaders, "Content-Type": "application/json" } }
+          );
+        }
+      } catch {
+        console.error("Failed to parse OCR result JSON");
+      }
     }
 
     return new Response(

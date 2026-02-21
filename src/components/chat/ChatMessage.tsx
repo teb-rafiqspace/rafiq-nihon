@@ -1,17 +1,34 @@
 import { motion } from 'framer-motion';
-import { Bot, ThumbsUp, ThumbsDown } from 'lucide-react';
+import { Bot, ThumbsUp, ThumbsDown, Volume2, Loader2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { format } from 'date-fns';
 import { id } from 'date-fns/locale';
 import type { ChatMessage as ChatMessageType } from '@/hooks/useRafiqChat';
+import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 
 interface ChatMessageProps {
   message: ChatMessageType;
   onFeedback?: (messageId: string, feedback: 'positive' | 'negative') => void;
 }
 
+// Extract Japanese text from mixed content
+function extractJapaneseText(text: string): string {
+  // Match Japanese character ranges
+  const jpMatches = text.match(/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF\u3000-\u303F、。！？]+/g);
+  return jpMatches ? jpMatches.join(' ') : '';
+}
+
 export function ChatMessage({ message, onFeedback }: ChatMessageProps) {
   const isUser = message.role === 'user';
+  const { speak, isPlaying } = useJapaneseAudio();
+  const hasJapanese = !isUser && /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/.test(message.content);
+
+  const handlePlayTTS = () => {
+    const japaneseText = extractJapaneseText(message.content);
+    if (japaneseText) {
+      speak(japaneseText);
+    }
+  };
   
   return (
     <motion.div
@@ -45,6 +62,21 @@ export function ChatMessage({ message, onFeedback }: ChatMessageProps) {
             {format(message.timestamp, 'HH:mm', { locale: id })}
           </span>
           
+          {hasJapanese && (
+            <button
+              onClick={handlePlayTTS}
+              disabled={isPlaying}
+              className="p-1 rounded-full text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors"
+              title="Putar audio Jepang"
+            >
+              {isPlaying ? (
+                <Loader2 className="h-3 w-3 animate-spin" />
+              ) : (
+                <Volume2 className="h-3 w-3" />
+              )}
+            </button>
+          )}
+
           {!isUser && onFeedback && !message.id.startsWith('temp') && (
             <div className="flex items-center gap-1">
               <button

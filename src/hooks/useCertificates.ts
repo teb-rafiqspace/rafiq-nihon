@@ -28,6 +28,7 @@ export function generateCertificateNumber(testType: string): string {
     cert_jlpt_n4: 'JLPTN4',
     cert_jlpt_n3: 'JLPTN3',
     cert_jlpt_n2: 'JLPTN2',
+    cert_jlpt_n1: 'JLPTN1',
     cert_kakunin: 'KAKUNIN',
   };
 

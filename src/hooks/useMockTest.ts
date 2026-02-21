@@ -60,6 +60,43 @@ interface MockTestConfig {
 const AUTO_SAVE_INTERVAL = 30000; // 30 seconds
 const STORAGE_KEY_PREFIX = 'mock_test_progress_';
 
+// Fisher-Yates shuffle
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+function shuffleQuestionsWithOptions(questions: MockTestQuestion[]): MockTestQuestion[] {
+  return questions.map(q => {
+    const shuffledOptions = shuffleArray(q.options);
+    return { ...q, options: shuffledOptions };
+  });
+}
+
+function shuffleWithinSections(questions: MockTestQuestion[]): MockTestQuestion[] {
+  const sectionGroups: Record<string, MockTestQuestion[]> = {};
+  const sectionOrder: string[] = [];
+
+  questions.forEach(q => {
+    if (!sectionGroups[q.section]) {
+      sectionGroups[q.section] = [];
+      sectionOrder.push(q.section);
+    }
+    sectionGroups[q.section].push(q);
+  });
+
+  const result: MockTestQuestion[] = [];
+  sectionOrder.forEach(section => {
+    const shuffled = shuffleArray(sectionGroups[section]);
+    result.push(...shuffleQuestionsWithOptions(shuffled));
+  });
+  return result;
+}
+
 export function useMockTest(config: MockTestConfig) {
   const { user } = useAuth();
   const queryClient = useQueryClient();
@@ -132,20 +169,21 @@ export function useMockTest(config: MockTestConfig) {
   // Save progress to localStorage
   const saveProgress = useCallback(() => {
     if (!testStarted || testResult) return;
-    
+
     try {
       const data = {
         answers,
         currentIndex,
         timeRemaining,
         testStartTime,
+        questionIds: questions.map(q => q.id),
         savedAt: Date.now()
       };
       localStorage.setItem(storageKey, JSON.stringify(data));
     } catch (e) {
       console.error('Error saving progress:', e);
     }
-  }, [answers, currentIndex, timeRemaining, testStartTime, testStarted, testResult, storageKey]);
+  }, [answers, currentIndex, timeRemaining, testStartTime, testStarted, testResult, storageKey, questions]);
   
   // Clear saved progress
   const clearSavedProgress = useCallback(() => {
@@ -174,11 +212,26 @@ export function useMockTest(config: MockTestConfig) {
           options: Array.isArray(q.options) ? q.options : JSON.parse(q.options as string)
         }));
         
-        setQuestions(formattedQuestions);
-        setSections(calculateSections(formattedQuestions));
-        
-        // Initialize answers
-        const initialAnswers = formattedQuestions.map(q => ({
+        // Check for saved progress to restore question order
+        const saved = loadSavedProgress();
+        let orderedQuestions: MockTestQuestion[];
+        if (saved && saved.questionIds) {
+          const questionMap = new Map(formattedQuestions.map(q => [q.id, q]));
+          orderedQuestions = saved.questionIds
+            .map((id: string) => questionMap.get(id))
+            .filter(Boolean) as MockTestQuestion[];
+          const savedIds = new Set(saved.questionIds);
+          formattedQuestions.forEach(q => {
+            if (!savedIds.has(q.id)) orderedQuestions.push(q);
+          });
+        } else {
+          orderedQuestions = shuffleWithinSections(formattedQuestions);
+        }
+
+        setQuestions(orderedQuestions);
+        setSections(calculateSections(orderedQuestions));
+
+        const initialAnswers = orderedQuestions.map(q => ({
           questionId: q.id,
           answer: null,
           flagged: false

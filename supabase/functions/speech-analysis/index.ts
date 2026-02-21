@@ -102,7 +102,7 @@ serve(async (req) => {
       );
     }
 
-    // Use AI to analyze pronunciation
+    // Build analysis prompt
     const analysisPrompt = `You are a Japanese pronunciation analysis expert. Analyze the following speech attempt:
 
 Target phrase: ${targetText}
@@ -140,47 +140,85 @@ Provide a detailed analysis in the following JSON format:
   }
 }
 
-Be encouraging but accurate. Focus on common Japanese pronunciation challenges for Indonesian learners like:
-- つ (tsu) vs す (su)
-- ふ (fu) - the soft f/h sound
-- ら行 (ra-line) - the Japanese r sound
-- Long vowels (ー)
-- Double consonants (っ)
-- Pitch accent patterns
-
+Be encouraging but accurate. Focus on common Japanese pronunciation challenges for Indonesian learners.
 Return ONLY valid JSON, no additional text.`;
 
-    const response = await fetch("https://lovable.dev/api/ai-chat", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        messages: [
-          { role: "system", content: "You are a Japanese pronunciation expert. Respond only with valid JSON." },
-          { role: "user", content: analysisPrompt }
-        ],
-        model: "google/gemini-2.5-flash"
-      })
-    });
+    const aiMessages = [
+      { role: "system", content: "You are a Japanese pronunciation expert. Respond only with valid JSON." },
+      { role: "user", content: analysisPrompt }
+    ];
 
-    if (!response.ok) {
-      throw new Error(`AI API error: ${response.status}`);
+    let aiContent = "";
+
+    // Tier 1: DekaLLM API
+    const DEKALLM_API_KEY = Deno.env.get("DEKALLM_API_KEY");
+    if (DEKALLM_API_KEY && DEKALLM_API_KEY !== "your-dekallm-key-here") {
+      try {
+        console.log("Trying DekaLLM API for speech analysis...");
+        const dekaResponse = await fetch("https://dekallm.cloudeka.ai/v1/chat/completions", {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${DEKALLM_API_KEY}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "nvidia/nemotron-3-nano-30b-a3b",
+            messages: aiMessages,
+            temperature: 0.3,
+          }),
+        });
+
+        if (dekaResponse.ok) {
+          const dekaResult = await dekaResponse.json();
+          aiContent = dekaResult.choices?.[0]?.message?.content || "";
+          console.log("DekaLLM speech analysis success");
+        } else {
+          console.error("DekaLLM error:", dekaResponse.status);
+        }
+      } catch (dekaError) {
+        console.error("DekaLLM failed:", dekaError);
+      }
     }
 
-    const aiResponse = await response.json();
-    const aiContent = aiResponse.choices?.[0]?.message?.content || aiResponse.content || "";
-    
+    // Tier 2: Lovable API fallback
+    if (!aiContent) {
+      try {
+        console.log("Falling back to Lovable API for speech analysis...");
+        const response = await fetch("https://lovable.dev/api/ai-chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            messages: aiMessages,
+            model: "google/gemini-2.5-flash"
+          })
+        });
+
+        if (response.ok) {
+          const aiResponse = await response.json();
+          aiContent = aiResponse.choices?.[0]?.message?.content || aiResponse.content || "";
+          console.log("Lovable API speech analysis success");
+        } else {
+          console.error("Lovable API error:", response.status);
+        }
+      } catch (lovableError) {
+        console.error("Lovable API failed:", lovableError);
+      }
+    }
+
     // Parse the AI response
     let analysis: AnalysisResult;
-    try {
-      // Extract JSON from the response (handle markdown code blocks)
-      const jsonMatch = aiContent.match(/```(?:json)?\s*([\s\S]*?)```/) || [null, aiContent];
-      const jsonStr = jsonMatch[1]?.trim() || aiContent.trim();
-      analysis = JSON.parse(jsonStr);
-    } catch (parseError) {
-      console.error("Failed to parse AI response:", aiContent);
-      // Fallback to basic analysis
+    if (aiContent) {
+      try {
+        const jsonMatch = aiContent.match(/```(?:json)?\s*([\s\S]*?)```/) || [null, aiContent];
+        const jsonStr = jsonMatch[1]?.trim() || aiContent.trim();
+        analysis = JSON.parse(jsonStr);
+      } catch (parseError) {
+        console.error("Failed to parse AI response:", aiContent);
+        analysis = performBasicAnalysis(spokenText, targetText, targetReading);
+      }
+    } else {
+      // Tier 3: Basic analysis fallback
+      console.log("Using basic analysis fallback");
       analysis = performBasicAnalysis(spokenText, targetText, targetReading);
     }
 

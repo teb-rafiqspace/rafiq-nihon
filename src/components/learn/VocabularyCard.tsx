@@ -3,6 +3,7 @@ import { Volume2, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 import { BookmarkButton } from '@/components/learn/BookmarkButton';
+import { PronunciationCheckButton } from '@/components/shared/PronunciationCheckButton';
 
 interface VocabularyCardProps {
   id?: string;
@@ -74,9 +75,12 @@ export function VocabularyCard({
           </Button>
         </div>
         {reading && (
-          <p className="text-lg text-muted-foreground font-medium">
-            {reading}
-          </p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-lg text-muted-foreground font-medium">
+              {reading}
+            </p>
+            <PronunciationCheckButton targetText={wordJp} targetReading={reading} />
+          </div>
         )}
       </div>
       

@@ -3,6 +3,8 @@ import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/lib/auth';
 import { toast } from 'sonner';
 
+export type ChatMode = 'sensei' | 'conversation';
+
 export interface ChatMessage {
   id: string;
   role: 'user' | 'assistant';
@@ -19,6 +21,7 @@ export function useRafiqChat() {
   const [isLoading, setIsLoading] = useState(false);
   const [isLoadingHistory, setIsLoadingHistory] = useState(true);
   const [remainingChats, setRemainingChats] = useState(5);
+  const [chatMode, setChatMode] = useState<ChatMode>('sensei');
 
   // Load chat history
   useEffect(() => {
@@ -162,6 +165,7 @@ export function useRafiqChat() {
             ...messages.filter(m => m.id !== userMessage.id).map(m => ({ role: m.role, content: m.content })),
             { role: 'user', content: content.trim() },
           ],
+          mode: chatMode,
         }),
       });
 
@@ -259,6 +263,8 @@ export function useRafiqChat() {
     isLoading,
     isLoadingHistory,
     remainingChats,
+    chatMode,
+    setChatMode,
     sendMessage,
     submitFeedback,
   };

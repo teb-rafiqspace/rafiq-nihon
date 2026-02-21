@@ -4,6 +4,7 @@ import { useState, useCallback, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { useNavigate } from 'react-router-dom';
+import { PronunciationCheckButton } from '@/components/shared/PronunciationCheckButton';
 
 interface GrammarExample {
   jp: string;
@@ -180,6 +181,7 @@ export function GrammarCard({
                       <Volume2 className="h-3 w-3" />
                     )}
                   </Button>
+                  <PronunciationCheckButton targetText={example.jp} targetReading={example.reading} size="sm" />
                 </div>
                 {example.reading && (
                   <p className="text-sm text-muted-foreground">{example.reading}</p>

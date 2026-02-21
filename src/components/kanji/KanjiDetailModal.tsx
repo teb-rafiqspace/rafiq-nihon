@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Volume2, CheckCircle2, XCircle, Lightbulb } from 'lucide-react';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
+import { PronunciationCheckButton } from '@/components/shared/PronunciationCheckButton';
 
 interface KanjiDetailModalProps {
   kanji: {
@@ -77,20 +78,30 @@ export function KanjiDetailModal({
           <div className="grid grid-cols-2 gap-4">
             <Card>
               <CardContent className="p-3">
-                <div className="text-xs text-muted-foreground mb-1">訓読み (Kun)</div>
+                <div className="flex items-center justify-between mb-1">
+                  <div className="text-xs text-muted-foreground">訓読み (Kun)</div>
+                  {kanji.kun_readings.length > 0 && (
+                    <PronunciationCheckButton targetText={kanji.kun_readings[0]} size="sm" />
+                  )}
+                </div>
                 <div className="font-jp text-sm">
-                  {kanji.kun_readings.length > 0 
-                    ? kanji.kun_readings.join('、') 
+                  {kanji.kun_readings.length > 0
+                    ? kanji.kun_readings.join('、')
                     : '-'}
                 </div>
               </CardContent>
             </Card>
             <Card>
               <CardContent className="p-3">
-                <div className="text-xs text-muted-foreground mb-1">音読み (On)</div>
+                <div className="flex items-center justify-between mb-1">
+                  <div className="text-xs text-muted-foreground">音読み (On)</div>
+                  {kanji.on_readings.length > 0 && (
+                    <PronunciationCheckButton targetText={kanji.on_readings[0]} size="sm" />
+                  )}
+                </div>
                 <div className="font-jp text-sm">
-                  {kanji.on_readings.length > 0 
-                    ? kanji.on_readings.join('、') 
+                  {kanji.on_readings.length > 0
+                    ? kanji.on_readings.join('、')
                     : '-'}
                 </div>
               </CardContent>

@@ -1,0 +1,1082 @@
+[
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼の発言は___を極め、真意を測りかねた。",
+    "options": ["晦渋", "明瞭", "簡潔", "冗長"],
+    "correct_answer": "A",
+    "explanation": "「晦渋」(かいじゅう) berarti sulit dipahami atau samar. Cocok dengan konteks di mana maksud sebenarnya sulit ditebak.",
+    "sort_order": 1
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "社会の___に逆らって独自の道を歩む覚悟が必要だ。",
+    "options": ["趨勢", "風潮", "概況", "推移"],
+    "correct_answer": "A",
+    "explanation": "「趨勢」(すうせい) berarti tren atau arus utama masyarakat. Digunakan dalam konteks formal untuk menggambarkan arah perkembangan.",
+    "sort_order": 2
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "その政治家は___な態度で支持者の信頼を失った。",
+    "options": ["傲慢", "謙虚", "温厚", "寛大"],
+    "correct_answer": "A",
+    "explanation": "「傲慢」(ごうまん) berarti arogan atau sombong. Sikap ini menyebabkan hilangnya kepercayaan dari para pendukung.",
+    "sort_order": 3
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "両国の___は依然として平行線をたどっている。",
+    "options": ["折衝", "会談", "交流", "親善"],
+    "correct_answer": "A",
+    "explanation": "「折衝」(せっしょう) berarti negosiasi atau perundingan resmi, biasanya antara pihak yang berkonflik. 「平行線をたどる」berarti tidak menemukan titik temu.",
+    "sort_order": 4
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼女は困難な局面でも___を保ち、冷静に対処した。",
+    "options": ["泰然自若", "右往左往", "悲喜交交", "喜怒哀楽"],
+    "correct_answer": "A",
+    "explanation": "「泰然自若」(たいぜんじじゃく) adalah yojijukugo yang berarti tetap tenang dan tidak tergoyahkan. Cocok dengan konteks menghadapi situasi sulit dengan tenang.",
+    "sort_order": 5
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "この法律の___は多岐にわたるため、慎重な議論が求められる。",
+    "options": ["弊害", "利点", "根拠", "趣旨"],
+    "correct_answer": "A",
+    "explanation": "「弊害」(へいがい) berarti dampak buruk atau efek negatif. Konteks menunjukkan dampak negatif yang beragam sehingga perlu diskusi hati-hati.",
+    "sort_order": 6
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼は___な性格で、何事にも動じない。",
+    "options": ["剛毅", "繊細", "軽薄", "陰湿"],
+    "correct_answer": "A",
+    "explanation": "「剛毅」(ごうき) berarti kuat dan tabah. Seseorang yang berkarakter剛毅 tidak mudah goyah oleh apapun.",
+    "sort_order": 7
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "その研究者は学界で___を博している。",
+    "options": ["声望", "批判", "疑惑", "嫉妬"],
+    "correct_answer": "A",
+    "explanation": "「声望を博する」(せいぼうをはくする) berarti mendapatkan reputasi tinggi. Ungkapan formal untuk menyatakan seseorang dihormati di bidangnya.",
+    "sort_order": 8
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼の提案には___があり、実現可能性が疑わしい。",
+    "options": ["齟齬", "整合", "一致", "調和"],
+    "correct_answer": "A",
+    "explanation": "「齟齬」(そご) berarti ketidaksesuaian atau kontradiksi. Adanya齟齬 membuat kelayakan proposal dipertanyakan.",
+    "sort_order": 9
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "人口減少問題の___を図るため、政府は新たな施策を打ち出した。",
+    "options": ["是正", "拡大", "促進", "維持"],
+    "correct_answer": "A",
+    "explanation": "「是正」(ぜせい) berarti koreksi atau perbaikan. Pemerintah meluncurkan kebijakan baru untuk memperbaiki masalah penurunan populasi.",
+    "sort_order": 10
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "その事件は社会に大きな___を投げかけた。",
+    "options": ["波紋", "波長", "波動", "波及"],
+    "correct_answer": "A",
+    "explanation": "「波紋を投げかける」(はもんをなげかける) berarti menimbulkan kontroversi atau gejolak di masyarakat. Ungkapan idiomatik untuk dampak sosial.",
+    "sort_order": 11
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "長年の功績が認められ、彼は___の栄誉に浴した。",
+    "options": ["叙勲", "栄転", "昇進", "受賞"],
+    "correct_answer": "A",
+    "explanation": "「叙勲」(じょくん) berarti penganugerahan tanda kehormatan/bintang jasa. Ungkapan formal untuk penghargaan tertinggi dari negara.",
+    "sort_order": 12
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "この文学作品は___に富み、読者の想像力をかきたてる。",
+    "options": ["含蓄", "簡素", "直截", "平易"],
+    "correct_answer": "A",
+    "explanation": "「含蓄」(がんちく) berarti makna yang dalam dan tersirat. Karya sastra yang kaya含蓄 merangsang imajinasi pembaca.",
+    "sort_order": 13
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "企業の不祥事が相次ぎ、業界全体の___が問われている。",
+    "options": ["矜持", "利益", "効率", "規模"],
+    "correct_answer": "A",
+    "explanation": "「矜持」(きょうじ) berarti harga diri atau kebanggaan profesional. Skandal berturut-turut mempertanyakan harga diri industri secara keseluruhan.",
+    "sort_order": 14
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "その計画は___のうちに頓挫してしまった。",
+    "options": ["端緒", "完成", "進行", "終盤"],
+    "correct_answer": "A",
+    "explanation": "「端緒」(たんしょ/たんちょ) berarti tahap awal atau permulaan. Rencana tersebut gagal di tahap awal.",
+    "sort_order": 15
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "社会情勢の___を踏まえた上で、方針を決定すべきだ。",
+    "options": ["変遷", "不変", "安定", "停滞"],
+    "correct_answer": "A",
+    "explanation": "「変遷」(へんせん) berarti perubahan seiring waktu. Kebijakan harus diputuskan berdasarkan perubahan situasi sosial.",
+    "sort_order": 16
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "___な議論を重ねた結果、ようやく合意に達した。",
+    "options": ["侃々諤々", "和気藹々", "意気揚々", "悠々自適"],
+    "correct_answer": "A",
+    "explanation": "「侃々諤々」(かんかんがくがく) adalah yojijukugo yang berarti diskusi yang sengit dan terus terang. Setelah perdebatan panjang, akhirnya tercapai kesepakatan.",
+    "sort_order": 17
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "あの政治家の演説は___に欠け、聴衆の心に響かなかった。",
+    "options": ["訴求力", "体力", "想像力", "記憶力"],
+    "correct_answer": "A",
+    "explanation": "「訴求力」(そきゅうりょく) berarti daya tarik atau kemampuan meyakinkan. Pidatonya kurang menarik sehingga tidak menyentuh hati pendengar.",
+    "sort_order": 18
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼の行為は___に値するものであり、決して許されるべきではない。",
+    "options": ["弾劾", "称賛", "賞賛", "感謝"],
+    "correct_answer": "A",
+    "explanation": "「弾劾」(だんがい) berarti impeachment atau penuntutan atas kesalahan. Perbuatannya patut dituntut dan tidak bisa dimaafkan.",
+    "sort_order": 19
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "この問題は___を呈しており、一筋縄ではいかない。",
+    "options": ["錯綜", "単純", "明快", "簡明"],
+    "correct_answer": "A",
+    "explanation": "「錯綜を呈する」(さくそうをていする) berarti menunjukkan kerumitan yang saling berkelindan. Masalah ini rumit dan tidak mudah diselesaikan.",
+    "sort_order": 20
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼女の芸術作品は___の域に達している。",
+    "options": ["円熟", "未熟", "発展", "成長"],
+    "correct_answer": "A",
+    "explanation": "「円熟」(えんじゅく) berarti kematangan penuh dalam keahlian. Karya seninya telah mencapai tingkat kesempurnaan.",
+    "sort_order": 21
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "規制の___が産業の発展を阻害しているという指摘がある。",
+    "options": ["桎梏", "恩恵", "保護", "支援"],
+    "correct_answer": "A",
+    "explanation": "「桎梏」(しっこく) berarti belenggu atau pembatas kebebasan. Regulasi yang terlalu ketat menghambat perkembangan industri.",
+    "sort_order": 22
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "新政策に対する国民の___は依然として根強い。",
+    "options": ["懐疑", "賛同", "支持", "期待"],
+    "correct_answer": "A",
+    "explanation": "「懐疑」(かいぎ) berarti skeptisisme atau keraguan. Keraguan rakyat terhadap kebijakan baru masih kuat.",
+    "sort_order": 23
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "両者の主張は___をなしており、妥協の余地がない。",
+    "options": ["対峙", "協調", "一致", "融合"],
+    "correct_answer": "A",
+    "explanation": "「対峙をなす」(たいじをなす) berarti saling berhadapan/berkonfrontasi. Kedua belah pihak tidak ada ruang kompromi.",
+    "sort_order": 24
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "その学者は一生を学問の___に捧げた。",
+    "options": ["探究", "探検", "発掘", "捜索"],
+    "correct_answer": "A",
+    "explanation": "「探究」(たんきゅう) berarti pencarian mendalam terhadap kebenaran atau pengetahuan. Berbeda dengan 探検 (eksplorasi fisik) atau 捜索 (pencarian orang/benda).",
+    "sort_order": 25
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼の論文は___に満ちており、学界に衝撃を与えた。",
+    "options": ["卓見", "偏見", "先入観", "誤解"],
+    "correct_answer": "A",
+    "explanation": "「卓見」(たっけん) berarti pandangan yang luar biasa atau wawasan brilian. Makalahnya yang penuh wawasan brilian mengejutkan dunia akademis.",
+    "sort_order": 26
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "長年の___が実を結び、ついに画期的な発明が生まれた。",
+    "options": ["研鑽", "休息", "逡巡", "怠慢"],
+    "correct_answer": "A",
+    "explanation": "「研鑽」(けんさん) berarti pengasahan diri atau studi yang tekun. Bertahun-tahun berusaha keras akhirnya membuahkan penemuan revolusioner.",
+    "sort_order": 27
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "この地域は文化的に___な背景を持ち、多様な伝統が共存している。",
+    "options": ["多岐", "均一", "単調", "画一"],
+    "correct_answer": "A",
+    "explanation": "「多岐」(たき) berarti beragam atau bermacam-macam. Daerah ini memiliki latar belakang budaya yang beragam dengan berbagai tradisi yang hidup berdampingan.",
+    "sort_order": 28
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "彼は自らの過ちを___することなく、堂々と弁明した。",
+    "options": ["糊塗", "反省", "謝罪", "訂正"],
+    "correct_answer": "A",
+    "explanation": "「糊塗する」(ことする) berarti menutupi atau menyembunyikan kesalahan. Dia dengan percaya diri membela diri tanpa berusaha menutupi kesalahannya.",
+    "sort_order": 29
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "kosakata",
+    "question_text": "環境破壊の___は計り知れず、次世代への影響が懸念される。",
+    "options": ["甚大さ", "軽微さ", "微小さ", "些少さ"],
+    "correct_answer": "A",
+    "explanation": "「甚大」(じんだい) berarti sangat besar atau dahsyat. Kerusakan lingkungan yang sangat besar menimbulkan kekhawatiran akan dampaknya terhadap generasi mendatang.",
+    "sort_order": 30
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "度重なる失敗___、彼は決して諦めなかった。",
+    "options": ["にもかかわらず", "をものともせず", "にひきかえ", "をよそに"],
+    "correct_answer": "B",
+    "explanation": "「をものともせず」berarti tanpa menghiraukan atau tanpa gentar terhadap sesuatu. Digunakan untuk menunjukkan keberanian menghadapi kesulitan.",
+    "sort_order": 31
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "大地震の発生により、住民は避難を___。",
+    "options": ["余儀なくされた", "やむを得なかった", "仕方なかった", "止められた"],
+    "correct_answer": "A",
+    "explanation": "「を余儀なくされる」berarti dipaksa oleh keadaan untuk melakukan sesuatu. Gempa besar memaksa penduduk untuk mengungsi.",
+    "sort_order": 32
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "この問題は解決できない___。時間をかければ何とかなるだろう。",
+    "options": ["ものでもない", "わけがない", "はずがない", "ことはない"],
+    "correct_answer": "A",
+    "explanation": "「ないものでもない」berarti bukan berarti tidak bisa / ada kemungkinan bisa. Nuansa: masalah ini bukan tidak bisa diselesaikan jika diberi waktu.",
+    "sort_order": 33
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼女の才能___、努力も人並み以上だ。",
+    "options": ["もさることながら", "はもちろん", "だけでなく", "ばかりか"],
+    "correct_answer": "A",
+    "explanation": "「もさることながら」berarti tentu saja itu juga, tetapi lebih dari itu. Bakatnya tentu hebat, tetapi usahanya juga melebihi orang biasa.",
+    "sort_order": 34
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "この政策は___、かえって経済を悪化させる恐れがある。",
+    "options": ["良かれと思いきや", "良かれ悪しかれ", "良くも悪くも", "良いにつけ悪いにつけ"],
+    "correct_answer": "A",
+    "explanation": "「良かれと思いきや」berarti mengira hal itu baik, ternyata tidak. Kebijakan yang diharapkan baik justru berpotensi memperburuk ekonomi.",
+    "sort_order": 35
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼の仕事ぶり___、昇進は当然のことだ。",
+    "options": ["からすれば", "にしてみれば", "をもってすれば", "からして"],
+    "correct_answer": "D",
+    "explanation": "「からして」berarti dilihat dari / mengingat. Dilihat dari cara kerjanya, promosi adalah hal yang wajar.",
+    "sort_order": 36
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "経費削減の名の___、多くの社員が解雇された。",
+    "options": ["もとに", "もとで", "ままに", "ゆえに"],
+    "correct_answer": "A",
+    "explanation": "「の名のもとに」berarti atas nama / dengan dalih. Banyak karyawan dipecat atas nama pengurangan biaya.",
+    "sort_order": 37
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "この件に関しては、社長___判断を下せない。",
+    "options": ["をおいて他に", "ならでは", "でなくして", "なくしては"],
+    "correct_answer": "D",
+    "explanation": "「なくしては〜ない」berarti tanpa sesuatu, hal itu tidak bisa terjadi. Tanpa presiden, keputusan ini tidak bisa diambil.",
+    "sort_order": 38
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "国民の安全を守る___、この法案は成立させるべきだ。",
+    "options": ["べく", "ために", "ように", "ことで"],
+    "correct_answer": "A",
+    "explanation": "「べく」berarti demi / untuk tujuan (bentuk formal dari ために). Demi menjaga keselamatan rakyat, RUU ini harus disahkan.",
+    "sort_order": 39
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼の業績は___、後世に語り継がれるだろう。",
+    "options": ["いうに及ばず", "いうまでもなく", "言わずもがな", "言うに足らず"],
+    "correct_answer": "B",
+    "explanation": "「いうまでもなく」berarti sudah tidak perlu dikatakan lagi / tentu saja. Prestasinya tentu saja akan dikenang oleh generasi mendatang.",
+    "sort_order": 40
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼女は疲労の___、ついに倒れてしまった。",
+    "options": ["あまり", "ほど", "ばかり", "かぎり"],
+    "correct_answer": "A",
+    "explanation": "「のあまり」berarti karena terlalu / akibat berlebihan. Karena kelelahan yang berlebihan, dia akhirnya jatuh pingsan.",
+    "sort_order": 41
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "最新の研究___、従来の理論は見直しを迫られている。",
+    "options": ["を踏まえると", "にかんがみると", "に即すると", "をもとにすると"],
+    "correct_answer": "A",
+    "explanation": "「を踏まえると」berarti berdasarkan / dengan mempertimbangkan. Berdasarkan penelitian terbaru, teori konvensional perlu ditinjau ulang.",
+    "sort_order": 42
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "天才___彼でも、この問題は解けなかった。",
+    "options": ["たる", "なる", "である", "とする"],
+    "correct_answer": "A",
+    "explanation": "「たる」berarti yang berstatus / yang berkedudukan sebagai (bentuk klasik). Bahkan dia yang merupakan seorang jenius pun tidak bisa memecahkan masalah ini.",
+    "sort_order": 43
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "この改革は、困難を___実行に移さなければならない。",
+    "options": ["承知の上で", "覚悟の上で", "知った上で", "聞いた上で"],
+    "correct_answer": "B",
+    "explanation": "「覚悟の上で」berarti dengan kesadaran penuh / dengan kesiapan mental. Reformasi ini harus dilaksanakan dengan kesiapan menghadapi kesulitan.",
+    "sort_order": 44
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "あの選手の実力___、オリンピック代表に選ばれるのは間違いない。",
+    "options": ["をもってすれば", "からすれば", "にしてみれば", "ともなれば"],
+    "correct_answer": "A",
+    "explanation": "「をもってすれば」berarti jika dengan (kemampuan/kekuatan) itu. Dengan kemampuannya, pasti dia terpilih sebagai wakil Olimpiade.",
+    "sort_order": 45
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼は周囲の反対___、自分の信念を貫いた。",
+    "options": ["をよそに", "をもとに", "をかねて", "をめぐって"],
+    "correct_answer": "A",
+    "explanation": "「をよそに」berarti tanpa menghiraukan / mengabaikan. Dia tetap mempertahankan keyakinannya tanpa menghiraukan penentangan sekitarnya.",
+    "sort_order": 46
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "交渉が決裂した___、武力衝突に発展する可能性がある。",
+    "options": ["とあっては", "暁には", "が最後", "ものなら"],
+    "correct_answer": "B",
+    "explanation": "「暁には」(あかつきには) berarti jika / pada saat itu terjadi. Jika negosiasi gagal, ada kemungkinan berkembang menjadi konflik bersenjata.",
+    "sort_order": 47
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "この芸術作品は、一度見た___忘れられない印象を与える。",
+    "options": ["が最後", "からには", "以上は", "ものなら"],
+    "correct_answer": "A",
+    "explanation": "「が最後」berarti begitu / sekali sudah melakukan sesuatu, maka... Begitu melihat karya seni ini, kesan yang diberikan tidak bisa dilupakan.",
+    "sort_order": 48
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "日本の伝統文化___、茶道は独特の美意識を持っている。",
+    "options": ["にあって", "において", "に至って", "にかけて"],
+    "correct_answer": "A",
+    "explanation": "「にあって」berarti dalam konteks / di dalam (situasi tertentu). Dalam budaya tradisional Jepang, upacara minum teh memiliki estetika yang unik.",
+    "sort_order": 49
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼の功績は___、全社員が敬意を表している。",
+    "options": ["言わずもがなだが", "言うに及ばず", "推して知るべしで", "論を俟たず"],
+    "correct_answer": "D",
+    "explanation": "「論を俟たず」(ろんをまたず) berarti tidak perlu diperdebatkan lagi. Prestasinya sudah tidak perlu dipertanyakan, semua karyawan menunjukkan rasa hormat.",
+    "sort_order": 50
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "景気の回復___、雇用情勢はまだ厳しいままだ。",
+    "options": ["にひきかえ", "とはいえ", "はおろか", "ともあれ"],
+    "correct_answer": "B",
+    "explanation": "「とはいえ」berarti meskipun demikian / walaupun begitu. Meskipun ekonomi membaik, situasi ketenagakerjaan masih sulit.",
+    "sort_order": 51
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "新しいプロジェクトの成功は、チームの結束力___だ。",
+    "options": ["いかんにかかっている", "次第だ", "によるところが大きい", "にほかならない"],
+    "correct_answer": "A",
+    "explanation": "「いかんにかかっている」berarti bergantung pada bagaimana / tergantung pada kondisi sesuatu. Keberhasilan proyek bergantung pada kekompakan tim.",
+    "sort_order": 52
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "国際社会における日本の役割は、今後ますます重要性を___。",
+    "options": ["帯びるであろう", "増すであろう", "高めるであろう", "深めるであろう"],
+    "correct_answer": "B",
+    "explanation": "「重要性を増す」berarti meningkat pentingnya. Peran Jepang di masyarakat internasional akan semakin penting ke depannya.",
+    "sort_order": 53
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "この計画は、予算の制約___実現は困難である。",
+    "options": ["もあって", "からして", "ゆえに", "にして"],
+    "correct_answer": "C",
+    "explanation": "「ゆえに」berarti oleh karena itu / karena (bentuk sangat formal/literary). Karena keterbatasan anggaran, realisasi rencana ini sulit.",
+    "sort_order": 54
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼は有能な研究者で___、優れた教育者でもある。",
+    "options": ["あると同時に", "あるのみならず", "あるがゆえに", "あればこそ"],
+    "correct_answer": "B",
+    "explanation": "「のみならず」berarti tidak hanya. Dia bukan hanya peneliti yang kompeten, tetapi juga pendidik yang hebat.",
+    "sort_order": 55
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "いかなる困難に___、我々は前進し続けなければならない。",
+    "options": ["直面しようとも", "直面するにせよ", "直面したところで", "直面する以上"],
+    "correct_answer": "A",
+    "explanation": "「いかなる〜ようとも」berarti apapun / bagaimanapun. Apapun kesulitan yang dihadapi, kita harus terus maju.",
+    "sort_order": 56
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "市民の安全確保を___にして、防災計画が策定された。",
+    "options": ["旨", "趣旨", "骨子", "目的"],
+    "correct_answer": "A",
+    "explanation": "「を旨にして」(をむねにして) berarti dengan prinsip / berpedoman pada. Rencana pencegahan bencana disusun dengan prinsip menjamin keselamatan warga.",
+    "sort_order": 57
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "彼の態度は___、まるで何も起こらなかったかのようだった。",
+    "options": ["あろうことか", "あってか", "あればこそ", "あるまいし"],
+    "correct_answer": "A",
+    "explanation": "「あろうことか」berarti sungguh mengejutkan / tidak disangka. Sikapnya sungguh mengejutkan, seolah-olah tidak terjadi apa-apa.",
+    "sort_order": 58
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "二度とこのような事故を起こす___。",
+    "options": ["まじき事態だ", "べくもない", "まいと誓った", "はずもない"],
+    "correct_answer": "C",
+    "explanation": "「まいと誓う」berarti bersumpah untuk tidak melakukan. Dia bersumpah tidak akan menyebabkan kecelakaan seperti ini lagi.",
+    "sort_order": 59
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "grammar",
+    "question_text": "社員一人一人の意識改革___、会社の再建は不可能だ。",
+    "options": ["なくしては", "ならでは", "をおいて", "ともなると"],
+    "correct_answer": "A",
+    "explanation": "「なくしては〜ない」berarti tanpa itu, tidak mungkin. Tanpa perubahan kesadaran setiap karyawan, rekonstruksi perusahaan tidak mungkin terjadi.",
+    "sort_order": 60
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章を読んで、筆者の主張を選びなさい。\n「科学技術の発展は人類に多大な恩恵をもたらしてきた。しかしながら、その恩恵に浴する一方で、我々は倫理的な問題から目を背けてきたのではないか。遺伝子操作、人工知能の自律性、核エネルギーの利用——いずれも、技術そのものの是非ではなく、それを扱う人間の叡智が問われている。」",
+    "options": ["科学技術の発展を止めるべきだ", "技術を扱う人間側の倫理観と知恵が重要だ", "遺伝子操作は禁止すべきだ", "科学技術は恩恵しかもたらさない"],
+    "correct_answer": "B",
+    "explanation": "Penulis tidak menentang teknologi itu sendiri, tetapi menekankan bahwa kebijaksanaan dan etika manusia yang menggunakannya-lah yang perlu dipertanyakan. Frasa kunci: 「それを扱う人間の叡智が問われている」.",
+    "sort_order": 61
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の下線部「皮肉にも」が意味する内容として最も適切なものはどれか。\n「少子化対策として導入された育児支援制度は、皮肉にも、女性の社会進出をかえって阻害する結果を招いた。」",
+    "options": ["制度が成功した", "意図と逆の結果が生じた", "女性が支援を拒否した", "少子化が解決した"],
+    "correct_answer": "B",
+    "explanation": "「皮肉にも」berarti ironisnya. Sistem dukungan pengasuhan anak yang dimaksudkan untuk mengatasi penurunan kelahiran justru menghambat partisipasi perempuan di masyarakat — hasil yang berlawanan dengan niat awal.",
+    "sort_order": 62
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の趣旨として最も適切なものはどれか。\n「言語は単なるコミュニケーションの道具ではない。言語は思考の枠組みそのものであり、ある言語が消滅するということは、その言語でしか表現し得なかった世界観や知の体系が永遠に失われることを意味する。」",
+    "options": ["言語はコミュニケーションの道具にすぎない", "言語の消滅は独自の世界観の喪失である", "全ての言語は同じ世界観を持つ", "言語は保存する必要がない"],
+    "correct_answer": "B",
+    "explanation": "Penulis menekankan bahwa bahasa bukan sekadar alat komunikasi, melainkan kerangka berpikir. Hilangnya suatu bahasa berarti hilangnya pandangan dunia dan sistem pengetahuan yang unik.",
+    "sort_order": 63
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で、筆者が「二律背反」と表現している内容はどれか。\n「現代社会は効率性を追求するあまり、人間性を犠牲にしてきた。しかし、効率性を完全に放棄すれば、社会の存続そのものが危うくなる。この二律背反をいかに克服するかが、21世紀最大の課題である。」",
+    "options": ["効率性と人間性の両立が困難な状況", "社会の存続と効率性の一致", "人間性の完全な回復", "効率性の全面的な否定"],
+    "correct_answer": "A",
+    "explanation": "「二律背反」(にりつはいはん) berarti antinomi atau dilema di mana dua prinsip saling bertentangan. Di sini, mengejar efisiensi mengorbankan kemanusiaan, tetapi melepaskan efisiensi mengancam kelangsungan masyarakat.",
+    "sort_order": 64
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で、「杞憂に終わる」とはどういう意味か。\n「AIが人間の仕事を全て奪うという懸念は、歴史的に見れば杞憂に終わる可能性が高い。産業革命時にも同様の恐怖が広がったが、結果的には新たな雇用が創出された。」",
+    "options": ["心配が現実になる", "心配が取り越し苦労で終わる", "心配が拡大する", "心配を無視する"],
+    "correct_answer": "B",
+    "explanation": "「杞憂に終わる」(きゆうにおわる) berarti kekhawatiran yang berakhir menjadi ketakutan yang tidak beralasan. Sejarah menunjukkan kekhawatiran serupa tidak terbukti.",
+    "sort_order": 65
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章における筆者の論旨として最も適切なものはどれか。\n「民主主義の根幹は、多数決の原理にあるのではなく、少数意見の尊重にこそある。多数が常に正しいとは限らず、歴史を振り返れば、少数意見がやがて主流となった例は枚挙にいとまがない。」",
+    "options": ["多数決こそが民主主義の本質だ", "少数意見は無視すべきだ", "少数意見の尊重こそが民主主義の根幹だ", "歴史は多数派が常に正しいことを証明している"],
+    "correct_answer": "C",
+    "explanation": "Penulis menegaskan bahwa inti demokrasi bukan pada prinsip mayoritas, melainkan pada penghormatan terhadap pendapat minoritas. 「枚挙にいとまがない」berarti terlalu banyak untuk dihitung satu per satu.",
+    "sort_order": 66
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「看過できない」問題とは何か。\n「教育の機会均等が謳われて久しいが、実態としては、家庭の経済力が子どもの学力に如実に反映されている。この看過できない格差は、社会の分断を深化させる要因となりうる。」",
+    "options": ["教育費の高騰", "家庭の経済力による学力格差", "学校の質の低下", "教師の不足"],
+    "correct_answer": "B",
+    "explanation": "Penulis menyoroti bahwa meskipun kesetaraan kesempatan pendidikan sudah lama diserukan, kenyataannya kemampuan ekonomi keluarga tercermin jelas pada prestasi akademik anak. Kesenjangan ini yang tidak bisa diabaikan.",
+    "sort_order": 67
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の「逆説的」が指す内容として最も適切なものはどれか。\n「情報化社会の進展は、逆説的に、人々の孤立を深めている。SNSで常時つながっていながらも、真の対話や共感が失われつつある。」",
+    "options": ["情報技術がコミュニケーションを向上させた", "つながりの手段が増えたのに孤立が深まっている", "SNSが対話を促進している", "情報化社会は問題がない"],
+    "correct_answer": "B",
+    "explanation": "「逆説的」(ぎゃくせつてき) berarti paradoks. Paradoksnya adalah: meskipun sarana untuk terhubung bertambah (SNS), justru isolasi dan kehilangan dialog sejati semakin dalam.",
+    "sort_order": 68
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で筆者が最も懸念していることは何か。\n「グローバリゼーションの波は、各国の文化的独自性を急速に侵食しつつある。効率と利便性の名のもとに画一化が進む現在、我々は取り返しのつかないものを失いかけているのではないか。」",
+    "options": ["経済のグローバル化", "文化的独自性の喪失", "効率性の低下", "利便性の向上"],
+    "correct_answer": "B",
+    "explanation": "Penulis khawatir bahwa globalisasi dengan cepat mengikis keunikan budaya setiap negara. 「取り返しのつかないもの」mengacu pada warisan budaya yang tidak bisa dipulihkan setelah hilang.",
+    "sort_order": 69
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「示唆に富む」指摘とはどのような内容か。\n「ある社会学者は、高齢化社会の問題は医療費の増大だけにとどまらず、高齢者の社会参加の機会の欠如こそが本質的な課題であるという示唆に富む指摘を行った。」",
+    "options": ["医療費を削減すべきだ", "高齢者の社会参加機会の不足が本質的問題だ", "高齢化は問題ではない", "医療制度を廃止すべきだ"],
+    "correct_answer": "B",
+    "explanation": "「示唆に富む」(しさにとむ) berarti kaya akan saran/implikasi. Sosiolog tersebut menunjukkan bahwa masalah masyarakat penuaan bukan hanya kenaikan biaya medis, tetapi inti masalahnya adalah kurangnya kesempatan partisipasi sosial bagi lansia.",
+    "sort_order": 70
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で筆者が主張する「知の在り方」として最も適切なものはどれか。\n「専門知識の深化は重要である。しかし、それと同時に、異なる分野を横断的に結びつける統合的な知が、複雑化する現代社会ではますます求められている。」",
+    "options": ["一つの分野を極めることだけが重要", "異分野を横断する統合的な知が必要", "専門知識は不要である", "現代社会は単純である"],
+    "correct_answer": "B",
+    "explanation": "Penulis mengakui pentingnya pendalaman pengetahuan spesialis, tetapi menekankan bahwa pengetahuan integratif yang menghubungkan berbagai bidang semakin diperlukan di masyarakat modern yang semakin kompleks.",
+    "sort_order": 71
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の要旨として最も適切なものはどれか。\n「真のリーダーシップとは、権力を行使することではなく、周囲の潜在的な能力を引き出し、自発的な行動を促すことにほかならない。指示に従わせるのではなく、共に考え、共に歩む姿勢こそが、組織を持続的に成長させる。」",
+    "options": ["リーダーは権力で部下を従わせるべきだ", "リーダーシップとは周囲の能力を引き出し自発性を促すことだ", "指示を出すことがリーダーの本質だ", "組織の成長には権力が必要だ"],
+    "correct_answer": "B",
+    "explanation": "Penulis mendefinisikan kepemimpinan sejati bukan sebagai penggunaan kekuasaan, melainkan kemampuan mengeluarkan potensi orang di sekitar dan mendorong tindakan sukarela. 「にほかならない」menegaskan bahwa inilah esensinya.",
+    "sort_order": 72
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「諸刃の剣」が意味する内容として最も適切なものはどれか。\n「インターネットは、情報へのアクセスを飛躍的に向上させた諸刃の剣である。膨大な知識が瞬時に手に入る反面、虚偽情報の拡散や個人情報の漏洩といった深刻な問題を引き起こしている。」",
+    "options": ["メリットのみがある", "デメリットのみがある", "メリットとデメリットの両面がある", "全く役に立たない"],
+    "correct_answer": "C",
+    "explanation": "「諸刃の剣」(もろはのつるぎ) berarti pedang bermata dua — sesuatu yang memiliki sisi positif dan negatif sekaligus. Internet mempermudah akses informasi tetapi juga menyebarkan berita palsu dan kebocoran data.",
+    "sort_order": 73
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で筆者が「憂慮」していることは何か。\n「報道の自由は民主主義の礎であるが、昨今のメディアは視聴率や閲覧数の追求に傾倒するあまり、事実の正確な伝達という本来の使命を見失いつつある。この風潮を憂慮せざるを得ない。」",
+    "options": ["報道の自由が制限されること", "メディアが視聴率重視で正確な報道を疎かにしていること", "視聴率が低下していること", "インターネットの普及"],
+    "correct_answer": "B",
+    "explanation": "Penulis prihatin bahwa media terlalu fokus pada rating dan jumlah klik sehingga melupakan misi utamanya yaitu menyampaikan fakta secara akurat. 「憂慮せざるを得ない」berarti tidak bisa tidak merasa khawatir.",
+    "sort_order": 74
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章における「換言すれば」の後に続く内容として最も適切なものはどれか。\n「持続可能な社会の実現には、個人の消費行動の変革が不可欠である。換言すれば、___。」",
+    "options": ["政府の政策だけで十分である", "一人一人が日常の買い物から意識を変える必要がある", "企業だけが責任を負うべきだ", "消費は自由に行うべきだ"],
+    "correct_answer": "B",
+    "explanation": "「換言すれば」(かんげんすれば) berarti dengan kata lain. Kalimat sebelumnya menyatakan bahwa perubahan perilaku konsumsi individu diperlukan, jadi parafrasanya adalah setiap orang perlu mengubah kesadaran mulai dari belanja sehari-hari.",
+    "sort_order": 75
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の論理構造として最も適切なものはどれか。\n「確かに、経済成長は国民生活の向上に寄与してきた。しかし、成長至上主義がもたらした環境破壊や格差の拡大は、もはや看過し得ない段階に達している。今こそ、成長の質を問い直す時ではないか。」",
+    "options": ["譲歩→反論→提案", "主張→例示→結論", "問題提起→分析→解決", "原因→結果→予測"],
+    "correct_answer": "A",
+    "explanation": "Struktur logis: 「確かに」(mengakui/menyerahkan poin), 「しかし」(membantah), 「今こそ〜ではないか」(mengajukan proposal). Ini adalah pola 譲歩→反論→提案 (konsesi → sanggahan → usulan).",
+    "sort_order": 76
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で筆者が「本末転倒」と考えている状況はどれか。\n「教育の本来の目的は、子どもの知的好奇心を育み、自ら考える力を養うことにある。にもかかわらず、試験の点数を上げることのみに汲々としている現状は、まさに本末転倒と言わざるを得ない。」",
+    "options": ["知的好奇心を育むこと", "試験の点数だけを追求すること", "教育制度を改革すること", "自ら考える力を養うこと"],
+    "correct_answer": "B",
+    "explanation": "「本末転倒」(ほんまつてんとう) berarti memprioritaskan yang kurang penting. Mengejar nilai ujian saja alih-alih menumbuhkan rasa ingin tahu dan kemampuan berpikir adalah hal yang terbalik dari tujuan pendidikan.",
+    "sort_order": 77
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「敷衍する」の意味として最も適切なものはどれか。\n「この理論を他の分野にも敷衍することで、より包括的な理解が得られるだろう。」",
+    "options": ["限定する", "推し広げて応用する", "否定する", "縮小する"],
+    "correct_answer": "B",
+    "explanation": "「敷衍する」(ふえんする) berarti memperluas dan menerapkan. Dengan menerapkan teori ini ke bidang lain, pemahaman yang lebih komprehensif akan diperoleh.",
+    "sort_order": 78
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で、筆者が「危惧」していることは何か。\n「AIによる創作活動が高度化する中、芸術における人間固有の価値とは何かが問われている。技術が感性を凌駕する日が来れば、芸術の存在意義そのものが揺らぎかねない。」",
+    "options": ["AIの技術が停滞すること", "AIが人間の感性を超え芸術の存在意義が脅かされること", "人間の技術が向上すること", "芸術が発展すること"],
+    "correct_answer": "B",
+    "explanation": "Penulis khawatir bahwa jika teknologi AI melampaui sensibilitas manusia, makna keberadaan seni itu sendiri bisa tergoyahkan. 「凌駕する」(りょうがする) berarti mengungguli.",
+    "sort_order": 79
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「一石を投じた」とはどういう意味か。\n「その若手研究者の論文は、長年定説とされてきた理論に一石を投じ、学界に活発な議論を巻き起こした。」",
+    "options": ["理論を完全に否定した", "問題提起をして議論を引き起こした", "理論を支持した", "何の影響も与えなかった"],
+    "correct_answer": "B",
+    "explanation": "「一石を投じる」(いっせきをとうじる) berarti melempar batu ke kolam — menimbulkan pertanyaan atau memicu diskusi. Makalah peneliti muda tersebut memicu diskusi aktif terhadap teori yang selama ini dianggap mapan.",
+    "sort_order": 80
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章における筆者のスタンスとして最も適切なものはどれか。\n「伝統を墨守することと、伝統を継承しつつ革新を図ることとは、根本的に異なる。前者は停滞を、後者は発展をもたらす。我々が目指すべきは、言うまでもなく後者である。」",
+    "options": ["伝統を完全に捨てるべきだ", "伝統を変えずに守るべきだ", "伝統を継承しつつ革新すべきだ", "伝統は重要ではない"],
+    "correct_answer": "C",
+    "explanation": "「墨守」(ぼくしゅ) berarti mempertahankan secara kaku. Penulis membedakan antara mempertahankan tradisi secara kaku (stagnasi) dengan mewarisi tradisi sambil berinovasi (perkembangan), dan jelas memilih yang terakhir.",
+    "sort_order": 81
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「帰結」が指す内容として最も適切なものはどれか。\n「環境規制の強化は、短期的にはコスト増を招く。しかし、その帰結として、持続可能な経済モデルへの転換が促進され、長期的には企業の競争力強化につながる。」",
+    "options": ["コストの増加", "持続可能な経済モデルへの転換と競争力強化", "環境規制の撤廃", "短期的な利益の増加"],
+    "correct_answer": "B",
+    "explanation": "「帰結」(きけつ) berarti hasil akhir atau konsekuensi. Di sini, hasil akhir dari penguatan regulasi lingkungan adalah transisi ke model ekonomi berkelanjutan dan penguatan daya saing jangka panjang.",
+    "sort_order": 82
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「蓋然性」の意味として最も適切なものはどれか。\n「この仮説が正しい蓋然性は高いが、実証データが不足しているため、断定するには時期尚早である。」",
+    "options": ["不可能性", "確率・可能性", "必然性", "偶然性"],
+    "correct_answer": "B",
+    "explanation": "「蓋然性」(がいぜんせい) berarti probabilitas atau kemungkinan. Hipotesis ini memiliki probabilitas tinggi untuk benar, tetapi karena data empiris masih kurang, terlalu dini untuk memastikan.",
+    "sort_order": 83
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で筆者が問題視していることは何か。\n「『空気を読む』という日本特有のコミュニケーション様式は、集団の調和を維持する上で機能してきた。だが、それが行き過ぎると、建設的な批判や異論が封じ込められ、組織の硬直化を招く危険性がある。」",
+    "options": ["空気を読むことの全面的な否定", "空気を読むことの過剰が組織の硬直化を招くこと", "日本のコミュニケーションの賞賛", "集団の調和は不要であること"],
+    "correct_answer": "B",
+    "explanation": "Penulis mengakui fungsi positif 「空気を読む」 tetapi memperingatkan bahwa jika berlebihan, kritik konstruktif dan pendapat berbeda akan ditekan, menyebabkan kekakuan organisasi.",
+    "sort_order": 84
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章における「畢竟」の意味として最も適切なものはどれか。\n「さまざまな議論がなされてきたが、畢竟、この問題の解決には国際的な協力体制の構築が不可欠であるという結論に至った。」",
+    "options": ["一時的に", "つまるところ・結局", "偶然に", "例外的に"],
+    "correct_answer": "B",
+    "explanation": "「畢竟」(ひっきょう) berarti pada akhirnya / singkatnya. Setelah berbagai diskusi, kesimpulannya adalah kerja sama internasional sangat diperlukan untuk menyelesaikan masalah ini.",
+    "sort_order": 85
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の構成として最も適切な説明はどれか。\n「近年、働き方改革が叫ばれている。長時間労働の是正や多様な勤務形態の導入が推進されているが、根本的な問題は労働生産性の低さにある。すなわち、単に労働時間を短縮するだけでは、真の改革とは言えない。生産性の向上を伴わない時短は、むしろ労働者の負担を増大させかねない。」",
+    "options": ["現象の提示→表面的対策→真の問題点の指摘→警告", "問題の否定→代替案の提示→結論", "歴史の説明→現状分析→将来予測", "賛成意見→反対意見→妥協案"],
+    "correct_answer": "A",
+    "explanation": "Struktur: fenomena (reformasi kerja) → langkah permukaan (pengurangan jam kerja) → masalah sebenarnya (produktivitas rendah) → peringatan (pengurangan jam tanpa peningkatan produktivitas justru menambah beban).",
+    "sort_order": 86
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「衣鉢を継ぐ」の意味として最も適切なものはどれか。\n「彼は恩師の衣鉢を継ぎ、その学問的伝統を次の世代に引き渡す使命を担っている。」",
+    "options": ["師の衣服を受け取る", "師の学問や技芸を受け継ぐ", "師を批判する", "師の財産を相続する"],
+    "correct_answer": "B",
+    "explanation": "「衣鉢を継ぐ」(いはつをつぐ) berarti mewarisi ajaran atau keahlian guru. Awalnya istilah Buddhis (menerima jubah dan mangkuk), kini berarti meneruskan tradisi akademis atau artistik guru.",
+    "sort_order": 87
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で筆者が述べたいことは何か。\n「データに基づく意思決定の重要性が強調される昨今であるが、データはあくまでも過去の事象の集積にすぎない。未来を切り拓くのは、データの向こう側にある人間の直感と創造力である。」",
+    "options": ["データだけに依存すべきだ", "データは全く不要である", "データは重要だが人間の直感と創造力も不可欠だ", "直感は信用できない"],
+    "correct_answer": "C",
+    "explanation": "Penulis tidak menolak pentingnya data, tetapi menekankan bahwa data hanyalah akumulasi peristiwa masa lalu. Intuisi dan kreativitas manusialah yang membuka masa depan — keduanya diperlukan.",
+    "sort_order": 88
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章で「嚆矢」の意味として最も適切なものはどれか。\n「この法律は、環境保護に関する国際的な取り組みの嚆矢となった。」",
+    "options": ["終結", "先駆け・始まり", "障害", "失敗"],
+    "correct_answer": "B",
+    "explanation": "「嚆矢」(こうし) berarti perintis atau permulaan (secara harfiah: anak panah pertama yang dilepaskan). Undang-undang ini menjadi pelopor upaya perlindungan lingkungan internasional.",
+    "sort_order": 89
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "membaca",
+    "question_text": "次の文章の要旨として最も適切なものはどれか。\n「多文化共生社会の実現には、単に異文化を『容認』するだけでは不十分である。互いの文化的背景を深く理解し、そこから新たな価値を共に創造する姿勢が求められる。受容を超えた共創こそが、真の多文化共生への道筋である。」",
+    "options": ["異文化は容認すれば十分だ", "異文化を排除すべきだ", "容認を超えて異文化と共に新たな価値を創造すべきだ", "文化は統一すべきだ"],
+    "correct_answer": "C",
+    "explanation": "Penulis menekankan bahwa masyarakat multikultural sejati memerlukan lebih dari sekadar toleransi — diperlukan penciptaan nilai baru bersama (共創/co-creation) melalui pemahaman mendalam terhadap latar belakang budaya masing-masing.",
+    "sort_order": 90
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "学術講演で「この問題は一朝一夕に解決し得るものではなく、長期的な視座に立った取り組みが肝要である」と述べられた。講演者が強調していることは何か。",
+    "options": ["すぐに解決できる", "短期的な対策が必要", "長期的な視点での取り組みが重要", "問題は存在しない"],
+    "correct_answer": "C",
+    "explanation": "「一朝一夕に」(いっちょういっせきに) berarti dalam waktu singkat. 「肝要」(かんよう) berarti sangat penting. Pembicara menekankan bahwa pendekatan jangka panjang sangat penting.",
+    "sort_order": 91
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "国際会議で議長が「各国の立場の相違を踏まえつつも、共通の利益を見出す努力を惜しむべきではない」と発言した。議長の主張は何か。",
+    "options": ["各国の立場を無視すべきだ", "立場の違いを認めつつ共通利益を追求すべきだ", "共通の利益は存在しない", "会議を中止すべきだ"],
+    "correct_answer": "B",
+    "explanation": "議長は各国の立場の違いを認識しつつも (踏まえつつも)、共通の利益を見出す努力を怠るべきではない (惜しむべきではない) と主張しています。",
+    "sort_order": 92
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "講演会で「現代社会が直面する課題は、いずれも相互に連関しており、個別の対応では到底太刀打ちできない」と語られた。講演者の見解は何か。",
+    "options": ["課題は個別に解決できる", "課題は相互に関連しており包括的な対応が必要", "課題は存在しない", "個別対応で十分である"],
+    "correct_answer": "B",
+    "explanation": "「相互に連関」berarti saling terkait. 「到底太刀打ちできない」berarti sama sekali tidak bisa diatasi. Pembicara berpendapat bahwa pendekatan komprehensif diperlukan karena masalah-masalah saling berkaitan.",
+    "sort_order": 93
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "役員会議で「この提案は一見合理的に見えるが、子細に検討すると看過し難い瑕疵がある」と指摘された。発言者の評価は何か。",
+    "options": ["提案は完璧だ", "提案は表面上は合理的だが見逃せない欠陥がある", "提案は全く無意味だ", "提案を即座に承認すべきだ"],
+    "correct_answer": "B",
+    "explanation": "「子細に」(しさいに) berarti secara detail. 「瑕疵」(かし) berarti cacat atau kelemahan. Proposal ini terlihat rasional di permukaan tetapi memiliki cacat yang tidak bisa diabaikan jika diteliti lebih detail.",
+    "sort_order": 94
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "シンポジウムで「従来の二項対立的な思考を超克し、より高次の統合を目指すべきだ」と提唱された。提唱者が求めていることは何か。",
+    "options": ["二者択一の思考を続けるべきだ", "対立する考えを超えてより高い次元の統合を目指すべきだ", "一方の意見だけを採用すべきだ", "議論をやめるべきだ"],
+    "correct_answer": "B",
+    "explanation": "「二項対立」(にこうたいりつ) berarti oposisi biner. 「超克」(ちょうこく) berarti mengatasi. Pembicara mengusulkan untuk melampaui pemikiran dikotomis menuju integrasi yang lebih tinggi.",
+    "sort_order": 95
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "政策討論会で「この施策は弥縫策に過ぎず、根本的な解決には程遠い」と批判された。批判の内容は何か。",
+    "options": ["施策は画期的だ", "施策は一時しのぎで根本的解決にならない", "施策は完璧だ", "施策は不要だ"],
+    "correct_answer": "B",
+    "explanation": "「弥縫策」(びほうさく) berarti solusi tambal sulam / langkah sementara. Kritiknya adalah bahwa kebijakan ini hanya bersifat sementara dan jauh dari solusi fundamental.",
+    "sort_order": 96
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "経営会議で「短期的な利益に眩惑されることなく、中長期的な企業価値の向上に腐心すべきだ」と発言された。発言者が重視していることは何か。",
+    "options": ["短期的な利益を最大化すること", "中長期的な企業価値の向上", "利益を全く追求しないこと", "現状維持"],
+    "correct_answer": "B",
+    "explanation": "「眩惑される」(げんわくされる) berarti terbuai / silau. 「腐心する」(ふしんする) berarti berusaha keras / menaruh perhatian besar. Pembicara menekankan untuk tidak terbuai keuntungan jangka pendek dan fokus pada peningkatan nilai perusahaan jangka menengah-panjang.",
+    "sort_order": 97
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "大学の講義で「この理論は一定の説得力を持つものの、反証可能性という観点からは脆弱性を免れない」と述べられた。教授の評価は何か。",
+    "options": ["理論は完全に正しい", "理論にはある程度の説得力はあるが反証に対して弱い面がある", "理論は全く価値がない", "理論は反証不可能だ"],
+    "correct_answer": "B",
+    "explanation": "「脆弱性を免れない」(ぜいじゃくせいをまぬがれない) berarti tidak terhindar dari kelemahan. Teori ini memiliki daya persuasi tertentu tetapi lemah dari sudut pandang falsifiabilitas.",
+    "sort_order": 98
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "記者会見で「我が社は今般の不祥事を厳粛に受け止め、再発防止に全力を傾注する所存であります」と述べられた。会社の姿勢として最も適切なものはどれか。",
+    "options": ["問題を軽視している", "責任を他者に転嫁している", "問題を深刻に受け止め再発防止に全力を注ぐ", "問題を隠蔽しようとしている"],
+    "correct_answer": "C",
+    "explanation": "「厳粛に受け止める」berarti menerima dengan serius. 「傾注する」(けいちゅうする) berarti mencurahkan seluruh upaya. Perusahaan menunjukkan sikap serius terhadap skandal dan berkomitmen mencegah terulangnya.",
+    "sort_order": 99
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "学術シンポジウムで「この分野の研究は端緒についたばかりであり、拙速な結論は厳に慎むべきだ」と注意された。発言の趣旨は何か。",
+    "options": ["研究は完了した", "早急に結論を出すべきだ", "研究はまだ初期段階なので性急な結論は避けるべきだ", "研究に価値はない"],
+    "correct_answer": "C",
+    "explanation": "「端緒についた」(たんしょについた) berarti baru saja dimulai. 「拙速」(せっそく) berarti tergesa-gesa. 「厳に慎む」(げんにつつしむ) berarti sangat hati-hati menghindari. Penelitian masih tahap awal, jadi jangan terburu-buru menarik kesimpulan.",
+    "sort_order": 100
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "外交官が「双方の立場は依然として隔絶しているが、対話の糸口を見出す余地は残されている」と述べた。発言者の見解は何か。",
+    "options": ["交渉は完全に不可能だ", "立場は離れているが対話の可能性はまだある", "両者はすでに合意している", "対話は不要だ"],
+    "correct_answer": "B",
+    "explanation": "「隔絶している」(かくぜつしている) berarti sangat berjauhan. 「糸口」(いとぐち) berarti titik awal / celah. Diplomat ini melihat bahwa meskipun posisi kedua pihak masih jauh berbeda, masih ada ruang untuk menemukan celah dialog.",
+    "sort_order": 101
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "テレビ討論で「規制緩和の功罪については、もう少し冷静な議論が必要ではなかろうか」と発言された。発言者が求めていることは何か。",
+    "options": ["規制緩和を直ちに実施すべきだ", "規制緩和の良い面と悪い面について冷静に議論すべきだ", "規制を完全に強化すべきだ", "議論は不要だ"],
+    "correct_answer": "B",
+    "explanation": "「功罪」(こうざい) berarti kelebihan dan kekurangan / pro dan kontra. 「ではなかろうか」adalah bentuk sopan dari 「ではないか」. Pembicara meminta diskusi yang lebih tenang tentang pro dan kontra deregulasi.",
+    "sort_order": 102
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "会社の朝礼で社長が「前期の業績は芳しくなかったが、これを奇貨として組織改革に着手したい」と述べた。社長の意図は何か。",
+    "options": ["業績不振を放置する", "不振を好機として組織改革を始めたい", "組織改革は不要だ", "業績は良かった"],
+    "correct_answer": "B",
+    "explanation": "「芳しくない」(かんばしくない) berarti tidak bagus. 「奇貨として」(きかとして) berarti menjadikan kesempatan yang jarang / mengambil hikmah. Presdir ingin menjadikan kinerja buruk sebagai peluang untuk memulai reformasi organisasi.",
+    "sort_order": 103
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "環境フォーラムで「生態系の多様性の毀損は、翻って人間社会の存続そのものを脅かすことを銘記すべきだ」と警告された。発言者の主張は何か。",
+    "options": ["生態系と人間社会は無関係だ", "生態系の多様性の損失は人間社会の存続をも脅かす", "人間社会は永遠に安泰だ", "生態系は重要ではない"],
+    "correct_answer": "B",
+    "explanation": "「毀損」(きそん) berarti kerusakan. 「翻って」(ひるがえって) berarti sebaliknya / pada gilirannya. 「銘記」(めいき) berarti mengingat dengan baik. Kerusakan keanekaragaman ekosistem pada akhirnya mengancam kelangsungan masyarakat manusia.",
+    "sort_order": 104
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "審議会で委員が「この案は総花的で焦点が絞り切れていない。もっと優先順位を明確にすべきだ」と述べた。委員の批判は何か。",
+    "options": ["案は非常に良い", "案は焦点が定まっておらず優先順位が不明確だ", "案は簡潔すぎる", "案は斬新だ"],
+    "correct_answer": "B",
+    "explanation": "「総花的」(そうばなてき) berarti mencakup semua hal secara dangkal tanpa fokus. Anggota dewan mengkritik bahwa proposal ini terlalu umum dan perlu memperjelas prioritas.",
+    "sort_order": 105
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "講演で「我が国の教育制度は岐路に立っている。旧態依然とした体制を維持するか、抜本的な改革に踏み切るか、決断の時が来ている」と語られた。講演者の認識は何か。",
+    "options": ["教育制度に問題はない", "教育制度は重大な選択の時期にある", "現状維持で十分だ", "教育は不要だ"],
+    "correct_answer": "B",
+    "explanation": "「岐路に立つ」(きろにたつ) berarti berada di persimpangan jalan. 「旧態依然」(きゅうたいいぜん) berarti masih seperti dulu tanpa perubahan. 「抜本的」(ばっぽんてき) berarti mendasar. Pembicara melihat sistem pendidikan berada di titik kritis pemilihan arah.",
+    "sort_order": 106
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "国会答弁で大臣が「この問題については、関係省庁と緊密に連携を図りつつ、遺漏なきよう対処してまいります」と述べた。大臣の約束は何か。",
+    "options": ["単独で対処する", "関係省庁と連携し漏れなく対処する", "問題を先送りする", "対処しない"],
+    "correct_answer": "B",
+    "explanation": "「緊密に連携を図る」berarti berkoordinasi secara erat. 「遺漏なきよう」(いろうなきよう) berarti tanpa kelalaian / tanpa ada yang terlewat. Menteri berjanji berkoordinasi erat dengan kementerian terkait dan menangani masalah tanpa ada yang terlewat.",
+    "sort_order": 107
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "学会発表で「本研究は先行研究の知見を敷衍しつつ、独自の視座から新たな仮説を提示するものである」と述べられた。この研究の特徴は何か。",
+    "options": ["先行研究を否定している", "先行研究を発展させつつ独自の視点で新仮説を提示している", "先行研究をそのまま繰り返している", "仮説を持たない"],
+    "correct_answer": "B",
+    "explanation": "「敷衍しつつ」(ふえんしつつ) berarti sambil memperluas/mengembangkan. 「独自の視座」(どくじのしざ) berarti sudut pandang unik. Penelitian ini mengembangkan temuan penelitian sebelumnya sambil menyajikan hipotesis baru dari perspektif orisinal.",
+    "sort_order": 108
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "企業の決算説明会で「当期の業績は前期比で若干の伸びを示したものの、予断を許さない状況が続いている」と報告された。会社の現状は何か。",
+    "options": ["業績は大幅に改善した", "少し成長したが先行きは不透明で油断できない", "業績は悪化した", "業績は極めて好調だ"],
+    "correct_answer": "B",
+    "explanation": "「若干の伸び」berarti sedikit pertumbuhan. 「予断を許さない」(よだんをゆるさない) berarti tidak bisa santai / situasi tidak bisa diprediksi. Sedikit tumbuh tetapi situasi masih tidak bisa dioptimiskan.",
+    "sort_order": 109
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "医学会議で「この新薬は画期的な効果が期待される反面、副作用の懸念が払拭されていない」と報告された。新薬の状況は何か。",
+    "options": ["副作用はない", "効果は期待されるが副作用の懸念が残っている", "全く効果がない", "すでに承認された"],
+    "correct_answer": "B",
+    "explanation": "「画期的」(かっきてき) berarti revolusioner. 「払拭されていない」(ふっしょくされていない) berarti belum dihilangkan. Obat baru ini diharapkan efektif tetapi kekhawatiran efek samping belum hilang.",
+    "sort_order": 110
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "パネルディスカッションで「この問題に関する議論は、ともすれば感情論に陥りがちだが、あくまでもエビデンスに基づいた冷静な分析が求められる」と司会者が述べた。司会者が求めていることは何か。",
+    "options": ["感情的な議論を続けるべきだ", "証拠に基づいた冷静な分析が必要だ", "分析は不要だ", "議論をやめるべきだ"],
+    "correct_answer": "B",
+    "explanation": "「ともすれば」berarti cenderung / mudah terjerumus. 「感情論に陥る」berarti terjebak dalam argumen emosional. Moderator meminta agar diskusi berdasarkan bukti dan analisis yang tenang, bukan emosi.",
+    "sort_order": 111
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "取締役会で「この事業計画は野心的ではあるが、それに見合うだけのリスクマネジメントが不可欠である」と発言された。発言者の意見は何か。",
+    "options": ["事業計画を中止すべきだ", "野心的な計画には十分なリスク管理が必要だ", "リスク管理は不要だ", "計画は保守的すぎる"],
+    "correct_answer": "B",
+    "explanation": "「野心的」(やしんてき) berarti ambisius. 「見合うだけの」berarti setara / sepadan dengan. Rencana bisnis yang ambisius memerlukan manajemen risiko yang sepadan.",
+    "sort_order": 112
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "国際シンポジウムで「文化の多様性は人類共通の遺産であり、その保全は我々全員に課された責務である」と宣言された。宣言の趣旨は何か。",
+    "options": ["文化の多様性は不要だ", "文化的多様性の保全は全人類の責任だ", "一つの文化だけを守るべきだ", "文化は自然に保たれる"],
+    "correct_answer": "B",
+    "explanation": "「人類共通の遺産」berarti warisan bersama umat manusia. 「課された責務」(かされたせきむ) berarti tanggung jawab yang dibebankan. Melestarikan keberagaman budaya adalah tanggung jawab semua orang.",
+    "sort_order": 113
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "研究報告会で「この実験結果は当初の仮説を裏付けるものであるが、サンプル数の制約から、一般化には慎重を期すべきだ」と述べられた。研究者の姿勢は何か。",
+    "options": ["結果を全面的に一般化してよい", "仮説は支持されたがサンプル数の制約から一般化は慎重にすべきだ", "仮説は否定された", "実験は失敗した"],
+    "correct_answer": "B",
+    "explanation": "「裏付ける」berarti mendukung / membuktikan. 「慎重を期す」(しんちょうをきす) berarti bersikap sangat hati-hati. Hasil mendukung hipotesis tetapi karena keterbatasan jumlah sampel, generalisasi harus dilakukan dengan hati-hati.",
+    "sort_order": 114
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "経済フォーラムで「新興国の台頭は、既存の国際秩序に地殻変動をもたらしつつある」と分析された。分析内容は何か。",
+    "options": ["新興国は影響力がない", "新興国の台頭が国際秩序に大きな変化を起こしている", "国際秩序は安定している", "新興国は衰退している"],
+    "correct_answer": "B",
+    "explanation": "「台頭」(たいとう) berarti kebangkitan. 「地殻変動」(ちかくへんどう) secara harfiah berarti pergeseran tektonik, di sini berarti perubahan mendasar. Kebangkitan negara berkembang menyebabkan perubahan besar dalam tatanan internasional.",
+    "sort_order": 115
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "法律セミナーで「判例の蓄積によって法解釈が精緻化されてきたが、社会の変容に法が追いついていない側面もある」と指摘された。発言者の見解は何か。",
+    "options": ["法律は完璧だ", "判例で法解釈は精緻化されたが社会変化に法が追いついていない面もある", "判例は不要だ", "法律は変える必要がない"],
+    "correct_answer": "B",
+    "explanation": "「精緻化」(せいちか) berarti menjadi lebih halus dan detail. Interpretasi hukum telah berkembang melalui akumulasi preseden, tetapi ada aspek di mana hukum tidak bisa mengikuti perubahan masyarakat.",
+    "sort_order": 116
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "企業説明会で「弊社は創業以来、顧客本位の経営理念を堅持してまいりました。今後も、この理念にいささかの揺るぎもございません」と述べられた。会社の姿勢は何か。",
+    "options": ["経営理念を変更する予定だ", "顧客優先の理念を変わらず守り続ける", "利益を最優先にする", "理念は形骸化している"],
+    "correct_answer": "B",
+    "explanation": "「堅持する」(けんじする) berarti mempertahankan dengan teguh. 「いささかの揺るぎもない」berarti sedikit pun tidak goyah. Perusahaan akan terus mempertahankan filosofi yang mengutamakan pelanggan.",
+    "sort_order": 117
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "市民フォーラムで「行政の透明性を担保することは、民主主義の根幹を成すものであり、いかなる理由があろうとも、これを蔑ろにしてはならない」と強調された。発言の趣旨は何か。",
+    "options": ["行政の透明性は重要ではない", "行政の透明性は民主主義の基盤であり決しておろそかにできない", "理由があれば透明性を犠牲にできる", "民主主義は不要だ"],
+    "correct_answer": "B",
+    "explanation": "「担保する」(たんぽする) berarti menjamin. 「蔑ろにする」(ないがしろにする) berarti mengabaikan / meremehkan. Transparansi pemerintahan adalah fondasi demokrasi dan tidak boleh diabaikan dengan alasan apapun.",
+    "sort_order": 118
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "学術講演の質疑応答で「先生のご所論は卓抜なものと存じますが、一点だけ愚見を述べさせていただきたい」と発言された。発言者の態度は何か。",
+    "options": ["講演者を侮辱している", "講演者に敬意を示しつつ自分の意見を謙虚に述べようとしている", "講演者に完全に同意している", "議論を拒否している"],
+    "correct_answer": "B",
+    "explanation": "「ご所論」(ごしょろん) berarti pendapat Anda (hormat). 「卓抜」(たくばつ) berarti luar biasa. 「愚見」(ぐけん) berarti pendapat saya yang tidak berharga (merendahkan diri). Pembicara menunjukkan rasa hormat sambil dengan rendah hati menyampaikan pandangannya.",
+    "sort_order": 119
+  },
+  {
+    "test_type": "cert_jlpt_n1",
+    "section": "listening",
+    "question_text": "国際会議の閉会式で「本会議での議論が、ひいては世界平和の礎となることを切に願ってやみません」と述べられた。この発言が表すものは何か。",
+    "options": ["会議は失敗したという評価", "会議の議論が世界平和の基盤になることへの強い願い", "会議は不要だったという見解", "今後会議は開かないという宣言"],
+    "correct_answer": "B",
+    "explanation": "「ひいては」berarti pada akhirnya / lebih jauh lagi. 「礎」(いしずえ) berarti fondasi. 「願ってやみません」berarti sangat berharap tanpa henti. Pembicara sangat berharap bahwa diskusi di konferensi ini akan menjadi fondasi perdamaian dunia.",
+    "sort_order": 120
+  }
+]

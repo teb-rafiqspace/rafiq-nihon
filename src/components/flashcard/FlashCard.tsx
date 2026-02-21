@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
 import { BookmarkButton } from '@/components/learn/BookmarkButton';
 import { useHapticFeedback } from '@/hooks/useHapticFeedback';
+import { PronunciationCheckButton } from '@/components/shared/PronunciationCheckButton';
 
 interface FlashCardProps {
   id?: string;
@@ -101,7 +102,12 @@ export function FlashCard({
             <div className="text-center">
               <p className="text-3xl md:text-4xl font-bold font-jp">{wordJp}</p>
               {reading && (
-                <p className="text-lg text-muted-foreground mt-2">{reading}</p>
+                <div className="flex items-center justify-center gap-2 mt-2">
+                  <p className="text-lg text-muted-foreground">{reading}</p>
+                  <div onClick={e => e.stopPropagation()}>
+                    <PronunciationCheckButton targetText={wordJp} targetReading={reading} />
+                  </div>
+                </div>
               )}
             </div>
             

@@ -26,6 +26,7 @@ const certificationTests = [
   { id: 'cert_jlpt_n4', name: 'JLPT N4', duration: 75, questions: 55, icon: '📜', description: 'Sertifikasi kemampuan JLPT N4', passingScore: 65 },
   { id: 'cert_jlpt_n3', name: 'JLPT N3', duration: 90, questions: 70, icon: '📜', description: 'Sertifikasi kemampuan JLPT N3', passingScore: 65 },
   { id: 'cert_jlpt_n2', name: 'JLPT N2', duration: 105, questions: 90, icon: '📜', description: 'Sertifikasi kemampuan JLPT N2', passingScore: 65 },
+  { id: 'cert_jlpt_n1', name: 'JLPT N1', duration: 120, questions: 120, icon: '📕', description: 'Sertifikasi kemampuan JLPT N1', passingScore: 65 },
 ];
 
 const mockTests = [

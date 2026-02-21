@@ -6,7 +6,7 @@ const corsHeaders = {
   "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
 };
 
-const SYSTEM_PROMPT = `Kamu adalah Rafiq Sensei, seorang guru bahasa Jepang yang ramah, sabar, dan bersemangat. Kamu membantu siswa Indonesia belajar bahasa Jepang.
+const SENSEI_PROMPT = `Kamu adalah Rafiq Sensei, seorang guru bahasa Jepang yang ramah, sabar, dan bersemangat. Kamu membantu siswa Indonesia belajar bahasa Jepang.
 
 Panduan:
 1. Jawab dalam Bahasa Indonesia, tetapi sertakan contoh dalam bahasa Jepang
@@ -22,12 +22,29 @@ Contoh format respons:
 "Bagus sekali! 🌸
 
 **Kata:** おはようございます
-**Romaji:** Ohayou gozaimasu  
+**Romaji:** Ohayou gozaimasu
 **Arti:** Selamat pagi (formal)
 
-**Tips:** Gunakan ini di tempat kerja atau kepada orang yang lebih tua. Untuk teman, cukup 'おはよう' (Ohayou) saja! 
+**Tips:** Gunakan ini di tempat kerja atau kepada orang yang lebih tua. Untuk teman, cukup 'おはよう' (Ohayou) saja!
 
 Ada yang ingin kamu tanyakan lagi? 😊"`;
+
+const CONVERSATION_PROMPT = `Kamu adalah teman percakapan bahasa Jepang. Balas terutama dalam bahasa Jepang.
+
+Panduan:
+1. Balas terutama dalam bahasa Jepang
+2. Sertakan furigana/reading dalam tanda kurung setelah kanji: 今日(きょう)は天気(てんき)がいいですね。
+3. Tambahkan terjemahan bahasa Indonesia di bawah respons Jepang
+4. Gunakan level JLPT N5-N3 (kosakata dan grammar sederhana)
+5. Perbaiki kesalahan bahasa Jepang pengguna dengan lembut
+6. Jaga percakapan mengalir alami seperti teman
+7. Jika pengguna menulis dalam bahasa Indonesia, jawab dalam bahasa Jepang tetapi tetap sertakan terjemahan
+8. Batasi respons 200 kata agar mudah dibaca
+
+Format respons:
+🇯🇵 今日(きょう)は何(なに)をしましたか？
+
+🇮🇩 Hari ini kamu ngapain?`;
 
 serve(async (req) => {
   // Handle CORS preflight
@@ -102,15 +119,53 @@ serve(async (req) => {
       );
     }
 
-    const { messages } = await req.json();
-    
-    const LOVABLE_API_KEY = Deno.env.get("LOVABLE_API_KEY");
-    if (!LOVABLE_API_KEY) {
-      console.error("LOVABLE_API_KEY is not configured");
-      throw new Error("LOVABLE_API_KEY is not configured");
+    const { messages, mode } = await req.json();
+    const systemPrompt = mode === 'conversation' ? CONVERSATION_PROMPT : SENSEI_PROMPT;
+
+    console.log("Authenticated user:", userId, "- Sending request with", messages.length, "messages, mode:", mode || "sensei");
+
+    const chatMessages = [
+      { role: "system", content: systemPrompt },
+      ...messages,
+    ];
+
+    // Tier 1: DekaLLM API
+    const DEKALLM_API_KEY = Deno.env.get("DEKALLM_API_KEY");
+    if (DEKALLM_API_KEY && DEKALLM_API_KEY !== "your-dekallm-key-here") {
+      try {
+        console.log("Trying DekaLLM API for chat...");
+        const dekaResponse = await fetch("https://dekallm.cloudeka.ai/v1/chat/completions", {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${DEKALLM_API_KEY}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "nvidia/nemotron-3-nano-30b-a3b",
+            messages: chatMessages,
+            stream: true,
+          }),
+        });
+
+        if (dekaResponse.ok) {
+          console.log("Streaming response from DekaLLM for user:", userId);
+          return new Response(dekaResponse.body, {
+            headers: { ...corsHeaders, "Content-Type": "text/event-stream" },
+          });
+        }
+        console.error("DekaLLM error:", dekaResponse.status);
+      } catch (dekaError) {
+        console.error("DekaLLM failed:", dekaError);
+      }
     }
 
-    console.log("Authenticated user:", userId, "- Sending request with", messages.length, "messages");
+    // Tier 2: Lovable API fallback
+    const LOVABLE_API_KEY = Deno.env.get("LOVABLE_API_KEY");
+    if (!LOVABLE_API_KEY || LOVABLE_API_KEY === "your-lovable-key-here") {
+      throw new Error("No AI API keys configured (DEKALLM_API_KEY and LOVABLE_API_KEY both missing)");
+    }
+
+    console.log("Falling back to Lovable API for chat...");
 
     const response = await fetch("https://ai.gateway.lovable.dev/v1/chat/completions", {
       method: "POST",
@@ -120,10 +175,7 @@ serve(async (req) => {
       },
       body: JSON.stringify({
         model: "google/gemini-3-flash-preview",
-        messages: [
-          { role: "system", content: SYSTEM_PROMPT },
-          ...messages,
-        ],
+        messages: chatMessages,
         stream: true,
       }),
     });
@@ -131,29 +183,29 @@ serve(async (req) => {
     if (!response.ok) {
       const errorText = await response.text();
       console.error("AI gateway error:", response.status, errorText);
-      
+
       if (response.status === 429) {
         return new Response(
           JSON.stringify({ error: "Terlalu banyak permintaan. Coba lagi nanti." }),
           { status: 429, headers: { ...corsHeaders, "Content-Type": "application/json" } }
         );
       }
-      
+
       if (response.status === 402) {
         return new Response(
           JSON.stringify({ error: "Kredit AI habis. Hubungi administrator." }),
           { status: 402, headers: { ...corsHeaders, "Content-Type": "application/json" } }
         );
       }
-      
+
       return new Response(
         JSON.stringify({ error: "Gagal menghubungi AI. Coba lagi nanti." }),
         { status: 500, headers: { ...corsHeaders, "Content-Type": "application/json" } }
       );
     }
 
-    console.log("Streaming response from AI gateway for user:", userId);
-    
+    console.log("Streaming response from Lovable API for user:", userId);
+
     return new Response(response.body, {
       headers: { ...corsHeaders, "Content-Type": "text/event-stream" },
     });

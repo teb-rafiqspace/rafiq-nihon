@@ -1,0 +1,54 @@
+[
+  {
+    "id": "deck-n1-grammar",
+    "title_jp": "N1文法",
+    "title_id": "Tata Bahasa N1",
+    "description": "Pola tata bahasa tingkat lanjut untuk JLPT N1. Mencakup ekspresi formal, sastra, dan akademis yang digunakan dalam tulisan dan pidato resmi.",
+    "category": "grammar",
+    "track": "jlpt_n1",
+    "card_count": 80,
+    "icon_name": "BookOpen",
+    "color": "#8B5CF6",
+    "order_index": 14,
+    "is_premium": false
+  },
+  {
+    "id": "deck-n1-vocab",
+    "title_jp": "N1語彙",
+    "title_id": "Kosakata N1",
+    "description": "Kosakata tingkat lanjut untuk JLPT N1. Mencakup kata-kata yang sering muncul dalam berita, artikel akademis, dan percakapan formal.",
+    "category": "vocabulary",
+    "track": "jlpt_n1",
+    "card_count": 80,
+    "icon_name": "Languages",
+    "color": "#EC4899",
+    "order_index": 15,
+    "is_premium": false
+  },
+  {
+    "id": "deck-n1-keigo",
+    "title_jp": "N1敬語",
+    "title_id": "Keigo N1",
+    "description": "Ekspresi keigo tingkat lanjut untuk JLPT N1. Mencakup sonkeigo, kenjougo, dan teineigo yang digunakan dalam situasi bisnis dan formal.",
+    "category": "keigo",
+    "track": "jlpt_n1",
+    "card_count": 80,
+    "icon_name": "GraduationCap",
+    "color": "#14B8A6",
+    "order_index": 16,
+    "is_premium": true
+  },
+  {
+    "id": "deck-n1-idiom",
+    "title_jp": "N1慣用句",
+    "title_id": "Idiom N1",
+    "description": "Idiom, peribahasa, dan yojijukugo tingkat lanjut untuk JLPT N1. Mencakup ungkapan yang sering digunakan dalam bahasa Jepang sehari-hari dan sastra.",
+    "category": "idiom",
+    "track": "jlpt_n1",
+    "card_count": 80,
+    "icon_name": "Sparkles",
+    "color": "#F59E0B",
+    "order_index": 17,
+    "is_premium": true
+  }
+]

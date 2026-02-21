@@ -5,7 +5,7 @@ import { AppLayout } from '@/components/layout/AppLayout';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { useAuth } from '@/lib/auth';
-import { Send, Bot, Sparkles, Crown } from 'lucide-react';
+import { Send, Bot, Sparkles, Crown, Mic, MicOff, MessageSquare, Languages } from 'lucide-react';
 import { useRafiqChat } from '@/hooks/useRafiqChat';
 import { ChatMessage } from '@/components/chat/ChatMessage';
 import { TypingIndicator } from '@/components/chat/TypingIndicator';
@@ -14,6 +14,7 @@ import { WelcomeMessage } from '@/components/chat/WelcomeMessage';
 import { Skeleton } from '@/components/ui/skeleton';
 import { useSubscription, isPremiumActive } from '@/hooks/useSubscription';
 import { PremiumUpgradeModal } from '@/components/subscription/PremiumUpgradeModal';
+import { useSpeechRecognition } from '@/hooks/useSpeechRecognition';
 
 export default function Chat() {
   const [searchParams] = useSearchParams();
@@ -31,9 +32,21 @@ export default function Chat() {
     isLoading,
     isLoadingHistory,
     remainingChats,
+    chatMode,
+    setChatMode,
     sendMessage,
     submitFeedback,
   } = useRafiqChat();
+
+  const {
+    isListening,
+    isSupported: micSupported,
+    transcript: micTranscript,
+    interimTranscript: micInterim,
+    startListening,
+    stopListening,
+    resetTranscript,
+  } = useSpeechRecognition('ja-JP');
   
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -59,6 +72,23 @@ export default function Chat() {
   const handleSuggestedPrompt = (prompt: string) => {
     setInput(prompt);
   };
+
+  // Populate input when speech recognition finishes
+  useEffect(() => {
+    if (!isListening && micTranscript) {
+      setInput(prev => prev ? `${prev} ${micTranscript}` : micTranscript);
+      resetTranscript();
+    }
+  }, [isListening, micTranscript]);
+
+  const handleMicToggle = () => {
+    if (isListening) {
+      stopListening();
+    } else {
+      resetTranscript();
+      startListening();
+    }
+  };
   
   return (
     <AppLayout>
@@ -76,17 +106,34 @@ export default function Chat() {
                   <p className="text-xs text-white/80">Tanya apa saja tentang bahasa Jepang</p>
                 </div>
               </div>
-              {isPremium ? (
-                <div className="bg-gradient-to-r from-amber-500 to-orange-500 rounded-full px-3 py-1.5 flex items-center gap-1.5">
-                  <Crown className="h-4 w-4 text-white" />
-                  <span className="text-sm font-medium text-white">Premium</span>
-                </div>
-              ) : (
-                <div className="bg-white/20 backdrop-blur-sm rounded-full px-3 py-1.5 flex items-center gap-1.5">
-                  <Sparkles className="h-4 w-4 text-yellow-300" />
-                  <span className="text-sm font-medium text-white">{remainingChats}/5 tersisa</span>
-                </div>
-              )}
+              <div className="flex items-center gap-2">
+                {/* Chat Mode Toggle */}
+                <button
+                  onClick={() => setChatMode(chatMode === 'sensei' ? 'conversation' : 'sensei')}
+                  className="bg-white/20 backdrop-blur-sm rounded-full px-2.5 py-1.5 flex items-center gap-1.5 hover:bg-white/30 transition-colors"
+                  title={chatMode === 'sensei' ? 'Mode Sensei (Indonesia)' : 'Mode Percakapan (Jepang)'}
+                >
+                  {chatMode === 'sensei' ? (
+                    <MessageSquare className="h-4 w-4 text-white" />
+                  ) : (
+                    <Languages className="h-4 w-4 text-white" />
+                  )}
+                  <span className="text-xs font-medium text-white">
+                    {chatMode === 'sensei' ? 'Sensei' : 'Kaiwa'}
+                  </span>
+                </button>
+                {isPremium ? (
+                  <div className="bg-gradient-to-r from-amber-500 to-orange-500 rounded-full px-3 py-1.5 flex items-center gap-1.5">
+                    <Crown className="h-4 w-4 text-white" />
+                    <span className="text-sm font-medium text-white">Premium</span>
+                  </div>
+                ) : (
+                  <div className="bg-white/20 backdrop-blur-sm rounded-full px-3 py-1.5 flex items-center gap-1.5">
+                    <Sparkles className="h-4 w-4 text-yellow-300" />
+                    <span className="text-sm font-medium text-white">{remainingChats}/5 tersisa</span>
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         </div>
@@ -150,15 +197,31 @@ export default function Chat() {
           <div className="container max-w-lg mx-auto px-4 py-3">
             <div className="flex gap-2">
               <Input
-                value={input}
+                value={isListening ? (micInterim || micTranscript || input) : input}
                 onChange={(e) => setInput(e.target.value.slice(0, isPremium ? 2000 : 500))}
                 onKeyDown={(e) => e.key === 'Enter' && !e.shiftKey && handleSend()}
-                placeholder={isPremium || remainingChats > 0 ? "Tanya Rafiq Sensei..." : "Upgrade untuk chat lagi"}
+                placeholder={
+                  isListening ? 'Mendengarkan...'
+                  : chatMode === 'conversation' ? '日本語で話しましょう...'
+                  : isPremium || remainingChats > 0 ? 'Tanya Rafiq Sensei...'
+                  : 'Upgrade untuk chat lagi'
+                }
                 disabled={isLoading}
                 className="flex-1"
               />
-              <Button 
-                size="icon" 
+              {micSupported && (
+                <Button
+                  size="icon"
+                  variant={isListening ? 'destructive' : 'outline'}
+                  onClick={handleMicToggle}
+                  disabled={isLoading}
+                  className={isListening ? 'animate-pulse' : ''}
+                >
+                  {isListening ? <MicOff className="h-5 w-5" /> : <Mic className="h-5 w-5" />}
+                </Button>
+              )}
+              <Button
+                size="icon"
                 onClick={handleSend}
                 disabled={!input.trim() || isLoading}
               >

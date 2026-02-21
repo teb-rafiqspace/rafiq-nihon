@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { cn } from '@/lib/utils';
 import { useJapaneseAudio } from '@/hooks/useJapaneseAudio';
+import { PronunciationCheckButton } from '@/components/shared/PronunciationCheckButton';
 
 interface EnhancedVocabularyCardProps {
   wordJp: string;
@@ -121,9 +122,12 @@ export function EnhancedVocabularyCard({
           
           {/* Reading (Hiragana) */}
           {reading && (
-            <p className="text-lg text-muted-foreground font-medium font-jp">
-              {reading.split(' ')[0] || reading}
-            </p>
+            <div className="flex items-center justify-center gap-2">
+              <p className="text-lg text-muted-foreground font-medium font-jp">
+                {reading.split(' ')[0] || reading}
+              </p>
+              <PronunciationCheckButton targetText={wordJp} targetReading={reading} />
+            </div>
           )}
           
           {/* Romaji */}

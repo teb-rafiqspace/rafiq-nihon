@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "10000001-0001-4a00-a001-000000000001",
+    "chapter_id": "a1b2c3d4-e5f6-4a7b-a8c9-d0e1f2a3b4c5",
+    "lesson_number": 1,
+    "title_jp": "〜ものを",
+    "title_id": "Padahal... / Seandainya...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ものを",
+          "meaning": "Padahal seharusnya...; mengekspresikan penyesalan atau keluhan bahwa sesuatu tidak terjadi seperti yang diharapkan",
+          "example": "もっと早く言ってくれればよかったものを、今さら言われても困る。"
+        },
+        {
+          "pattern": "〜ものなら",
+          "meaning": "Jika bisa...; mengekspresikan keinginan yang sulit diwujudkan",
+          "example": "できるものなら、もう一度あの頃に戻りたい。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000001-0001-4a00-a001-000000000002",
+    "chapter_id": "a1b2c3d4-e5f6-4a7b-a8c9-d0e1f2a3b4c5",
+    "lesson_number": 2,
+    "title_jp": "〜ないものでもない",
+    "title_id": "Bukan Berarti Tidak...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ないものでもない",
+          "meaning": "Bukan berarti tidak bisa; menyatakan kemungkinan secara hati-hati",
+          "example": "条件次第では、引き受けないものでもない。"
+        },
+        {
+          "pattern": "〜ないでもない",
+          "meaning": "Bukannya tidak...; menyatakan persetujuan secara tidak langsung",
+          "example": "彼の言い分もわからないでもない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000001-0001-4a00-a001-000000000003",
+    "chapter_id": "a1b2c3d4-e5f6-4a7b-a8c9-d0e1f2a3b4c5",
+    "lesson_number": 3,
+    "title_jp": "〜にもまして",
+    "title_id": "Lebih dari...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜にもまして",
+          "meaning": "Lebih dari...; melebihi sesuatu yang lain",
+          "example": "今年は例年にもまして暑い夏になった。"
+        },
+        {
+          "pattern": "何にもまして",
+          "meaning": "Lebih dari apa pun; yang paling utama",
+          "example": "何にもまして健康が大切だ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000001-0001-4a00-a001-000000000004",
+    "chapter_id": "a1b2c3d4-e5f6-4a7b-a8c9-d0e1f2a3b4c5",
+    "lesson_number": 4,
+    "title_jp": "〜を余儀なくされる",
+    "title_id": "Terpaksa Melakukan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜を余儀なくされる",
+          "meaning": "Terpaksa melakukan; tidak punya pilihan lain selain...",
+          "example": "台風の影響で、イベントの中止を余儀なくされた。"
+        },
+        {
+          "pattern": "〜を余儀なくさせる",
+          "meaning": "Memaksa seseorang untuk...",
+          "example": "不況が多くの企業にリストラを余儀なくさせた。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000001-0001-4a00-a001-000000000005",
+    "chapter_id": "a1b2c3d4-e5f6-4a7b-a8c9-d0e1f2a3b4c5",
+    "lesson_number": 5,
+    "title_jp": "〜てやまない",
+    "title_id": "Sangat... Tanpa Henti",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜てやまない",
+          "meaning": "Sangat...; tidak henti-hentinya; dari lubuk hati",
+          "example": "皆様のご成功を願ってやまない。"
+        },
+        {
+          "pattern": "〜て止まない",
+          "meaning": "Tidak berhenti...; terus-menerus merasakan",
+          "example": "彼女の才能には感心して止まない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000001-0001-4a00-a001-000000000006",
+    "chapter_id": "a1b2c3d4-e5f6-4a7b-a8c9-d0e1f2a3b4c5",
+    "lesson_number": 6,
+    "title_jp": "〜たりとも〜ない",
+    "title_id": "Tidak Sedikit pun...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜たりとも〜ない",
+          "meaning": "Tidak sedikit pun; bahkan satu pun tidak",
+          "example": "一瞬たりとも油断してはならない。"
+        },
+        {
+          "pattern": "一〜たりとも",
+          "meaning": "Bahkan satu... pun tidak",
+          "example": "一円たりとも無駄にしたくない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000002-0001-4a00-a001-000000000001",
+    "chapter_id": "b2c3d4e5-f6a7-4b8c-a9d0-e1f2a3b4c5d6",
+    "lesson_number": 1,
+    "title_jp": "〜ていただけませんでしょうか",
+    "title_id": "Bisakah Anda... (Sangat Sopan)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ていただけませんでしょうか",
+          "meaning": "Bisakah Anda...; bentuk permintaan paling sopan",
+          "example": "恐れ入りますが、こちらの書類をご確認いただけませんでしょうか。"
+        },
+        {
+          "pattern": "〜ていただけると幸いです",
+          "meaning": "Saya akan sangat senang jika Anda bisa...",
+          "example": "ご返信いただけると幸いです。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000002-0001-4a00-a001-000000000002",
+    "chapter_id": "b2c3d4e5-f6a7-4b8c-a9d0-e1f2a3b4c5d6",
+    "lesson_number": 2,
+    "title_jp": "〜させていただきたく存じます",
+    "title_id": "Saya Ingin Meminta Izin untuk...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜させていただきたく存じます",
+          "meaning": "Saya ingin meminta izin untuk...; bentuk sangat sopan untuk meminta izin",
+          "example": "本日の会議について、ご報告させていただきたく存じます。"
+        },
+        {
+          "pattern": "〜させていただければ幸いです",
+          "meaning": "Saya akan sangat berterima kasih jika diizinkan untuk...",
+          "example": "直接ご説明させていただければ幸いです。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000002-0001-4a00-a001-000000000003",
+    "chapter_id": "b2c3d4e5-f6a7-4b8c-a9d0-e1f2a3b4c5d6",
+    "lesson_number": 3,
+    "title_jp": "お/ご〜いただく",
+    "title_id": "Menerima Tindakan dari Orang Lain (Keigo)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "お/ご〜いただく",
+          "meaning": "Menerima tindakan (hormat) dari orang lain; kenjougo yang meninggikan lawan bicara",
+          "example": "先生にご指導いただき、大変感謝しております。"
+        },
+        {
+          "pattern": "お/ご〜くださる",
+          "meaning": "Seseorang yang terhormat melakukan sesuatu untuk kita",
+          "example": "社長がお言葉をくださった。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000002-0001-4a00-a001-000000000004",
+    "chapter_id": "b2c3d4e5-f6a7-4b8c-a9d0-e1f2a3b4c5d6",
+    "lesson_number": 4,
+    "title_jp": "〜でいらっしゃる",
+    "title_id": "Bentuk Hormat dari 'Adalah'",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜でいらっしゃる",
+          "meaning": "Bentuk sonkeigo (hormat) dari です; menghormati subjek",
+          "example": "こちらが田中部長でいらっしゃいます。"
+        },
+        {
+          "pattern": "〜でございます",
+          "meaning": "Bentuk teineigo (sopan) dari です; merendahkan diri sendiri",
+          "example": "私が担当の山田でございます。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000002-0001-4a00-a001-000000000005",
+    "chapter_id": "b2c3d4e5-f6a7-4b8c-a9d0-e1f2a3b4c5d6",
+    "lesson_number": 5,
+    "title_jp": "〜かねます",
+    "title_id": "Sulit untuk... (Penolakan Sopan)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜かねます",
+          "meaning": "Sulit untuk...; tidak bisa (penolakan sopan)",
+          "example": "その件については、お答えしかねます。"
+        },
+        {
+          "pattern": "〜かねない",
+          "meaning": "Bisa jadi...; ada kemungkinan (hal buruk)",
+          "example": "このまま放置すれば、大事故になりかねない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000002-0001-4a00-a001-000000000006",
+    "chapter_id": "b2c3d4e5-f6a7-4b8c-a9d0-e1f2a3b4c5d6",
+    "lesson_number": 6,
+    "title_jp": "お/ご〜願えますか",
+    "title_id": "Bisakah Saya Meminta Anda...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "お/ご〜願えますか",
+          "meaning": "Bisakah saya meminta Anda untuk...; permintaan sopan",
+          "example": "お名前をお聞かせ願えますか。"
+        },
+        {
+          "pattern": "お/ご〜申し上げる",
+          "meaning": "Saya melakukan... (merendahkan diri); kenjougo tingkat tinggi",
+          "example": "心よりお祝い申し上げます。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000003-0001-4a00-a001-000000000001",
+    "chapter_id": "c3d4e5f6-a7b8-4c9d-a0e1-f2a3b4c5d6e7",
+    "lesson_number": 1,
+    "title_jp": "〜べからず",
+    "title_id": "Dilarang... (Bentuk Kuno)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜べからず",
+          "meaning": "Dilarang...; tidak boleh (bentuk kuno/tertulis)",
+          "example": "ここにゴミを捨てるべからず。"
+        },
+        {
+          "pattern": "〜べからざる",
+          "meaning": "Yang tidak boleh...; bentuk attributif dari べからず",
+          "example": "許すべからざる行為だ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000003-0001-4a00-a001-000000000002",
+    "chapter_id": "c3d4e5f6-a7b8-4c9d-a0e1-f2a3b4c5d6e7",
+    "lesson_number": 2,
+    "title_jp": "〜まじき",
+    "title_id": "Tidak Layak untuk... / Tidak Seharusnya...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜まじき",
+          "meaning": "Tidak layak; tidak seharusnya dilakukan (bentuk kuno)",
+          "example": "教師にあるまじき行為として厳しく批判された。"
+        },
+        {
+          "pattern": "あるまじき",
+          "meaning": "Yang tidak seharusnya ada; tidak pantas",
+          "example": "プロにあるまじきミスを犯してしまった。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000003-0001-4a00-a001-000000000003",
+    "chapter_id": "c3d4e5f6-a7b8-4c9d-a0e1-f2a3b4c5d6e7",
+    "lesson_number": 3,
+    "title_jp": "〜ざるを得ない",
+    "title_id": "Tidak Bisa Tidak... / Terpaksa...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ざるを得ない",
+          "meaning": "Tidak bisa tidak...; terpaksa melakukan",
+          "example": "証拠がある以上、彼の主張を認めざるを得ない。"
+        },
+        {
+          "pattern": "〜ないわけにはいかない",
+          "meaning": "Tidak bisa tidak melakukan; harus melakukan",
+          "example": "招待されたからには、出席しないわけにはいかない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000003-0001-4a00-a001-000000000004",
+    "chapter_id": "c3d4e5f6-a7b8-4c9d-a0e1-f2a3b4c5d6e7",
+    "lesson_number": 4,
+    "title_jp": "〜ごとし",
+    "title_id": "Seperti... (Bentuk Sastra)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜がごとし",
+          "meaning": "Seperti...; seolah-olah (bentuk sastra/klasik)",
+          "example": "光陰矢のごとし。"
+        },
+        {
+          "pattern": "〜がごとく",
+          "meaning": "Seperti... (bentuk adverbial dari ごとし)",
+          "example": "水を得た魚のごとく、彼は生き生きと働き始めた。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000003-0001-4a00-a001-000000000005",
+    "chapter_id": "c3d4e5f6-a7b8-4c9d-a0e1-f2a3b4c5d6e7",
+    "lesson_number": 5,
+    "title_jp": "〜なり",
+    "title_id": "Segera Setelah... / Sesuai dengan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜なり",
+          "meaning": "Segera setelah...; begitu saja",
+          "example": "彼は部屋に入るなり、泣き出した。"
+        },
+        {
+          "pattern": "〜なりに/〜なりの",
+          "meaning": "Sesuai dengan kemampuan/keadaan sendiri",
+          "example": "子供なりに一生懸命考えた結果だ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000003-0001-4a00-a001-000000000006",
+    "chapter_id": "c3d4e5f6-a7b8-4c9d-a0e1-f2a3b4c5d6e7",
+    "lesson_number": 6,
+    "title_jp": "〜たるもの",
+    "title_id": "Sebagai Seorang... (yang Berstatus)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜たるもの",
+          "meaning": "Sebagai seorang... yang berstatus/berkedudukan",
+          "example": "医者たるもの、患者の命を第一に考えるべきだ。"
+        },
+        {
+          "pattern": "〜たる",
+          "meaning": "Yang merupakan...; bentuk klasik dari である",
+          "example": "国民たる義務を果たさなければならない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000004-0001-4a00-a001-000000000001",
+    "chapter_id": "d4e5f6a7-b8c9-4d0e-a1f2-a3b4c5d6e7f8",
+    "lesson_number": 1,
+    "title_jp": "〜に他ならない",
+    "title_id": "Tidak Lain Adalah...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜に他ならない",
+          "meaning": "Tidak lain adalah...; pasti karena...",
+          "example": "彼が成功したのは、努力の結果に他ならない。"
+        },
+        {
+          "pattern": "〜にほかならない",
+          "meaning": "Sudah pasti...; tidak ada penjelasan lain selain...",
+          "example": "この問題は教育の欠如にほかならない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000004-0001-4a00-a001-000000000002",
+    "chapter_id": "d4e5f6a7-b8c9-4d0e-a1f2-a3b4c5d6e7f8",
+    "lesson_number": 2,
+    "title_jp": "〜というものではない",
+    "title_id": "Bukan Berarti...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜というものではない",
+          "meaning": "Bukan berarti...; tidak bisa dikatakan bahwa...",
+          "example": "お金があれば幸せだというものではない。"
+        },
+        {
+          "pattern": "〜というものでもない",
+          "meaning": "Tidak juga bisa dikatakan bahwa...",
+          "example": "安ければいいというものでもない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000004-0001-4a00-a001-000000000003",
+    "chapter_id": "d4e5f6a7-b8c9-4d0e-a1f2-a3b4c5d6e7f8",
+    "lesson_number": 3,
+    "title_jp": "〜からこそ",
+    "title_id": "Justru Karena...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜からこそ",
+          "meaning": "Justru karena...; menekankan alasan",
+          "example": "あなたのことが大切だからこそ、厳しいことを言うのだ。"
+        },
+        {
+          "pattern": "〜ればこそ",
+          "meaning": "Justru karena... (bentuk lebih formal/sastra)",
+          "example": "苦労すればこそ、成功の喜びは大きい。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000004-0001-4a00-a001-000000000004",
+    "chapter_id": "d4e5f6a7-b8c9-4d0e-a1f2-a3b4c5d6e7f8",
+    "lesson_number": 4,
+    "title_jp": "〜といっても過言ではない",
+    "title_id": "Tidak Berlebihan untuk Mengatakan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜といっても過言ではない",
+          "meaning": "Tidak berlebihan untuk mengatakan bahwa...",
+          "example": "この発見は科学の歴史を変えたといっても過言ではない。"
+        },
+        {
+          "pattern": "〜と言わざるを得ない",
+          "meaning": "Harus dikatakan bahwa...; tidak bisa tidak mengatakan",
+          "example": "今回の対応は不十分だったと言わざるを得ない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000004-0001-4a00-a001-000000000005",
+    "chapter_id": "d4e5f6a7-b8c9-4d0e-a1f2-a3b4c5d6e7f8",
+    "lesson_number": 5,
+    "title_jp": "〜に至っては",
+    "title_id": "Bahkan Sampai pada...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜に至っては",
+          "meaning": "Bahkan sampai pada...; apalagi dalam kasus... (kasus ekstrem)",
+          "example": "成績は全体的に悪いが、数学に至っては赤点だった。"
+        },
+        {
+          "pattern": "〜に至るまで",
+          "meaning": "Sampai pada...; hingga mencapai",
+          "example": "社長から新入社員に至るまで、全員が参加した。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000004-0001-4a00-a001-000000000006",
+    "chapter_id": "d4e5f6a7-b8c9-4d0e-a1f2-a3b4c5d6e7f8",
+    "lesson_number": 6,
+    "title_jp": "〜に即して",
+    "title_id": "Sesuai dengan... / Berdasarkan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜に即して",
+          "meaning": "Sesuai dengan...; berdasarkan pada",
+          "example": "現実に即した対策を講じる必要がある。"
+        },
+        {
+          "pattern": "〜に沿って",
+          "meaning": "Sesuai dengan...; mengikuti",
+          "example": "計画に沿って事業を進めていく。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000005-0001-4a00-a001-000000000001",
+    "chapter_id": "e5f6a7b8-c9d0-4e1f-a2a3-b4c5d6e7f8a9",
+    "lesson_number": 1,
+    "title_jp": "石の上にも三年",
+    "title_id": "Kesabaran Membuahkan Hasil",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "石の上にも三年",
+          "meaning": "Duduk di atas batu pun tiga tahun; kesabaran dan ketekunan akan membuahkan hasil",
+          "example": "石の上にも三年というように、彼はようやく認められた。"
+        },
+        {
+          "pattern": "継続は力なり",
+          "meaning": "Kontinuitas adalah kekuatan; hasil datang dari ketekunan",
+          "example": "毎日少しずつでも続けることが大切だ。継続は力なり。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000005-0001-4a00-a001-000000000002",
+    "chapter_id": "e5f6a7b8-c9d0-4e1f-a2a3-b4c5d6e7f8a9",
+    "lesson_number": 2,
+    "title_jp": "七転び八起き",
+    "title_id": "Jatuh Tujuh Kali Bangkit Delapan Kali",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "七転び八起き",
+          "meaning": "Jatuh tujuh kali bangkit delapan kali; pantang menyerah",
+          "example": "七転び八起きの精神で、何度失敗しても挑戦し続けた。"
+        },
+        {
+          "pattern": "転んでもただでは起きない",
+          "meaning": "Jatuh pun tidak bangkit dengan tangan kosong; selalu mengambil pelajaran",
+          "example": "彼女は転んでもただでは起きない人だから、失敗からも学ぶだろう。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000005-0001-4a00-a001-000000000003",
+    "chapter_id": "e5f6a7b8-c9d0-4e1f-a2a3-b4c5d6e7f8a9",
+    "lesson_number": 3,
+    "title_jp": "猿も木から落ちる",
+    "title_id": "Kera pun Jatuh dari Pohon",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "猿も木から落ちる",
+          "meaning": "Kera pun jatuh dari pohon; siapa pun bisa melakukan kesalahan",
+          "example": "あの名人でもミスをするとは、猿も木から落ちるだな。"
+        },
+        {
+          "pattern": "弘法にも筆の誤り",
+          "meaning": "Bahkan Koubou pun salah menulis; ahli sekalipun bisa keliru",
+          "example": "彼ほどの専門家でも間違えるとは、弘法にも筆の誤りだ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000005-0001-4a00-a001-000000000004",
+    "chapter_id": "e5f6a7b8-c9d0-4e1f-a2a3-b4c5d6e7f8a9",
+    "lesson_number": 4,
+    "title_jp": "能ある鷹は爪を隠す",
+    "title_id": "Elang Berbakat Menyembunyikan Cakarnya",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "能ある鷹は爪を隠す",
+          "meaning": "Elang berbakat menyembunyikan cakarnya; orang bertalenta tidak pamer",
+          "example": "彼は普段は目立たないが、能ある鷹は爪を隠すというやつだ。"
+        },
+        {
+          "pattern": "実るほど頭を垂れる稲穂かな",
+          "meaning": "Semakin berisi semakin merunduk; semakin bijak semakin rendah hati",
+          "example": "あの教授は世界的に有名なのに腰が低い。実るほど頭を垂れる稲穂かなだ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000005-0001-4a00-a001-000000000005",
+    "chapter_id": "e5f6a7b8-c9d0-4e1f-a2a3-b4c5d6e7f8a9",
+    "lesson_number": 5,
+    "title_jp": "急がば回れ",
+    "title_id": "Jika Terburu-buru, Ambil Jalan Memutar",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "急がば回れ",
+          "meaning": "Jika terburu-buru, ambil jalan memutar; cara yang tampak lambat bisa lebih cepat",
+          "example": "近道は危ないから、急がば回れで大通りを行こう。"
+        },
+        {
+          "pattern": "慌てる乞食はもらいが少ない",
+          "meaning": "Pengemis yang terburu-buru mendapat sedikit; tergesa-gesa justru rugi",
+          "example": "焦って契約しなくてよかった。慌てる乞食はもらいが少ないというからね。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000005-0001-4a00-a001-000000000006",
+    "chapter_id": "e5f6a7b8-c9d0-4e1f-a2a3-b4c5d6e7f8a9",
+    "lesson_number": 6,
+    "title_jp": "出る杭は打たれる",
+    "title_id": "Paku yang Menonjol Akan Dipukul",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "出る杭は打たれる",
+          "meaning": "Paku yang menonjol akan dipukul; orang yang menonjol sering menjadi sasaran",
+          "example": "出る杭は打たれるというが、それでも自分の意見を言うべきだ。"
+        },
+        {
+          "pattern": "長いものには巻かれろ",
+          "meaning": "Bungkus dirimu dengan yang panjang; ikuti yang berkuasa",
+          "example": "会社では長いものには巻かれろという考え方もあるが、私は反対だ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000006-0001-4a00-a001-000000000001",
+    "chapter_id": "f6a7b8c9-d0e1-4f2a-a3b4-c5d6e7f8a9b0",
+    "lesson_number": 1,
+    "title_jp": "〜にしたところで",
+    "title_id": "Bahkan Jika... Sekalipun",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜にしたところで",
+          "meaning": "Bahkan jika... sekalipun; meskipun dari sudut pandang...",
+          "example": "専門家にしたところで、この問題の解決は容易ではない。"
+        },
+        {
+          "pattern": "〜にしたって",
+          "meaning": "Bahkan... sekalipun (bentuk kasual dari にしたところで)",
+          "example": "親にしたって、子供の気持ちが全部わかるわけではない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000006-0001-4a00-a001-000000000002",
+    "chapter_id": "f6a7b8c9-d0e1-4f2a-a3b4-c5d6e7f8a9b0",
+    "lesson_number": 2,
+    "title_jp": "〜ともなると",
+    "title_id": "Ketika Sudah Sampai pada Tingkat...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ともなると",
+          "meaning": "Ketika sudah sampai pada tingkat/posisi...; jika sudah menjadi...",
+          "example": "社長ともなると、責任の重さが違う。"
+        },
+        {
+          "pattern": "〜ともなれば",
+          "meaning": "Jika sudah pada level... (lebih formal)",
+          "example": "大学教授ともなれば、研究だけでなく教育も求められる。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000006-0001-4a00-a001-000000000003",
+    "chapter_id": "f6a7b8c9-d0e1-4f2a-a3b4-c5d6e7f8a9b0",
+    "lesson_number": 3,
+    "title_jp": "〜ならいざ知らず",
+    "title_id": "Kalau... Mungkin Berbeda, Tapi...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ならいざ知らず",
+          "meaning": "Kalau... mungkin berbeda, tapi...; mungkin bisa diterima untuk... tapi tidak untuk ini",
+          "example": "子供ならいざ知らず、大人がそんなことをするのは恥ずかしい。"
+        },
+        {
+          "pattern": "〜ならまだしも",
+          "meaning": "Kalau... masih bisa diterima, tapi...",
+          "example": "一回ならまだしも、何度も同じ間違いをするのは問題だ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000006-0001-4a00-a001-000000000004",
+    "chapter_id": "f6a7b8c9-d0e1-4f2a-a3b4-c5d6e7f8a9b0",
+    "lesson_number": 4,
+    "title_jp": "〜にとどまらず",
+    "title_id": "Tidak Hanya Terbatas pada...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜にとどまらず",
+          "meaning": "Tidak hanya terbatas pada...; tidak berhenti pada...",
+          "example": "被害は東京にとどまらず、全国に広がっている。"
+        },
+        {
+          "pattern": "〜のみならず",
+          "meaning": "Tidak hanya...; bukan hanya... tapi juga",
+          "example": "この薬は頭痛のみならず、肩こりにも効く。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000006-0001-4a00-a001-000000000005",
+    "chapter_id": "f6a7b8c9-d0e1-4f2a-a3b4-c5d6e7f8a9b0",
+    "lesson_number": 5,
+    "title_jp": "〜をものともせず",
+    "title_id": "Tanpa Menghiraukan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜をものともせず",
+          "meaning": "Tanpa menghiraukan...; tidak gentar oleh...",
+          "example": "彼女は困難をものともせず、夢を追い続けた。"
+        },
+        {
+          "pattern": "〜をよそに",
+          "meaning": "Mengabaikan...; tanpa mempedulikan",
+          "example": "周囲の心配をよそに、彼は一人で旅に出た。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000006-0001-4a00-a001-000000000006",
+    "chapter_id": "f6a7b8c9-d0e1-4f2a-a3b4-c5d6e7f8a9b0",
+    "lesson_number": 6,
+    "title_jp": "〜極まりない",
+    "title_id": "Sangat... / Luar Biasa...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜極まりない",
+          "meaning": "Sangat...; luar biasa (biasanya negatif)",
+          "example": "彼の態度は失礼極まりない。"
+        },
+        {
+          "pattern": "〜極まる",
+          "meaning": "Mencapai puncak...; sangat (digunakan dengan な-adjektiva)",
+          "example": "危険極まる行為は直ちにやめるべきだ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000007-0001-4a00-a001-000000000001",
+    "chapter_id": "a7b8c9d0-e1f2-4a3b-a4c5-d6e7f8a9b0c1",
+    "lesson_number": 1,
+    "title_jp": "〜やいなや",
+    "title_id": "Begitu... Langsung...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜やいなや",
+          "meaning": "Begitu...; segera setelah (sangat cepat)",
+          "example": "ベルが鳴るやいなや、生徒たちは教室を飛び出した。"
+        },
+        {
+          "pattern": "〜や否や",
+          "meaning": "Begitu...; belum sempat... sudah... (bentuk tertulis)",
+          "example": "ドアを開けるや否や、猫が外に飛び出していった。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000007-0001-4a00-a001-000000000002",
+    "chapter_id": "a7b8c9d0-e1f2-4a3b-a4c5-d6e7f8a9b0c1",
+    "lesson_number": 2,
+    "title_jp": "〜そばから",
+    "title_id": "Baru Saja... Sudah...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜そばから",
+          "meaning": "Baru saja... sudah...; berulang kali terjadi (nuansa frustrasi)",
+          "example": "片付けるそばから子供が散らかす。"
+        },
+        {
+          "pattern": "〜端から",
+          "meaning": "Dari ujung; segera setelah (sinonim dari そばから)",
+          "example": "教えた端から忘れてしまう。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000007-0001-4a00-a001-000000000003",
+    "chapter_id": "a7b8c9d0-e1f2-4a3b-a4c5-d6e7f8a9b0c1",
+    "lesson_number": 3,
+    "title_jp": "〜てからというもの",
+    "title_id": "Sejak..., Semuanya Berubah",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜てからというもの",
+          "meaning": "Sejak...; setelah itu segalanya berubah",
+          "example": "日本に来てからというもの、毎日が新しい発見の連続だ。"
+        },
+        {
+          "pattern": "〜て以来",
+          "meaning": "Sejak...; dari saat itu hingga sekarang",
+          "example": "卒業して以来、彼とは一度も会っていない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000007-0001-4a00-a001-000000000004",
+    "chapter_id": "a7b8c9d0-e1f2-4a3b-a4c5-d6e7f8a9b0c1",
+    "lesson_number": 4,
+    "title_jp": "〜に至るまで",
+    "title_id": "Hingga Sampai pada...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜に至るまで",
+          "meaning": "Hingga sampai pada...; mencakup semuanya hingga...",
+          "example": "衣食住に至るまで、すべてが変わった。"
+        },
+        {
+          "pattern": "〜に至る",
+          "meaning": "Sampai pada; mencapai (titik tertentu)",
+          "example": "事態が深刻な状況に至って、ようやく対策が取られた。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000007-0001-4a00-a001-000000000005",
+    "chapter_id": "a7b8c9d0-e1f2-4a3b-a4c5-d6e7f8a9b0c1",
+    "lesson_number": 5,
+    "title_jp": "〜を皮切りに",
+    "title_id": "Dimulai dari...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜を皮切りに",
+          "meaning": "Dimulai dari...; dengan... sebagai awal",
+          "example": "東京を皮切りに、全国ツアーが始まった。"
+        },
+        {
+          "pattern": "〜を契機に",
+          "meaning": "Dengan... sebagai momentum/titik balik",
+          "example": "結婚を契機に、生活習慣を見直した。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000007-0001-4a00-a001-000000000006",
+    "chapter_id": "a7b8c9d0-e1f2-4a3b-a4c5-d6e7f8a9b0c1",
+    "lesson_number": 6,
+    "title_jp": "〜を踏まえて",
+    "title_id": "Berdasarkan... / Dengan Mempertimbangkan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜を踏まえて",
+          "meaning": "Berdasarkan...; dengan mempertimbangkan",
+          "example": "調査結果を踏まえて、新しい方針を決定した。"
+        },
+        {
+          "pattern": "〜を踏まえた上で",
+          "meaning": "Setelah mempertimbangkan... dengan seksama",
+          "example": "皆さんのご意見を踏まえた上で、最終判断をいたします。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  },
+  {
+    "id": "10000008-0001-4a00-a001-000000000001",
+    "chapter_id": "b8c9d0e1-f2a3-4b4c-a5d6-e7f8a9b0c1d2",
+    "lesson_number": 1,
+    "title_jp": "〜に即して（ビジネス）",
+    "title_id": "Sesuai dengan... (Konteks Bisnis)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜に即して",
+          "meaning": "Sesuai dengan...; berdasarkan (konteks bisnis/formal)",
+          "example": "市場の動向に即して、戦略を修正する必要がある。"
+        },
+        {
+          "pattern": "〜に基づいて",
+          "meaning": "Berdasarkan...; berlandaskan pada",
+          "example": "データに基づいて判断を下すべきだ。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 1
+  },
+  {
+    "id": "10000008-0001-4a00-a001-000000000002",
+    "chapter_id": "b8c9d0e1-f2a3-4b4c-a5d6-e7f8a9b0c1d2",
+    "lesson_number": 2,
+    "title_jp": "〜如何によっては",
+    "title_id": "Tergantung pada...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜如何によっては",
+          "meaning": "Tergantung pada...; bergantung pada bagaimana...",
+          "example": "結果如何によっては、計画を変更せざるを得ない。"
+        },
+        {
+          "pattern": "〜如何にかかわらず",
+          "meaning": "Tanpa memandang...; terlepas dari bagaimana...",
+          "example": "理由の如何にかかわらず、遅刻は認められない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 2
+  },
+  {
+    "id": "10000008-0001-4a00-a001-000000000003",
+    "chapter_id": "b8c9d0e1-f2a3-4b4c-a5d6-e7f8a9b0c1d2",
+    "lesson_number": 3,
+    "title_jp": "〜を余儀なくされる（ビジネス）",
+    "title_id": "Terpaksa... (Konteks Bisnis)",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜を余儀なくされる",
+          "meaning": "Terpaksa melakukan...; dipaksa oleh keadaan (konteks bisnis)",
+          "example": "業績悪化により、大幅な人員削減を余儀なくされた。"
+        },
+        {
+          "pattern": "〜やむを得ず",
+          "meaning": "Dengan terpaksa; karena tidak ada pilihan lain",
+          "example": "やむを得ず、プロジェクトの延期を決定した。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 3
+  },
+  {
+    "id": "10000008-0001-4a00-a001-000000000004",
+    "chapter_id": "b8c9d0e1-f2a3-4b4c-a5d6-e7f8a9b0c1d2",
+    "lesson_number": 4,
+    "title_jp": "〜にかたくない",
+    "title_id": "Tidak Sulit untuk...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜にかたくない",
+          "meaning": "Tidak sulit untuk...; mudah dibayangkan/dipahami",
+          "example": "被災者の苦しみは想像にかたくない。"
+        },
+        {
+          "pattern": "〜に難くない",
+          "meaning": "Tidak sulit untuk... (kanji penuh)",
+          "example": "彼がどれほど悔しかったかは、察するに難くない。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 4
+  },
+  {
+    "id": "10000008-0001-4a00-a001-000000000005",
+    "chapter_id": "b8c9d0e1-f2a3-4b4c-a5d6-e7f8a9b0c1d2",
+    "lesson_number": 5,
+    "title_jp": "〜ずにはすまない",
+    "title_id": "Tidak Bisa Tidak Melakukan...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜ずにはすまない",
+          "meaning": "Tidak bisa tidak melakukan...; harus melakukan karena kewajiban sosial",
+          "example": "こんな大きなミスをしたのだから、謝らずにはすまない。"
+        },
+        {
+          "pattern": "〜ないではすまない",
+          "meaning": "Tidak akan selesai tanpa...; harus melakukan",
+          "example": "壊したものは弁償しないではすまないだろう。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 5
+  },
+  {
+    "id": "10000008-0001-4a00-a001-000000000006",
+    "chapter_id": "b8c9d0e1-f2a3-4b4c-a5d6-e7f8a9b0c1d2",
+    "lesson_number": 6,
+    "title_jp": "〜まみれ",
+    "title_id": "Penuh dengan... / Berlumur...",
+    "content": {
+      "type": "grammar",
+      "patterns": [
+        {
+          "pattern": "〜まみれ",
+          "meaning": "Penuh dengan...; berlumur (hal negatif/kotor)",
+          "example": "泥まみれになりながらも、最後まで戦い続けた。"
+        },
+        {
+          "pattern": "〜ずくめ",
+          "meaning": "Serba...; penuh dengan (bisa positif atau netral)",
+          "example": "今日はいいことずくめの一日だった。"
+        }
+      ]
+    },
+    "xp_reward": 40,
+    "sort_order": 6
+  }
+]
